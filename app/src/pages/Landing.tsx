@@ -2,6 +2,9 @@ import { Link } from 'react-router-dom'
 import { useAppState } from '../lib/useStore'
 import { useT, setUiLang } from '../lib/i18n'
 
+const FEATURE_ICONS = ['📅', '🎯', '🎬', '✍️', '🌏', '📊']
+const FEATURE_TONES = ['blue', 'purple', 'orange', 'green', 'teal', 'pink']
+
 export default function Landing() {
   const { t, lang } = useT()
   const { profile } = useAppState()
@@ -21,9 +24,15 @@ export default function Landing() {
   const steps = [
     [t.lpH1t, t.lpH1d], [t.lpH2t, t.lpH2d], [t.lpH3t, t.lpH3d],
   ]
+  const subjects: [string, string][] = [
+    [t.math, 'blue'], [t.english, 'purple'], [t.science, 'green'], [t.social, 'orange'],
+  ]
 
   return (
     <div className="lp">
+      <div className="lp-glow lp-glow-a" />
+      <div className="lp-glow lp-glow-b" />
+
       <header className="lp-nav">
         <div className="brand">🎓 {t.appName}</div>
         <div className="lp-nav-right">
@@ -35,19 +44,34 @@ export default function Landing() {
       </header>
 
       <section className="lp-hero">
-        <div className="lp-tagline">{t.lpTagline}</div>
-        <h1>{t.lpTitle1}<br />{t.lpTitle2}</h1>
-        <p className="lp-sub">{t.lpSub}</p>
-        <Link className="btn primary lp-cta" to={cta.to}>{cta.label}</Link>
-
-        <div className="lp-mock card">
-          <div className="lp-mock-bar">
-            <span className="lp-dot" /><span className="lp-dot" /><span className="lp-dot" />
+        <div className="lp-tagline lp-fade" style={{ animationDelay: '0ms' }}>🇹🇭 {t.lpTagline}</div>
+        <h1 className="lp-fade" style={{ animationDelay: '80ms' }}>
+          {t.lpTitle1}<br /><span className="lp-grad">{t.lpTitle2}</span>
+        </h1>
+        <p className="lp-sub lp-fade" style={{ animationDelay: '160ms' }}>{t.lpSub}</p>
+        <div className="lp-fade" style={{ animationDelay: '240ms' }}>
+          <Link className="btn primary lp-cta" to={cta.to}>{cta.label} →</Link>
+          <div className="lp-badges">
+            <span>{t.lpBadge1}</span><span>{t.lpBadge2}</span><span>{t.lpBadge3}</span>
           </div>
-          <div className="lp-mock-row active">▶️ {t.warmupTitle} <span className="badge">{t.minutes(5)}</span></div>
-          <div className="lp-mock-row">🔒 {t.math}{t.studySuffix} <span className="badge">{t.minutes(35)}</span></div>
-          <div className="lp-mock-row">🔒 {t.english}{t.studySuffix} <span className="badge">{t.minutes(20)}</span></div>
-          <div className="lp-mock-row">🔒 {t.checkinTitle} <span className="badge">{t.minutes(5)}</span></div>
+        </div>
+
+        <div className="lp-mock-wrap lp-fade" style={{ animationDelay: '320ms' }}>
+          <div className="lp-chip lp-chip-1">🧮 {t.math}</div>
+          <div className="lp-chip lp-chip-2">📖 {t.english}</div>
+          <div className="lp-chip lp-chip-3">🧪 {t.science}</div>
+          <div className="lp-chip lp-chip-4">🏛️ {t.social}</div>
+          <div className="lp-mock">
+            <div className="lp-mock-bar">
+              <span className="lp-dot r" /><span className="lp-dot y" /><span className="lp-dot g" />
+              <span className="lp-mock-title">{t.navToday}</span>
+            </div>
+            <div className="lp-mock-progress"><div /></div>
+            <div className="lp-mock-row done">✅ {t.warmupTitle} <span className="badge">{t.minutes(5)}</span></div>
+            <div className="lp-mock-row active">▶️ {t.math}{t.studySuffix} <span className="badge on">{t.minutes(35)}</span></div>
+            <div className="lp-mock-row">🔒 {t.english}{t.studySuffix} <span className="badge">{t.minutes(20)}</span></div>
+            <div className="lp-mock-row">🔒 {t.checkinTitle} <span className="badge">{t.minutes(5)}</span></div>
+          </div>
         </div>
       </section>
 
@@ -61,13 +85,20 @@ export default function Landing() {
       </section>
 
       <section className="lp-section">
+        <div className="lp-kicker">{t.appName}</div>
         <h2>{t.lpFeatTitle}</h2>
         <div className="lp-grid">
-          {features.map(([title, desc]) => (
-            <div key={title} className="card lp-feature">
-              <h3>{title}</h3>
+          {features.map(([title, desc], i) => (
+            <div key={title} className={`card lp-feature tone-${FEATURE_TONES[i]}`}>
+              <div className="lp-feature-icon">{FEATURE_ICONS[i]}</div>
+              <h3>{title.replace(/^\S+\s/, '')}</h3>
               <p className="muted">{desc}</p>
             </div>
+          ))}
+        </div>
+        <div className="lp-subjects">
+          {subjects.map(([label, tone]) => (
+            <span key={label} className={`lp-pill tone-${tone}`}>{label}</span>
           ))}
         </div>
       </section>
@@ -83,8 +114,13 @@ export default function Landing() {
             </div>
           ))}
         </div>
-        <blockquote className="lp-quote">{t.lpQuote}</blockquote>
-        <Link className="btn primary lp-cta" to={cta.to}>{cta.label}</Link>
+        <blockquote className="lp-quote"><span className="lp-qmark">“</span>{t.lpQuote.replace(/^"|"$/g, '')}</blockquote>
+      </section>
+
+      <section className="lp-band">
+        <h2>{t.lpBandTitle}</h2>
+        <p>{t.lpBandSub}</p>
+        <Link className="btn lp-band-cta" to={cta.to}>{cta.label} →</Link>
       </section>
 
       <footer className="lp-foot muted small">{t.lpFootNote}</footer>

@@ -151,6 +151,9 @@ const dict = {
     lpH2t: '배치 테스트', lpH2d: '약 20문항으로 내 레벨을 확인합니다.',
     lpH3t: '오늘의 과제', lpH3d: '매일 정해진 영상과 문제만 따라갑니다.',
     lpQuote: '"기간 = 분량입니다. 6개월은 합격선 코어만, 3년은 중학 과정부터 차근차근. 속도가 아니라 범위가 다릅니다."',
+    lpBadge1: '✓ 학생 100% 무료', lpBadge2: '✓ 설치 없이 브라우저로', lpBadge3: '✓ PC · 모바일',
+    lpBandTitle: '오늘 시작하면, 오늘 1일차가 끝납니다',
+    lpBandSub: '가입부터 첫 학습까지 10분이면 충분합니다.',
     lpFootNote: 'GED® is a registered trademark of the American Council on Education. 본 서비스는 ACE·GED Testing Service와 무관한 독립 학습 프로그램입니다. 강의 영상: Khan Academy (CC BY-NC-SA), YouTube 임베드.',
   },
 
@@ -267,6 +270,9 @@ const dict = {
     lpH2t: 'Take the placement test', lpH2d: 'About 20 questions to find your level.',
     lpH3t: 'Do today’s tasks', lpH3d: 'Just follow the videos and questions set for each day.',
     lpQuote: '"Duration means coverage, not speed. Six months covers the passing core; three years starts from middle-school foundations."',
+    lpBadge1: '✓ 100% free for students', lpBadge2: '✓ No install — runs in the browser', lpBadge3: '✓ PC · mobile',
+    lpBandTitle: 'Start today, and Day 1 is done today',
+    lpBandSub: 'From sign-up to your first lesson in under 10 minutes.',
     lpFootNote: 'GED® is a registered trademark of the American Council on Education. This independent study program is not affiliated with ACE or GED Testing Service. Lesson videos: Khan Academy (CC BY-NC-SA), embedded from YouTube.',
   },
 } as const
