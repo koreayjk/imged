@@ -32,23 +32,23 @@
       "label": "2년", "weeks": 104, "study_days_per_week": 5, "tier": "T2", "daily_total_min": 45,
       "tracks": [
         { "name": "t0",      "label": "선행",  "weeks": [1, 20],  "daily_min": 30, "playlist": ["arithmetic", "ms-biology", "ms-chemistry", "ms-physics", "ms-earth-space"] },
-        { "name": "english", "label": "영어",  "weeks": [1, 96],  "daily_min": 15, "playlist": ["grammar", "sat-reading-writing"] },
-        { "name": "math",    "label": "수학",  "weeks": [1, 36],  "daily_min": 30, "playlist": ["pre-algebra", "basic-geometry", "algebra-basics", "statistics-probability"] },
-        { "name": "science", "label": "과학",  "weeks": [37, 62], "daily_min": 30, "playlist": ["hs-biology", "hs-chemistry", "hs-physics"] },
-        { "name": "social",  "label": "사회",  "weeks": [63, 84], "daily_min": 30, "playlist": ["us-government", "us-history", "microeconomics"] }
+        { "name": "english", "label": "영어",  "weeks": [1, 92],  "daily_min": 15, "playlist": ["grammar", "sat-reading-writing"] },
+        { "name": "math",    "label": "수학",  "weeks": [1, 44],  "daily_min": 30, "playlist": ["pre-algebra", "basic-geometry", "algebra-basics", "statistics-probability"] },
+        { "name": "science", "label": "과학",  "weeks": [45, 66], "daily_min": 30, "playlist": ["hs-biology", "hs-chemistry", "hs-physics"] },
+        { "name": "social",  "label": "사회",  "weeks": [67, 92], "daily_min": 30, "playlist": ["us-government", "us-history", "microeconomics"] }
       ],
-      "integration": { "weeks": [85, 104] }
+      "integration": { "weeks": [93, 104] }
     },
     "3y": {
       "label": "3년", "weeks": 156, "study_days_per_week": 5, "tier": "T3", "daily_total_min": 35,
       "tracks": [
         { "name": "t0",      "label": "선행",  "weeks": [1, 40],   "daily_min": 20, "playlist": ["arithmetic", "ms-biology", "ms-chemistry", "ms-physics", "ms-earth-space"] },
-        { "name": "english", "label": "영어",  "weeks": [1, 146],  "daily_min": 15, "playlist": ["grammar", "sat-reading-writing"] },
-        { "name": "math",    "label": "수학",  "weeks": [1, 50],   "daily_min": 20, "playlist": ["pre-algebra", "basic-geometry", "algebra-basics", "statistics-probability", "algebra-1", "sat-math"] },
-        { "name": "science", "label": "과학",  "weeks": [51, 90],  "daily_min": 20, "playlist": ["hs-biology", "hs-chemistry", "hs-physics"] },
-        { "name": "social",  "label": "사회",  "weeks": [91, 124], "daily_min": 20, "playlist": ["us-government", "us-history", "microeconomics", "ap-us-history", "macroeconomics"] }
+        { "name": "english", "label": "영어",  "weeks": [1, 130],  "daily_min": 15, "playlist": ["grammar", "sat-reading-writing"] },
+        { "name": "math",    "label": "수학",  "weeks": [1, 85],   "daily_min": 20, "playlist": ["pre-algebra", "basic-geometry", "algebra-basics", "statistics-probability", "algebra-1", "sat-math"] },
+        { "name": "science", "label": "과학",  "weeks": [51, 85],  "daily_min": 20, "playlist": ["hs-biology", "hs-chemistry", "hs-physics"] },
+        { "name": "social",  "label": "사회",  "weeks": [86, 130], "daily_min": 20, "playlist": ["us-government", "us-history", "microeconomics", "ap-us-history", "macroeconomics"] }
       ],
-      "integration": { "weeks": [125, 156] },
+      "integration": { "weeks": [131, 156] },
       "milestone": "1년차 말(52주) 수학 선응시 → 합격증 확보 (이탈 방지 장치)"
     }
   }
