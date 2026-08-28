@@ -1,6 +1,10 @@
 import { Link } from 'react-router-dom'
 import { useAppState } from '../lib/useStore'
 import { useT, setUiLang } from '../lib/i18n'
+import imgStudy from '../assets/lp/study-group.jpg'
+import imgGrad from '../assets/lp/graduation.jpg'
+import imgLiberty from '../assets/lp/liberty.jpg'
+import imgBooks from '../assets/lp/books-bg.jpg'
 
 const FEATURE_ICONS = ['📅', '🎯', '🎬', '✍️', '🌏', '📊']
 const FEATURE_TONES = ['blue', 'purple', 'orange', 'green', 'teal', 'pink']
@@ -57,10 +61,18 @@ export default function Landing() {
         </div>
 
         <div className="lp-mock-wrap lp-fade" style={{ animationDelay: '320ms' }}>
-          <div className="lp-chip lp-chip-1">🧮 {t.math}</div>
-          <div className="lp-chip lp-chip-2">📖 {t.english}</div>
-          <div className="lp-chip lp-chip-3">🧪 {t.science}</div>
-          <div className="lp-chip lp-chip-4">🏛️ {t.social}</div>
+          <figure className="lp-polaroid lp-pol-1">
+            <img src={imgStudy} alt="" loading="lazy" />
+            <figcaption>{t.lpPh1}</figcaption>
+          </figure>
+          <figure className="lp-polaroid lp-pol-2">
+            <img src={imgGrad} alt="" loading="lazy" />
+            <figcaption>{t.lpPh2}</figcaption>
+          </figure>
+          <figure className="lp-polaroid lp-pol-3">
+            <img src={imgLiberty} alt="" loading="lazy" />
+            <figcaption>{t.lpPh3}</figcaption>
+          </figure>
           <div className="lp-mock">
             <div className="lp-mock-bar">
               <span className="lp-dot r" /><span className="lp-dot y" /><span className="lp-dot g" />
@@ -103,6 +115,10 @@ export default function Landing() {
         </div>
       </section>
 
+      <section className="lp-banner" style={{ backgroundImage: `url(${imgBooks})` }}>
+        <blockquote className="lp-quote"><span className="lp-qmark">“</span>{t.lpQuote.replace(/^"|"$/g, '')}</blockquote>
+      </section>
+
       <section className="lp-section lp-how">
         <h2>{t.lpHowTitle}</h2>
         <div className="lp-steps">
@@ -114,16 +130,17 @@ export default function Landing() {
             </div>
           ))}
         </div>
-        <blockquote className="lp-quote"><span className="lp-qmark">“</span>{t.lpQuote.replace(/^"|"$/g, '')}</blockquote>
       </section>
 
-      <section className="lp-band">
-        <h2>{t.lpBandTitle}</h2>
-        <p>{t.lpBandSub}</p>
-        <Link className="btn lp-band-cta" to={cta.to}>{cta.label} →</Link>
+      <section className="lp-band" style={{ backgroundImage: `url(${imgGrad})` }}>
+        <div className="lp-band-inner">
+          <h2>{t.lpBandTitle}</h2>
+          <p>{t.lpBandSub}</p>
+          <Link className="btn lp-band-cta" to={cta.to}>{cta.label} →</Link>
+        </div>
       </section>
 
-      <footer className="lp-foot muted small">{t.lpFootNote}</footer>
+      <footer className="lp-foot muted small">{t.lpFootNote} · Photos: Unsplash</footer>
     </div>
   )
 }

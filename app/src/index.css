@@ -186,18 +186,21 @@ input, select {
 .lp-badges { display: flex; gap: 1.1rem; justify-content: center; margin-top: 1rem; flex-wrap: wrap; }
 .lp-badges span { color: var(--muted); font-size: 0.88rem; }
 
-.lp-mock-wrap { position: relative; max-width: 500px; margin: 3rem auto 0; }
-@keyframes lp-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
-.lp-chip {
-  position: absolute; z-index: 2; background: #fff; border: 1px solid var(--line);
-  border-radius: 999px; padding: 0.4rem 0.9rem; font-size: 0.88rem; font-weight: 700;
-  box-shadow: 0 10px 24px -10px rgba(26,34,51,0.25);
-  animation: lp-float 5s ease-in-out infinite;
+.lp-mock-wrap { position: relative; max-width: 500px; margin: 3.2rem auto 0; }
+@keyframes lp-float { 0%, 100% { transform: translateY(0) rotate(var(--tilt, 0deg)); } 50% { transform: translateY(-10px) rotate(var(--tilt, 0deg)); } }
+.lp-polaroid {
+  position: absolute; z-index: 2; margin: 0; background: #fff; border-radius: 10px;
+  padding: 8px 8px 6px; width: 168px;
+  box-shadow: 0 22px 44px -16px rgba(26,34,51,0.4), 0 4px 12px -6px rgba(26,34,51,0.2);
+  animation: lp-float 6s ease-in-out infinite;
 }
-.lp-chip-1 { top: -14px; left: -64px; animation-delay: 0s; }
-.lp-chip-2 { top: 44px; right: -76px; animation-delay: 1.2s; }
-.lp-chip-3 { bottom: 52px; left: -80px; animation-delay: 2.1s; }
-.lp-chip-4 { bottom: -12px; right: -58px; animation-delay: 3s; }
+.lp-polaroid img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px; display: block; }
+.lp-polaroid figcaption {
+  font-size: 0.78rem; font-weight: 700; color: #3d4a63; text-align: center; padding: 6px 0 2px;
+}
+.lp-pol-1 { --tilt: -7deg; top: -30px; left: -168px; animation-delay: 0s; }
+.lp-pol-2 { --tilt: 6deg; top: 6px; right: -172px; animation-delay: 1.4s; }
+.lp-pol-3 { --tilt: -4deg; bottom: -26px; right: -140px; width: 146px; animation-delay: 2.6s; }
 
 .lp-mock {
   position: relative; background: #fff; border: 1px solid var(--line); border-radius: 16px;
@@ -282,26 +285,37 @@ input, select {
 }
 .lp-step h3 { margin-bottom: 0.25rem; }
 .lp-step p { max-width: 240px; margin: 0 auto; line-height: 1.6; }
+/* 사진 배너 (인용문) */
+.lp-banner {
+  position: relative; background-size: cover; background-position: center 62%;
+  padding: 4.6rem 1.2rem;
+}
+.lp-banner::before {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(100deg, rgba(15,22,40,0.82) 20%, rgba(15,22,40,0.55) 70%, rgba(47,111,237,0.35));
+}
 .lp-quote {
-  position: relative; max-width: 640px; margin: 0 auto; color: #3d4a63;
-  line-height: 1.8; text-align: left; background: #f6f8fd; border: 1px solid var(--line);
-  border-radius: 16px; padding: 1.4rem 1.6rem 1.4rem 3.4rem; font-size: 1.02rem;
+  position: relative; max-width: 660px; margin: 0 auto; color: #f2f5fc;
+  line-height: 1.85; text-align: left; font-size: 1.15rem; font-weight: 500;
+  padding: 0 0 0 3.2rem; text-shadow: 0 2px 12px rgba(0,0,0,0.35);
 }
 .lp-qmark {
-  position: absolute; left: 0.9rem; top: 0.4rem; font-size: 3rem; line-height: 1;
-  color: #2f6fed; font-family: Georgia, serif; opacity: 0.75;
+  position: absolute; left: 0.2rem; top: -0.5rem; font-size: 3.4rem; line-height: 1;
+  color: #8ab0ff; font-family: Georgia, serif;
 }
 
 .lp-band {
   position: relative; text-align: center; color: #fff;
-  background:
-    radial-gradient(600px 300px at 20% 0%, rgba(124,58,237,0.45), transparent 60%),
-    radial-gradient(520px 280px at 85% 100%, rgba(14,164,114,0.4), transparent 60%),
-    linear-gradient(135deg, #16203a, #1d2b52);
-  padding: 3.4rem 1.2rem;
+  background-size: cover; background-position: center 30%;
+  padding: 4.6rem 1.2rem;
 }
-.lp-band h2 { font-size: 1.9rem; margin: 0 0 0.5rem; letter-spacing: -0.02em; font-weight: 900; }
-.lp-band p { color: #b9c4dd; margin: 0 0 1.5rem; }
+.lp-band::before {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(160deg, rgba(16,24,48,0.88), rgba(29,36,78,0.82) 55%, rgba(47,60,120,0.75));
+}
+.lp-band-inner { position: relative; }
+.lp-band h2 { font-size: 1.9rem; margin: 0 0 0.5rem; letter-spacing: -0.02em; font-weight: 900; text-shadow: 0 2px 14px rgba(0,0,0,0.4); }
+.lp-band p { color: #ccd6ee; margin: 0 0 1.5rem; }
 .lp-band-cta {
   background: #fff; color: #16203a; font-weight: 800; font-size: 1.05rem;
   padding: 0.85rem 2.2rem; border-radius: 14px; border: 0;
@@ -319,8 +333,11 @@ input, select {
   .lp-stat:nth-child(even) { border-left: 1px solid var(--line); }
   .lp-grid, .lp-steps { grid-template-columns: 1fr; }
   .lp-steps::before { display: none; }
-  .lp-chip { display: none; }
-  .lp-mock { transform: none; }
+  .lp-polaroid { position: static; width: 31%; animation: none; padding: 5px 5px 3px; }
+  .lp-polaroid figcaption { font-size: 0.68rem; }
+  .lp-mock-wrap { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; }
+  .lp-mock { transform: none; width: 100%; order: -1; margin-bottom: 0.6rem; }
+  .lp-quote { font-size: 1rem; }
   .lp-band h2, .lp-section h2 { font-size: 1.45rem; }
   .today-layout { grid-template-columns: 1fr; }
   .sidebar { display: none; }
