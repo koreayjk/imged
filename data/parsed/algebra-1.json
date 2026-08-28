@@ -1,0 +1,3532 @@
+{
+  "key": "algebra-1",
+  "tier": "T3",
+  "subject": "math",
+  "slug": "algebra",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Algebra 1",
+  "course_slug": "algebra",
+  "units": [
+    {
+      "title": "Algebra foundations",
+      "slug": "x2f8bb11595b61c86:foundation-algebra",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra",
+      "lessons": [
+        {
+          "title": "Overview and history of algebra",
+          "slug": "x2f8bb11595b61c86:algebra-overview-history",
+          "videos": [
+            {
+              "title": "Origins of algebra",
+              "slug": "v/origins-of-algebra",
+              "youtube_id": "_LDR1_Prveo",
+              "youtube_url": "https://www.youtube.com/watch?v=_LDR1_Prveo",
+              "duration_sec": 438,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/origins-of-algebra"
+            },
+            {
+              "title": "Abstract-ness",
+              "slug": "v/abstract-ness",
+              "youtube_id": "ZOYRb2sYrL0",
+              "youtube_url": "https://www.youtube.com/watch?v=ZOYRb2sYrL0",
+              "duration_sec": 420,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/abstract-ness"
+            },
+            {
+              "title": "The beauty of algebra",
+              "slug": "v/the-beauty-of-algebra",
+              "youtube_id": "kpCJyQ2usJ4",
+              "youtube_url": "https://www.youtube.com/watch?v=kpCJyQ2usJ4",
+              "duration_sec": 607,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/the-beauty-of-algebra"
+            },
+            {
+              "title": "Creativity break: Why is creativity important in algebra?",
+              "slug": "v/creativity-important-in-algebra",
+              "youtube_id": "SjZfW07DbMo",
+              "youtube_url": "https://www.youtube.com/watch?v=SjZfW07DbMo",
+              "duration_sec": 82,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/creativity-important-in-algebra"
+            },
+            {
+              "title": "Intro to the coordinate plane",
+              "slug": "v/descartes-and-cartesian-coordinates",
+              "youtube_id": "N4nrdf0yYfM",
+              "youtube_url": "https://www.youtube.com/watch?v=N4nrdf0yYfM",
+              "duration_sec": 682,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/descartes-and-cartesian-coordinates"
+            },
+            {
+              "title": "Why all the letters in algebra?",
+              "slug": "v/why-all-the-letters-in-algebra",
+              "youtube_id": "Tm98lnrlbMA",
+              "youtube_url": "https://www.youtube.com/watch?v=Tm98lnrlbMA",
+              "duration_sec": 184,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/why-all-the-letters-in-algebra"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Introduction to variables",
+          "slug": "x2f8bb11595b61c86:intro-variables",
+          "videos": [
+            {
+              "title": "What is a variable?",
+              "slug": "v/what-is-a-variable",
+              "youtube_id": "tHYis-DP0oU",
+              "youtube_url": "https://www.youtube.com/watch?v=tHYis-DP0oU",
+              "duration_sec": 198,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/v/what-is-a-variable"
+            },
+            {
+              "title": "Why aren't we using the multiplication sign?",
+              "slug": "v/why-aren-t-we-using-the-multiplication-sign",
+              "youtube_id": "vDaIKB19TvY",
+              "youtube_url": "https://www.youtube.com/watch?v=vDaIKB19TvY",
+              "duration_sec": 298,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/v/why-aren-t-we-using-the-multiplication-sign"
+            },
+            {
+              "title": "Creativity break: Why is creativity important in STEM jobs?",
+              "slug": "v/creativity-stem-jobs",
+              "youtube_id": "ynvn3jqxcX4",
+              "youtube_url": "https://www.youtube.com/watch?v=ynvn3jqxcX4",
+              "duration_sec": 97,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/v/creativity-stem-jobs"
+            },
+            {
+              "title": "Evaluating an expression with one variable",
+              "slug": "v/variables-and-expressions-1",
+              "youtube_id": "AJNDeVt9UOo",
+              "youtube_url": "https://www.youtube.com/watch?v=AJNDeVt9UOo",
+              "duration_sec": 120,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/v/variables-and-expressions-1"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Substitution and evaluating expressions",
+          "slug": "x2f8bb11595b61c86:substitute-evaluate-expression",
+          "videos": [
+            {
+              "title": "Evaluating expressions with two variables",
+              "slug": "v/evaluating-expressions-in-two-variables",
+              "youtube_id": "S_OX3ByvBSc",
+              "youtube_url": "https://www.youtube.com/watch?v=S_OX3ByvBSc",
+              "duration_sec": 125,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/v/evaluating-expressions-in-two-variables"
+            },
+            {
+              "title": "Evaluating expressions with two variables: fractions & decimals",
+              "slug": "v/evaluating-expressions-in-two-variables-with-decimals-and-fractions",
+              "youtube_id": "GmD7Czmol0k",
+              "youtube_url": "https://www.youtube.com/watch?v=GmD7Czmol0k",
+              "duration_sec": 207,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/v/evaluating-expressions-in-two-variables-with-decimals-and-fractions"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Combining like terms",
+          "slug": "x2f8bb11595b61c86:combine-like-terms",
+          "videos": [
+            {
+              "title": "Intro to combining like terms",
+              "slug": "v/combining-like-terms",
+              "youtube_id": "CLWpkv6ccpA",
+              "youtube_url": "https://www.youtube.com/watch?v=CLWpkv6ccpA",
+              "duration_sec": 273,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/v/combining-like-terms"
+            },
+            {
+              "title": "Combining like terms with negative coefficients & distribution",
+              "slug": "v/combining-like-terms-and-the-distributive-property",
+              "youtube_id": "3NHSwiv_pSE",
+              "youtube_url": "https://www.youtube.com/watch?v=3NHSwiv_pSE",
+              "duration_sec": 247,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/v/combining-like-terms-and-the-distributive-property"
+            },
+            {
+              "title": "Combining like terms with negative coefficients",
+              "slug": "v/combining-like-terms-3",
+              "youtube_id": "FNnmseBlvaY",
+              "youtube_url": "https://www.youtube.com/watch?v=FNnmseBlvaY",
+              "duration_sec": 279,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/v/combining-like-terms-3"
+            },
+            {
+              "title": "Combining like terms with rational coefficients",
+              "slug": "v/simplifying-expressions-involving-rational-numbers",
+              "youtube_id": "rtNuo7R3scY",
+              "youtube_url": "https://www.youtube.com/watch?v=rtNuo7R3scY",
+              "duration_sec": 256,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/v/simplifying-expressions-involving-rational-numbers"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Introduction to equivalent expressions",
+          "slug": "x2f8bb11595b61c86:equivalent-expressions-intro",
+          "videos": [
+            {
+              "title": "Equivalent expressions",
+              "slug": "v/equivalent-algebraic-expressions-exercise",
+              "youtube_id": "rHNY01R2VSQ",
+              "youtube_url": "https://www.youtube.com/watch?v=rHNY01R2VSQ",
+              "duration_sec": 118,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:equivalent-expressions-intro/v/equivalent-algebraic-expressions-exercise"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Division by zero",
+          "slug": "x2f8bb11595b61c86:division-zero",
+          "videos": [
+            {
+              "title": "Why dividing by zero is undefined",
+              "slug": "v/why-dividing-by-zero-is-undefined",
+              "youtube_id": "SQzjzStU1RQ",
+              "youtube_url": "https://www.youtube.com/watch?v=SQzjzStU1RQ",
+              "duration_sec": 248,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:division-zero/v/why-dividing-by-zero-is-undefined"
+            },
+            {
+              "title": "The problem with dividing zero by zero",
+              "slug": "v/why-zero-divided-by-zero-is-undefined-indeterminate",
+              "youtube_id": "PDReqvXfkBA",
+              "youtube_url": "https://www.youtube.com/watch?v=PDReqvXfkBA",
+              "duration_sec": 146,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:division-zero/v/why-zero-divided-by-zero-is-undefined-indeterminate"
+            },
+            {
+              "title": "Undefined & indeterminate expressions",
+              "slug": "v/undefined-and-indeterminate",
+              "youtube_id": "lHdlHTsXbZg",
+              "youtube_url": "https://www.youtube.com/watch?v=lHdlHTsXbZg",
+              "duration_sec": 452,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:division-zero/v/undefined-and-indeterminate"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Solving equations & inequalities",
+      "slug": "x2f8bb11595b61c86:solve-equations-inequalities",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities",
+      "lessons": [
+        {
+          "title": "Linear equations with variables on both sides",
+          "slug": "x2f8bb11595b61c86:linear-equations-variables-both-sides",
+          "videos": [
+            {
+              "title": "Why we do the same thing to both sides: Variable on both sides",
+              "slug": "v/why-we-do-the-same-thing-to-both-sides-multi-step-equations",
+              "youtube_id": "vkhYFml0w6c",
+              "youtube_url": "https://www.youtube.com/watch?v=vkhYFml0w6c",
+              "duration_sec": 456,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/why-we-do-the-same-thing-to-both-sides-multi-step-equations"
+            },
+            {
+              "title": "Intro to equations with variables on both sides",
+              "slug": "v/equations-3",
+              "youtube_id": "f15zA0PhSek",
+              "youtube_url": "https://www.youtube.com/watch?v=f15zA0PhSek",
+              "duration_sec": 533,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/equations-3"
+            },
+            {
+              "title": "Equations with variables on both sides: 20-7x=6x-6",
+              "slug": "v/solving-equations-2",
+              "youtube_id": "1c5HY3z4k8M",
+              "youtube_url": "https://www.youtube.com/watch?v=1c5HY3z4k8M",
+              "duration_sec": 246,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/solving-equations-2"
+            },
+            {
+              "title": "Equation with variables on both sides: fractions",
+              "slug": "v/solving-equations-with-the-distributive-property-2",
+              "youtube_id": "PL9UYj2awDc",
+              "youtube_url": "https://www.youtube.com/watch?v=PL9UYj2awDc",
+              "duration_sec": 290,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/solving-equations-with-the-distributive-property-2"
+            },
+            {
+              "title": "Equation with the variable in the denominator",
+              "slug": "v/ex-2-multi-step-equation",
+              "youtube_id": "Z7C69xP08d8",
+              "youtube_url": "https://www.youtube.com/watch?v=Z7C69xP08d8",
+              "duration_sec": 204,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/ex-2-multi-step-equation"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Linear equations with parentheses",
+          "slug": "x2f8bb11595b61c86:linear-equations-parentheses",
+          "videos": [
+            {
+              "title": "Equations with parentheses",
+              "slug": "v/solving-equations-with-the-distributive-property",
+              "youtube_id": "YZBStgZGyDY",
+              "youtube_url": "https://www.youtube.com/watch?v=YZBStgZGyDY",
+              "duration_sec": 364,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-parentheses/v/solving-equations-with-the-distributive-property"
+            },
+            {
+              "title": "Reasoning with linear equations",
+              "slug": "v/reasoning-with-linear-equations",
+              "youtube_id": "BV-TGIMUXaw",
+              "youtube_url": "https://www.youtube.com/watch?v=BV-TGIMUXaw",
+              "duration_sec": 460,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-parentheses/v/reasoning-with-linear-equations"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Analyzing the number of solutions to linear equations",
+          "slug": "x2f8bb11595b61c86:num-solutions-linear-equations",
+          "videos": [
+            {
+              "title": "Number of solutions to equations",
+              "slug": "v/number-of-solutions-to-linear-equations",
+              "youtube_id": "qsL_5Y8uWPU",
+              "youtube_url": "https://www.youtube.com/watch?v=qsL_5Y8uWPU",
+              "duration_sec": 328,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:num-solutions-linear-equations/v/number-of-solutions-to-linear-equations"
+            },
+            {
+              "title": "Worked example: number of solutions to equations",
+              "slug": "v/equation-special-cases",
+              "youtube_id": "zKotuhQWIRg",
+              "youtube_url": "https://www.youtube.com/watch?v=zKotuhQWIRg",
+              "duration_sec": 115,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:num-solutions-linear-equations/v/equation-special-cases"
+            },
+            {
+              "title": "Creating an equation with no solutions",
+              "slug": "v/number-of-solutions-to-linear-equations-ex-2",
+              "youtube_id": "uQs100shv-A",
+              "youtube_url": "https://www.youtube.com/watch?v=uQs100shv-A",
+              "duration_sec": 83,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:num-solutions-linear-equations/v/number-of-solutions-to-linear-equations-ex-2"
+            },
+            {
+              "title": "Creating an equation with infinitely many solutions",
+              "slug": "v/number-of-solutions-to-linear-equations-ex-3",
+              "youtube_id": "Dq0xFgQB9qo",
+              "youtube_url": "https://www.youtube.com/watch?v=Dq0xFgQB9qo",
+              "duration_sec": 100,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:num-solutions-linear-equations/v/number-of-solutions-to-linear-equations-ex-3"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Linear equations with unknown coefficients",
+          "slug": "x2f8bb11595b61c86:linear-eqns-unknown-coefficients",
+          "videos": [
+            {
+              "title": "Linear equations with unknown coefficients",
+              "slug": "v/linear-equations-with-unknown-coefficients",
+              "youtube_id": "adPgapI-h3g",
+              "youtube_url": "https://www.youtube.com/watch?v=adPgapI-h3g",
+              "duration_sec": 335,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-eqns-unknown-coefficients/v/linear-equations-with-unknown-coefficients"
+            },
+            {
+              "title": "Why is algebra important to learn?",
+              "slug": "v/why-algebra-important",
+              "youtube_id": "H4g0GZsgq0I",
+              "youtube_url": "https://www.youtube.com/watch?v=H4g0GZsgq0I",
+              "duration_sec": 46,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-eqns-unknown-coefficients/v/why-algebra-important"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multi-step inequalities",
+          "slug": "x2f8bb11595b61c86:multistep-inequalities",
+          "videos": [
+            {
+              "title": "Inequalities with variables on both sides",
+              "slug": "v/multi-step-inequalities-3",
+              "youtube_id": "SgKBBUFaGb4",
+              "youtube_url": "https://www.youtube.com/watch?v=SgKBBUFaGb4",
+              "duration_sec": 338,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities-3"
+            },
+            {
+              "title": "Inequalities with variables on both sides (with parentheses)",
+              "slug": "v/multi-step-inequalities-2",
+              "youtube_id": "XOAn5z8mkvI",
+              "youtube_url": "https://www.youtube.com/watch?v=XOAn5z8mkvI",
+              "duration_sec": 227,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities-2"
+            },
+            {
+              "title": "Multi-step inequalities",
+              "slug": "v/multi-step-inequalities",
+              "youtube_id": "xOxvyeSl0uA",
+              "youtube_url": "https://www.youtube.com/watch?v=xOxvyeSl0uA",
+              "duration_sec": 482,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities"
+            },
+            {
+              "title": "Using inequalities to solve problems",
+              "slug": "v/using-inequalities-to-solve-problems",
+              "youtube_id": "E6rn-YD_2_Q",
+              "youtube_url": "https://www.youtube.com/watch?v=E6rn-YD_2_Q",
+              "duration_sec": 220,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/using-inequalities-to-solve-problems"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Compound inequalities",
+          "slug": "x2f8bb11595b61c86:compound-inequalities",
+          "videos": [
+            {
+              "title": "Compound inequalities: OR",
+              "slug": "v/compund-inequalities",
+              "youtube_id": "0YErxSShF0A",
+              "youtube_url": "https://www.youtube.com/watch?v=0YErxSShF0A",
+              "duration_sec": 271,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:compound-inequalities/v/compund-inequalities"
+            },
+            {
+              "title": "Compound inequalities: AND",
+              "slug": "v/compund-inequalities-2",
+              "youtube_id": "d2cnQ5ahHgE",
+              "youtube_url": "https://www.youtube.com/watch?v=d2cnQ5ahHgE",
+              "duration_sec": 313,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:compound-inequalities/v/compund-inequalities-2"
+            },
+            {
+              "title": "A compound inequality with no solution",
+              "slug": "v/compound-inequalities-4",
+              "youtube_id": "ZF_cZ-GX9PI",
+              "youtube_url": "https://www.youtube.com/watch?v=ZF_cZ-GX9PI",
+              "duration_sec": 161,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:compound-inequalities/v/compound-inequalities-4"
+            },
+            {
+              "title": "Double inequalities",
+              "slug": "v/compound-inequalities-3",
+              "youtube_id": "cvB8b4AACyE",
+              "youtube_url": "https://www.youtube.com/watch?v=cvB8b4AACyE",
+              "duration_sec": 268,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:compound-inequalities/v/compound-inequalities-3"
+            },
+            {
+              "title": "Compound inequalities examples",
+              "slug": "v/compound-inequalities",
+              "youtube_id": "A3xPhzs-KBI",
+              "youtube_url": "https://www.youtube.com/watch?v=A3xPhzs-KBI",
+              "duration_sec": 705,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:compound-inequalities/v/compound-inequalities"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Working with units",
+      "slug": "x2f8bb11595b61c86:working-units",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units",
+      "lessons": [
+        {
+          "title": "Rate conversion",
+          "slug": "x2f8bb11595b61c86:rate-conversion",
+          "videos": [
+            {
+              "title": "Intro to dimensional analysis",
+              "slug": "v/dimensional-analysis-units-algebraically",
+              "youtube_id": "hIAdCTNi1S8",
+              "youtube_url": "https://www.youtube.com/watch?v=hIAdCTNi1S8",
+              "duration_sec": 389,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:rate-conversion/v/dimensional-analysis-units-algebraically"
+            },
+            {
+              "title": "Same rate with different units",
+              "slug": "v/thinking-about-reasonable-units-to-describe-a-rate",
+              "youtube_id": "d5lcGCbV5cM",
+              "youtube_url": "https://www.youtube.com/watch?v=d5lcGCbV5cM",
+              "duration_sec": 595,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:rate-conversion/v/thinking-about-reasonable-units-to-describe-a-rate"
+            },
+            {
+              "title": "Creativity break: When did you first realize that you liked algebra",
+              "slug": "v/realize-liked-algebra",
+              "youtube_id": "4l1t-_Eb2MI",
+              "youtube_url": "https://www.youtube.com/watch?v=4l1t-_Eb2MI",
+              "duration_sec": 102,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:rate-conversion/v/realize-liked-algebra"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Appropriate units",
+          "slug": "x2f8bb11595b61c86:appropriate-units",
+          "videos": [
+            {
+              "title": "Defining appropriate quantities for modeling",
+              "slug": "v/appropriate-units",
+              "youtube_id": "717zfRdog9s",
+              "youtube_url": "https://www.youtube.com/watch?v=717zfRdog9s",
+              "duration_sec": 371,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:appropriate-units/v/appropriate-units"
+            },
+            {
+              "title": "Formulas and units: Volume of a pool",
+              "slug": "v/interpreting-units-in-formulas",
+              "youtube_id": "nziP-8PeZqY",
+              "youtube_url": "https://www.youtube.com/watch?v=nziP-8PeZqY",
+              "duration_sec": 200,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:appropriate-units/v/interpreting-units-in-formulas"
+            },
+            {
+              "title": "Formulas and units: Comparing rates",
+              "slug": "v/interpreting-units-in-formulas-novel",
+              "youtube_id": "IuvsQjW1qa4",
+              "youtube_url": "https://www.youtube.com/watch?v=IuvsQjW1qa4",
+              "duration_sec": 222,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:appropriate-units/v/interpreting-units-in-formulas-novel"
+            },
+            {
+              "title": "Reporting measurements",
+              "slug": "v/reporting-measurements",
+              "youtube_id": "UEe81kJtY8A",
+              "youtube_url": "https://www.youtube.com/watch?v=UEe81kJtY8A",
+              "duration_sec": 363,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:appropriate-units/v/reporting-measurements"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Word problems with multiple units",
+          "slug": "x2f8bb11595b61c86:word-problems-multiple-units",
+          "videos": [
+            {
+              "title": "Using units to solve problems: Toy factory",
+              "slug": "v/using-units-to-solve-problems-toy-factory",
+              "youtube_id": "ocOXYiborsw",
+              "youtube_url": "https://www.youtube.com/watch?v=ocOXYiborsw",
+              "duration_sec": 183,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:word-problems-multiple-units/v/using-units-to-solve-problems-toy-factory"
+            },
+            {
+              "title": "Using units to solve problems: Road trip",
+              "slug": "v/using-units-to-solve-problems-road-trip",
+              "youtube_id": "_UAQJw_q4p4",
+              "youtube_url": "https://www.youtube.com/watch?v=_UAQJw_q4p4",
+              "duration_sec": 234,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:word-problems-multiple-units/v/using-units-to-solve-problems-road-trip"
+            },
+            {
+              "title": "Using units to solve problems: Drug dosage",
+              "slug": "v/unit-conversion-example-drug-dosage",
+              "youtube_id": "ScvuRb6vsz4",
+              "youtube_url": "https://www.youtube.com/watch?v=ScvuRb6vsz4",
+              "duration_sec": 644,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:word-problems-multiple-units/v/unit-conversion-example-drug-dosage"
+            },
+            {
+              "title": "Creativity break: How are math and creativity changing the world?",
+              "slug": "v/math-creativity-changing-world",
+              "youtube_id": "nFnRRdvaS9g",
+              "youtube_url": "https://www.youtube.com/watch?v=nFnRRdvaS9g",
+              "duration_sec": 116,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:word-problems-multiple-units/v/math-creativity-changing-world"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Linear equations & graphs",
+      "slug": "x2f8bb11595b61c86:linear-equations-graphs",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs",
+      "lessons": [
+        {
+          "title": "Two-variable linear equations intro",
+          "slug": "x2f8bb11595b61c86:two-variable-linear-equations-intro",
+          "videos": [
+            {
+              "title": "Two-variable linear equations intro",
+              "slug": "v/2-variable-linear-equations-graphs",
+              "youtube_id": "AOxMJRtoR2A",
+              "youtube_url": "https://www.youtube.com/watch?v=AOxMJRtoR2A",
+              "duration_sec": 501,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-linear-equations-intro/v/2-variable-linear-equations-graphs"
+            },
+            {
+              "title": "Solutions to 2-variable equations",
+              "slug": "v/checking-ordered-pair-solutions-to-equations-1",
+              "youtube_id": "qk69pR91R00",
+              "youtube_url": "https://www.youtube.com/watch?v=qk69pR91R00",
+              "duration_sec": 155,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-linear-equations-intro/v/checking-ordered-pair-solutions-to-equations-1"
+            },
+            {
+              "title": "Worked example: solutions to 2-variable equations",
+              "slug": "v/checking-ordered-pair-solutions-to-equations-2",
+              "youtube_id": "d3VMo1VWFvc",
+              "youtube_url": "https://www.youtube.com/watch?v=d3VMo1VWFvc",
+              "duration_sec": 146,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-linear-equations-intro/v/checking-ordered-pair-solutions-to-equations-2"
+            },
+            {
+              "title": "Completing solutions to 2-variable equations",
+              "slug": "v/graphing-solutions-to-2-variable-linear-equations-1",
+              "youtube_id": "EHR-YDwrrhM",
+              "youtube_url": "https://www.youtube.com/watch?v=EHR-YDwrrhM",
+              "duration_sec": 431,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-linear-equations-intro/v/graphing-solutions-to-2-variable-linear-equations-1"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Slope",
+          "slug": "x2f8bb11595b61c86:slope",
+          "videos": [
+            {
+              "title": "Intro to slope",
+              "slug": "v/introduction-to-slope",
+              "youtube_id": "MeU-KzdCBps",
+              "youtube_url": "https://www.youtube.com/watch?v=MeU-KzdCBps",
+              "duration_sec": 416,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/introduction-to-slope"
+            },
+            {
+              "title": "Positive & negative slope",
+              "slug": "v/positive-and-negative-slope",
+              "youtube_id": "EQoNfxToez0",
+              "youtube_url": "https://www.youtube.com/watch?v=EQoNfxToez0",
+              "duration_sec": 302,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/positive-and-negative-slope"
+            },
+            {
+              "title": "Worked example: slope from graph",
+              "slug": "v/slope-of-a-line",
+              "youtube_id": "R948Tsyq4vA",
+              "youtube_url": "https://www.youtube.com/watch?v=R948Tsyq4vA",
+              "duration_sec": 280,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/slope-of-a-line"
+            },
+            {
+              "title": "Graphing a line given point and slope",
+              "slug": "v/graph-from-point-slope",
+              "youtube_id": "5mgH-_5UJ54",
+              "youtube_url": "https://www.youtube.com/watch?v=5mgH-_5UJ54",
+              "duration_sec": 131,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/graph-from-point-slope"
+            },
+            {
+              "title": "Calculating slope from tables",
+              "slug": "v/slope-from-table",
+              "youtube_id": "pGsicLglzY8",
+              "youtube_url": "https://www.youtube.com/watch?v=pGsicLglzY8",
+              "duration_sec": 159,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/slope-from-table"
+            },
+            {
+              "title": "Worked example: slope from two points",
+              "slug": "v/slope-of-a-line-2",
+              "youtube_id": "WkspBxrzuZo",
+              "youtube_url": "https://www.youtube.com/watch?v=WkspBxrzuZo",
+              "duration_sec": 432,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/slope-of-a-line-2"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Horizontal & vertical lines",
+          "slug": "x2f8bb11595b61c86:horizontal-vertical-lines",
+          "videos": [
+            {
+              "title": "Slope of a horizontal line",
+              "slug": "v/slope-of-a-line-3",
+              "youtube_id": "CFSHq099Mx0",
+              "youtube_url": "https://www.youtube.com/watch?v=CFSHq099Mx0",
+              "duration_sec": 305,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:horizontal-vertical-lines/v/slope-of-a-line-3"
+            },
+            {
+              "title": "Horizontal & vertical lines",
+              "slug": "v/examples-of-slopes-and-equations-of-horizontal-and-vertical-lines",
+              "youtube_id": "J43CIbKpdWc",
+              "youtube_url": "https://www.youtube.com/watch?v=J43CIbKpdWc",
+              "duration_sec": 315,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:horizontal-vertical-lines/v/examples-of-slopes-and-equations-of-horizontal-and-vertical-lines"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "x-intercepts and y-intercepts",
+          "slug": "x2f8bb11595b61c86:x-intercepts-and-y-intercepts",
+          "videos": [
+            {
+              "title": "Intro to intercepts",
+              "slug": "v/introduction-to-intercepts",
+              "youtube_id": "LNSB0N6esPU",
+              "youtube_url": "https://www.youtube.com/watch?v=LNSB0N6esPU",
+              "duration_sec": 393,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:x-intercepts-and-y-intercepts/v/introduction-to-intercepts"
+            },
+            {
+              "title": "x-intercept of a line",
+              "slug": "v/finding-x-intercept-of-a-line",
+              "youtube_id": "xiIQQNufFuU",
+              "youtube_url": "https://www.youtube.com/watch?v=xiIQQNufFuU",
+              "duration_sec": 103,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:x-intercepts-and-y-intercepts/v/finding-x-intercept-of-a-line"
+            },
+            {
+              "title": "Intercepts from an equation",
+              "slug": "v/x-and-y-intercepts",
+              "youtube_id": "xGmef7lFc5w",
+              "youtube_url": "https://www.youtube.com/watch?v=xGmef7lFc5w",
+              "duration_sec": 248,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:x-intercepts-and-y-intercepts/v/x-and-y-intercepts"
+            },
+            {
+              "title": "Intercepts from a table",
+              "slug": "v/finding-intercepts-for-a-linear-function-from-a-table",
+              "youtube_id": "CGZZINHT0I8",
+              "youtube_url": "https://www.youtube.com/watch?v=CGZZINHT0I8",
+              "duration_sec": 240,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:x-intercepts-and-y-intercepts/v/finding-intercepts-for-a-linear-function-from-a-table"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Applying intercepts and slope",
+          "slug": "x2f8bb11595b61c86:applying-intercepts-and-slope",
+          "videos": [
+            {
+              "title": "Slope, x-intercept, y-intercept meaning in context",
+              "slug": "v/slope-intercepts-context",
+              "youtube_id": "XQlaZuh7E8w",
+              "youtube_url": "https://www.youtube.com/watch?v=XQlaZuh7E8w",
+              "duration_sec": 240,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:applying-intercepts-and-slope/v/slope-intercepts-context"
+            },
+            {
+              "title": "Slope and intercept meaning in context",
+              "slug": "v/slope-intercept-meaning",
+              "youtube_id": "TYbN--4KHIk",
+              "youtube_url": "https://www.youtube.com/watch?v=TYbN--4KHIk",
+              "duration_sec": 140,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:applying-intercepts-and-slope/v/slope-intercept-meaning"
+            },
+            {
+              "title": "Slope and intercept meaning from a table",
+              "slug": "v/slope-intercept-meaning-table",
+              "youtube_id": "nc9XHXlxSyM",
+              "youtube_url": "https://www.youtube.com/watch?v=nc9XHXlxSyM",
+              "duration_sec": 416,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:applying-intercepts-and-slope/v/slope-intercept-meaning-table"
+            },
+            {
+              "title": "Finding slope and intercepts from tables",
+              "slug": "v/find-slope-intercepts-table",
+              "youtube_id": "g98OfN5cWy4",
+              "youtube_url": "https://www.youtube.com/watch?v=g98OfN5cWy4",
+              "duration_sec": 324,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:applying-intercepts-and-slope/v/find-slope-intercepts-table"
+            },
+            {
+              "title": "Linear functions word problem: fuel",
+              "slug": "v/graphing-linear-functions-1",
+              "youtube_id": "AAmVITyDXbc",
+              "youtube_url": "https://www.youtube.com/watch?v=AAmVITyDXbc",
+              "duration_sec": 330,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:applying-intercepts-and-slope/v/graphing-linear-functions-1"
+            }
+          ],
+          "exercise_count": 5
+        },
+        {
+          "title": "Modeling with linear equations and inequalities",
+          "slug": "x2f8bb11595b61c86:modeling-with-linear-equations-and-inequalities",
+          "videos": [
+            {
+              "title": "Comparing linear rates example",
+              "slug": "v/comparing-linear-rates-example",
+              "youtube_id": "AoMjn2qKvXs",
+              "youtube_url": "https://www.youtube.com/watch?v=AoMjn2qKvXs",
+              "duration_sec": 483,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:modeling-with-linear-equations-and-inequalities/v/comparing-linear-rates-example"
+            },
+            {
+              "title": "Creativity break: How do you apply creativity in algebra",
+              "slug": "v/apply-creativity-algebra",
+              "youtube_id": "2vAMs-KM7UA",
+              "youtube_url": "https://www.youtube.com/watch?v=2vAMs-KM7UA",
+              "duration_sec": 100,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:modeling-with-linear-equations-and-inequalities/v/apply-creativity-algebra"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Forms of linear equations",
+      "slug": "x2f8bb11595b61c86:forms-of-linear-equations",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations",
+      "lessons": [
+        {
+          "title": "Intro to slope-intercept form",
+          "slug": "x2f8bb11595b61c86:intro-to-slope-intercept-form",
+          "videos": [
+            {
+              "title": "Intro to slope-intercept form",
+              "slug": "v/slope-intercept-form",
+              "youtube_id": "IL3UCuXrUzE",
+              "youtube_url": "https://www.youtube.com/watch?v=IL3UCuXrUzE",
+              "duration_sec": 540,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:intro-to-slope-intercept-form/v/slope-intercept-form"
+            },
+            {
+              "title": "Slope and y-intercept from equation",
+              "slug": "v/less-obvious-slope-intercept-form",
+              "youtube_id": "Z65mz__8DQ0",
+              "youtube_url": "https://www.youtube.com/watch?v=Z65mz__8DQ0",
+              "duration_sec": 250,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:intro-to-slope-intercept-form/v/less-obvious-slope-intercept-form"
+            },
+            {
+              "title": "Worked examples: slope-intercept intro",
+              "slug": "v/slope-intercept-intro-examples",
+              "youtube_id": "qgsNNqmlLoA",
+              "youtube_url": "https://www.youtube.com/watch?v=qgsNNqmlLoA",
+              "duration_sec": 226,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:intro-to-slope-intercept-form/v/slope-intercept-intro-examples"
+            },
+            {
+              "title": "Linear equation word problems",
+              "slug": "v/linear-equation-word-problems",
+              "youtube_id": "w6R8rywmgek",
+              "youtube_url": "https://www.youtube.com/watch?v=w6R8rywmgek",
+              "duration_sec": 221,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:intro-to-slope-intercept-form/v/linear-equation-word-problems"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Graphing slope-intercept equations",
+          "slug": "x2f8bb11595b61c86:graphing-slope-intercept-equations",
+          "videos": [
+            {
+              "title": "Graph from slope-intercept equation",
+              "slug": "v/graphing-a-line-in-slope-intercept-form",
+              "youtube_id": "uk7gS3cZVp4",
+              "youtube_url": "https://www.youtube.com/watch?v=uk7gS3cZVp4",
+              "duration_sec": 181,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:graphing-slope-intercept-equations/v/graphing-a-line-in-slope-intercept-form"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Writing slope-intercept equations",
+          "slug": "x2f8bb11595b61c86:writing-slope-intercept-equations",
+          "videos": [
+            {
+              "title": "Slope-intercept equation from graph",
+              "slug": "v/graphs-using-slope-intercept-form",
+              "youtube_id": "9wOalujeZf4",
+              "youtube_url": "https://www.youtube.com/watch?v=9wOalujeZf4",
+              "duration_sec": 671,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:writing-slope-intercept-equations/v/graphs-using-slope-intercept-form"
+            },
+            {
+              "title": "Slope-intercept equation from slope & point",
+              "slug": "v/equation-of-a-line-1",
+              "youtube_id": "AqFwKecNaTk",
+              "youtube_url": "https://www.youtube.com/watch?v=AqFwKecNaTk",
+              "duration_sec": 226,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:writing-slope-intercept-equations/v/equation-of-a-line-1"
+            },
+            {
+              "title": "Slope-intercept equation from two points",
+              "slug": "v/equation-of-a-line-3",
+              "youtube_id": "XMJ72mtMn4Y",
+              "youtube_url": "https://www.youtube.com/watch?v=XMJ72mtMn4Y",
+              "duration_sec": 402,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:writing-slope-intercept-equations/v/equation-of-a-line-3"
+            },
+            {
+              "title": "Constructing linear equations from context",
+              "slug": "v/construct-linear-equation-context",
+              "youtube_id": "hBpI9IfmMKg",
+              "youtube_url": "https://www.youtube.com/watch?v=hBpI9IfmMKg",
+              "duration_sec": 187,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:writing-slope-intercept-equations/v/construct-linear-equation-context"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Point-slope form",
+          "slug": "x2f8bb11595b61c86:point-slope-form",
+          "videos": [
+            {
+              "title": "Intro to point-slope form",
+              "slug": "v/idea-behind-point-slope-form",
+              "youtube_id": "K_OI9LA54AA",
+              "youtube_url": "https://www.youtube.com/watch?v=K_OI9LA54AA",
+              "duration_sec": 367,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:point-slope-form/v/idea-behind-point-slope-form"
+            },
+            {
+              "title": "Point-slope & slope-intercept equations",
+              "slug": "v/point-slope-and-slope-intercept-form-from-two-points",
+              "youtube_id": "LtpXvUCrgrM",
+              "youtube_url": "https://www.youtube.com/watch?v=LtpXvUCrgrM",
+              "duration_sec": 427,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:point-slope-form/v/point-slope-and-slope-intercept-form-from-two-points"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Standard form",
+          "slug": "x2f8bb11595b61c86:standard-form",
+          "videos": [
+            {
+              "title": "Intro to linear equation standard form",
+              "slug": "v/standard-form-for-linear-equations",
+              "youtube_id": "6CFE60iP2Ug",
+              "youtube_url": "https://www.youtube.com/watch?v=6CFE60iP2Ug",
+              "duration_sec": 487,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:standard-form/v/standard-form-for-linear-equations"
+            },
+            {
+              "title": "Graphing a linear equation: 5x+2y=20",
+              "slug": "v/plotting-x-y-relationships",
+              "youtube_id": "86NwKBcOlow",
+              "youtube_url": "https://www.youtube.com/watch?v=86NwKBcOlow",
+              "duration_sec": 269,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:standard-form/v/plotting-x-y-relationships"
+            },
+            {
+              "title": "Clarifying standard form rules",
+              "slug": "v/standard-form-rules",
+              "youtube_id": "PfSsLjnnS60",
+              "youtube_url": "https://www.youtube.com/watch?v=PfSsLjnnS60",
+              "duration_sec": 289,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:standard-form/v/standard-form-rules"
+            },
+            {
+              "title": "Converting from slope-intercept to standard form",
+              "slug": "v/converting-from-slope-intercept-to-standard-form",
+              "youtube_id": "XOIhNVeLfWs",
+              "youtube_url": "https://www.youtube.com/watch?v=XOIhNVeLfWs",
+              "duration_sec": 309,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:standard-form/v/converting-from-slope-intercept-to-standard-form"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Summary: Forms of two-variable linear equations",
+          "slug": "x2f8bb11595b61c86:summary-forms-of-two-variable-linear-equations",
+          "videos": [
+            {
+              "title": "Slope from equation",
+              "slug": "v/slope-from-equation",
+              "youtube_id": "G4r9PpYQiL8",
+              "youtube_url": "https://www.youtube.com/watch?v=G4r9PpYQiL8",
+              "duration_sec": 379,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:summary-forms-of-two-variable-linear-equations/v/slope-from-equation"
+            },
+            {
+              "title": "Writing linear equations in all forms",
+              "slug": "v/point-slope-and-standard-form",
+              "youtube_id": "-6Fu2T_RSGM",
+              "youtube_url": "https://www.youtube.com/watch?v=-6Fu2T_RSGM",
+              "duration_sec": 476,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:summary-forms-of-two-variable-linear-equations/v/point-slope-and-standard-form"
+            },
+            {
+              "title": "Creativity break: What do you do to get into your creative zone?",
+              "slug": "v/get-into-creative-zone",
+              "youtube_id": "7WjlO5u3Vqo",
+              "youtube_url": "https://www.youtube.com/watch?v=7WjlO5u3Vqo",
+              "duration_sec": 97,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:summary-forms-of-two-variable-linear-equations/v/get-into-creative-zone"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Systems of equations",
+      "slug": "x2f8bb11595b61c86:systems-of-equations",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations",
+      "lessons": [
+        {
+          "title": "Introduction to systems of equations",
+          "slug": "x2f8bb11595b61c86:introduction-to-systems-of-equations",
+          "videos": [
+            {
+              "title": "Systems of equations: trolls, tolls (1 of 2)",
+              "slug": "v/trolls-tolls-and-systems-of-equations",
+              "youtube_id": "OcNt-36QKu8",
+              "youtube_url": "https://www.youtube.com/watch?v=OcNt-36QKu8",
+              "duration_sec": 411,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/trolls-tolls-and-systems-of-equations"
+            },
+            {
+              "title": "Systems of equations: trolls, tolls (2 of 2)",
+              "slug": "v/solving-the-troll-riddle-visually",
+              "youtube_id": "H-HfmyUzPw8",
+              "youtube_url": "https://www.youtube.com/watch?v=H-HfmyUzPw8",
+              "duration_sec": 341,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/solving-the-troll-riddle-visually"
+            },
+            {
+              "title": "Testing a solution to a system of equations",
+              "slug": "v/testing-a-solution-for-a-system-of-equations",
+              "youtube_id": "SkMNREAMNvc",
+              "youtube_url": "https://www.youtube.com/watch?v=SkMNREAMNvc",
+              "duration_sec": 158,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/testing-a-solution-for-a-system-of-equations"
+            },
+            {
+              "title": "Systems of equations with graphing: y=7/5x-5 & y=3/5x-1",
+              "slug": "v/solving-systems-graphically",
+              "youtube_id": "VhH2nEDCd68",
+              "youtube_url": "https://www.youtube.com/watch?v=VhH2nEDCd68",
+              "duration_sec": 142,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/solving-systems-graphically"
+            },
+            {
+              "title": "Systems of equations with graphing: exact & approximate solutions",
+              "slug": "v/solving-systems-graphically-examples",
+              "youtube_id": "o4pbAQgJYjI",
+              "youtube_url": "https://www.youtube.com/watch?v=o4pbAQgJYjI",
+              "duration_sec": 356,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/solving-systems-graphically-examples"
+            },
+            {
+              "title": "Setting up a system of equations from context example (pet weights)",
+              "slug": "v/setting-up-system",
+              "youtube_id": "HftghcUXaEg",
+              "youtube_url": "https://www.youtube.com/watch?v=HftghcUXaEg",
+              "duration_sec": 119,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/setting-up-system"
+            },
+            {
+              "title": "Setting up a system of linear equations example (weight and price)",
+              "slug": "v/setting-up-systems-weight-price",
+              "youtube_id": "pL4PXSXH-R8",
+              "youtube_url": "https://www.youtube.com/watch?v=pL4PXSXH-R8",
+              "duration_sec": 252,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/setting-up-systems-weight-price"
+            },
+            {
+              "title": "Interpreting points in context of graphs of systems",
+              "slug": "v/interpret-points-systems",
+              "youtube_id": "_hW1OzRlx50",
+              "youtube_url": "https://www.youtube.com/watch?v=_hW1OzRlx50",
+              "duration_sec": 339,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/interpret-points-systems"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Solving systems of equations with substitution",
+          "slug": "x2f8bb11595b61c86:solving-systems-of-equations-with-substitution",
+          "videos": [
+            {
+              "title": "Systems of equations with substitution: potato chips",
+              "slug": "v/solving-systems-with-substitution",
+              "youtube_id": "2EwPpga_XPw",
+              "youtube_url": "https://www.youtube.com/watch?v=2EwPpga_XPw",
+              "duration_sec": 321,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-of-equations-with-substitution/v/solving-systems-with-substitution"
+            },
+            {
+              "title": "Systems of equations with substitution: -3x-4y=-2 & y=2x-5",
+              "slug": "v/practice-using-substitution-for-systems",
+              "youtube_id": "GWZKz4F9hWM",
+              "youtube_url": "https://www.youtube.com/watch?v=GWZKz4F9hWM",
+              "duration_sec": 261,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-of-equations-with-substitution/v/practice-using-substitution-for-systems"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Solving systems of equations with elimination",
+          "slug": "x2f8bb11595b61c86:solving-systems-elimination",
+          "videos": [
+            {
+              "title": "Systems of equations with elimination: King's cupcakes",
+              "slug": "v/king-s-cupcakes-solving-systems-by-elimination",
+              "youtube_id": "xCIHAjsZCE0",
+              "youtube_url": "https://www.youtube.com/watch?v=xCIHAjsZCE0",
+              "duration_sec": 540,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/king-s-cupcakes-solving-systems-by-elimination"
+            },
+            {
+              "title": "Elimination strategies",
+              "slug": "v/elimination-strategies",
+              "youtube_id": "5jgSW5Jb-Y8",
+              "youtube_url": "https://www.youtube.com/watch?v=5jgSW5Jb-Y8",
+              "duration_sec": 436,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/elimination-strategies"
+            },
+            {
+              "title": "Systems of equations with elimination: x-4y=-18 & -x+3y=11",
+              "slug": "v/simple-elimination-practice",
+              "youtube_id": "NPXTkj75-AM",
+              "youtube_url": "https://www.youtube.com/watch?v=NPXTkj75-AM",
+              "duration_sec": 359,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/simple-elimination-practice"
+            },
+            {
+              "title": "Systems of equations with elimination: potato chips",
+              "slug": "v/how-many-bags-of-potato-chips-do-people-eat",
+              "youtube_id": "VuJEidLhY1E",
+              "youtube_url": "https://www.youtube.com/watch?v=VuJEidLhY1E",
+              "duration_sec": 561,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/how-many-bags-of-potato-chips-do-people-eat"
+            },
+            {
+              "title": "Systems of equations with elimination (and manipulation)",
+              "slug": "v/solving-systems-of-equations-by-multiplication",
+              "youtube_id": "wYrxKGt_bLg",
+              "youtube_url": "https://www.youtube.com/watch?v=wYrxKGt_bLg",
+              "duration_sec": 721,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/solving-systems-of-equations-by-multiplication"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Equivalent systems of equations",
+          "slug": "x2f8bb11595b61c86:equivalent-systems-equations",
+          "videos": [
+            {
+              "title": "Why can we subtract one equation from the other in a system of equations?",
+              "slug": "v/why-we-do-the-same-thing-to-both-sides-basic-systems",
+              "youtube_id": "h9ZgZimXn2Q",
+              "youtube_url": "https://www.youtube.com/watch?v=h9ZgZimXn2Q",
+              "duration_sec": 493,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:equivalent-systems-equations/v/why-we-do-the-same-thing-to-both-sides-basic-systems"
+            },
+            {
+              "title": "Worked example: equivalent systems of equations",
+              "slug": "v/identifying-equivalent-systems-of-equations",
+              "youtube_id": "XstL_x4ucm4",
+              "youtube_url": "https://www.youtube.com/watch?v=XstL_x4ucm4",
+              "duration_sec": 331,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:equivalent-systems-equations/v/identifying-equivalent-systems-of-equations"
+            },
+            {
+              "title": "Worked example: non-equivalent systems of equations",
+              "slug": "v/identifying-non-equivalent-systems-of-equations",
+              "youtube_id": "PSDQdwL1T0M",
+              "youtube_url": "https://www.youtube.com/watch?v=PSDQdwL1T0M",
+              "duration_sec": 270,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:equivalent-systems-equations/v/identifying-non-equivalent-systems-of-equations"
+            },
+            {
+              "title": "Reasoning with systems of equations",
+              "slug": "v/reasoning-system-equations",
+              "youtube_id": "s1RB-IgAHr8",
+              "youtube_url": "https://www.youtube.com/watch?v=s1RB-IgAHr8",
+              "duration_sec": 516,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:equivalent-systems-equations/v/reasoning-system-equations"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Number of solutions to systems of equations",
+          "slug": "x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations",
+          "videos": [
+            {
+              "title": "Systems of equations number of solutions: fruit prices (1 of 2)",
+              "slug": "v/inconsistent-systems-of-equations",
+              "youtube_id": "NJRyxmommqQ",
+              "youtube_url": "https://www.youtube.com/watch?v=NJRyxmommqQ",
+              "duration_sec": 565,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/inconsistent-systems-of-equations"
+            },
+            {
+              "title": "Systems of equations number of solutions: fruit prices (2 of 2)",
+              "slug": "v/infinite-solutions-to-systems",
+              "youtube_id": "MpRUEGD2-_c",
+              "youtube_url": "https://www.youtube.com/watch?v=MpRUEGD2-_c",
+              "duration_sec": 428,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/infinite-solutions-to-systems"
+            },
+            {
+              "title": "Solutions to systems of equations: consistent vs. inconsistent",
+              "slug": "v/consistent-and-inconsistent-systems",
+              "youtube_id": "Ix8Nne-a-KQ",
+              "youtube_url": "https://www.youtube.com/watch?v=Ix8Nne-a-KQ",
+              "duration_sec": 329,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/consistent-and-inconsistent-systems"
+            },
+            {
+              "title": "Solutions to systems of equations: dependent vs. independent",
+              "slug": "v/independent-and-dependent-systems",
+              "youtube_id": "WSpF5uvApLA",
+              "youtube_url": "https://www.youtube.com/watch?v=WSpF5uvApLA",
+              "duration_sec": 310,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/independent-and-dependent-systems"
+            },
+            {
+              "title": "Number of solutions to a system of equations",
+              "slug": "v/solving-systems-by-graphing-2",
+              "youtube_id": "BNHLzEv6Mjg",
+              "youtube_url": "https://www.youtube.com/watch?v=BNHLzEv6Mjg",
+              "duration_sec": 206,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/solving-systems-by-graphing-2"
+            },
+            {
+              "title": "Number of solutions to a system of equations graphically",
+              "slug": "v/practice-thinking-about-number-of-solutions-to-systems",
+              "youtube_id": "SuB1gkto9LU",
+              "youtube_url": "https://www.youtube.com/watch?v=SuB1gkto9LU",
+              "duration_sec": 396,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/practice-thinking-about-number-of-solutions-to-systems"
+            },
+            {
+              "title": "Number of solutions to a system of equations algebraically",
+              "slug": "v/examples-algebraically-analyzing-solutions-to-systems",
+              "youtube_id": "ogEddosP1G8",
+              "youtube_url": "https://www.youtube.com/watch?v=ogEddosP1G8",
+              "duration_sec": 361,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/examples-algebraically-analyzing-solutions-to-systems"
+            },
+            {
+              "title": "How many solutions does a system of linear equations have if there are at least two?",
+              "slug": "v/understanding-systems-of-equations-example-2",
+              "youtube_id": "bzseeIVEslA",
+              "youtube_url": "https://www.youtube.com/watch?v=bzseeIVEslA",
+              "duration_sec": 132,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/understanding-systems-of-equations-example-2"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Systems of equations word problems",
+          "slug": "x2f8bb11595b61c86:systems-of-equations-word-problems",
+          "videos": [
+            {
+              "title": "Age word problem: Imran",
+              "slug": "v/ex-2-age-word-problem",
+              "youtube_id": "KyHvVJWjW6Y",
+              "youtube_url": "https://www.youtube.com/watch?v=KyHvVJWjW6Y",
+              "duration_sec": 223,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/ex-2-age-word-problem"
+            },
+            {
+              "title": "Age word problem: Ben & William",
+              "slug": "v/ex-3-age-word-problem",
+              "youtube_id": "RGbA2IyJILY",
+              "youtube_url": "https://www.youtube.com/watch?v=RGbA2IyJILY",
+              "duration_sec": 388,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/ex-3-age-word-problem"
+            },
+            {
+              "title": "Age word problem: Arman & Diya",
+              "slug": "v/ex-1-age-word-problem",
+              "youtube_id": "W-5liMGKgHA",
+              "youtube_url": "https://www.youtube.com/watch?v=W-5liMGKgHA",
+              "duration_sec": 321,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/ex-1-age-word-problem"
+            },
+            {
+              "title": "System of equations word problem: walk & ride",
+              "slug": "v/system-of-equations-distances-word-problem",
+              "youtube_id": "Q0tTfe2lKIc",
+              "youtube_url": "https://www.youtube.com/watch?v=Q0tTfe2lKIc",
+              "duration_sec": 420,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/system-of-equations-distances-word-problem"
+            },
+            {
+              "title": "System of equations word problem: no solution",
+              "slug": "v/systems-word-problem-with-no-solution",
+              "youtube_id": "SRn3WhhS6vs",
+              "youtube_url": "https://www.youtube.com/watch?v=SRn3WhhS6vs",
+              "duration_sec": 303,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/systems-word-problem-with-no-solution"
+            },
+            {
+              "title": "System of equations word problem: infinite solutions",
+              "slug": "v/system-with-not-enough-information",
+              "youtube_id": "njb6xYF0GZ0",
+              "youtube_url": "https://www.youtube.com/watch?v=njb6xYF0GZ0",
+              "duration_sec": 301,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/system-with-not-enough-information"
+            },
+            {
+              "title": "Systems of equations with elimination: TV & DVD",
+              "slug": "v/solving-systems-by-elimination",
+              "youtube_id": "z1hz8-Kri1E",
+              "youtube_url": "https://www.youtube.com/watch?v=z1hz8-Kri1E",
+              "duration_sec": 351,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/solving-systems-by-elimination"
+            },
+            {
+              "title": "Systems of equations with elimination: apples and oranges",
+              "slug": "v/using-a-system-of-equations-to-find-the-price-of-apples-and-oranges",
+              "youtube_id": "gRntusF_tVI",
+              "youtube_url": "https://www.youtube.com/watch?v=gRntusF_tVI",
+              "duration_sec": 306,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/using-a-system-of-equations-to-find-the-price-of-apples-and-oranges"
+            },
+            {
+              "title": "Systems of equations with substitution: coins",
+              "slug": "v/substitution-method-3",
+              "youtube_id": "v6L8--MlnKo",
+              "youtube_url": "https://www.youtube.com/watch?v=v6L8--MlnKo",
+              "duration_sec": 358,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/substitution-method-3"
+            },
+            {
+              "title": "Systems of equations with elimination: coffee and croissants",
+              "slug": "v/understanding-systems-of-equations-example",
+              "youtube_id": "grmmM_KhQ4U",
+              "youtube_url": "https://www.youtube.com/watch?v=grmmM_KhQ4U",
+              "duration_sec": 255,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-of-equations-word-problems/v/understanding-systems-of-equations-example"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Inequalities (systems & graphs)",
+      "slug": "x2f8bb11595b61c86:inequalities-systems-graphs",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs",
+      "lessons": [
+        {
+          "title": "Checking solutions of two-variable inequalities",
+          "slug": "x2f8bb11595b61c86:checking-solutions-of-two-variable-inequalities",
+          "videos": [
+            {
+              "title": "Testing solutions to inequalities ",
+              "slug": "v/graphing-inequalities-1",
+              "youtube_id": "2oGsLdAWxlk",
+              "youtube_url": "https://www.youtube.com/watch?v=2oGsLdAWxlk",
+              "duration_sec": 366,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:checking-solutions-of-two-variable-inequalities/v/graphing-inequalities-1"
+            },
+            {
+              "title": "Testing solutions to systems of inequalities",
+              "slug": "v/testing-solutions-for-a-system-of-inequalities",
+              "youtube_id": "XzYNh2wpO0A",
+              "youtube_url": "https://www.youtube.com/watch?v=XzYNh2wpO0A",
+              "duration_sec": 75,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:checking-solutions-of-two-variable-inequalities/v/testing-solutions-for-a-system-of-inequalities"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Graphing two-variable inequalities",
+          "slug": "x2f8bb11595b61c86:graphing-two-variable-inequalities",
+          "videos": [
+            {
+              "title": "Intro to graphing two-variable inequalities",
+              "slug": "v/graphing-inequalities",
+              "youtube_id": "unSBFwK881s",
+              "youtube_url": "https://www.youtube.com/watch?v=unSBFwK881s",
+              "duration_sec": 483,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:graphing-two-variable-inequalities/v/graphing-inequalities"
+            },
+            {
+              "title": "Graphing two-variable inequalities",
+              "slug": "v/graphing-linear-inequalities-in-two-variables-example-2",
+              "youtube_id": "FnrqBgot3jM",
+              "youtube_url": "https://www.youtube.com/watch?v=FnrqBgot3jM",
+              "duration_sec": 183,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:graphing-two-variable-inequalities/v/graphing-linear-inequalities-in-two-variables-example-2"
+            },
+            {
+              "title": "Two-variable inequalities from their graphs",
+              "slug": "v/graphing-linear-inequalities-in-two-variables-3",
+              "youtube_id": "YBYu5aZPLeg",
+              "youtube_url": "https://www.youtube.com/watch?v=YBYu5aZPLeg",
+              "duration_sec": 200,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:graphing-two-variable-inequalities/v/graphing-linear-inequalities-in-two-variables-3"
+            },
+            {
+              "title": "Intro to graphing systems of inequalities",
+              "slug": "v/graphical-system-of-inequalities",
+              "youtube_id": "CA4S7S-3Lg4",
+              "youtube_url": "https://www.youtube.com/watch?v=CA4S7S-3Lg4",
+              "duration_sec": 336,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:graphing-two-variable-inequalities/v/graphical-system-of-inequalities"
+            },
+            {
+              "title": "Graphing systems of inequalities",
+              "slug": "v/graphing-systems-of-inequalities-2",
+              "youtube_id": "YjT3QYfoy4Q",
+              "youtube_url": "https://www.youtube.com/watch?v=YjT3QYfoy4Q",
+              "duration_sec": 204,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:graphing-two-variable-inequalities/v/graphing-systems-of-inequalities-2"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Modeling with linear inequalities",
+          "slug": "x2f8bb11595b61c86:modeling-with-linear-inequalities",
+          "videos": [
+            {
+              "title": "Writing two-variable inequalities word problem",
+              "slug": "v/constructing-two-variable-linear-inequality-word-problem",
+              "youtube_id": "MHgi8ZQCG0I",
+              "youtube_url": "https://www.youtube.com/watch?v=MHgi8ZQCG0I",
+              "duration_sec": 142,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/constructing-two-variable-linear-inequality-word-problem"
+            },
+            {
+              "title": "Solving two-variable inequalities word problem",
+              "slug": "v/solving-two-variable-linear-inequality-word-problem",
+              "youtube_id": "ysdY1iX_XCs",
+              "youtube_url": "https://www.youtube.com/watch?v=ysdY1iX_XCs",
+              "duration_sec": 222,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/solving-two-variable-linear-inequality-word-problem"
+            },
+            {
+              "title": "Interpreting two-variable inequalities word problem",
+              "slug": "v/analyzing-two-variable-linear-inequality",
+              "youtube_id": "TTYDbGXgcCk",
+              "youtube_url": "https://www.youtube.com/watch?v=TTYDbGXgcCk",
+              "duration_sec": 260,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/analyzing-two-variable-linear-inequality"
+            },
+            {
+              "title": "Modeling with systems of inequalities",
+              "slug": "v/u06-l3-t1-we3-graphing-systems-of-inequalities",
+              "youtube_id": "BUmLw5m6F9s",
+              "youtube_url": "https://www.youtube.com/watch?v=BUmLw5m6F9s",
+              "duration_sec": 585,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/u06-l3-t1-we3-graphing-systems-of-inequalities"
+            },
+            {
+              "title": "Writing systems of inequalities word problem",
+              "slug": "v/creating-system-of-inequalities-word-problem",
+              "youtube_id": "jRnkxSfwIpU",
+              "youtube_url": "https://www.youtube.com/watch?v=jRnkxSfwIpU",
+              "duration_sec": 240,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/creating-system-of-inequalities-word-problem"
+            },
+            {
+              "title": "Solving systems of inequalities word problem",
+              "slug": "v/interpreting-system-of-inequalities-in-context",
+              "youtube_id": "ZTKAn9YNbNY",
+              "youtube_url": "https://www.youtube.com/watch?v=ZTKAn9YNbNY",
+              "duration_sec": 265,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/interpreting-system-of-inequalities-in-context"
+            },
+            {
+              "title": "Graphs of systems of inequalities word problem",
+              "slug": "v/graph-of-system-of-inequalities-word-problem",
+              "youtube_id": "C_7Tqk9fw4k",
+              "youtube_url": "https://www.youtube.com/watch?v=C_7Tqk9fw4k",
+              "duration_sec": 215,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/graph-of-system-of-inequalities-word-problem"
+            },
+            {
+              "title": "Graphs of two-variable inequalities word problem",
+              "slug": "v/interpreting-visual-linear-inequality-word-problem",
+              "youtube_id": "DhiiGFuUE9I",
+              "youtube_url": "https://www.youtube.com/watch?v=DhiiGFuUE9I",
+              "duration_sec": 299,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/interpreting-visual-linear-inequality-word-problem"
+            },
+            {
+              "title": "Creativity break: What can we do to expand our creative skills?",
+              "slug": "v/expand-creative-skills",
+              "youtube_id": "SFUG5KpIf_Q",
+              "youtube_url": "https://www.youtube.com/watch?v=SFUG5KpIf_Q",
+              "duration_sec": 88,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:modeling-with-linear-inequalities/v/expand-creative-skills"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Functions",
+      "slug": "x2f8bb11595b61c86:functions",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:functions",
+      "lessons": [
+        {
+          "title": "Evaluating functions",
+          "slug": "x2f8bb11595b61c86:evaluating-functions",
+          "videos": [
+            {
+              "title": "What is a function?",
+              "slug": "v/what-is-a-function",
+              "youtube_id": "kvGsIo1TmsM",
+              "youtube_url": "https://www.youtube.com/watch?v=kvGsIo1TmsM",
+              "duration_sec": 477,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:evaluating-functions/v/what-is-a-function"
+            },
+            {
+              "title": "Worked example: Evaluating functions from equation",
+              "slug": "v/understanding-function-notation-example-1",
+              "youtube_id": "Id6UovYjd-M",
+              "youtube_url": "https://www.youtube.com/watch?v=Id6UovYjd-M",
+              "duration_sec": 59,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:evaluating-functions/v/understanding-function-notation-example-1"
+            },
+            {
+              "title": "Worked example: Evaluating functions from graph",
+              "slug": "v/understanding-function-notation-example-2",
+              "youtube_id": "kzYtx_AqzjM",
+              "youtube_url": "https://www.youtube.com/watch?v=kzYtx_AqzjM",
+              "duration_sec": 44,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:evaluating-functions/v/understanding-function-notation-example-2"
+            },
+            {
+              "title": "Evaluating discrete functions",
+              "slug": "v/evaluate-discrete-function",
+              "youtube_id": "Ddw8u7nNmKs",
+              "youtube_url": "https://www.youtube.com/watch?v=Ddw8u7nNmKs",
+              "duration_sec": 200,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:evaluating-functions/v/evaluate-discrete-function"
+            },
+            {
+              "title": "Worked example: evaluating expressions with function notation",
+              "slug": "v/evaluating-a-function-expression",
+              "youtube_id": "uaPm3Tpuxbc",
+              "youtube_url": "https://www.youtube.com/watch?v=uaPm3Tpuxbc",
+              "duration_sec": 83,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:evaluating-functions/v/evaluating-a-function-expression"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Inputs and outputs of a function",
+          "slug": "x2f8bb11595b61c86:inputs-and-outputs-of-a-function",
+          "videos": [
+            {
+              "title": "Worked example: matching an input to a function's output (equation)",
+              "slug": "v/finding-input-given-function-output-formula",
+              "youtube_id": "tJBQZ3PUkPo",
+              "youtube_url": "https://www.youtube.com/watch?v=tJBQZ3PUkPo",
+              "duration_sec": 100,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:inputs-and-outputs-of-a-function/v/finding-input-given-function-output-formula"
+            },
+            {
+              "title": "Worked example: matching an input to a function's output (graph)",
+              "slug": "v/matching-function-input-to-output-with-graph",
+              "youtube_id": "0Rmmynff5Yc",
+              "youtube_url": "https://www.youtube.com/watch?v=0Rmmynff5Yc",
+              "duration_sec": 67,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:inputs-and-outputs-of-a-function/v/matching-function-input-to-output-with-graph"
+            },
+            {
+              "title": "Worked example: two inputs with the same output (graph)",
+              "slug": "v/different-inputs-giving-same-value-for-function",
+              "youtube_id": "qSktOkaW6EA",
+              "youtube_url": "https://www.youtube.com/watch?v=qSktOkaW6EA",
+              "duration_sec": 108,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:inputs-and-outputs-of-a-function/v/different-inputs-giving-same-value-for-function"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Functions and equations",
+          "slug": "x2f8bb11595b61c86:functions-and-equations",
+          "videos": [
+            {
+              "title": "Equations vs. functions",
+              "slug": "v/difference-between-equations-and-functions",
+              "youtube_id": "l3iXON1xEC4",
+              "youtube_url": "https://www.youtube.com/watch?v=l3iXON1xEC4",
+              "duration_sec": 258,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:functions-and-equations/v/difference-between-equations-and-functions"
+            },
+            {
+              "title": "Obtaining a function from an equation",
+              "slug": "v/create-function-from-equation",
+              "youtube_id": "OOim0QPsJ9o",
+              "youtube_url": "https://www.youtube.com/watch?v=OOim0QPsJ9o",
+              "duration_sec": 184,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:functions-and-equations/v/create-function-from-equation"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Interpreting function notation",
+          "slug": "x2f8bb11595b61c86:interpreting-function-notation",
+          "videos": [
+            {
+              "title": "Function notation word problem: bank",
+              "slug": "v/interpreting-function-notation-example-1",
+              "youtube_id": "HERb3x0aw6c",
+              "youtube_url": "https://www.youtube.com/watch?v=HERb3x0aw6c",
+              "duration_sec": 204,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:interpreting-function-notation/v/interpreting-function-notation-example-1"
+            },
+            {
+              "title": "Function notation word problem: beach",
+              "slug": "v/interpreting-function-notation-example-2",
+              "youtube_id": "94Gnto5G1PU",
+              "youtube_url": "https://www.youtube.com/watch?v=94Gnto5G1PU",
+              "duration_sec": 156,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:interpreting-function-notation/v/interpreting-function-notation-example-2"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Introduction to the domain and range of a function",
+          "slug": "x2f8bb11595b61c86:introduction-to-the-domain-and-range-of-a-function",
+          "videos": [
+            {
+              "title": "Intervals and interval notation",
+              "slug": "v/introduction-to-interval-notation",
+              "youtube_id": "UJQkqV2zGv0",
+              "youtube_url": "https://www.youtube.com/watch?v=UJQkqV2zGv0",
+              "duration_sec": 576,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:introduction-to-the-domain-and-range-of-a-function/v/introduction-to-interval-notation"
+            },
+            {
+              "title": "What is the domain of a function?",
+              "slug": "v/domain-of-a-function-intro",
+              "youtube_id": "-DTMakGDZAw",
+              "youtube_url": "https://www.youtube.com/watch?v=-DTMakGDZAw",
+              "duration_sec": 405,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:introduction-to-the-domain-and-range-of-a-function/v/domain-of-a-function-intro"
+            },
+            {
+              "title": "What is the range of a function?",
+              "slug": "v/range-of-a-function",
+              "youtube_id": "96uHMcHWD2E",
+              "youtube_url": "https://www.youtube.com/watch?v=96uHMcHWD2E",
+              "duration_sec": 399,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:introduction-to-the-domain-and-range-of-a-function/v/range-of-a-function"
+            },
+            {
+              "title": "Worked example: domain and range from graph",
+              "slug": "v/domain-and-range-from-graphs",
+              "youtube_id": "sXP7VhU1gYE",
+              "youtube_url": "https://www.youtube.com/watch?v=sXP7VhU1gYE",
+              "duration_sec": 214,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:introduction-to-the-domain-and-range-of-a-function/v/domain-and-range-from-graphs"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Determining the domain of a function",
+          "slug": "x2f8bb11595b61c86:determining-the-domain-of-a-function",
+          "videos": [
+            {
+              "title": "Determining whether values are in domain of function",
+              "slug": "v/determine-values-domain",
+              "youtube_id": "LdbrNNheFg8",
+              "youtube_url": "https://www.youtube.com/watch?v=LdbrNNheFg8",
+              "duration_sec": 297,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:determining-the-domain-of-a-function/v/determine-values-domain"
+            },
+            {
+              "title": "Examples finding the domain of functions",
+              "slug": "v/find-domain-function",
+              "youtube_id": "4ZWbeESjv4M",
+              "youtube_url": "https://www.youtube.com/watch?v=4ZWbeESjv4M",
+              "duration_sec": 265,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:determining-the-domain-of-a-function/v/find-domain-function"
+            },
+            {
+              "title": "Worked example: determining domain word problem (real numbers)",
+              "slug": "v/domain-of-a-modeling-function-example-1",
+              "youtube_id": "2DnQEaNTd08",
+              "youtube_url": "https://www.youtube.com/watch?v=2DnQEaNTd08",
+              "duration_sec": 139,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:determining-the-domain-of-a-function/v/domain-of-a-modeling-function-example-1"
+            },
+            {
+              "title": "Worked example: determining domain word problem (positive integers)",
+              "slug": "v/domain-of-a-modeling-function-example-2",
+              "youtube_id": "AiW7syKXfJM",
+              "youtube_url": "https://www.youtube.com/watch?v=AiW7syKXfJM",
+              "duration_sec": 154,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:determining-the-domain-of-a-function/v/domain-of-a-modeling-function-example-2"
+            },
+            {
+              "title": "Worked example: determining domain word problem (all integers)",
+              "slug": "v/domain-of-a-modeling-function-example-3",
+              "youtube_id": "d1O54EQ1DSE",
+              "youtube_url": "https://www.youtube.com/watch?v=d1O54EQ1DSE",
+              "duration_sec": 334,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:determining-the-domain-of-a-function/v/domain-of-a-modeling-function-example-3"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Recognizing functions",
+          "slug": "x2f8bb11595b61c86:recognizing-functions",
+          "videos": [
+            {
+              "title": "Recognizing functions from graph",
+              "slug": "v/graphical-relations-and-functions",
+              "youtube_id": "qGmJ4F3b5W8",
+              "youtube_url": "https://www.youtube.com/watch?v=qGmJ4F3b5W8",
+              "duration_sec": 247,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:recognizing-functions/v/graphical-relations-and-functions"
+            },
+            {
+              "title": "Does a vertical line represent a function?",
+              "slug": "v/recognizing-functions-example-2",
+              "youtube_id": "_npwsLh0vws",
+              "youtube_url": "https://www.youtube.com/watch?v=_npwsLh0vws",
+              "duration_sec": 100,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:recognizing-functions/v/recognizing-functions-example-2"
+            },
+            {
+              "title": "Recognizing functions from table",
+              "slug": "v/functional-relationships-1",
+              "youtube_id": "5cK86VKoBPw",
+              "youtube_url": "https://www.youtube.com/watch?v=5cK86VKoBPw",
+              "duration_sec": 280,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:recognizing-functions/v/functional-relationships-1"
+            },
+            {
+              "title": "Recognizing functions from verbal description",
+              "slug": "v/recognizing-functions-example-1",
+              "youtube_id": "tBRW-CyJE6k",
+              "youtube_url": "https://www.youtube.com/watch?v=tBRW-CyJE6k",
+              "duration_sec": 91,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:recognizing-functions/v/recognizing-functions-example-1"
+            },
+            {
+              "title": "Recognizing functions from verbal description word problems",
+              "slug": "v/recognizing-functions-example-5",
+              "youtube_id": "z45UEiPaE8c",
+              "youtube_url": "https://www.youtube.com/watch?v=z45UEiPaE8c",
+              "duration_sec": 203,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:recognizing-functions/v/recognizing-functions-example-5"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Maximum and minimum points",
+          "slug": "x2f8bb11595b61c86:maximum-and-minimum-points",
+          "videos": [
+            {
+              "title": "Introducing minimum and maximum points",
+              "slug": "v/relative-minima-maxima",
+              "youtube_id": "Hoyv3-BMAGc",
+              "youtube_url": "https://www.youtube.com/watch?v=Hoyv3-BMAGc",
+              "duration_sec": 330,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:maximum-and-minimum-points/v/relative-minima-maxima"
+            },
+            {
+              "title": "Worked example: absolute and relative extrema",
+              "slug": "v/identifying-relative-and-absolute-maxima-and-minima",
+              "youtube_id": "xmrhZ5ySaD0",
+              "youtube_url": "https://www.youtube.com/watch?v=xmrhZ5ySaD0",
+              "duration_sec": 298,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:maximum-and-minimum-points/v/identifying-relative-and-absolute-maxima-and-minima"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Intervals where a function is positive, negative, increasing, or decreasing",
+          "slug": "x2f8bb11595b61c86:intervals-where-a-function-is-positive-negative-increasing-or-decreasing",
+          "videos": [
+            {
+              "title": "Increasing, decreasing, positive or negative intervals",
+              "slug": "v/increasing-decreasing-positive-and-negative-intervals",
+              "youtube_id": "KxOp3s9ottg",
+              "youtube_url": "https://www.youtube.com/watch?v=KxOp3s9ottg",
+              "duration_sec": 356,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:intervals-where-a-function-is-positive-negative-increasing-or-decreasing/v/increasing-decreasing-positive-and-negative-intervals"
+            },
+            {
+              "title": "Worked example: positive & negative intervals",
+              "slug": "v/when-a-function-is-positive-or-negative",
+              "youtube_id": "eDv7dk9uNmM",
+              "youtube_url": "https://www.youtube.com/watch?v=eDv7dk9uNmM",
+              "duration_sec": 70,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:intervals-where-a-function-is-positive-negative-increasing-or-decreasing/v/when-a-function-is-positive-or-negative"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Interpreting features of graphs",
+          "slug": "x2f8bb11595b61c86:interpreting-features-of-graphs",
+          "videos": [
+            {
+              "title": "Graph interpretation word problem: temperature",
+              "slug": "v/interpreting-function-graphs-word-problems",
+              "youtube_id": "VtBRkjRua0I",
+              "youtube_url": "https://www.youtube.com/watch?v=VtBRkjRua0I",
+              "duration_sec": 235,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:interpreting-features-of-graphs/v/interpreting-function-graphs-word-problems"
+            },
+            {
+              "title": "Graph interpretation word problem: basketball",
+              "slug": "v/interpreting-features-of-functions-2-example-1",
+              "youtube_id": "M3PTPN7NH8M",
+              "youtube_url": "https://www.youtube.com/watch?v=M3PTPN7NH8M",
+              "duration_sec": 230,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:interpreting-features-of-graphs/v/interpreting-features-of-functions-2-example-1"
+            },
+            {
+              "title": "Creativity break: How can people get creative in algebra",
+              "slug": "v/how-creative-in-algebra",
+              "youtube_id": "DXPz0-HCK80",
+              "youtube_url": "https://www.youtube.com/watch?v=DXPz0-HCK80",
+              "duration_sec": 67,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:interpreting-features-of-graphs/v/how-creative-in-algebra"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Average rate of change",
+          "slug": "x2f8bb11595b61c86:average-rate-of-change",
+          "videos": [
+            {
+              "title": "Introduction to average rate of change",
+              "slug": "v/introduction-to-average-rate-of-change",
+              "youtube_id": "oT6LclcJ-I8",
+              "youtube_url": "https://www.youtube.com/watch?v=oT6LclcJ-I8",
+              "duration_sec": 332,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:average-rate-of-change/v/introduction-to-average-rate-of-change"
+            },
+            {
+              "title": "Worked example: average rate of change from graph",
+              "slug": "v/average-rate-of-change-example-1",
+              "youtube_id": "TEXSW-o8674",
+              "youtube_url": "https://www.youtube.com/watch?v=TEXSW-o8674",
+              "duration_sec": 135,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:average-rate-of-change/v/average-rate-of-change-example-1"
+            },
+            {
+              "title": "Worked example: average rate of change from table",
+              "slug": "v/average-rate-of-change-example-3",
+              "youtube_id": "U1lQbh21y1k",
+              "youtube_url": "https://www.youtube.com/watch?v=U1lQbh21y1k",
+              "duration_sec": 140,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:average-rate-of-change/v/average-rate-of-change-example-3"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Average rate of change word problems",
+          "slug": "x2f8bb11595b61c86:average-rate-of-change-word-problems",
+          "videos": [
+            {
+              "title": "Average rate of change word problem: table",
+              "slug": "v/average-rate-of-change-from-table-word-problem",
+              "youtube_id": "FBWGRbHf7rU",
+              "youtube_url": "https://www.youtube.com/watch?v=FBWGRbHf7rU",
+              "duration_sec": 220,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:average-rate-of-change-word-problems/v/average-rate-of-change-from-table-word-problem"
+            },
+            {
+              "title": "Average rate of change word problem: graph",
+              "slug": "v/average-rate-of-change-from-graph-word-problem",
+              "youtube_id": "-6EqUILZ1yw",
+              "youtube_url": "https://www.youtube.com/watch?v=-6EqUILZ1yw",
+              "duration_sec": 418,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:average-rate-of-change-word-problems/v/average-rate-of-change-from-graph-word-problem"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Intro to inverse functions",
+          "slug": "x2f8bb11595b61c86:inverse-functions-intro",
+          "videos": [
+            {
+              "title": "Intro to inverse functions",
+              "slug": "v/introduction-to-function-inverses",
+              "youtube_id": "W84lObmOp8M",
+              "youtube_url": "https://www.youtube.com/watch?v=W84lObmOp8M",
+              "duration_sec": 545,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:inverse-functions-intro/v/introduction-to-function-inverses"
+            },
+            {
+              "title": "Inputs & outputs of inverse functions",
+              "slug": "v/understanding-inverse-functions",
+              "youtube_id": "KzaPBzFFLRM",
+              "youtube_url": "https://www.youtube.com/watch?v=KzaPBzFFLRM",
+              "duration_sec": 379,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:inverse-functions-intro/v/understanding-inverse-functions"
+            },
+            {
+              "title": "Graphing the inverse of a linear function",
+              "slug": "v/understanding-function-inverses-example",
+              "youtube_id": "KPeS2gdizhQ",
+              "youtube_url": "https://www.youtube.com/watch?v=KPeS2gdizhQ",
+              "duration_sec": 137,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:inverse-functions-intro/v/understanding-function-inverses-example"
+            },
+            {
+              "title": "Finding inverse functions: linear",
+              "slug": "v/function-inverse-example-1",
+              "youtube_id": "wSiamij_i_k",
+              "youtube_url": "https://www.youtube.com/watch?v=wSiamij_i_k",
+              "duration_sec": 404,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:inverse-functions-intro/v/function-inverse-example-1"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Sequences",
+      "slug": "x2f8bb11595b61c86:sequences",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences",
+      "lessons": [
+        {
+          "title": "Introduction to arithmetic sequences",
+          "slug": "x2f8bb11595b61c86:introduction-to-arithmetic-sequences",
+          "videos": [
+            {
+              "title": "Sequences intro",
+              "slug": "v/explicit-and-recursive-definitions-of-sequences",
+              "youtube_id": "KRFiAlo7t1E",
+              "youtube_url": "https://www.youtube.com/watch?v=KRFiAlo7t1E",
+              "duration_sec": 498,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/v/explicit-and-recursive-definitions-of-sequences"
+            },
+            {
+              "title": "Intro to arithmetic sequences",
+              "slug": "v/arithmetic-sequences",
+              "youtube_id": "_cooC3yG_p0",
+              "youtube_url": "https://www.youtube.com/watch?v=_cooC3yG_p0",
+              "duration_sec": 427,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/v/arithmetic-sequences"
+            },
+            {
+              "title": "Extending arithmetic sequences",
+              "slug": "v/extending-arithmetic-sequences",
+              "youtube_id": "EU0c6qrrevA",
+              "youtube_url": "https://www.youtube.com/watch?v=EU0c6qrrevA",
+              "duration_sec": 67,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/v/extending-arithmetic-sequences"
+            },
+            {
+              "title": "Using arithmetic sequences formulas",
+              "slug": "v/using-arithmetic-sequences-formulas",
+              "youtube_id": "8eSUbi_aYL4",
+              "youtube_url": "https://www.youtube.com/watch?v=8eSUbi_aYL4",
+              "duration_sec": 218,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/v/using-arithmetic-sequences-formulas"
+            },
+            {
+              "title": "Worked example: using recursive formula for arithmetic sequence",
+              "slug": "v/using-recursive-formula-for-arithmetic-sequence",
+              "youtube_id": "v1ucHH06AxM",
+              "youtube_url": "https://www.youtube.com/watch?v=v1ucHH06AxM",
+              "duration_sec": 172,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/v/using-recursive-formula-for-arithmetic-sequence"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Constructing arithmetic sequences",
+          "slug": "x2f8bb11595b61c86:constructing-arithmetic-sequences",
+          "videos": [
+            {
+              "title": "Recursive formulas for arithmetic sequences",
+              "slug": "v/recursive-formula-for-arithmetic-sequence",
+              "youtube_id": "lBtb30SjU2Q",
+              "youtube_url": "https://www.youtube.com/watch?v=lBtb30SjU2Q",
+              "duration_sec": 186,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-arithmetic-sequences/v/recursive-formula-for-arithmetic-sequence"
+            },
+            {
+              "title": "Explicit formulas for arithmetic sequences",
+              "slug": "v/explicit-formulas-for-arithmetic-sequences",
+              "youtube_id": "ViLt2WI0XSg",
+              "youtube_url": "https://www.youtube.com/watch?v=ViLt2WI0XSg",
+              "duration_sec": 377,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-arithmetic-sequences/v/explicit-formulas-for-arithmetic-sequences"
+            },
+            {
+              "title": "Arithmetic sequence problem",
+              "slug": "v/finding-the-100th-term-in-a-sequence",
+              "youtube_id": "C5titprQAc4",
+              "youtube_url": "https://www.youtube.com/watch?v=C5titprQAc4",
+              "duration_sec": 357,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-arithmetic-sequences/v/finding-the-100th-term-in-a-sequence"
+            },
+            {
+              "title": "Converting recursive & explicit forms of arithmetic sequences",
+              "slug": "v/recursive-formulas-for-arithmetic-sequences",
+              "youtube_id": "GA_yxxeFYBU",
+              "youtube_url": "https://www.youtube.com/watch?v=GA_yxxeFYBU",
+              "duration_sec": 368,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-arithmetic-sequences/v/recursive-formulas-for-arithmetic-sequences"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Introduction to geometric sequences",
+          "slug": "x2f8bb11595b61c86:introduction-to-geometric-sequences",
+          "videos": [
+            {
+              "title": "Intro to geometric sequences",
+              "slug": "v/geometric-sequences-introduction",
+              "youtube_id": "pXo0bG4iAyg",
+              "youtube_url": "https://www.youtube.com/watch?v=pXo0bG4iAyg",
+              "duration_sec": 645,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-geometric-sequences/v/geometric-sequences-introduction"
+            },
+            {
+              "title": "Extending geometric sequences",
+              "slug": "v/extending-geometric-sequences",
+              "youtube_id": "yZ-GufE_uyA",
+              "youtube_url": "https://www.youtube.com/watch?v=yZ-GufE_uyA",
+              "duration_sec": 134,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-geometric-sequences/v/extending-geometric-sequences"
+            },
+            {
+              "title": "Using explicit formulas of geometric sequences",
+              "slug": "v/using-explicit-formulas-of-geometric-sequences",
+              "youtube_id": "HODIXLzIMIk",
+              "youtube_url": "https://www.youtube.com/watch?v=HODIXLzIMIk",
+              "duration_sec": 97,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-geometric-sequences/v/using-explicit-formulas-of-geometric-sequences"
+            },
+            {
+              "title": "Using recursive formulas of geometric sequences",
+              "slug": "v/using-recursive-formulas-of-geometric-sequences",
+              "youtube_id": "RkJBZALhXRA",
+              "youtube_url": "https://www.youtube.com/watch?v=RkJBZALhXRA",
+              "duration_sec": 226,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-geometric-sequences/v/using-recursive-formulas-of-geometric-sequences"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Constructing geometric sequences",
+          "slug": "x2f8bb11595b61c86:constructing-geometric-sequences",
+          "videos": [
+            {
+              "title": "Explicit & recursive formulas for geometric sequences",
+              "slug": "v/explicit-and-recursive-formulas-for-geometric-sequences",
+              "youtube_id": "8a1a5A3CfdQ",
+              "youtube_url": "https://www.youtube.com/watch?v=8a1a5A3CfdQ",
+              "duration_sec": 338,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-geometric-sequences/v/explicit-and-recursive-formulas-for-geometric-sequences"
+            },
+            {
+              "title": "Converting recursive & explicit forms of geometric sequences",
+              "slug": "v/converting-an-explicit-function-to-a-recursive-function",
+              "youtube_id": "Iq7a2vEsT-o",
+              "youtube_url": "https://www.youtube.com/watch?v=Iq7a2vEsT-o",
+              "duration_sec": 390,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-geometric-sequences/v/converting-an-explicit-function-to-a-recursive-function"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Modeling with sequences",
+          "slug": "x2f8bb11595b61c86:modeling-with-sequences",
+          "videos": [
+            {
+              "title": "Sequences word problems",
+              "slug": "v/modeling-situations-with-arithmetic-and-geometric-sequences",
+              "youtube_id": "yYGf7xn7TyM",
+              "youtube_url": "https://www.youtube.com/watch?v=yYGf7xn7TyM",
+              "duration_sec": 343,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:modeling-with-sequences/v/modeling-situations-with-arithmetic-and-geometric-sequences"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "General sequences",
+          "slug": "x2f8bb11595b61c86:general-sequences",
+          "videos": [
+            {
+              "title": "Evaluating sequences in recursive form",
+              "slug": "v/recursive-formulas-for-sequences",
+              "youtube_id": "Kjli0Gunkds",
+              "youtube_url": "https://www.youtube.com/watch?v=Kjli0Gunkds",
+              "duration_sec": 547,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:general-sequences/v/recursive-formulas-for-sequences"
+            },
+            {
+              "title": "Sequences and domain",
+              "slug": "v/sequences-and-domain",
+              "youtube_id": "TymkzM7J1PY",
+              "youtube_url": "https://www.youtube.com/watch?v=TymkzM7J1PY",
+              "duration_sec": 376,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:general-sequences/v/sequences-and-domain"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Absolute value & piecewise functions",
+      "slug": "x2f8bb11595b61c86:absolute-value-piecewise-functions",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions",
+      "lessons": [
+        {
+          "title": "Graphs of absolute value functions",
+          "slug": "x2f8bb11595b61c86:graphs-of-absolute-value-functions",
+          "videos": [
+            {
+              "title": "Shifting absolute value graphs",
+              "slug": "v/shifting-absolute-value-graphs",
+              "youtube_id": "Wri26sPEBoI",
+              "youtube_url": "https://www.youtube.com/watch?v=Wri26sPEBoI",
+              "duration_sec": 372,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:graphs-of-absolute-value-functions/v/shifting-absolute-value-graphs"
+            },
+            {
+              "title": "Scaling & reflecting absolute value functions: equation",
+              "slug": "v/reflecting-and-scaling-absolute-value-function",
+              "youtube_id": "lPcahMeUYcU",
+              "youtube_url": "https://www.youtube.com/watch?v=lPcahMeUYcU",
+              "duration_sec": 253,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:graphs-of-absolute-value-functions/v/reflecting-and-scaling-absolute-value-function"
+            },
+            {
+              "title": "Scaling & reflecting absolute value functions: graph",
+              "slug": "v/scaling-and-reflecting-absolute-value-graphs",
+              "youtube_id": "Yyfk0rwuZSE",
+              "youtube_url": "https://www.youtube.com/watch?v=Yyfk0rwuZSE",
+              "duration_sec": 208,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:graphs-of-absolute-value-functions/v/scaling-and-reflecting-absolute-value-graphs"
+            },
+            {
+              "title": "Graphing absolute value functions",
+              "slug": "v/graphing-absolute-value-functions",
+              "youtube_id": "v6Ct2OEmGNU",
+              "youtube_url": "https://www.youtube.com/watch?v=v6Ct2OEmGNU",
+              "duration_sec": 371,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:graphs-of-absolute-value-functions/v/graphing-absolute-value-functions"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Piecewise functions",
+          "slug": "x2f8bb11595b61c86:piecewise-functions",
+          "videos": [
+            {
+              "title": "Introduction to piecewise functions",
+              "slug": "v/piecewise-function-example",
+              "youtube_id": "tedzsRH0Jas",
+              "youtube_url": "https://www.youtube.com/watch?v=tedzsRH0Jas",
+              "duration_sec": 229,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:piecewise-functions/v/piecewise-function-example"
+            },
+            {
+              "title": "Worked example: evaluating piecewise functions",
+              "slug": "v/evaluating-piecewise-functions-example",
+              "youtube_id": "hg2HR9zJFq4",
+              "youtube_url": "https://www.youtube.com/watch?v=hg2HR9zJFq4",
+              "duration_sec": 264,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:piecewise-functions/v/evaluating-piecewise-functions-example"
+            },
+            {
+              "title": "Worked example: graphing piecewise functions",
+              "slug": "v/graphing-piecewise-function",
+              "youtube_id": "PQiXRrT_14o",
+              "youtube_url": "https://www.youtube.com/watch?v=PQiXRrT_14o",
+              "duration_sec": 270,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:piecewise-functions/v/graphing-piecewise-function"
+            },
+            {
+              "title": "Worked example: domain & range of step function",
+              "slug": "v/domain-and-range-for-piecewise-step-function",
+              "youtube_id": "4n7TIvRHuDs",
+              "youtube_url": "https://www.youtube.com/watch?v=4n7TIvRHuDs",
+              "duration_sec": 164,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:piecewise-functions/v/domain-and-range-for-piecewise-step-function"
+            },
+            {
+              "title": "Worked example: domain & range of piecewise linear functions",
+              "slug": "v/domain-and-range-for-piecewise-linear-function",
+              "youtube_id": "rpI-X9Gn5a4",
+              "youtube_url": "https://www.youtube.com/watch?v=rpI-X9Gn5a4",
+              "duration_sec": 445,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:piecewise-functions/v/domain-and-range-for-piecewise-linear-function"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Exponents & radicals",
+      "slug": "x2f8bb11595b61c86:rational-exponents-radicals",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals",
+      "lessons": [
+        {
+          "title": "Exponent properties review",
+          "slug": "x2f8bb11595b61c86:exponent-properties-review",
+          "videos": [
+            {
+              "title": "Multiplying & dividing powers (integer exponents)",
+              "slug": "v/multiplying-and-dividing-powers-with-integer-exponents",
+              "youtube_id": "CZ5ne_mX5_I",
+              "youtube_url": "https://www.youtube.com/watch?v=CZ5ne_mX5_I",
+              "duration_sec": 264,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:exponent-properties-review/v/multiplying-and-dividing-powers-with-integer-exponents"
+            },
+            {
+              "title": "Powers of products & quotients (integer exponents)",
+              "slug": "v/powers-of-products-and-quotients-integer-exponents",
+              "youtube_id": "dC1ojsMi1yU",
+              "youtube_url": "https://www.youtube.com/watch?v=dC1ojsMi1yU",
+              "duration_sec": 404,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:exponent-properties-review/v/powers-of-products-and-quotients-integer-exponents"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Radicals",
+          "slug": "x2f8bb11595b61c86:radicals",
+          "videos": [
+            {
+              "title": "Intro to square roots",
+              "slug": "v/introduction-to-square-roots",
+              "youtube_id": "mbc3_e5lWw0",
+              "youtube_url": "https://www.youtube.com/watch?v=mbc3_e5lWw0",
+              "duration_sec": 324,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:radicals/v/introduction-to-square-roots"
+            },
+            {
+              "title": "Understanding square roots",
+              "slug": "v/understanding-square-roots",
+              "youtube_id": "ROIfbUQrSY4",
+              "youtube_url": "https://www.youtube.com/watch?v=ROIfbUQrSY4",
+              "duration_sec": 81,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:radicals/v/understanding-square-roots"
+            },
+            {
+              "title": "Square root of decimal",
+              "slug": "v/finding-square-root-of-decimal",
+              "youtube_id": "tRHLEWSUjrQ",
+              "youtube_url": "https://www.youtube.com/watch?v=tRHLEWSUjrQ",
+              "duration_sec": 184,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:radicals/v/finding-square-root-of-decimal"
+            },
+            {
+              "title": "Intro to cube roots",
+              "slug": "v/introduction-to-cube-roots",
+              "youtube_id": "87_qIofPwhg",
+              "youtube_url": "https://www.youtube.com/watch?v=87_qIofPwhg",
+              "duration_sec": 481,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:radicals/v/introduction-to-cube-roots"
+            },
+            {
+              "title": "5th roots",
+              "slug": "v/5th-roots",
+              "youtube_id": "8wrtyW1RwNk",
+              "youtube_url": "https://www.youtube.com/watch?v=8wrtyW1RwNk",
+              "duration_sec": 261,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:radicals/v/5th-roots"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Simplifying square roots",
+          "slug": "x2f8bb11595b61c86:simplifying-square-roots",
+          "videos": [
+            {
+              "title": "Simplifying square roots",
+              "slug": "v/simplifying-square-roots-1",
+              "youtube_id": "cw3mp8oNASk",
+              "youtube_url": "https://www.youtube.com/watch?v=cw3mp8oNASk",
+              "duration_sec": 189,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:simplifying-square-roots/v/simplifying-square-roots-1"
+            },
+            {
+              "title": "Simplifying square roots (variables)",
+              "slug": "v/simplifying-square-roots-comment-response",
+              "youtube_id": "qFFhdLlX220",
+              "youtube_url": "https://www.youtube.com/watch?v=qFFhdLlX220",
+              "duration_sec": 256,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:simplifying-square-roots/v/simplifying-square-roots-comment-response"
+            },
+            {
+              "title": "Simplifying square-root expressions",
+              "slug": "v/simplifying-square-root-expressions",
+              "youtube_id": "3MijXB91DVo",
+              "youtube_url": "https://www.youtube.com/watch?v=3MijXB91DVo",
+              "duration_sec": 510,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:simplifying-square-roots/v/simplifying-square-root-expressions"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Exponential growth & decay",
+      "slug": "x2f8bb11595b61c86:exponential-growth-decay",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay",
+      "lessons": [
+        {
+          "title": "Exponential vs. linear growth",
+          "slug": "x2f8bb11595b61c86:exponential-vs-linear-growth",
+          "videos": [
+            {
+              "title": "Intro to exponential functions",
+              "slug": "v/exponential-growth-functions",
+              "youtube_id": "6WMZ7J0wwMI",
+              "youtube_url": "https://www.youtube.com/watch?v=6WMZ7J0wwMI",
+              "duration_sec": 461,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-growth-functions"
+            },
+            {
+              "title": "Exponential vs. linear growth",
+              "slug": "v/exponential-vs-linear-growth",
+              "youtube_id": "_vlXdx-CqM0",
+              "youtube_url": "https://www.youtube.com/watch?v=_vlXdx-CqM0",
+              "duration_sec": 185,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-growth"
+            },
+            {
+              "title": "Exponential vs. linear  models: verbal",
+              "slug": "v/linear-exponential-models",
+              "youtube_id": "8OHEgD6YMBw",
+              "youtube_url": "https://www.youtube.com/watch?v=8OHEgD6YMBw",
+              "duration_sec": 208,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/linear-exponential-models"
+            },
+            {
+              "title": "Exponential vs. linear models: table",
+              "slug": "v/exponential-vs-linear-models",
+              "youtube_id": "tV0NNJ6ndgk",
+              "youtube_url": "https://www.youtube.com/watch?v=tV0NNJ6ndgk",
+              "duration_sec": 206,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-models"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Exponential expressions",
+          "slug": "x2f8bb11595b61c86:exponential-expressions",
+          "videos": [
+            {
+              "title": "Exponential expressions word problems (numerical)",
+              "slug": "v/exponential-expressions-word-problems-numerical",
+              "youtube_id": "L70UJVjc-bc",
+              "youtube_url": "https://www.youtube.com/watch?v=L70UJVjc-bc",
+              "duration_sec": 296,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-expressions/v/exponential-expressions-word-problems-numerical"
+            },
+            {
+              "title": "Initial value & common ratio of exponential functions",
+              "slug": "v/initial-value-and-common-ratio-of-exponential-functions",
+              "youtube_id": "G2WybA4Hf7Y",
+              "youtube_url": "https://www.youtube.com/watch?v=G2WybA4Hf7Y",
+              "duration_sec": 327,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-expressions/v/initial-value-and-common-ratio-of-exponential-functions"
+            },
+            {
+              "title": "Exponential expressions word problems (algebraic)",
+              "slug": "v/exponential-expressions-word-problems-algebraic",
+              "youtube_id": "Z3YVZzCEi_A",
+              "youtube_url": "https://www.youtube.com/watch?v=Z3YVZzCEi_A",
+              "duration_sec": 216,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-expressions/v/exponential-expressions-word-problems-algebraic"
+            },
+            {
+              "title": "Interpreting exponential expression word problem",
+              "slug": "v/interpreting-exponential-expression-word-problem",
+              "youtube_id": "Pud5ygp6H38",
+              "youtube_url": "https://www.youtube.com/watch?v=Pud5ygp6H38",
+              "duration_sec": 165,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-expressions/v/interpreting-exponential-expression-word-problem"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Graphs of exponential growth",
+          "slug": "x2f8bb11595b61c86:graphs-of-exponential-growth",
+          "videos": [
+            {
+              "title": "Exponential function graph",
+              "slug": "v/graphing-exponential-functions",
+              "youtube_id": "9SOSfRNCQZQ",
+              "youtube_url": "https://www.youtube.com/watch?v=9SOSfRNCQZQ",
+              "duration_sec": 332,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:graphs-of-exponential-growth/v/graphing-exponential-functions"
+            },
+            {
+              "title": "Graphs of exponential growth",
+              "slug": "v/graphs-of-exponential-growth",
+              "youtube_id": "6rX2VNybXEE",
+              "youtube_url": "https://www.youtube.com/watch?v=6rX2VNybXEE",
+              "duration_sec": 261,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:graphs-of-exponential-growth/v/graphs-of-exponential-growth"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Exponential vs. linear growth over time",
+          "slug": "x2f8bb11595b61c86:exponential-vs-linear-growth-over-time",
+          "videos": [
+            {
+              "title": "Exponential vs. linear growth over time",
+              "slug": "v/exponential-vs-linear-growth-over-time",
+              "youtube_id": "cwnke_pjX90",
+              "youtube_url": "https://www.youtube.com/watch?v=cwnke_pjX90",
+              "duration_sec": 305,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth-over-time/v/exponential-vs-linear-growth-over-time"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Exponential growth & decay",
+          "slug": "x2f8bb11595b61c86:exponential-decay",
+          "videos": [
+            {
+              "title": "Exponential decay intro",
+              "slug": "v/exponential-decay-intro",
+              "youtube_id": "v4IdaXvyE7U",
+              "youtube_url": "https://www.youtube.com/watch?v=v4IdaXvyE7U",
+              "duration_sec": 492,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-decay/v/exponential-decay-intro"
+            },
+            {
+              "title": "Graphing exponential growth & decay",
+              "slug": "v/graphing-basic-exponential-functions",
+              "youtube_id": "RVv0Jgi3Pbw",
+              "youtube_url": "https://www.youtube.com/watch?v=RVv0Jgi3Pbw",
+              "duration_sec": 246,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-decay/v/graphing-basic-exponential-functions"
+            },
+            {
+              "title": "Writing functions with exponential decay",
+              "slug": "v/writing-functions-exponential-decay",
+              "youtube_id": "cgZJU38j8-U",
+              "youtube_url": "https://www.youtube.com/watch?v=cgZJU38j8-U",
+              "duration_sec": 240,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-decay/v/writing-functions-exponential-decay"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Exponential functions from tables & graphs",
+          "slug": "x2f8bb11595b61c86:exponential-functions-from-tables-graphs",
+          "videos": [
+            {
+              "title": "Writing exponential functions",
+              "slug": "v/writing-exponential-functions",
+              "youtube_id": "UgLfAb_aFt4",
+              "youtube_url": "https://www.youtube.com/watch?v=UgLfAb_aFt4",
+              "duration_sec": 100,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-functions-from-tables-graphs/v/writing-exponential-functions"
+            },
+            {
+              "title": "Writing exponential functions from tables",
+              "slug": "v/constructing-linear-and-exponential-functions-from-data",
+              "youtube_id": "Qst1UVtq8pE",
+              "youtube_url": "https://www.youtube.com/watch?v=Qst1UVtq8pE",
+              "duration_sec": 317,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-functions-from-tables-graphs/v/constructing-linear-and-exponential-functions-from-data"
+            },
+            {
+              "title": "Writing exponential functions from graphs",
+              "slug": "v/constructing-linear-and-exponential-functions-from-graph",
+              "youtube_id": "gFdh_rE2XgU",
+              "youtube_url": "https://www.youtube.com/watch?v=gFdh_rE2XgU",
+              "duration_sec": 445,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-functions-from-tables-graphs/v/constructing-linear-and-exponential-functions-from-graph"
+            },
+            {
+              "title": "Analyzing tables of exponential functions",
+              "slug": "v/analyzing-tables-of-exponential-functions",
+              "youtube_id": "yOqhKOicqhU",
+              "youtube_url": "https://www.youtube.com/watch?v=yOqhKOicqhU",
+              "duration_sec": 440,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-functions-from-tables-graphs/v/analyzing-tables-of-exponential-functions"
+            },
+            {
+              "title": "Analyzing graphs of exponential functions",
+              "slug": "v/analyzing-graph-of-exponential-function",
+              "youtube_id": "fe1Hsqyetzk",
+              "youtube_url": "https://www.youtube.com/watch?v=fe1Hsqyetzk",
+              "duration_sec": 246,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-functions-from-tables-graphs/v/analyzing-graph-of-exponential-function"
+            },
+            {
+              "title": "Analyzing graphs of exponential functions: negative initial value",
+              "slug": "v/analyzing-exponential-graph-with-negative-initial-value",
+              "youtube_id": "No1LKevjF6U",
+              "youtube_url": "https://www.youtube.com/watch?v=No1LKevjF6U",
+              "duration_sec": 367,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-functions-from-tables-graphs/v/analyzing-exponential-graph-with-negative-initial-value"
+            },
+            {
+              "title": "Modeling with basic exponential functions word problem",
+              "slug": "v/modeling-ticket-fines-with-exponential-function",
+              "youtube_id": "2iZXFd_ZImA",
+              "youtube_url": "https://www.youtube.com/watch?v=2iZXFd_ZImA",
+              "duration_sec": 337,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-functions-from-tables-graphs/v/modeling-ticket-fines-with-exponential-function"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Exponential vs. linear models",
+          "slug": "x2f8bb11595b61c86:exponential-vs-linear-models",
+          "videos": [
+            {
+              "title": "Linear vs. exponential growth: from data",
+              "slug": "v/linear-and-exponential-growth-from-data",
+              "youtube_id": "721RrH6auoU",
+              "youtube_url": "https://www.youtube.com/watch?v=721RrH6auoU",
+              "duration_sec": 357,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-models/v/linear-and-exponential-growth-from-data"
+            },
+            {
+              "title": "Linear vs. exponential growth: from data (example 2)",
+              "slug": "v/exponential-model-from-data",
+              "youtube_id": "edwZDu94wNs",
+              "youtube_url": "https://www.youtube.com/watch?v=edwZDu94wNs",
+              "duration_sec": 416,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-models/v/exponential-model-from-data"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Quadratics: Multiplying & factoring",
+      "slug": "x2f8bb11595b61c86:quadratics-multiplying-factoring",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring",
+      "lessons": [
+        {
+          "title": "Multiplying monomials by polynomials",
+          "slug": "x2f8bb11595b61c86:multiply-monomial-polynomial",
+          "videos": [
+            {
+              "title": "Polynomials intro",
+              "slug": "v/polynomials-intro",
+              "youtube_id": "Vm7H0VTlIco",
+              "youtube_url": "https://www.youtube.com/watch?v=Vm7H0VTlIco",
+              "duration_sec": 648,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-monomial-polynomial/v/polynomials-intro"
+            },
+            {
+              "title": "Multiply monomials by polynomials: Area model",
+              "slug": "v/multiply-monomials-polynomials-area-model",
+              "youtube_id": "wznE1wlmhR0",
+              "youtube_url": "https://www.youtube.com/watch?v=wznE1wlmhR0",
+              "duration_sec": 246,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-monomial-polynomial/v/multiply-monomials-polynomials-area-model"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiplying binomials",
+          "slug": "x2f8bb11595b61c86:multiply-binomial",
+          "videos": [
+            {
+              "title": "Multiplying binomials: area model",
+              "slug": "v/area-model-for-multiplying-binomials",
+              "youtube_id": "oOTFGdjhqqM",
+              "youtube_url": "https://www.youtube.com/watch?v=oOTFGdjhqqM",
+              "duration_sec": 235,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/v/area-model-for-multiplying-binomials"
+            },
+            {
+              "title": "Multiplying binomials intro",
+              "slug": "v/multiplying-simple-binomials",
+              "youtube_id": "Xy8NKUoyy98",
+              "youtube_url": "https://www.youtube.com/watch?v=Xy8NKUoyy98",
+              "duration_sec": 287,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/v/multiplying-simple-binomials"
+            },
+            {
+              "title": "Multiplying binomials",
+              "slug": "v/multiplying-binomials",
+              "youtube_id": "ZMLFfTX615w",
+              "youtube_url": "https://www.youtube.com/watch?v=ZMLFfTX615w",
+              "duration_sec": 347,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/v/multiplying-binomials"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Special products of binomials",
+          "slug": "x2f8bb11595b61c86:special-product-binomials",
+          "videos": [
+            {
+              "title": "Special products of the form (x+a)(x-a)",
+              "slug": "v/difference-of-squares-pattern-for-simple-binomials",
+              "youtube_id": "JfuisfEdnjk",
+              "youtube_url": "https://www.youtube.com/watch?v=JfuisfEdnjk",
+              "duration_sec": 294,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:special-product-binomials/v/difference-of-squares-pattern-for-simple-binomials"
+            },
+            {
+              "title": "Special products of the form (ax+b)(ax-b)",
+              "slug": "v/special-polynomials-products-1",
+              "youtube_id": "h6HmHjkA034",
+              "youtube_url": "https://www.youtube.com/watch?v=h6HmHjkA034",
+              "duration_sec": 149,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:special-product-binomials/v/special-polynomials-products-1"
+            },
+            {
+              "title": "Squaring binomials of the form (x+a)²",
+              "slug": "v/pattern-for-squaring-simple-binomials",
+              "youtube_id": "xH_GllPuymc",
+              "youtube_url": "https://www.youtube.com/watch?v=xH_GllPuymc",
+              "duration_sec": 343,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:special-product-binomials/v/pattern-for-squaring-simple-binomials"
+            },
+            {
+              "title": "Squaring binomials of the form (ax+b)²",
+              "slug": "v/square-a-binomial",
+              "youtube_id": "xjkbR7Gjgjs",
+              "youtube_url": "https://www.youtube.com/watch?v=xjkbR7Gjgjs",
+              "duration_sec": 218,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:special-product-binomials/v/square-a-binomial"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Introduction to factoring",
+          "slug": "x2f8bb11595b61c86:intro-factoring",
+          "videos": [
+            {
+              "title": "Intro to factors & divisibility",
+              "slug": "v/factors-and-divisibility-in-algebra",
+              "youtube_id": "SjN3_xCJamA",
+              "youtube_url": "https://www.youtube.com/watch?v=SjN3_xCJamA",
+              "duration_sec": 326,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:intro-factoring/v/factors-and-divisibility-in-algebra"
+            },
+            {
+              "title": "Factoring with the distributive property",
+              "slug": "v/factoring-linear-binomials",
+              "youtube_id": "mbb3msmX2xs",
+              "youtube_url": "https://www.youtube.com/watch?v=mbb3msmX2xs",
+              "duration_sec": 208,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:intro-factoring/v/factoring-linear-binomials"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Factoring quadratics intro",
+          "slug": "x2f8bb11595b61c86:factor-quadratics-intro",
+          "videos": [
+            {
+              "title": "Factoring quadratics as (x+a)(x+b)",
+              "slug": "v/factoring-simple-quadratic-expression",
+              "youtube_id": "D3a8NnpQ2vU",
+              "youtube_url": "https://www.youtube.com/watch?v=D3a8NnpQ2vU",
+              "duration_sec": 394,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-intro/v/factoring-simple-quadratic-expression"
+            },
+            {
+              "title": "Factoring quadratics as (x+a)(x+b) (example 2)",
+              "slug": "v/factoring-polynomials-1",
+              "youtube_id": "1kfq0aR3ASs",
+              "youtube_url": "https://www.youtube.com/watch?v=1kfq0aR3ASs",
+              "duration_sec": 260,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-intro/v/factoring-polynomials-1"
+            },
+            {
+              "title": "More examples of factoring quadratics as (x+a)(x+b)",
+              "slug": "v/factoring-quadratic-expressions",
+              "youtube_id": "eF6zYNzlZKQ",
+              "youtube_url": "https://www.youtube.com/watch?v=eF6zYNzlZKQ",
+              "duration_sec": 990,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-intro/v/factoring-quadratic-expressions"
+            },
+            {
+              "title": "Factoring quadratics with a common factor",
+              "slug": "v/factoring-quadratics-common-factor",
+              "youtube_id": "m6uOqU91ypI",
+              "youtube_url": "https://www.youtube.com/watch?v=m6uOqU91ypI",
+              "duration_sec": 185,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-intro/v/factoring-quadratics-common-factor"
+            },
+            {
+              "title": "Factoring completely with a common factor",
+              "slug": "v/factor-completely-common-factor",
+              "youtube_id": "FoTD41xzF5Q",
+              "youtube_url": "https://www.youtube.com/watch?v=FoTD41xzF5Q",
+              "duration_sec": 240,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-intro/v/factor-completely-common-factor"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Factoring quadratics by grouping",
+          "slug": "x2f8bb11595b61c86:factor-quadratics-grouping",
+          "videos": [
+            {
+              "title": "Intro to grouping",
+              "slug": "v/factor-by-grouping-and-factoring-completely",
+              "youtube_id": "X7B_tH4O-_s",
+              "youtube_url": "https://www.youtube.com/watch?v=X7B_tH4O-_s",
+              "duration_sec": 837,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/v/factor-by-grouping-and-factoring-completely"
+            },
+            {
+              "title": "Factoring quadratics by grouping",
+              "slug": "v/factoring-trinomials-by-grouping-4",
+              "youtube_id": "u1SAo2GiX8A",
+              "youtube_url": "https://www.youtube.com/watch?v=u1SAo2GiX8A",
+              "duration_sec": 235,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/v/factoring-trinomials-by-grouping-4"
+            },
+            {
+              "title": "Factoring quadratics: common factor + grouping",
+              "slug": "v/factoring-trinomials-by-grouping-5",
+              "youtube_id": "R-rhSQzFJL0",
+              "youtube_url": "https://www.youtube.com/watch?v=R-rhSQzFJL0",
+              "duration_sec": 286,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/v/factoring-trinomials-by-grouping-5"
+            },
+            {
+              "title": "Factoring quadratics: negative common factor + grouping",
+              "slug": "v/factoring-trinomials-by-grouping-6",
+              "youtube_id": "d-2Lcp0QKfI",
+              "youtube_url": "https://www.youtube.com/watch?v=d-2Lcp0QKfI",
+              "duration_sec": 317,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/v/factoring-trinomials-by-grouping-6"
+            },
+            {
+              "title": "Creativity break: How can we combine ways of thinking in problem solving?",
+              "slug": "v/combine-ways-of-thinking-in-problem-solving",
+              "youtube_id": "jAyqOcNurGU",
+              "youtube_url": "https://www.youtube.com/watch?v=jAyqOcNurGU",
+              "duration_sec": 151,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/v/combine-ways-of-thinking-in-problem-solving"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Factoring quadratics with difference of squares",
+          "slug": "x2f8bb11595b61c86:factor-difference-squares",
+          "videos": [
+            {
+              "title": "Difference of squares intro",
+              "slug": "v/difference-of-squares-intro",
+              "youtube_id": "HLNSouzygw0",
+              "youtube_url": "https://www.youtube.com/watch?v=HLNSouzygw0",
+              "duration_sec": 294,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-difference-squares/v/difference-of-squares-intro"
+            },
+            {
+              "title": "Factoring difference of squares: leading coefficient ≠ 1",
+              "slug": "v/factoring-to-produce-difference-of-squares",
+              "youtube_id": "jmbg-DKWuc4",
+              "youtube_url": "https://www.youtube.com/watch?v=jmbg-DKWuc4",
+              "duration_sec": 143,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-difference-squares/v/factoring-to-produce-difference-of-squares"
+            },
+            {
+              "title": "Factoring difference of squares: analyzing factorization",
+              "slug": "v/equivalent-expressions-to-differences-of-squares",
+              "youtube_id": "TK-U1p9O6Nc",
+              "youtube_url": "https://www.youtube.com/watch?v=TK-U1p9O6Nc",
+              "duration_sec": 189,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-difference-squares/v/equivalent-expressions-to-differences-of-squares"
+            },
+            {
+              "title": "Factoring difference of squares: shared factors",
+              "slug": "v/finding-a-shared-binomial-factor",
+              "youtube_id": "xYQR2LNZLeU",
+              "youtube_url": "https://www.youtube.com/watch?v=xYQR2LNZLeU",
+              "duration_sec": 263,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-difference-squares/v/finding-a-shared-binomial-factor"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Factoring quadratics with perfect squares",
+          "slug": "x2f8bb11595b61c86:factor-perfect-squares",
+          "videos": [
+            {
+              "title": "Perfect square factorization intro",
+              "slug": "v/perfect-square-factorization-intro",
+              "youtube_id": "JX5Zvh6swmo",
+              "youtube_url": "https://www.youtube.com/watch?v=JX5Zvh6swmo",
+              "duration_sec": 319,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/perfect-square-factorization-intro"
+            },
+            {
+              "title": "Factoring perfect squares",
+              "slug": "v/factoring-perfect-square-trinomials",
+              "youtube_id": "liRNTieIU_k",
+              "youtube_url": "https://www.youtube.com/watch?v=liRNTieIU_k",
+              "duration_sec": 294,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/factoring-perfect-square-trinomials"
+            },
+            {
+              "title": "Identifying perfect square form",
+              "slug": "v/identifying-perfect-square-trinomials",
+              "youtube_id": "4STGvuoBi5U",
+              "youtube_url": "https://www.youtube.com/watch?v=4STGvuoBi5U",
+              "duration_sec": 277,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/identifying-perfect-square-trinomials"
+            },
+            {
+              "title": "Factoring perfect squares: negative common factor",
+              "slug": "v/u09-l2-t1-we1-factoring-special-products-1",
+              "youtube_id": "XuwldEyWjH0",
+              "youtube_url": "https://www.youtube.com/watch?v=XuwldEyWjH0",
+              "duration_sec": 232,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/u09-l2-t1-we1-factoring-special-products-1"
+            },
+            {
+              "title": "Factoring perfect squares: missing values",
+              "slug": "v/solving-for-constants-in-perfect-square-polynomial",
+              "youtube_id": "oIslHyWJHEY",
+              "youtube_url": "https://www.youtube.com/watch?v=oIslHyWJHEY",
+              "duration_sec": 159,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/solving-for-constants-in-perfect-square-polynomial"
+            },
+            {
+              "title": "Factoring perfect squares: shared factors",
+              "slug": "v/shared-binomial-factor-between-perfect-square-and-difference-of-squares",
+              "youtube_id": "6jZZ6EeE-j0",
+              "youtube_url": "https://www.youtube.com/watch?v=6jZZ6EeE-j0",
+              "duration_sec": 266,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/shared-binomial-factor-between-perfect-square-and-difference-of-squares"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Strategy in factoring quadratics",
+          "slug": "x2f8bb11595b61c86:factor-quadratics-strategy",
+          "videos": [
+            {
+              "title": "Strategy in factoring quadratics (part 1 of 2)",
+              "slug": "v/strategy-in-factoring-quadratics-1",
+              "youtube_id": "2hHyY1eyHQs",
+              "youtube_url": "https://www.youtube.com/watch?v=2hHyY1eyHQs",
+              "duration_sec": 432,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-strategy/v/strategy-in-factoring-quadratics-1"
+            },
+            {
+              "title": "Strategy in factoring quadratics (part 2 of 2)",
+              "slug": "v/strategy-in-factoring-quadratics-2",
+              "youtube_id": "ahPdiNQGXRA",
+              "youtube_url": "https://www.youtube.com/watch?v=ahPdiNQGXRA",
+              "duration_sec": 521,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-strategy/v/strategy-in-factoring-quadratics-2"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Quadratic functions & equations",
+      "slug": "x2f8bb11595b61c86:quadratic-functions-equations",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+      "lessons": [
+        {
+          "title": "Intro to parabolas",
+          "slug": "x2f8bb11595b61c86:intro-parabolas",
+          "videos": [
+            {
+              "title": "Parabolas intro",
+              "slug": "v/parabolas-intro",
+              "youtube_id": "BGz3pkoGPag",
+              "youtube_url": "https://www.youtube.com/watch?v=BGz3pkoGPag",
+              "duration_sec": 494,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:intro-parabolas/v/parabolas-intro"
+            },
+            {
+              "title": "Interpreting a parabola in context",
+              "slug": "v/interpret-parabola-context",
+              "youtube_id": "_Bk6XkV9O_0",
+              "youtube_url": "https://www.youtube.com/watch?v=_Bk6XkV9O_0",
+              "duration_sec": 154,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:intro-parabolas/v/interpret-parabola-context"
+            },
+            {
+              "title": "Interpret a quadratic graph",
+              "slug": "v/interpret-a-quadratic-graph",
+              "youtube_id": "Tqxu53deWCo",
+              "youtube_url": "https://www.youtube.com/watch?v=Tqxu53deWCo",
+              "duration_sec": 157,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:intro-parabolas/v/interpret-a-quadratic-graph"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Solving and graphing with factored form",
+          "slug": "x2f8bb11595b61c86:factored-form-quadratics",
+          "videos": [
+            {
+              "title": "Zero product property",
+              "slug": "v/zero-product-property",
+              "youtube_id": "-lWVpoPaPBc",
+              "youtube_url": "https://www.youtube.com/watch?v=-lWVpoPaPBc",
+              "duration_sec": 437,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:factored-form-quadratics/v/zero-product-property"
+            },
+            {
+              "title": "Graphing quadratics in factored form",
+              "slug": "v/graphing-quadratics-in-factored-form",
+              "youtube_id": "EV57jv7JKCs",
+              "youtube_url": "https://www.youtube.com/watch?v=EV57jv7JKCs",
+              "duration_sec": 363,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:factored-form-quadratics/v/graphing-quadratics-in-factored-form"
+            },
+            {
+              "title": "Quadratic word problems (factored form)",
+              "slug": "v/quadratic-word-problems-factored-form",
+              "youtube_id": "xVZA6NOQA7A",
+              "youtube_url": "https://www.youtube.com/watch?v=xVZA6NOQA7A",
+              "duration_sec": 335,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:factored-form-quadratics/v/quadratic-word-problems-factored-form"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Solving by taking the square root",
+          "slug": "x2f8bb11595b61c86:untitled-1082",
+          "videos": [
+            {
+              "title": "Solving quadratics by taking square roots",
+              "slug": "v/simple-quadratic-equation",
+              "youtube_id": "RweAgQwLdMs",
+              "youtube_url": "https://www.youtube.com/watch?v=RweAgQwLdMs",
+              "duration_sec": 138,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/v/simple-quadratic-equation"
+            },
+            {
+              "title": "Solving quadratics by taking square roots examples",
+              "slug": "v/solving-quadratics-by-taking-square-roots",
+              "youtube_id": "VTlvg4wJ1X0",
+              "youtube_url": "https://www.youtube.com/watch?v=VTlvg4wJ1X0",
+              "duration_sec": 312,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/v/solving-quadratics-by-taking-square-roots"
+            },
+            {
+              "title": "Quadratics by taking square roots: strategy",
+              "slug": "v/determining-mistakes-in-steps-example",
+              "youtube_id": "jtPvDycHVQw",
+              "youtube_url": "https://www.youtube.com/watch?v=jtPvDycHVQw",
+              "duration_sec": 105,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/v/determining-mistakes-in-steps-example"
+            },
+            {
+              "title": "Solving quadratics by taking square roots: with steps",
+              "slug": "v/order-of-steps-exercise-example",
+              "youtube_id": "naVFTNWVlQU",
+              "youtube_url": "https://www.youtube.com/watch?v=naVFTNWVlQU",
+              "duration_sec": 265,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/v/order-of-steps-exercise-example"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Vertex form",
+          "slug": "x2f8bb11595b61c86:vertex-form",
+          "videos": [
+            {
+              "title": "Vertex form introduction",
+              "slug": "v/vertex-form-intro",
+              "youtube_id": "_QqhuLixNEk",
+              "youtube_url": "https://www.youtube.com/watch?v=_QqhuLixNEk",
+              "duration_sec": 373,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:vertex-form/v/vertex-form-intro"
+            },
+            {
+              "title": "Graphing quadratics: vertex form",
+              "slug": "v/graphing-a-parabola-in-vertex-form",
+              "youtube_id": "7QMoNY6FzvM",
+              "youtube_url": "https://www.youtube.com/watch?v=7QMoNY6FzvM",
+              "duration_sec": 196,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:vertex-form/v/graphing-a-parabola-in-vertex-form"
+            },
+            {
+              "title": "Quadratic word problems (vertex form)",
+              "slug": "v/quadratic-word-problems-in-vertex-form",
+              "youtube_id": "lUA1LYCoIAg",
+              "youtube_url": "https://www.youtube.com/watch?v=lUA1LYCoIAg",
+              "duration_sec": 423,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:vertex-form/v/quadratic-word-problems-in-vertex-form"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Solving quadratics by factoring",
+          "slug": "x2f8bb11595b61c86:quadratics-solve-factoring",
+          "videos": [
+            {
+              "title": "Solving quadratics by factoring",
+              "slug": "v/example-1-solving-a-quadratic-equation-by-factoring",
+              "youtube_id": "2ZzuZvz33X0",
+              "youtube_url": "https://www.youtube.com/watch?v=2ZzuZvz33X0",
+              "duration_sec": 382,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/v/example-1-solving-a-quadratic-equation-by-factoring"
+            },
+            {
+              "title": "Solving quadratics by factoring: leading coefficient ≠ 1",
+              "slug": "v/solving-quadratics-by-dividing-and-factoring",
+              "youtube_id": "KbFwLvCOBUI",
+              "youtube_url": "https://www.youtube.com/watch?v=KbFwLvCOBUI",
+              "duration_sec": 275,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/v/solving-quadratics-by-dividing-and-factoring"
+            },
+            {
+              "title": "Solving quadratics using structure",
+              "slug": "v/using-structure-to-solve-quadratics",
+              "youtube_id": "ZIqW_sXymrM",
+              "youtube_url": "https://www.youtube.com/watch?v=ZIqW_sXymrM",
+              "duration_sec": 235,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/v/using-structure-to-solve-quadratics"
+            },
+            {
+              "title": "Quadratic equations word problem: triangle dimensions",
+              "slug": "v/example-4-solving-a-quadratic-equation-by-factoring",
+              "youtube_id": "STcsaKuW-24",
+              "youtube_url": "https://www.youtube.com/watch?v=STcsaKuW-24",
+              "duration_sec": 501,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/v/example-4-solving-a-quadratic-equation-by-factoring"
+            },
+            {
+              "title": "Quadratic equations word problem: box dimensions",
+              "slug": "v/example-3-solving-a-quadratic-equation-by-factoring",
+              "youtube_id": "vl9o9XEfXtw",
+              "youtube_url": "https://www.youtube.com/watch?v=vl9o9XEfXtw",
+              "duration_sec": 354,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/v/example-3-solving-a-quadratic-equation-by-factoring"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "The quadratic formula",
+          "slug": "x2f8bb11595b61c86:quadratic-formula-a1",
+          "videos": [
+            {
+              "title": "The quadratic formula",
+              "slug": "v/using-the-quadratic-formula",
+              "youtube_id": "i7idZfS8t8w",
+              "youtube_url": "https://www.youtube.com/watch?v=i7idZfS8t8w",
+              "duration_sec": 992,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/v/using-the-quadratic-formula"
+            },
+            {
+              "title": "Worked example: quadratic formula (example 2)",
+              "slug": "v/quadratic-formula-2",
+              "youtube_id": "CLrImGKeuEI",
+              "youtube_url": "https://www.youtube.com/watch?v=CLrImGKeuEI",
+              "duration_sec": 400,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/v/quadratic-formula-2"
+            },
+            {
+              "title": "Worked example: quadratic formula (negative coefficients)",
+              "slug": "v/applying-the-quadratic-formula",
+              "youtube_id": "_E3gx_yQhHQ",
+              "youtube_url": "https://www.youtube.com/watch?v=_E3gx_yQhHQ",
+              "duration_sec": 291,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/v/applying-the-quadratic-formula"
+            },
+            {
+              "title": "Using the quadratic formula: number of solutions",
+              "slug": "v/quadratic-formula-3",
+              "youtube_id": "XUvKjC21fYU",
+              "youtube_url": "https://www.youtube.com/watch?v=XUvKjC21fYU",
+              "duration_sec": 299,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/v/quadratic-formula-3"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Completing the square intro",
+          "slug": "x2f8bb11595b61c86:completing-square-quadratics",
+          "videos": [
+            {
+              "title": "Completing the square",
+              "slug": "v/solving-quadratic-equations-by-completing-the-square",
+              "youtube_id": "bNQY0z76M5A",
+              "youtube_url": "https://www.youtube.com/watch?v=bNQY0z76M5A",
+              "duration_sec": 846,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/v/solving-quadratic-equations-by-completing-the-square"
+            },
+            {
+              "title": "Worked example: Completing the square (intro)",
+              "slug": "v/ex1-completing-the-square",
+              "youtube_id": "VvuuRpJbbHE",
+              "youtube_url": "https://www.youtube.com/watch?v=VvuuRpJbbHE",
+              "duration_sec": 202,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/v/ex1-completing-the-square"
+            },
+            {
+              "title": "Worked example: Rewriting expressions by completing the square",
+              "slug": "v/rewriting-quadratics-as-perfect-squares",
+              "youtube_id": "sh-MP-dVhD4",
+              "youtube_url": "https://www.youtube.com/watch?v=sh-MP-dVhD4",
+              "duration_sec": 182,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/v/rewriting-quadratics-as-perfect-squares"
+            },
+            {
+              "title": "Worked example: Rewriting & solving equations by completing the square",
+              "slug": "v/solving-quadratics-by-completing-the-square",
+              "youtube_id": "KouDAzYl_bc",
+              "youtube_url": "https://www.youtube.com/watch?v=KouDAzYl_bc",
+              "duration_sec": 379,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/v/solving-quadratics-by-completing-the-square"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "More on completing the square",
+          "slug": "x2f8bb11595b61c86:more-on-completing-square",
+          "videos": [
+            {
+              "title": "Solve by completing the square: Integer solutions",
+              "slug": "v/solve-completing-square-integer-solutions",
+              "youtube_id": "eU41vG9z35M",
+              "youtube_url": "https://www.youtube.com/watch?v=eU41vG9z35M",
+              "duration_sec": 389,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:more-on-completing-square/v/solve-completing-square-integer-solutions"
+            },
+            {
+              "title": "Solve by completing the square: Non-integer solutions",
+              "slug": "v/solve-completing-square-non-integer-solutions",
+              "youtube_id": "Ldp9_K3L4Q8",
+              "youtube_url": "https://www.youtube.com/watch?v=Ldp9_K3L4Q8",
+              "duration_sec": 242,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:more-on-completing-square/v/solve-completing-square-non-integer-solutions"
+            },
+            {
+              "title": "Worked example: completing the square (leading coefficient ≠ 1)",
+              "slug": "v/completing-the-square-to-solve-quadratic-equations",
+              "youtube_id": "TV5kDqiJ1Os",
+              "youtube_url": "https://www.youtube.com/watch?v=TV5kDqiJ1Os",
+              "duration_sec": 344,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:more-on-completing-square/v/completing-the-square-to-solve-quadratic-equations"
+            },
+            {
+              "title": "Solving quadratics by completing the square: no solution",
+              "slug": "v/ex2-completing-the-square",
+              "youtube_id": "6agzj3A9IgA",
+              "youtube_url": "https://www.youtube.com/watch?v=6agzj3A9IgA",
+              "duration_sec": 324,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:more-on-completing-square/v/ex2-completing-the-square"
+            },
+            {
+              "title": "Proof of the quadratic formula",
+              "slug": "v/proof-of-quadratic-formula",
+              "youtube_id": "r3SEkdtpobo",
+              "youtube_url": "https://www.youtube.com/watch?v=r3SEkdtpobo",
+              "duration_sec": 464,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:more-on-completing-square/v/proof-of-quadratic-formula"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Strategizing to solve quadratic equations",
+          "slug": "x2f8bb11595b61c86:strategizing-to-solve-quadratics",
+          "videos": [
+            {
+              "title": "Strategy in solving quadratic equations",
+              "slug": "v/strategy-in-solving-quadratic-equations",
+              "youtube_id": "_MllyJivas4",
+              "youtube_url": "https://www.youtube.com/watch?v=_MllyJivas4",
+              "duration_sec": 350,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:strategizing-to-solve-quadratics/v/strategy-in-solving-quadratic-equations"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Quadratic standard form",
+          "slug": "x2f8bb11595b61c86:standard-form-quadratic",
+          "videos": [
+            {
+              "title": "Finding the vertex of a parabola in standard form",
+              "slug": "v/ex3-completing-the-square",
+              "youtube_id": "IbI-l7mbKO4",
+              "youtube_url": "https://www.youtube.com/watch?v=IbI-l7mbKO4",
+              "duration_sec": 340,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:standard-form-quadratic/v/ex3-completing-the-square"
+            },
+            {
+              "title": "Graphing quadratics: standard form",
+              "slug": "v/graphing-a-parabola-using-roots-and-vertex",
+              "youtube_id": "MQtsRYPx3v0",
+              "youtube_url": "https://www.youtube.com/watch?v=MQtsRYPx3v0",
+              "duration_sec": 281,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:standard-form-quadratic/v/graphing-a-parabola-using-roots-and-vertex"
+            },
+            {
+              "title": "Quadratic word problem: ball",
+              "slug": "v/application-problem-with-quadratic-formula",
+              "youtube_id": "OZtqz_xw0SQ",
+              "youtube_url": "https://www.youtube.com/watch?v=OZtqz_xw0SQ",
+              "duration_sec": 353,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:standard-form-quadratic/v/application-problem-with-quadratic-formula"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Features & forms of quadratic functions",
+          "slug": "x2f8bb11595b61c86:quadratic-forms-features",
+          "videos": [
+            {
+              "title": "Forms & features of quadratic functions",
+              "slug": "v/rewriting-a-quadratic-function-to-find-roots-and-vertex",
+              "youtube_id": "4Bc5-HRop5Y",
+              "youtube_url": "https://www.youtube.com/watch?v=4Bc5-HRop5Y",
+              "duration_sec": 509,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-forms-features/v/rewriting-a-quadratic-function-to-find-roots-and-vertex"
+            },
+            {
+              "title": "Worked examples: Forms & features of quadratic functions",
+              "slug": "v/strategy-with-forms-of-quadratics",
+              "youtube_id": "eRbgHCaWQQE",
+              "youtube_url": "https://www.youtube.com/watch?v=eRbgHCaWQQE",
+              "duration_sec": 402,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-forms-features/v/strategy-with-forms-of-quadratics"
+            },
+            {
+              "title": "Vertex & axis of symmetry of a parabola",
+              "slug": "v/quadratic-functions-2",
+              "youtube_id": "dfoXtodyiIA",
+              "youtube_url": "https://www.youtube.com/watch?v=dfoXtodyiIA",
+              "duration_sec": 442,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-forms-features/v/quadratic-functions-2"
+            },
+            {
+              "title": "Finding features of quadratic functions",
+              "slug": "v/finding-features-of-quadratic-functions",
+              "youtube_id": "V-BAdpvejTw",
+              "youtube_url": "https://www.youtube.com/watch?v=V-BAdpvejTw",
+              "duration_sec": 503,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-forms-features/v/finding-features-of-quadratic-functions"
+            },
+            {
+              "title": "Interpret quadratic models: Factored form",
+              "slug": "v/interpret-quadratic-models-factored-form",
+              "youtube_id": "ITBRCLusU1s",
+              "youtube_url": "https://www.youtube.com/watch?v=ITBRCLusU1s",
+              "duration_sec": 240,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-forms-features/v/interpret-quadratic-models-factored-form"
+            },
+            {
+              "title": "Interpret quadratic models: Vertex form",
+              "slug": "v/interpret-quadratic-models",
+              "youtube_id": "JdWEdb90V1s",
+              "youtube_url": "https://www.youtube.com/watch?v=JdWEdb90V1s",
+              "duration_sec": 353,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-forms-features/v/interpret-quadratic-models"
+            },
+            {
+              "title": "Creativity break: How does creativity play a role in your everyday life?",
+              "slug": "v/creativity-role-life",
+              "youtube_id": "eU8IfaoD-v8",
+              "youtube_url": "https://www.youtube.com/watch?v=eU8IfaoD-v8",
+              "duration_sec": 144,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-forms-features/v/creativity-role-life"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Comparing quadratic functions",
+          "slug": "x2f8bb11595b61c86:graphing-and-comparing-quadratics",
+          "videos": [
+            {
+              "title": "Comparing features of quadratic functions",
+              "slug": "v/comparing-features-of-quadratic-functions",
+              "youtube_id": "UdLYAqN0gNY",
+              "youtube_url": "https://www.youtube.com/watch?v=UdLYAqN0gNY",
+              "duration_sec": 251,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:graphing-and-comparing-quadratics/v/comparing-features-of-quadratic-functions"
+            },
+            {
+              "title": "Comparing maximum points of quadratic functions",
+              "slug": "v/comparing-features-of-functions-2-example-2",
+              "youtube_id": "4Bx06GFyhUA",
+              "youtube_url": "https://www.youtube.com/watch?v=4Bx06GFyhUA",
+              "duration_sec": 239,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:graphing-and-comparing-quadratics/v/comparing-features-of-functions-2-example-2"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Transforming quadratic functions",
+          "slug": "x2f8bb11595b61c86:transform-quadratic-functions",
+          "videos": [
+            {
+              "title": "Intro to parabola transformations",
+              "slug": "v/shifting-and-scaling-parabolas",
+              "youtube_id": "99v51U3HSCU",
+              "youtube_url": "https://www.youtube.com/watch?v=99v51U3HSCU",
+              "duration_sec": 481,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:transform-quadratic-functions/v/shifting-and-scaling-parabolas"
+            },
+            {
+              "title": "Shifting parabolas",
+              "slug": "v/example-translating-parabola",
+              "youtube_id": "ZmVOR6n_fzY",
+              "youtube_url": "https://www.youtube.com/watch?v=ZmVOR6n_fzY",
+              "duration_sec": 282,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:transform-quadratic-functions/v/example-translating-parabola"
+            },
+            {
+              "title": "Scaling & reflecting parabolas",
+              "slug": "v/scaling-and-reflecting-parabolas",
+              "youtube_id": "AMsbZLxd3lE",
+              "youtube_url": "https://www.youtube.com/watch?v=AMsbZLxd3lE",
+              "duration_sec": 285,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:transform-quadratic-functions/v/scaling-and-reflecting-parabolas"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Irrational numbers",
+      "slug": "x2f8bb11595b61c86:irrational-numbers",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers",
+      "lessons": [
+        {
+          "title": "Irrational numbers",
+          "slug": "x2f8bb11595b61c86:irrational-numbers-intro",
+          "videos": [
+            {
+              "title": "Intro to rational & irrational numbers",
+              "slug": "v/introduction-to-rational-and-irrational-numbers",
+              "youtube_id": "cLP7INqs3JM",
+              "youtube_url": "https://www.youtube.com/watch?v=cLP7INqs3JM",
+              "duration_sec": 355,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:irrational-numbers-intro/v/introduction-to-rational-and-irrational-numbers"
+            },
+            {
+              "title": "Classifying numbers: rational & irrational",
+              "slug": "v/recognizing-irrational-numbers",
+              "youtube_id": "d9pO2z2qvXU",
+              "youtube_url": "https://www.youtube.com/watch?v=d9pO2z2qvXU",
+              "duration_sec": 138,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:irrational-numbers-intro/v/recognizing-irrational-numbers"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Sums and products of rational and irrational numbers",
+          "slug": "x2f8bb11595b61c86:sums-and-products-of-rational-and-irrational-numbers",
+          "videos": [
+            {
+              "title": "Proof: sum & product of two rationals is rational",
+              "slug": "v/sum-and-product-of-rational-numbers",
+              "youtube_id": "HKUJkMQsGkM",
+              "youtube_url": "https://www.youtube.com/watch?v=HKUJkMQsGkM",
+              "duration_sec": 166,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:sums-and-products-of-rational-and-irrational-numbers/v/sum-and-product-of-rational-numbers"
+            },
+            {
+              "title": "Proof: product of rational & irrational is irrational",
+              "slug": "v/proof-that-rational-times-irrational-is-irrational",
+              "youtube_id": "KT32CsdEZEY",
+              "youtube_url": "https://www.youtube.com/watch?v=KT32CsdEZEY",
+              "duration_sec": 195,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:sums-and-products-of-rational-and-irrational-numbers/v/proof-that-rational-times-irrational-is-irrational"
+            },
+            {
+              "title": "Proof: sum of rational & irrational is irrational",
+              "slug": "v/proof-that-sum-of-rational-and-irrational-is-irrational",
+              "youtube_id": "pPM72fPwIjw",
+              "youtube_url": "https://www.youtube.com/watch?v=pPM72fPwIjw",
+              "duration_sec": 204,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:sums-and-products-of-rational-and-irrational-numbers/v/proof-that-sum-of-rational-and-irrational-is-irrational"
+            },
+            {
+              "title": "Sums and products of irrational numbers",
+              "slug": "v/sums-and-products-of-irrational-numbers",
+              "youtube_id": "16-GZWi66CI",
+              "youtube_url": "https://www.youtube.com/watch?v=16-GZWi66CI",
+              "duration_sec": 357,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:sums-and-products-of-rational-and-irrational-numbers/v/sums-and-products-of-irrational-numbers"
+            },
+            {
+              "title": "Worked example: rational vs. irrational expressions",
+              "slug": "v/recognizing-rational-and-irrational-expressions-example",
+              "youtube_id": "hTJgK-wZMcE",
+              "youtube_url": "https://www.youtube.com/watch?v=hTJgK-wZMcE",
+              "duration_sec": 156,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:sums-and-products-of-rational-and-irrational-numbers/v/recognizing-rational-and-irrational-expressions-example"
+            },
+            {
+              "title": "Worked example: rational vs. irrational expressions (unknowns)",
+              "slug": "v/recognizing-rational-and-irrational-expressions-w-unknowns",
+              "youtube_id": "NC6HXlrH53Y",
+              "youtube_url": "https://www.youtube.com/watch?v=NC6HXlrH53Y",
+              "duration_sec": 386,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:sums-and-products-of-rational-and-irrational-numbers/v/recognizing-rational-and-irrational-expressions-w-unknowns"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Proofs concerning irrational numbers",
+          "slug": "x2f8bb11595b61c86:proofs-concerning-irrational-numbers",
+          "videos": [
+            {
+              "title": "Proof: √2 is irrational",
+              "slug": "v/proof-that-square-root-of-2-is-irrational",
+              "youtube_id": "mX91_3GQqLY",
+              "youtube_url": "https://www.youtube.com/watch?v=mX91_3GQqLY",
+              "duration_sec": 467,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:proofs-concerning-irrational-numbers/v/proof-that-square-root-of-2-is-irrational"
+            },
+            {
+              "title": "Proof: square roots of prime numbers are irrational",
+              "slug": "v/proof-that-square-root-of-prime-number-is-irrational",
+              "youtube_id": "W-Nio466Ek4",
+              "youtube_url": "https://www.youtube.com/watch?v=W-Nio466Ek4",
+              "duration_sec": 448,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:proofs-concerning-irrational-numbers/v/proof-that-square-root-of-prime-number-is-irrational"
+            },
+            {
+              "title": "Proof: there's an irrational number between any two rational numbers",
+              "slug": "v/proof-that-there-is-an-irrational-number-between-any-two-rational-numbers",
+              "youtube_id": "hxqo_DiL3pw",
+              "youtube_url": "https://www.youtube.com/watch?v=hxqo_DiL3pw",
+              "duration_sec": 333,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:proofs-concerning-irrational-numbers/v/proof-that-there-is-an-irrational-number-between-any-two-rational-numbers"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Creativity in algebra",
+      "slug": "x2f8bb11595b61c86:algebra-creativity",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:algebra-creativity",
+      "lessons": [
+        {
+          "title": "Creativity in algebra",
+          "slug": "x2f8bb11595b61c86:creativity-in-algebra",
+          "videos": [
+            {
+              "title": "Creativity in algebra",
+              "slug": "v/creativity-in-algebra",
+              "youtube_id": "nOBZM5QYcBc",
+              "youtube_url": "https://www.youtube.com/watch?v=nOBZM5QYcBc",
+              "duration_sec": 352,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:algebra-creativity/x2f8bb11595b61c86:creativity-in-algebra/v/creativity-in-algebra"
+            },
+            {
+              "title": "Creative algebra at work",
+              "slug": "v/creative-algebra-at-work",
+              "youtube_id": "Ep7diUpHuhs",
+              "youtube_url": "https://www.youtube.com/watch?v=Ep7diUpHuhs",
+              "duration_sec": 493,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:algebra-creativity/x2f8bb11595b61c86:creativity-in-algebra/v/creative-algebra-at-work"
+            },
+            {
+              "title": "The future of creativity in algebra",
+              "slug": "v/the-future-of-creativity-in-algebra",
+              "youtube_id": "Q-apRGBr3Xg",
+              "youtube_url": "https://www.youtube.com/watch?v=Q-apRGBr3Xg",
+              "duration_sec": 573,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:algebra-creativity/x2f8bb11595b61c86:creativity-in-algebra/v/the-future-of-creativity-in-algebra"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Teacher resources",
+      "slug": "x2f8bb11595b61c86:alg1-ccss-teacher-resources",
+      "relative_url": "/math/algebra/x2f8bb11595b61c86:alg1-ccss-teacher-resources",
+      "lessons": [
+        {
+          "title": "Welcome to teacher resources",
+          "slug": "x2f8bb11595b61c86:alg1-ccss-welcome-to-teacher-resources",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

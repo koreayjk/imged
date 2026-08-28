@@ -54,10 +54,13 @@ def yt_link(v):
 
 def unit_decision(course_key, unit_title, scope, duration_tier):
     """유닛 포함 여부: (action, priority, reason). action: include|exclude"""
+    t = (unit_title or "").lower().strip()
+    for entry in scope.get("global_exclude", []):
+        if re.search(entry["match"], t):
+            return "exclude", "normal", entry["reason"]
     rules = scope["courses"].get(course_key)
     if not rules:
         return "include", "normal", "필터 규칙 없음 → 기본 포함"
-    t = (unit_title or "").lower()
 
     if rules.get("default_action") == "exclude_unless_listed":
         for entry in rules.get("include", []):
@@ -84,7 +87,7 @@ def filter_course(course, scope, overrides, duration_tier):
     for unit in course["units"]:
         action, priority, reason = unit_decision(course["key"], unit["title"], scope, duration_tier)
         for lesson in unit["lessons"]:
-            for v in lesson["videos"]:
+            for rank, v in enumerate(lesson["videos"]):
                 v_action, v_reason = action, reason
                 if v.get("slug") in ov.get("exclude", {}):
                     v_action, v_reason = "exclude", ov["exclude"][v["slug"]]
@@ -97,7 +100,7 @@ def filter_course(course, scope, overrides, duration_tier):
                     "title": v["title"], "slug": v.get("slug"),
                     "youtube_id": v.get("youtube_id"), "youtube_url": v.get("youtube_url"),
                     "duration_sec": v.get("duration_sec") or DEFAULT_VIDEO_SEC,
-                    "priority": priority, "reason": v_reason,
+                    "priority": priority, "reason": v_reason, "rank": rank,
                 }
                 (included if v_action == "include" else excluded).append(rec)
     return included, excluded
@@ -111,7 +114,8 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session):
     video_ratio = session["video_ratio"]
 
     # 트랙별 영상 큐 구성
-    queues, selections = {}, {}
+    warnings = []
+    queues, selections, track_trims = {}, {}, {}
     for track in dur["tracks"]:
         q = []
         for key in track["playlist"]:
@@ -121,9 +125,48 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session):
             inc, exc = filter_course(course, scope, overrides, dur["tier"])
             selections.setdefault(key, (inc, exc))
             q.extend(inc)
+        # 트랙 용량(영상 예산)에 맞춰 자동 선별:
+        #   1) low-priority 유닛 영상부터 제외
+        #   2) 그래도 초과하면 레슨 대표(1번째) 영상을 전부 지키고,
+        #      남는 용량만큼 2번째·3번째… 예제 영상을 순서대로 채움 (breadth-first)
+        w0, w1 = track["weeks"]
+        capacity_sec = (w1 - w0 + 1) * days_per_week * track["daily_min"] * 60 * video_ratio
+        total_sec = sum(v["duration_sec"] for v in q)
+        trimmed = []
+        if total_sec > capacity_sec:
+            low = [v for v in q if v["priority"] == "low"]
+            if low:
+                for v in low:
+                    v = dict(v); v["trim_reason"] = "우선순위 낮은 유닛 (기간 내 시간 제약)"
+                    trimmed.append(v)
+                q = [v for v in q if v["priority"] != "low"]
+                total_sec = sum(v["duration_sec"] for v in q)
+        if total_sec > capacity_sec:
+            kept_idx, used = set(), 0.0
+            for rank_level in range(0, max(v["rank"] for v in q) + 1):
+                layer = [(i, v) for i, v in enumerate(q) if v["rank"] == rank_level]
+                if rank_level == 0:  # 레슨 대표 영상은 무조건 포함
+                    for i, v in layer:
+                        kept_idx.add(i); used += v["duration_sec"]
+                    continue
+                for i, v in layer:
+                    if used + v["duration_sec"] <= capacity_sec:
+                        kept_idx.add(i); used += v["duration_sec"]
+            for i, v in enumerate(q):
+                if i not in kept_idx:
+                    v = dict(v); v["trim_reason"] = "레슨 내 추가 예제 영상 (대표 영상 우선, 시간 제약)"
+                    trimmed.append(v)
+            q = [v for i, v in enumerate(q) if i in kept_idx]
+            total_sec = used
+        if trimmed:
+            warnings.append(
+                f"[{dur['label']}/{track['label']}] 용량 맞춤 선별: {len(q)}개 유지 "
+                f"({round(total_sec / 60)}분 / 용량 {round(capacity_sec / 60)}분), "
+                f"{len(trimmed)}개 제외 ({round(sum(v['duration_sec'] for v in trimmed) / 60)}분)")
+        track_trims[track["name"]] = trimmed
         queues[track["name"]] = q
 
-    warnings, days = [], []
+    days = []
     cursors = {name: 0 for name in queues}
     int_start, int_end = dur["integration"]["weeks"]
     mock_cycle = ["math", "rla", "science", "social"]
@@ -151,7 +194,8 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session):
                     q, cur = queues[track["name"]], cursors[track["name"]]
                     budget = track["daily_min"] * 60 * video_ratio
                     vids, used = [], 0
-                    while cur < len(q) and (not vids or used + q[cur]["duration_sec"] <= budget):
+                    # 마지막 영상은 예산을 약간 초과해도 배치 (빈틈 방지)
+                    while cur < len(q) and (not vids or used < budget):
                         vids.append(q[cur])
                         used += q[cur]["duration_sec"]
                         cur += 1
@@ -189,7 +233,9 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session):
             warnings.append(
                 f"[{dur['label']}/{track['label']}] 영상 {total}개 전부 배치 완료") if total else None
 
-    return {"days": days, "selections": selections, "warnings": [w for w in warnings if w]}
+    return {"days": days, "selections": selections, "warnings": [w for w in warnings if w],
+            "track_trims": track_trims,
+            "track_labels": {t["name"]: t["label"] for t in dur["tracks"]}}
 
 
 # ---------------------------------------------------------------- 출력
@@ -223,10 +269,16 @@ def write_syllabus_md(dur_key, dur, result):
              ""]
     if dur.get("milestone"):
         lines += [f"> 📌 {dur['milestone']}", ""]
-    lines += ["## 트랙 배치", "", "| 트랙 | 주차 | 1일 배정 | 코스 순서 |", "|---|---|---|---|"]
+    lines += ["## 트랙 배치", "", "| 트랙 | 주차 | 1일 배정 | 코스 순서 | 배치 영상 | 시간제약 제외 |", "|---|---|---|---|---|---|"]
     for t in dur["tracks"]:
-        lines.append(f"| {t['label']} | {t['weeks'][0]}–{t['weeks'][1]}주 | {t['daily_min']}분 | {' → '.join(t['playlist'])} |")
-    lines += [f"| 실전 통합 | {dur['integration']['weeks'][0]}–{dur['integration']['weeks'][1]}주 | 전체 | 4과목 순환 + 모의고사 |", ""]
+        q_n = sum(1 for d in result["days"] for b in d["blocks"]
+                  if b.get("track") == t["name"] for _ in b.get("videos", []))
+        trims = result["track_trims"].get(t["name"], [])
+        lines.append(f"| {t['label']} | {t['weeks'][0]}–{t['weeks'][1]}주 | {t['daily_min']}분 | "
+                     f"{' → '.join(t['playlist'])} | {q_n}개 | {len(trims)}개 |")
+    lines += [f"| 실전 통합 | {dur['integration']['weeks'][0]}–{dur['integration']['weeks'][1]}주 | 전체 | 4과목 순환 + 모의고사 | — | — |", ""]
+    if any(result["track_trims"].values()):
+        lines += [f"> ⚠️ 기간 내 시간 제약으로 제외된 영상 목록: [제외목록_{dur['label']}.md](제외목록_{dur['label']}.md)", ""]
 
     cur_week = None
     for day in result["days"]:
@@ -254,6 +306,29 @@ def write_syllabus_md(dur_key, dur, result):
             lines.append(f"- {p}")
         lines.append("")
     (OUT_MD / f"실라버스_{dur['label']}.md").write_text("\n".join(lines))
+
+
+def write_trim_md(dur, result):
+    """기간별 시간제약 제외 영상 목록."""
+    if not any(result["track_trims"].values()):
+        return
+    lines = [f"# 제외 목록 — {dur['label']} 과정", "",
+             "GED 범위에는 들지만 이 기간의 하루 학습시간 안에 배치할 수 없어 제외된 영상.",
+             "간격이 남거나 기간을 조정하면 우선 복원 대상.", ""]
+    for name, trims in result["track_trims"].items():
+        if not trims:
+            continue
+        lines += [f"## {result['track_labels'].get(name, name)} 트랙 — {len(trims)}개 "
+                  f"({fmt_min(sum(v['duration_sec'] for v in trims))})", ""]
+        cur = None
+        for v in trims:
+            head = (v["course_title"], v["unit"])
+            if head != cur:
+                cur = head
+                lines += [f"### {v['course_title']} › {v['unit']}", ""]
+            lines.append(f"- {yt_link(v)} — {fmt_min(v['duration_sec'])} · {v['lesson']} · _{v['trim_reason']}_")
+        lines.append("")
+    (OUT_MD / f"제외목록_{dur['label']}.md").write_text("\n".join(lines))
 
 
 def main():
@@ -286,6 +361,7 @@ def main():
                                    durations_cfg["session"])
         merged_selections.update(result["selections"])
         write_syllabus_md(dur_key, dur, result)
+        write_trim_md(dur, result)
         (OUT_JSON / f"{dur_key}.json").write_text(json.dumps(
             {"duration": dur_key, "label": dur["label"], "days": result["days"]},
             ensure_ascii=False))

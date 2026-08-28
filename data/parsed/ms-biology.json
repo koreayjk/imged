@@ -1,0 +1,713 @@
+{
+  "key": "ms-biology",
+  "tier": "T0",
+  "subject": "science",
+  "slug": "ms-biology",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Middle school biology ",
+  "course_slug": "ms-biology",
+  "units": [
+    {
+      "title": "Cells and organisms",
+      "slug": "x0c5bb03129646fd6:cells-and-organisms",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:cells-and-organisms",
+      "lessons": [
+        {
+          "title": "Cells and organisms",
+          "slug": "x0c5bb03129646fd6:cells-organisms",
+          "videos": [
+            {
+              "title": "Introduction to Middle school biology",
+              "slug": "v/introduction-to-middle-school-biology",
+              "youtube_id": "_wmwmMeF3pE",
+              "youtube_url": "https://www.youtube.com/watch?v=_wmwmMeF3pE",
+              "duration_sec": 142,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:cells-and-organisms/x0c5bb03129646fd6:cells-organisms/v/introduction-to-middle-school-biology"
+            },
+            {
+              "title": "Cells and organisms",
+              "slug": "v/ms-cells-and-organisms",
+              "youtube_id": "Uiqro5TUyLA",
+              "youtube_url": "https://www.youtube.com/watch?v=Uiqro5TUyLA",
+              "duration_sec": 237,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:cells-and-organisms/x0c5bb03129646fd6:cells-organisms/v/ms-cells-and-organisms"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Cell parts and functions",
+          "slug": "x0c5bb03129646fd6:cell-parts-and-functions",
+          "videos": [
+            {
+              "title": "Cell parts and their functions",
+              "slug": "v/cell-parts-and-their-functions",
+              "youtube_id": "TVxtlfUwIY0",
+              "youtube_url": "https://www.youtube.com/watch?v=TVxtlfUwIY0",
+              "duration_sec": 254,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:cells-and-organisms/x0c5bb03129646fd6:cell-parts-and-functions/v/cell-parts-and-their-functions"
+            },
+            {
+              "title": "Comparing animal and plant cells",
+              "slug": "v/comparing-animal-and-plant-cells",
+              "youtube_id": "HjC-eMiMDfo",
+              "youtube_url": "https://www.youtube.com/watch?v=HjC-eMiMDfo",
+              "duration_sec": 237,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:cells-and-organisms/x0c5bb03129646fd6:cell-parts-and-functions/v/comparing-animal-and-plant-cells"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: Why do plants wilt when they don't get enough water?",
+          "slug": "x0c5bb03129646fd6:activity-why-do-plants-wilt-when-they-don-t-get-enough-water",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Organization in the human body",
+          "slug": "x0c5bb03129646fd6:organization-in-the-human-body",
+          "videos": [
+            {
+              "title": "Organization in the human body",
+              "slug": "v/ms-organization-in-the-human-body",
+              "youtube_id": "YE2peDF4Zqg",
+              "youtube_url": "https://www.youtube.com/watch?v=YE2peDF4Zqg",
+              "duration_sec": 254,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:cells-and-organisms/x0c5bb03129646fd6:organization-in-the-human-body/v/ms-organization-in-the-human-body"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Human body systems",
+          "slug": "x0c5bb03129646fd6:human-body-systems",
+          "videos": [],
+          "exercise_count": 2
+        },
+        {
+          "title": "Sensory processing and the brain",
+          "slug": "x0c5bb03129646fd6:sensory-processing-and-the-brain",
+          "videos": [
+            {
+              "title": "Sensory processing and the brain",
+              "slug": "v/ms-sensory-processing-and-the-brain",
+              "youtube_id": "fMrz3L9bMsI",
+              "youtube_url": "https://www.youtube.com/watch?v=fMrz3L9bMsI",
+              "duration_sec": 259,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:cells-and-organisms/x0c5bb03129646fd6:sensory-processing-and-the-brain/v/ms-sensory-processing-and-the-brain"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Organism growth and reproduction",
+      "slug": "x0c5bb03129646fd6:organism-growth-and-reproduction",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:organism-growth-and-reproduction",
+      "lessons": [
+        {
+          "title": "Sexual and asexual reproduction",
+          "slug": "x0c5bb03129646fd6:sexual-and-asexual-reproduction",
+          "videos": [
+            {
+              "title": "Sexual and asexual reproduction",
+              "slug": "v/ms-sexual-and-asexual-reproduction",
+              "youtube_id": "IZ6EvH240iA",
+              "youtube_url": "https://www.youtube.com/watch?v=IZ6EvH240iA",
+              "duration_sec": 280,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:organism-growth-and-reproduction/x0c5bb03129646fd6:sexual-and-asexual-reproduction/v/ms-sexual-and-asexual-reproduction"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Animal behavior and offspring success",
+          "slug": "x0c5bb03129646fd6:animal-behavior-and-offspring-success",
+          "videos": [
+            {
+              "title": "Animal behavior and offspring success",
+              "slug": "v/ms-animal-behavior-and-offspring-success",
+              "youtube_id": "txrCIhujs0g",
+              "youtube_url": "https://www.youtube.com/watch?v=txrCIhujs0g",
+              "duration_sec": 123,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:organism-growth-and-reproduction/x0c5bb03129646fd6:animal-behavior-and-offspring-success/v/ms-animal-behavior-and-offspring-success"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Plant reproductive success",
+          "slug": "x0c5bb03129646fd6:plant-reproductive-success",
+          "videos": [
+            {
+              "title": "Plant reproductive success",
+              "slug": "v/ms-plant-reproductive-success",
+              "youtube_id": "nJIRCDipw7o",
+              "youtube_url": "https://www.youtube.com/watch?v=nJIRCDipw7o",
+              "duration_sec": 190,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:organism-growth-and-reproduction/x0c5bb03129646fd6:plant-reproductive-success/v/ms-plant-reproductive-success"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Organism growth and the environment",
+          "slug": "x0c5bb03129646fd6:organism-growth-and-the-environment",
+          "videos": [
+            {
+              "title": "Organism growth and the environment",
+              "slug": "v/ms-organism-growth-and-the-environment",
+              "youtube_id": "XEkafr12Wd8",
+              "youtube_url": "https://www.youtube.com/watch?v=XEkafr12Wd8",
+              "duration_sec": 247,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:organism-growth-and-reproduction/x0c5bb03129646fd6:organism-growth-and-the-environment/v/ms-organism-growth-and-the-environment"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: What causes harmful algae blooms?",
+          "slug": "x0c5bb03129646fd6:activity-what-causes-harmful-algae-blooms",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Matter and energy in organisms",
+      "slug": "x0c5bb03129646fd6:matter-and-energy-in-organisms",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-organisms",
+      "lessons": [
+        {
+          "title": "Photosynthesis in organisms",
+          "slug": "x0c5bb03129646fd6:photosynthesis-in-organisms",
+          "videos": [
+            {
+              "title": "Photosynthesis in organisms",
+              "slug": "v/ms-photosynthesis-in-organisms",
+              "youtube_id": "_BLShUdXbN4",
+              "youtube_url": "https://www.youtube.com/watch?v=_BLShUdXbN4",
+              "duration_sec": 241,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-organisms/x0c5bb03129646fd6:photosynthesis-in-organisms/v/ms-photosynthesis-in-organisms"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Food and energy in organisms",
+          "slug": "x0c5bb03129646fd6:food-and-energy-in-organisms",
+          "videos": [
+            {
+              "title": "Food and energy in organisms",
+              "slug": "v/food-and-energy-in-organisms-ms",
+              "youtube_id": "wPhjCn9kq5M",
+              "youtube_url": "https://www.youtube.com/watch?v=wPhjCn9kq5M",
+              "duration_sec": 282,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-organisms/x0c5bb03129646fd6:food-and-energy-in-organisms/v/food-and-energy-in-organisms-ms"
+            },
+            {
+              "title": "Cellular respiration",
+              "slug": "v/cellular-respiration-ms",
+              "youtube_id": "1RXk1NJpRDI",
+              "youtube_url": "https://www.youtube.com/watch?v=1RXk1NJpRDI",
+              "duration_sec": 227,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-organisms/x0c5bb03129646fd6:food-and-energy-in-organisms/v/cellular-respiration-ms"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How can measuring cellular respiration help us reach a fitness goal?",
+          "slug": "x0c5bb03129646fd6:unit-3-phenomenon-based-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Interactions in ecosystems",
+      "slug": "x0c5bb03129646fd6:interactions-in-ecosystems",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:interactions-in-ecosystems",
+      "lessons": [
+        {
+          "title": "Populations, communities, and ecosystems",
+          "slug": "x0c5bb03129646fd6:populations-communities-and-ecosystems",
+          "videos": [
+            {
+              "title": "Populations, communities, and ecosystems",
+              "slug": "v/ms-populations-communities-and-ecosystems",
+              "youtube_id": "xzINev2Bd8s",
+              "youtube_url": "https://www.youtube.com/watch?v=xzINev2Bd8s",
+              "duration_sec": 226,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:interactions-in-ecosystems/x0c5bb03129646fd6:populations-communities-and-ecosystems/v/ms-populations-communities-and-ecosystems"
+            },
+            {
+              "title": "Biotic and abiotic factors",
+              "slug": "v/biotic-and-abiotic-factors",
+              "youtube_id": "rwCqIYc6FLc",
+              "youtube_url": "https://www.youtube.com/watch?v=rwCqIYc6FLc",
+              "duration_sec": 298,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:interactions-in-ecosystems/x0c5bb03129646fd6:populations-communities-and-ecosystems/v/biotic-and-abiotic-factors"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Resources and population growth",
+          "slug": "x0c5bb03129646fd6:resources-and-population-growth",
+          "videos": [
+            {
+              "title": "Resources and population growth",
+              "slug": "v/resources-and-population-growth",
+              "youtube_id": "tWIPTF411HQ",
+              "youtube_url": "https://www.youtube.com/watch?v=tWIPTF411HQ",
+              "duration_sec": 343,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:interactions-in-ecosystems/x0c5bb03129646fd6:resources-and-population-growth/v/resources-and-population-growth"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Ecological interactions",
+          "slug": "x0c5bb03129646fd6:ecological-interactions",
+          "videos": [
+            {
+              "title": "Ecological interactions",
+              "slug": "v/ecological-interactions-tx",
+              "youtube_id": "wFntJ0V5oA4",
+              "youtube_url": "https://www.youtube.com/watch?v=wFntJ0V5oA4",
+              "duration_sec": 547,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:interactions-in-ecosystems/x0c5bb03129646fd6:ecological-interactions/v/ecological-interactions-tx"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How do limited resources impact populations that live near us?",
+          "slug": "x0c5bb03129646fd6:activity-how-do-limited-resources-impact-populations-that-live-near-us",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Matter and energy in ecosystems",
+      "slug": "x0c5bb03129646fd6:matter-and-energy-in-ecosystems",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-ecosystems",
+      "lessons": [
+        {
+          "title": "Photosynthesis in ecosystems",
+          "slug": "x0c5bb03129646fd6:photosynthesis-in-ecosystems",
+          "videos": [
+            {
+              "title": "Photosynthesis in ecosystems",
+              "slug": "v/photosynthesis-in-ecosystems-ms",
+              "youtube_id": "_1U6uMmUJZU",
+              "youtube_url": "https://www.youtube.com/watch?v=_1U6uMmUJZU",
+              "duration_sec": 104,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-ecosystems/x0c5bb03129646fd6:photosynthesis-in-ecosystems/v/photosynthesis-in-ecosystems-ms"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Matter and energy in food webs",
+          "slug": "x0c5bb03129646fd6:matter-and-energy-in-foodwebs",
+          "videos": [
+            {
+              "title": "Matter and energy in food webs",
+              "slug": "v/matter-and-energy-in-food-webs-ms",
+              "youtube_id": "qIgL05zOx5U",
+              "youtube_url": "https://www.youtube.com/watch?v=qIgL05zOx5U",
+              "duration_sec": 251,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-ecosystems/x0c5bb03129646fd6:matter-and-energy-in-foodwebs/v/matter-and-energy-in-food-webs-ms"
+            },
+            {
+              "title": "Worked example: Analyzing an ocean food web",
+              "slug": "v/worked-example-analyzing-an-ocean-food-web",
+              "youtube_id": "vGwhsG-4j-0",
+              "youtube_url": "https://www.youtube.com/watch?v=vGwhsG-4j-0",
+              "duration_sec": 233,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-ecosystems/x0c5bb03129646fd6:matter-and-energy-in-foodwebs/v/worked-example-analyzing-an-ocean-food-web"
+            },
+            {
+              "title": "Worked example: Analyzing a generic food web",
+              "slug": "v/worked-example-analyzing-a-generic-food-web",
+              "youtube_id": "vniXioPlsLA",
+              "youtube_url": "https://www.youtube.com/watch?v=vniXioPlsLA",
+              "duration_sec": 244,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:matter-and-energy-in-ecosystems/x0c5bb03129646fd6:matter-and-energy-in-foodwebs/v/worked-example-analyzing-a-generic-food-web"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: What happens when a food web is disturbed?",
+          "slug": "x0c5bb03129646fd6:unit-5-phenomenon-based-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Ecosystems and biodiversity",
+      "slug": "x0c5bb03129646fd6:ecosystems-and-biodiversity",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:ecosystems-and-biodiversity",
+      "lessons": [
+        {
+          "title": "Ecosystem dynamics",
+          "slug": "x0c5bb03129646fd6:ecosystem-dynamics",
+          "videos": [
+            {
+              "title": "Disruptions",
+              "slug": "v/disruptions",
+              "youtube_id": "6wl_XLQBtQ0",
+              "youtube_url": "https://www.youtube.com/watch?v=6wl_XLQBtQ0",
+              "duration_sec": 328,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:ecosystems-and-biodiversity/x0c5bb03129646fd6:ecosystem-dynamics/v/disruptions"
+            },
+            {
+              "title": "Ecosystem dynamics: Clark's nutcrackers and the white bark pine",
+              "slug": "v/ecosystem-dynamics-clarks-nutcrackers-and-the-white-bark-pine",
+              "youtube_id": "DopEBa4nYgA",
+              "youtube_url": "https://www.youtube.com/watch?v=DopEBa4nYgA",
+              "duration_sec": 289,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:ecosystems-and-biodiversity/x0c5bb03129646fd6:ecosystem-dynamics/v/ecosystem-dynamics-clarks-nutcrackers-and-the-white-bark-pine"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Biodiversity and ecosystem health",
+          "slug": "x0c5bb03129646fd6:biodiversity-and-ecosystem-health",
+          "videos": [
+            {
+              "title": "Biodiversity and ecosystem health: a Hawaiian Islands case study",
+              "slug": "v/biodiversity-and-ecosystem-health-a-hawaiian-islands-case-study",
+              "youtube_id": "bmiVVgF9Hjw",
+              "youtube_url": "https://www.youtube.com/watch?v=bmiVVgF9Hjw",
+              "duration_sec": 292,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:ecosystems-and-biodiversity/x0c5bb03129646fd6:biodiversity-and-ecosystem-health/v/biodiversity-and-ecosystem-health-a-hawaiian-islands-case-study"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Activity: What evidence can scientists use to tell if an ecosystem is healthy?",
+          "slug": "x0c5bb03129646fd6:activity-what-evidence-can-scientists-use-to-tell-if-an-ecosystem-is-healthy",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Humans and ecosystems",
+          "slug": "x0c5bb03129646fd6:humans-and-ecosystems",
+          "videos": [
+            {
+              "title": "Humans and ecosystems: how do vultures provide ecosystem services?",
+              "slug": "v/humans-and-ecosystems-how-do-vultures-provide-ecosystem-services",
+              "youtube_id": "bT_2MyIRsas",
+              "youtube_url": "https://www.youtube.com/watch?v=bT_2MyIRsas",
+              "duration_sec": 299,
+              "relative_url": "/science/ap-college-environmental-science/x0b0e430a38ebd23f:the-living-world-ecosystems-and-biodiversity/x0b0e430a38ebd23f:intro-to-biodiversity-and-biogeography/v/humans-and-ecosystems-how-do-vultures-provide-ecosystem-services"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Inheritance and variation",
+      "slug": "x0c5bb03129646fd6:inheritance-and-variation",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation",
+      "lessons": [
+        {
+          "title": "Chromosomes",
+          "slug": "x0c5bb03129646fd6:chromosomes",
+          "videos": [
+            {
+              "title": "Chromosomes and genes",
+              "slug": "v/chromosomes-and-genes",
+              "youtube_id": "taH5kyoQG0Q",
+              "youtube_url": "https://www.youtube.com/watch?v=taH5kyoQG0Q",
+              "duration_sec": 204,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:chromosomes/v/chromosomes-and-genes"
+            },
+            {
+              "title": "Chromosome pairs",
+              "slug": "v/chromosome-pairs",
+              "youtube_id": "SbagR2CpP_o",
+              "youtube_url": "https://www.youtube.com/watch?v=SbagR2CpP_o",
+              "duration_sec": 217,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:chromosomes/v/chromosome-pairs"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Genes, proteins, and traits",
+          "slug": "x0c5bb03129646fd6:genes-proteins-and-traits",
+          "videos": [
+            {
+              "title": "Genes, proteins, and traits",
+              "slug": "v/genes-proteins-and-traits",
+              "youtube_id": "tfZfLDRu39c",
+              "youtube_url": "https://www.youtube.com/watch?v=tfZfLDRu39c",
+              "duration_sec": 293,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:genes-proteins-and-traits/v/genes-proteins-and-traits"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Mutations",
+          "slug": "x0c5bb03129646fd6:mutations",
+          "videos": [
+            {
+              "title": "Mutations",
+              "slug": "v/mutations",
+              "youtube_id": "_9wnC5pta78",
+              "youtube_url": "https://www.youtube.com/watch?v=_9wnC5pta78",
+              "duration_sec": 181,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:mutations/v/mutations"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: Why do some mutations cause genetic disorders?",
+          "slug": "x0c5bb03129646fd6:unit-7-phenomenon-based-activities",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Reproduction and genetic variation",
+          "slug": "x0c5bb03129646fd6:reproduction-and-genetic-variation",
+          "videos": [
+            {
+              "title": "Sexual reproduction and genetic variation",
+              "slug": "v/sexual-reproduction-and-genetic-variation",
+              "youtube_id": "oi6yfPgYiFk",
+              "youtube_url": "https://www.youtube.com/watch?v=oi6yfPgYiFk",
+              "duration_sec": 348,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:reproduction-and-genetic-variation/v/sexual-reproduction-and-genetic-variation"
+            },
+            {
+              "title": "Genetics vocabulary",
+              "slug": "v/genetics-vocabulary",
+              "youtube_id": "kvwK63Mwhw0",
+              "youtube_url": "https://www.youtube.com/watch?v=kvwK63Mwhw0",
+              "duration_sec": 348,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:reproduction-and-genetic-variation/v/genetics-vocabulary"
+            },
+            {
+              "title": "Worked examples: Punnett squares",
+              "slug": "v/worked-examples-punnett-squares",
+              "youtube_id": "VH1lAfZL_fU",
+              "youtube_url": "https://www.youtube.com/watch?v=VH1lAfZL_fU",
+              "duration_sec": 407,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:reproduction-and-genetic-variation/v/worked-examples-punnett-squares"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Activity: Why do puppies in the same litter look different?",
+          "slug": "x0c5bb03129646fd6:activity-why-do-puppies-in-the-same-litter-look-different",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Evolution",
+      "slug": "x0c5bb03129646fd6:evolution",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:evolution",
+      "lessons": [
+        {
+          "title": "Evolution and common ancestry",
+          "slug": "x0c5bb03129646fd6:evolution-and-common-ancestry",
+          "videos": [
+            {
+              "title": "Evolution",
+              "slug": "v/evolution",
+              "youtube_id": "i3sdIHaa4jQ",
+              "youtube_url": "https://www.youtube.com/watch?v=i3sdIHaa4jQ",
+              "duration_sec": 252,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:evolution/x0c5bb03129646fd6:evolution-and-common-ancestry/v/evolution"
+            },
+            {
+              "title": "Common ancestry and evolutionary trees",
+              "slug": "v/evolutionary-trees",
+              "youtube_id": "Rg3mLbLqKsk",
+              "youtube_url": "https://www.youtube.com/watch?v=Rg3mLbLqKsk",
+              "duration_sec": 333,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:evolution/x0c5bb03129646fd6:evolution-and-common-ancestry/v/evolutionary-trees"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "The fossil record",
+          "slug": "x0c5bb03129646fd6:the-fossil-record",
+          "videos": [
+            {
+              "title": "Fossils",
+              "slug": "v/fossils",
+              "youtube_id": "-fT57zGsXZ8",
+              "youtube_url": "https://www.youtube.com/watch?v=-fT57zGsXZ8",
+              "duration_sec": 302,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:evolution/x0c5bb03129646fd6:the-fossil-record/v/fossils"
+            },
+            {
+              "title": "Earth's fossil record",
+              "slug": "v/earth-s-fossil-record",
+              "youtube_id": "2f38r4qKkLw",
+              "youtube_url": "https://www.youtube.com/watch?v=2f38r4qKkLw",
+              "duration_sec": 354,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:evolution/x0c5bb03129646fd6:the-fossil-record/v/earth-s-fossil-record"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Evidence of evolution: anatomy",
+          "slug": "x0c5bb03129646fd6:evidence-of-evolution-anatomy",
+          "videos": [
+            {
+              "title": "Evidence of evolution: anatomy",
+              "slug": "v/evidence-of-evolution-anatomy",
+              "youtube_id": "J6VJ6dS8D1k",
+              "youtube_url": "https://www.youtube.com/watch?v=J6VJ6dS8D1k",
+              "duration_sec": 250,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:evolution/x0c5bb03129646fd6:evidence-of-evolution-anatomy/v/evidence-of-evolution-anatomy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How can we use skeletons and fossils to understand whale evolution?",
+          "slug": "x0c5bb03129646fd6:activity-how-can-we-use-skeletons-and-fossils-to-understand-whale-evolution",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Evidence of evolution: embryology",
+          "slug": "x0c5bb03129646fd6:evidence-of-evolution-embryology",
+          "videos": [
+            {
+              "title": "Evidence of evolution: embryology",
+              "slug": "v/evidence-of-evolution-embryology",
+              "youtube_id": "3444TjgJ8ro",
+              "youtube_url": "https://www.youtube.com/watch?v=3444TjgJ8ro",
+              "duration_sec": 180,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:evolution/x0c5bb03129646fd6:evidence-of-evolution-embryology/v/evidence-of-evolution-embryology"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Natural and artificial selection",
+      "slug": "x0c5bb03129646fd6:natural-and-artificial-selection",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:natural-and-artificial-selection",
+      "lessons": [
+        {
+          "title": "Natural selection",
+          "slug": "x0c5bb03129646fd6:natural-selection",
+          "videos": [
+            {
+              "title": "Natural selection in peppered moths",
+              "slug": "v/natural-selection-in-peppered-moths",
+              "youtube_id": "y4BHYYBif3Q",
+              "youtube_url": "https://www.youtube.com/watch?v=y4BHYYBif3Q",
+              "duration_sec": 197,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:natural-and-artificial-selection/x0c5bb03129646fd6:natural-selection/v/natural-selection-in-peppered-moths"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Adaptation and environmental change",
+          "slug": "x0c5bb03129646fd6:adaptation-and-environmental-change",
+          "videos": [
+            {
+              "title": "Environmental change and adaptation in Galápagos finches",
+              "slug": "v/environmental-change-and-adaptation-in-galapagos-finches",
+              "youtube_id": "0G2uDKYBX-c",
+              "youtube_url": "https://www.youtube.com/watch?v=0G2uDKYBX-c",
+              "duration_sec": 141,
+              "relative_url": "/science/ap-college-environmental-science/x0b0e430a38ebd23f:the-living-world-ecosystems-and-biodiversity/x0b0e430a38ebd23f:changes-to-ecosystems/v/environmental-change-and-adaptation-in-galapagos-finches"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Artificial selection",
+          "slug": "x0c5bb03129646fd6:artificial-selection",
+          "videos": [
+            {
+              "title": "Artificial selection and domestication",
+              "slug": "v/artificial-selection-and-domestication",
+              "youtube_id": "hFjGQXcwYIk",
+              "youtube_url": "https://www.youtube.com/watch?v=hFjGQXcwYIk",
+              "duration_sec": 251,
+              "relative_url": "/science/ap-biology/natural-selection/artificial-selection/v/artificial-selection-and-domestication"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Explore biology through simulations",
+      "slug": "x0c5bb03129646fd6:explore-biology-through-simulations-ms-bio",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:explore-biology-through-simulations-ms-bio",
+      "lessons": [
+        {
+          "title": "Introduction to simulation-based learning",
+          "slug": "x0c5bb03129646fd6:introduction-to-simulation-based-learning",
+          "videos": [
+            {
+              "title": "Introduction to simulation-based exercises",
+              "slug": "v/introduction-to-simulation-based-exercises",
+              "youtube_id": "JO68D_EieXA",
+              "youtube_url": "https://www.youtube.com/watch?v=JO68D_EieXA",
+              "duration_sec": 148,
+              "relative_url": "/science/ap-biology/x16acb03e699817e9:simulations/x16acb03e699817e9:introduction-to-simulation-based-exercises/v/introduction-to-simulation-based-exercises"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Explore natural selection through simulations",
+          "slug": "x0c5bb03129646fd6:explore-natural-selection-through-simulations",
+          "videos": [],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Teacher resources",
+      "slug": "x0c5bb03129646fd6:teacher-resources",
+      "relative_url": "/science/ms-biology/x0c5bb03129646fd6:teacher-resources",
+      "lessons": [
+        {
+          "title": "Unit guides",
+          "slug": "x0c5bb03129646fd6:unit-guides",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Hands-on biology activities",
+          "slug": "x0c5bb03129646fd6:hands-on-biology-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

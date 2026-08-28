@@ -1,0 +1,324 @@
+# 영상 선별표 — Get ready for SAT prep: Math
+
+- 코스: `get-ready-for-sat-prep-math` / 과목: 수학 / 티어: T3
+- **들을 영상: 302개 (1588분)** / 뺄 영상: 0개 (0분)
+
+
+## ✅ 들을 영상
+
+
+### Get ready: Algebra
+
+- ✅ [Same thing to both sides of equations](https://www.youtube.com/watch?v=5FBDqY41GjU) — 3분 · Solving linear equations and inequalities
+- ✅ [Intro to two-step equations](https://www.youtube.com/watch?v=_y_Q3_B2Vh8) — 5분 · Solving linear equations and inequalities
+- ✅ [Two-step equations intuition](https://www.youtube.com/watch?v=XoEn1LfVoTo) — 9분 · Solving linear equations and inequalities
+- ✅ [Worked example: two-step equations](https://www.youtube.com/watch?v=p5e5mf_G3FI) — 3분 · Solving linear equations and inequalities
+- ✅ [One-step inequalities examples](https://www.youtube.com/watch?v=PNXozoJWsWc) — 10분 · Solving linear equations and inequalities
+- ✅ [One-step inequalities: -5c ≤ 15](https://www.youtube.com/watch?v=D1cKk48kz-E) — 3분 · Solving linear equations and inequalities
+- ✅ [Two-step inequalities ](https://www.youtube.com/watch?v=y7QLay8wrW8) — 5분 · Solving linear equations and inequalities
+- ✅ [Intro to equations with variables on both sides](https://www.youtube.com/watch?v=f15zA0PhSek) — 9분 · Solving linear equations and inequalities
+- ✅ [Equations with variables on both sides: 20-7x=6x-6](https://www.youtube.com/watch?v=1c5HY3z4k8M) — 4분 · Solving linear equations and inequalities
+- ✅ [Equations with parentheses](https://www.youtube.com/watch?v=YZBStgZGyDY) — 6분 · Solving linear equations and inequalities
+- ✅ [Equation word problem: super yoga (1 of 2)](https://www.youtube.com/watch?v=3tRc6mUumFk) — 7분 · Linear equation word problems
+- ✅ [Equation word problem: super yoga (2 of 2)](https://www.youtube.com/watch?v=hq1bUM2tyg0) — 8분 · Linear equation word problems
+- ✅ [Two-step equation word problem: computers](https://www.youtube.com/watch?v=roHvNNFXr4k) — 5분 · Linear equation word problems
+- ✅ [Two-step equation word problem: garden](https://www.youtube.com/watch?v=iimpwYBiKNg) — 2분 · Linear equation word problems
+- ✅ [Two-step equation word problem: oranges](https://www.youtube.com/watch?v=xKH1Evwu150) — 6분 · Linear equation word problems
+- ✅ [Linear equations word problems: volcano](https://www.youtube.com/watch?v=eLUmpX_h9sw) — 6분 · Linear equation word problems
+- ✅ [Linear equations word problems: earnings](https://www.youtube.com/watch?v=jTCZfMMcHBo) — 4분 · Linear equation word problems
+- ✅ [Modeling with linear equations: snow](https://www.youtube.com/watch?v=qPx7i1jwXX4) — 5분 · Linear equation word problems
+- ✅ [Linear function example: spending money](https://www.youtube.com/watch?v=ljROszF_rqs) — 5분 · Linear equation word problems
+- ✅ [Constructing linear equations from context](https://www.youtube.com/watch?v=hBpI9IfmMKg) — 3분 · Linear equation word problems
+- ✅ [Linear equation word problems](https://www.youtube.com/watch?v=w6R8rywmgek) — 4분 · Linear equation word problems
+- ✅ [Intro to slope-intercept form](https://www.youtube.com/watch?v=IL3UCuXrUzE) — 9분 · Graphs of linear equations and functions: Slope-intercept form
+- ✅ [Worked examples: slope-intercept intro](https://www.youtube.com/watch?v=qgsNNqmlLoA) — 4분 · Graphs of linear equations and functions: Slope-intercept form
+- ✅ [Graph from slope-intercept equation](https://www.youtube.com/watch?v=uk7gS3cZVp4) — 3분 · Graphs of linear equations and functions: Slope-intercept form
+- ✅ [Slope-intercept equation from graph](https://www.youtube.com/watch?v=9wOalujeZf4) — 11분 · Graphs of linear equations and functions: Slope-intercept form
+- ✅ [Slope-intercept equation from slope & point](https://www.youtube.com/watch?v=AqFwKecNaTk) — 4분 · Graphs of linear equations and functions: Slope-intercept form
+- ✅ [Slope-intercept equation from two points](https://www.youtube.com/watch?v=XMJ72mtMn4Y) — 7분 · Graphs of linear equations and functions: Slope-intercept form
+- ✅ [Slope-intercept form problems](https://www.youtube.com/watch?v=5fkh01mClLU) — 15분 · Graphs of linear equations and functions: Slope-intercept form
+- ✅ [Slope-intercept form from a table](https://www.youtube.com/watch?v=3Ayt7mOd_To) — 4분 · Graphs of linear equations and functions: Slope-intercept form
+- ✅ [Intro to point-slope form](https://www.youtube.com/watch?v=K_OI9LA54AA) — 6분 · Graphs of linear equations and functions: Point-slope and standard form
+- ✅ [Point-slope & slope-intercept equations](https://www.youtube.com/watch?v=LtpXvUCrgrM) — 7분 · Graphs of linear equations and functions: Point-slope and standard form
+- ✅ [Intro to linear equation standard form](https://www.youtube.com/watch?v=6CFE60iP2Ug) — 8분 · Graphs of linear equations and functions: Point-slope and standard form
+- ✅ [Graphing a linear equation: 5x+2y=20](https://www.youtube.com/watch?v=86NwKBcOlow) — 4분 · Graphs of linear equations and functions: Point-slope and standard form
+- ✅ [Clarifying standard form rules](https://www.youtube.com/watch?v=PfSsLjnnS60) — 5분 · Graphs of linear equations and functions: Point-slope and standard form
+- ✅ [Converting from slope-intercept to standard form](https://www.youtube.com/watch?v=XOIhNVeLfWs) — 5분 · Graphs of linear equations and functions: Point-slope and standard form
+- ✅ [Writing linear equations in all forms](https://www.youtube.com/watch?v=-6Fu2T_RSGM) — 8분 · Graphs of linear equations and functions: Point-slope and standard form
+- ✅ [Systems of equations: trolls, tolls (1 of 2)](https://www.youtube.com/watch?v=OcNt-36QKu8) — 7분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Systems of equations: trolls, tolls (2 of 2)](https://www.youtube.com/watch?v=H-HfmyUzPw8) — 6분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Testing a solution to a system of equations](https://www.youtube.com/watch?v=SkMNREAMNvc) — 3분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Systems of equations with substitution: 2y=x+7 & x=y-4](https://www.youtube.com/watch?v=uzyd_mIJaoc) — 5분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Systems of equations with substitution: y=4x-17.5 & y+2x=6.5](https://www.youtube.com/watch?v=wB3QCk0MGuw) — 4분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Systems of equations with substitution: -3x-4y=-2 & y=2x-5](https://www.youtube.com/watch?v=GWZKz4F9hWM) — 4분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Systems of equations with substitution: 9x+3y=15 & y-x=5](https://www.youtube.com/watch?v=0BgUKHTW37E) — 6분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Systems of equations with substitution: y=-5x+8 & 10x+2y=-2](https://www.youtube.com/watch?v=2VeqrZ_PMiY) — 4분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Systems of equations with substitution: y=-1/4x+100 & y=-1/4x+120](https://www.youtube.com/watch?v=HJV_HY0Sh0s) — 4분 · Solving systems of linear equations: Testing and substitution
+- ✅ [Systems of equations with elimination: King's cupcakes](https://www.youtube.com/watch?v=xCIHAjsZCE0) — 9분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Elimination strategies](https://www.youtube.com/watch?v=5jgSW5Jb-Y8) — 7분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Systems of equations with elimination: x-4y=-18 & -x+3y=11](https://www.youtube.com/watch?v=NPXTkj75-AM) — 6분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Systems of equations with elimination: potato chips](https://www.youtube.com/watch?v=VuJEidLhY1E) — 9분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Systems of equations with elimination (and manipulation)](https://www.youtube.com/watch?v=wYrxKGt_bLg) — 12분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Why can we subtract one equation from the other in a system of equations?](https://www.youtube.com/watch?v=h9ZgZimXn2Q) — 8분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Worked example: equivalent systems of equations](https://www.youtube.com/watch?v=XstL_x4ucm4) — 6분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Worked example: non-equivalent systems of equations](https://www.youtube.com/watch?v=PSDQdwL1T0M) — 4분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Reasoning with systems of equations](https://www.youtube.com/watch?v=s1RB-IgAHr8) — 9분 · Solving systems of linear equations: Elimination and number of solutions
+- ✅ [Systems of equations with graphing: y=7/5x-5 & y=3/5x-1](https://www.youtube.com/watch?v=VhH2nEDCd68) — 2분 · Systems of linear equations word problems
+- ✅ [Systems of equations with graphing: exact & approximate solutions](https://www.youtube.com/watch?v=o4pbAQgJYjI) — 6분 · Systems of linear equations word problems
+- ✅ [Age word problem: Imran](https://www.youtube.com/watch?v=KyHvVJWjW6Y) — 4분 · Systems of linear equations word problems
+- ✅ [Age word problem: Ben & William](https://www.youtube.com/watch?v=RGbA2IyJILY) — 6분 · Systems of linear equations word problems
+- ✅ [Age word problem: Arman & Diya](https://www.youtube.com/watch?v=W-5liMGKgHA) — 5분 · Systems of linear equations word problems
+- ✅ [System of equations word problem: walk & ride](https://www.youtube.com/watch?v=Q0tTfe2lKIc) — 7분 · Systems of linear equations word problems
+- ✅ [System of equations word problem: no solution](https://www.youtube.com/watch?v=SRn3WhhS6vs) — 5분 · Systems of linear equations word problems
+- ✅ [System of equations word problem: infinite solutions](https://www.youtube.com/watch?v=njb6xYF0GZ0) — 5분 · Systems of linear equations word problems
+- ✅ [Systems of equations with elimination: TV & DVD](https://www.youtube.com/watch?v=z1hz8-Kri1E) — 6분 · Systems of linear equations word problems
+- ✅ [Systems of equations with elimination: apples and oranges](https://www.youtube.com/watch?v=gRntusF_tVI) — 5분 · Systems of linear equations word problems
+- ✅ [Systems of equations with substitution: coins](https://www.youtube.com/watch?v=v6L8--MlnKo) — 6분 · Systems of linear equations word problems
+- ✅ [Systems of equations with elimination: coffee and croissants](https://www.youtube.com/watch?v=grmmM_KhQ4U) — 4분 · Systems of linear equations word problems
+- ✅ [Testing solutions to inequalities ](https://www.youtube.com/watch?v=2oGsLdAWxlk) — 6분 · Linear inequality word problems
+- ✅ [Writing two-variable inequalities word problem](https://www.youtube.com/watch?v=MHgi8ZQCG0I) — 2분 · Linear inequality word problems
+- ✅ [Solving two-variable inequalities word problem](https://www.youtube.com/watch?v=ysdY1iX_XCs) — 4분 · Linear inequality word problems
+- ✅ [Interpreting two-variable inequalities word problem](https://www.youtube.com/watch?v=TTYDbGXgcCk) — 4분 · Linear inequality word problems
+- ✅ [Modeling with systems of inequalities](https://www.youtube.com/watch?v=BUmLw5m6F9s) — 10분 · Linear inequality word problems
+- ✅ [Writing systems of inequalities word problem](https://www.youtube.com/watch?v=jRnkxSfwIpU) — 4분 · Linear inequality word problems
+- ✅ [Solving systems of inequalities word problem](https://www.youtube.com/watch?v=ZTKAn9YNbNY) — 4분 · Linear inequality word problems
+- ✅ [Graphs of systems of inequalities word problem](https://www.youtube.com/watch?v=C_7Tqk9fw4k) — 4분 · Linear inequality word problems
+- ✅ [Graphs of two-variable inequalities word problem](https://www.youtube.com/watch?v=DhiiGFuUE9I) — 5분 · Linear inequality word problems
+- ✅ [Systems of equations with graphing](https://www.youtube.com/watch?v=5a6zpfl50go) — 8분 · Graphs of linear systems and inequalities
+- ✅ [Systems of equations with graphing: y=7/5x-5 & y=3/5x-1](https://www.youtube.com/watch?v=VhH2nEDCd68) — 2분 · Graphs of linear systems and inequalities
+- ✅ [Systems of equations with graphing: 5x+3y=7 & 3x-2y=8](https://www.youtube.com/watch?v=MRAIgJmRmag) — 7분 · Graphs of linear systems and inequalities
+- ✅ [Systems of equations with graphing: chores](https://www.youtube.com/watch?v=3mimxluSVBo) — 5분 · Graphs of linear systems and inequalities
+- ✅ [Systems of equations with graphing: exact & approximate solutions](https://www.youtube.com/watch?v=o4pbAQgJYjI) — 6분 · Graphs of linear systems and inequalities
+- ✅ [Testing solutions to systems of inequalities](https://www.youtube.com/watch?v=XzYNh2wpO0A) — 1분 · Graphs of linear systems and inequalities
+- ✅ [Intro to graphing two-variable inequalities](https://www.youtube.com/watch?v=unSBFwK881s) — 8분 · Graphs of linear systems and inequalities
+- ✅ [Graphing two-variable inequalities](https://www.youtube.com/watch?v=FnrqBgot3jM) — 3분 · Graphs of linear systems and inequalities
+- ✅ [Two-variable inequalities from their graphs](https://www.youtube.com/watch?v=YBYu5aZPLeg) — 3분 · Graphs of linear systems and inequalities
+- ✅ [Intro to graphing systems of inequalities](https://www.youtube.com/watch?v=CA4S7S-3Lg4) — 6분 · Graphs of linear systems and inequalities
+- ✅ [Graphing systems of inequalities](https://www.youtube.com/watch?v=YjT3QYfoy4Q) — 3분 · Graphs of linear systems and inequalities
+
+### Get ready: Problem solving and data analysis
+
+- ✅ [Intro to ratios](https://www.youtube.com/watch?v=bIKmw0aTmYc) — 4분 · Ratios, rates, and proportions: Ratios
+- ✅ [Basic ratios](https://www.youtube.com/watch?v=IjMn7f6bbLA) — 3분 · Ratios, rates, and proportions: Ratios
+- ✅ [Part:whole ratios](https://www.youtube.com/watch?v=UK-_qEDtvYo) — 3분 · Ratios, rates, and proportions: Ratios
+- ✅ [Equivalent ratios](https://www.youtube.com/watch?v=eb-GHXCqkhQ) — 5분 · Ratios, rates, and proportions: Ratios
+- ✅ [Equivalent ratios: recipe](https://www.youtube.com/watch?v=VWO1m0S-a9Y) — 5분 · Ratios, rates, and proportions: Ratios
+- ✅ [Understanding equivalent ratios](https://www.youtube.com/watch?v=4S3Mbl0JrdY) — 6분 · Ratios, rates, and proportions: Ratios
+- ✅ [Intro to rates](https://www.youtube.com/watch?v=qGTYSAeLTOE) — 6분 · Ratios, rates, and proportions: Rates
+- ✅ [Solving unit rate problem](https://www.youtube.com/watch?v=Zm0KaIw-35k) — 3분 · Ratios, rates, and proportions: Rates
+- ✅ [Solving unit price problem](https://www.youtube.com/watch?v=rpGGMSFO6Ks) — 2분 · Ratios, rates, and proportions: Rates
+- ✅ [Rate problems](https://www.youtube.com/watch?v=fpjXtpg_isc) — 4분 · Ratios, rates, and proportions: Rates
+- ✅ [Comparing rates example](https://www.youtube.com/watch?v=C7bBZa52h-4) — 7분 · Ratios, rates, and proportions: Rates
+- ✅ [Rates with fractions](https://www.youtube.com/watch?v=2DBBKArGfus) — 5분 · Ratios, rates, and proportions: Rates
+- ✅ [Intro to proportional relationships](https://www.youtube.com/watch?v=qYjiVWwefto) — 4분 · Ratios, rates, and proportions: Proportions
+- ✅ [Proportional relationships: movie tickets](https://www.youtube.com/watch?v=-YYTUTrxl28) — 2분 · Ratios, rates, and proportions: Proportions
+- ✅ [Proportional relationships: bananas](https://www.youtube.com/watch?v=bJb4n19sFrs) — 3분 · Ratios, rates, and proportions: Proportions
+- ✅ [Proportional relationships: spaghetti](https://www.youtube.com/watch?v=jNUz0P5MG9M) — 1분 · Ratios, rates, and proportions: Proportions
+- ✅ [Proportional relationships](https://www.youtube.com/watch?v=HEmwn5jmy2Y) — 4분 · Ratios, rates, and proportions: Proportions
+- ✅ [Worked example: Solving proportions](https://www.youtube.com/watch?v=GO5ajwbFqVQ) — 7분 · Ratios, rates, and proportions: Proportions
+- ✅ [Writing proportions example](https://www.youtube.com/watch?v=96ZEmUbnuU8) — 6분 · Ratios, rates, and proportions: Proportions
+- ✅ [Proportion word problem: cookies](https://www.youtube.com/watch?v=4ywTWCaLmXE) — 6분 · Ratios, rates, and proportions: Proportions
+- ✅ [Proportion word problem: hot dogs](https://www.youtube.com/watch?v=s8_14yxp1lQ) — 5분 · Ratios, rates, and proportions: Proportions
+- ✅ [Intro to dimensional analysis](https://www.youtube.com/watch?v=hIAdCTNi1S8) — 6분 · Unit conversion
+- ✅ [Same rate with different units](https://www.youtube.com/watch?v=d5lcGCbV5cM) — 10분 · Unit conversion
+- ✅ [Creativity break: When did you first realize that you liked algebra](https://www.youtube.com/watch?v=4l1t-_Eb2MI) — 2분 · Unit conversion
+- ✅ [Defining appropriate quantities for modeling](https://www.youtube.com/watch?v=717zfRdog9s) — 6분 · Unit conversion
+- ✅ [Formulas and units: Volume of a pool](https://www.youtube.com/watch?v=nziP-8PeZqY) — 3분 · Unit conversion
+- ✅ [Formulas and units: Comparing rates](https://www.youtube.com/watch?v=IuvsQjW1qa4) — 4분 · Unit conversion
+- ✅ [Reporting measurements](https://www.youtube.com/watch?v=UEe81kJtY8A) — 6분 · Unit conversion
+- ✅ [Using units to solve problems: Toy factory](https://www.youtube.com/watch?v=ocOXYiborsw) — 3분 · Unit conversion
+- ✅ [Using units to solve problems: Road trip](https://www.youtube.com/watch?v=_UAQJw_q4p4) — 4분 · Unit conversion
+- ✅ [Using units to solve problems: Drug dosage](https://www.youtube.com/watch?v=ScvuRb6vsz4) — 11분 · Unit conversion
+- ✅ [The meaning of percent](https://www.youtube.com/watch?v=Lvr2YsxG10o) — 3분 · Percentages
+- ✅ [Meaning of 109%](https://www.youtube.com/watch?v=MokI3Fi8jpc) — 2분 · Percentages
+- ✅ [Percents from fraction models](https://www.youtube.com/watch?v=nV6bRozq5Po) — 4분 · Percentages
+- ✅ [Fraction, decimal, and percent from visual model](https://www.youtube.com/watch?v=wwg052FC_Zw) — 4분 · Percentages
+- ✅ [Converting percents to decimals & fractions example](https://www.youtube.com/watch?v=-gB1y-PMWfs) — 4분 · Percentages
+- ✅ [Percent of a whole number](https://www.youtube.com/watch?v=-lUEWEEpmIo) — 2분 · Percentages
+- ✅ [Ways to rewrite a percentage](https://www.youtube.com/watch?v=MD5JUwAeg6c) — 2분 · Percentages
+- ✅ [Finding common percentages](https://www.youtube.com/watch?v=GdwjpJwa8Ys) — 3분 · Percentages
+- ✅ [Finding a percent](https://www.youtube.com/watch?v=FaDtge_vkbg) — 4분 · Percentages
+- ✅ [Percent word problem: recycling cans](https://www.youtube.com/watch?v=AjYil74WrVo) — 3분 · Percentages
+- ✅ [Statistics intro: Mean, median, & mode](https://www.youtube.com/watch?v=h8EYEJ32oQ8) — 9분 · Center, spread, and shape of distributions
+- ✅ [Mean, median, & mode example](https://www.youtube.com/watch?v=k3aKKasOmIw) — 4분 · Center, spread, and shape of distributions
+- ✅ [Missing value given the mean](https://www.youtube.com/watch?v=qpbaglogObM) — 5분 · Center, spread, and shape of distributions
+- ✅ [Impact on median & mean: removing an outlier](https://www.youtube.com/watch?v=-2OOBEBq9-4) — 6분 · Center, spread, and shape of distributions
+- ✅ [Impact on median & mean: increasing an outlier](https://www.youtube.com/watch?v=K1y6Tz_E7oA) — 4분 · Center, spread, and shape of distributions
+- ✅ [Representing data](https://www.youtube.com/watch?v=0ZKtsUkrgFQ) — 8분 · Data representations
+- ✅ [Frequency tables & dot plots](https://www.youtube.com/watch?v=gdE46YSedvE) — 7분 · Data representations
+- ✅ [Creating a histogram](https://www.youtube.com/watch?v=gSEYtAjuZ-Y) — 7분 · Data representations
+- ✅ [Interpreting a histogram](https://www.youtube.com/watch?v=c02vjunQsJM) — 4분 · Data representations
+- ✅ [Reading box plots](https://www.youtube.com/watch?v=b2C9I8HuCe4) — 3분 · Data representations
+- ✅ [Interpreting box plots](https://www.youtube.com/watch?v=oBREri10ZHk) — 8분 · Data representations
+- ✅ [Comparing dot plots, histograms, and box plots](https://www.youtube.com/watch?v=s_w3EJ2Jzw0) — 5분 · Data representations
+- ✅ [Constructing a scatter plot](https://www.youtube.com/watch?v=sHbX58y5D4U) — 3분 · Scatterplots
+- ✅ [Example of direction in scatterplots](https://www.youtube.com/watch?v=Jpbm5YgciqI) — 2분 · Scatterplots
+- ✅ [Scatter plot: smokers](https://www.youtube.com/watch?v=F5uiFXECnVY) — 3분 · Scatterplots
+- ✅ [Estimating the line of best fit exercise](https://www.youtube.com/watch?v=ioieTr41L24) — 1분 · Scatterplots
+- ✅ [Line of best fit: smoking in 1945](https://www.youtube.com/watch?v=d4WE4SnhBDU) — 5분 · Scatterplots
+- ✅ [Estimating with linear regression (linear models)](https://www.youtube.com/watch?v=TWkYalFn8lo) — 3분 · Scatterplots
+- ✅ [Interpreting a trend line](https://www.youtube.com/watch?v=mfX_yUvwJho) — 3분 · Scatterplots
+- ✅ [Intro to exponential functions](https://www.youtube.com/watch?v=6WMZ7J0wwMI) — 8분 · Linear and exponential growth
+- ✅ [Exponential vs. linear growth](https://www.youtube.com/watch?v=_vlXdx-CqM0) — 3분 · Linear and exponential growth
+- ✅ [Exponential vs. linear  models: verbal](https://www.youtube.com/watch?v=8OHEgD6YMBw) — 3분 · Linear and exponential growth
+- ✅ [Exponential vs. linear models: table](https://www.youtube.com/watch?v=tV0NNJ6ndgk) — 3분 · Linear and exponential growth
+- ✅ [Linear vs. exponential growth: from data](https://www.youtube.com/watch?v=721RrH6auoU) — 6분 · Linear and exponential growth
+- ✅ [Linear vs. exponential growth: from data (example 2)](https://www.youtube.com/watch?v=edwZDu94wNs) — 7분 · Linear and exponential growth
+- ✅ [Intro to theoretical probability](https://www.youtube.com/watch?v=uzkc-qNVoOk) — 8분 · Probability and relative frequency: Basics
+- ✅ [Simple probability: yellow marble](https://www.youtube.com/watch?v=yUaI0JriZtY) — 3분 · Probability and relative frequency: Basics
+- ✅ [Simple probability: non-blue marble](https://www.youtube.com/watch?v=mLE-SlOZToc) — 10분 · Probability and relative frequency: Basics
+- ✅ [Experimental probability](https://www.youtube.com/watch?v=RdehfQJ8i_0) — 7분 · Probability and relative frequency: Basics
+- ✅ [Intuitive sense of probabilities](https://www.youtube.com/watch?v=KFgvOQtH0Z0) — 9분 · Probability and relative frequency: Basics
+- ✅ [Theoretical and experimental probabilities](https://www.youtube.com/watch?v=tXlcE_K_C-Y) — 7분 · Probability and relative frequency: Basics
+- ✅ [Making predictions with probability ](https://www.youtube.com/watch?v=8bK-xfh8-rY) — 5분 · Probability and relative frequency: Basics
+- ✅ [Probability models example: frozen yogurt](https://www.youtube.com/watch?v=BIpsQIJUCC8) — 7분 · Probability and relative frequency: Basics
+- ✅ [Sample spaces for compound events](https://www.youtube.com/watch?v=PR-A3UAO7_0) — 9분 · Probability and relative frequency: Compound events
+- ✅ [Die rolling probability](https://www.youtube.com/watch?v=O4Qnsubo2tg) — 5분 · Probability and relative frequency: Compound events
+- ✅ [Probability of a compound event](https://www.youtube.com/watch?v=6zWPgvEMVlE) — 5분 · Probability and relative frequency: Compound events
+- ✅ [Counting outcomes: flower pots](https://www.youtube.com/watch?v=B_vAlneziHo) — 3분 · Probability and relative frequency: Compound events
+- ✅ [Count outcomes using tree diagram](https://www.youtube.com/watch?v=Zxvc6iPKdec) — 5분 · Probability and relative frequency: Compound events
+- ✅ [Two-way frequency tables and Venn diagrams](https://www.youtube.com/watch?v=l5MrtV7ZN88) — 6분 · Probability and relative frequency: Two-way tables
+- ✅ [Two-way relative frequency tables](https://www.youtube.com/watch?v=_ETPMszULXc) — 4분 · Probability and relative frequency: Two-way tables
+- ✅ [Interpreting two-way tables](https://www.youtube.com/watch?v=MarqSlyz-lU) — 2분 · Probability and relative frequency: Two-way tables
+- ✅ [Reasonable samples](https://www.youtube.com/watch?v=aKAw-DyZa6g) — 4분 · Data inferences & evaluating statistical claims
+- ✅ [Comparing distributions with dot plots (example problem)](https://www.youtube.com/watch?v=KXDOOmquZag) — 4분 · Data inferences & evaluating statistical claims
+
+### Get ready: Advanced math
+
+- ✅ [Factoring quadratics as (x+a)(x+b)](https://www.youtube.com/watch?v=D3a8NnpQ2vU) — 7분 · Factoring quadratic and polynomial expressions
+- ✅ [Factoring quadratics as (x+a)(x+b) (example 2)](https://www.youtube.com/watch?v=1kfq0aR3ASs) — 4분 · Factoring quadratic and polynomial expressions
+- ✅ [More examples of factoring quadratics as (x+a)(x+b)](https://www.youtube.com/watch?v=eF6zYNzlZKQ) — 16분 · Factoring quadratic and polynomial expressions
+- ✅ [Factoring quadratics with a common factor](https://www.youtube.com/watch?v=m6uOqU91ypI) — 3분 · Factoring quadratic and polynomial expressions
+- ✅ [Factoring completely with a common factor](https://www.youtube.com/watch?v=FoTD41xzF5Q) — 4분 · Factoring quadratic and polynomial expressions
+- ✅ [Exponent properties with products](https://www.youtube.com/watch?v=zM_p7tfWvLU) — 14분 · Radicals and rational exponents
+- ✅ [Exponent properties with parentheses](https://www.youtube.com/watch?v=SwqOrUWzDY8) — 6분 · Radicals and rational exponents
+- ✅ [Exponent properties with quotients](https://www.youtube.com/watch?v=AR1uqNbjM5s) — 9분 · Radicals and rational exponents
+- ✅ [Intro to rational exponents](https://www.youtube.com/watch?v=lZfXc4nHooo) — 5분 · Radicals and rational exponents
+- ✅ [Rewriting roots as rational exponents](https://www.youtube.com/watch?v=gH4IsIEYof0) — 4분 · Radicals and rational exponents
+- ✅ [Exponential equation with rational answer](https://www.youtube.com/watch?v=6OFwfxmhtE8) — 4분 · Radicals and rational exponents
+- ✅ [Polynomials intro](https://www.youtube.com/watch?v=Vm7H0VTlIco) — 11분 · Operations with polynomials
+- ✅ [Adding and subtracting polynomials of degree one](https://www.youtube.com/watch?v=4MRaGUNKw8U) — 5분 · Operations with polynomials
+- ✅ [Adding and subtracting polynomials of degree two](https://www.youtube.com/watch?v=kieyGh0SDQk) — 3분 · Operations with polynomials
+- ✅ [Multiply monomials by polynomials: Area model](https://www.youtube.com/watch?v=wznE1wlmhR0) — 4분 · Operations with polynomials
+- ✅ [Rational equations intro](https://www.youtube.com/watch?v=3RdNPrNUi4s) — 3분 · Operations with rational expressions
+- ✅ [Equations with rational expressions](https://www.youtube.com/watch?v=McOMtxI_Jzs) — 5분 · Operations with rational expressions
+- ✅ [Equations with rational expressions (example 2)](https://www.youtube.com/watch?v=CBlSsy1eslw) — 7분 · Operations with rational expressions
+- ✅ [Finding inverses of rational functions](https://www.youtube.com/watch?v=YI30Ecfl4tc) — 4분 · Operations with rational expressions
+- ✅ [Dividing polynomials of degree one](https://www.youtube.com/watch?v=LtCd09uHFnc) — 7분 · Operations with rational expressions
+- ✅ [What is a function?](https://www.youtube.com/watch?v=kvGsIo1TmsM) — 8분 · Nonlinear functions
+- ✅ [Worked example: Evaluating functions from equation](https://www.youtube.com/watch?v=Id6UovYjd-M) — 1분 · Nonlinear functions
+- ✅ [Function notation example](https://www.youtube.com/watch?v=IXRMVcoqRRQ) — 2분 · Nonlinear functions
+- ✅ [Worked example: Evaluating functions from graph](https://www.youtube.com/watch?v=kzYtx_AqzjM) — 1분 · Nonlinear functions
+- ✅ [Equations vs. functions](https://www.youtube.com/watch?v=l3iXON1xEC4) — 4분 · Nonlinear functions
+- ✅ [Manipulating formulas: temperature](https://www.youtube.com/watch?v=BR5yFOt0zao) — 3분 · Nonlinear functions
+- ✅ [Obtaining a function from an equation](https://www.youtube.com/watch?v=OOim0QPsJ9o) — 3분 · Nonlinear functions
+- ✅ [Intro to composing functions](https://www.youtube.com/watch?v=wUNWjd4bMmw) — 6분 · Nonlinear functions
+- ✅ [Evaluating composite functions](https://www.youtube.com/watch?v=lxtlwnCV-HM) — 4분 · Nonlinear functions
+- ✅ [Intro to combining like terms](https://www.youtube.com/watch?v=CLWpkv6ccpA) — 5분 · Isolating quantities
+- ✅ [Combining like terms with negative coefficients & distribution](https://www.youtube.com/watch?v=3NHSwiv_pSE) — 4분 · Isolating quantities
+- ✅ [Combining like terms with negative coefficients](https://www.youtube.com/watch?v=FNnmseBlvaY) — 5분 · Isolating quantities
+- ✅ [Combining like terms with rational coefficients](https://www.youtube.com/watch?v=rtNuo7R3scY) — 4분 · Isolating quantities
+- ✅ [Equivalent expressions](https://www.youtube.com/watch?v=rHNY01R2VSQ) — 2분 · Isolating quantities
+- ✅ [Solving quadratics by taking square roots](https://www.youtube.com/watch?v=RweAgQwLdMs) — 2분 · Solving quadratic equations: Square roots
+- ✅ [Solving quadratics by taking square roots examples](https://www.youtube.com/watch?v=VTlvg4wJ1X0) — 5분 · Solving quadratic equations: Square roots
+- ✅ [Quadratics by taking square roots: strategy](https://www.youtube.com/watch?v=jtPvDycHVQw) — 2분 · Solving quadratic equations: Square roots
+- ✅ [Solving quadratics by taking square roots: with steps](https://www.youtube.com/watch?v=naVFTNWVlQU) — 4분 · Solving quadratic equations: Square roots
+- ✅ [Zero product property](https://www.youtube.com/watch?v=-lWVpoPaPBc) — 7분 · Solving quadratic equations: Factoring
+- ✅ [Solving quadratics by factoring](https://www.youtube.com/watch?v=2ZzuZvz33X0) — 6분 · Solving quadratic equations: Factoring
+- ✅ [Solving quadratics by factoring: leading coefficient ≠ 1](https://www.youtube.com/watch?v=KbFwLvCOBUI) — 5분 · Solving quadratic equations: Factoring
+- ✅ [Solving quadratics using structure](https://www.youtube.com/watch?v=ZIqW_sXymrM) — 4분 · Solving quadratic equations: Factoring
+- ✅ [Quadratic equations word problem: triangle dimensions](https://www.youtube.com/watch?v=STcsaKuW-24) — 8분 · Solving quadratic equations: Factoring
+- ✅ [Quadratic equations word problem: box dimensions](https://www.youtube.com/watch?v=vl9o9XEfXtw) — 6분 · Solving quadratic equations: Factoring
+- ✅ [The quadratic formula](https://www.youtube.com/watch?v=i7idZfS8t8w) — 17분 · Solving quadratic equations: Quadratic formula
+- ✅ [Worked example: quadratic formula (example 2)](https://www.youtube.com/watch?v=CLrImGKeuEI) — 7분 · Solving quadratic equations: Quadratic formula
+- ✅ [Worked example: quadratic formula (negative coefficients)](https://www.youtube.com/watch?v=_E3gx_yQhHQ) — 5분 · Solving quadratic equations: Quadratic formula
+- ✅ [Using the quadratic formula: number of solutions](https://www.youtube.com/watch?v=XUvKjC21fYU) — 5분 · Solving quadratic equations: Quadratic formula
+- ✅ [Quadratic systems: a line and a parabola](https://www.youtube.com/watch?v=Cy1Pxz_wLfA) — 6분 · Linear and quadratic systems
+- ✅ [Quadratic systems: a line and a circle](https://www.youtube.com/watch?v=swFohliPgmQ) — 4분 · Linear and quadratic systems
+- ✅ [Quadratic system with no solutions](https://www.youtube.com/watch?v=FksgVpM_iXs) — 7분 · Linear and quadratic systems
+- ✅ [Intro to square roots](https://www.youtube.com/watch?v=mbc3_e5lWw0) — 5분 · Radical, rational, and absolute value equations
+- ✅ [Understanding square roots](https://www.youtube.com/watch?v=ROIfbUQrSY4) — 1분 · Radical, rational, and absolute value equations
+- ✅ [Square root of decimal](https://www.youtube.com/watch?v=tRHLEWSUjrQ) — 3분 · Radical, rational, and absolute value equations
+- ✅ [Intro to cube roots](https://www.youtube.com/watch?v=87_qIofPwhg) — 8분 · Radical, rational, and absolute value equations
+- ✅ [5th roots](https://www.youtube.com/watch?v=8wrtyW1RwNk) — 4분 · Radical, rational, and absolute value equations
+- ✅ [Intro to absolute value equations and graphs](https://www.youtube.com/watch?v=u6zDpUL5RkU) — 11분 · Radical, rational, and absolute value equations
+- ✅ [Worked example: absolute value equation with two solutions](https://www.youtube.com/watch?v=UvtWf4TVawE) — 5분 · Radical, rational, and absolute value equations
+- ✅ [Worked example: absolute value equations with one solution](https://www.youtube.com/watch?v=GwjiR2_7A7Y) — 3분 · Radical, rational, and absolute value equations
+- ✅ [Worked example: absolute value equations with no solution](https://www.youtube.com/watch?v=15s6B7K9paA) — 4분 · Radical, rational, and absolute value equations
+- ✅ [Vertex form introduction](https://www.youtube.com/watch?v=_QqhuLixNEk) — 6분 · Quadratic and exponential word problems: Quadratic
+- ✅ [Quadratic word problems (vertex form)](https://www.youtube.com/watch?v=lUA1LYCoIAg) — 7분 · Quadratic and exponential word problems: Quadratic
+- ✅ [Quadratic word problems (factored form)](https://www.youtube.com/watch?v=xVZA6NOQA7A) — 6분 · Quadratic and exponential word problems: Quadratic
+- ✅ [Finding the vertex of a parabola in standard form](https://www.youtube.com/watch?v=IbI-l7mbKO4) — 6분 · Quadratic and exponential word problems: Quadratic
+- ✅ [Quadratic word problem: ball](https://www.youtube.com/watch?v=OZtqz_xw0SQ) — 6분 · Quadratic and exponential word problems: Quadratic
+- ✅ [Quadratic equations word problem: triangle dimensions](https://www.youtube.com/watch?v=STcsaKuW-24) — 8분 · Quadratic and exponential word problems: Quadratic
+- ✅ [Quadratic equations word problem: box dimensions](https://www.youtube.com/watch?v=vl9o9XEfXtw) — 6분 · Quadratic and exponential word problems: Quadratic
+- ✅ [Exponential expressions word problems (numerical)](https://www.youtube.com/watch?v=L70UJVjc-bc) — 5분 · Quadratic and exponential word problems: Exponential
+- ✅ [Initial value & common ratio of exponential functions](https://www.youtube.com/watch?v=G2WybA4Hf7Y) — 5분 · Quadratic and exponential word problems: Exponential
+- ✅ [Exponential expressions word problems (algebraic)](https://www.youtube.com/watch?v=Z3YVZzCEi_A) — 4분 · Quadratic and exponential word problems: Exponential
+- ✅ [Interpreting exponential expression word problem](https://www.youtube.com/watch?v=Pud5ygp6H38) — 3분 · Quadratic and exponential word problems: Exponential
+- ✅ [Exponential vs. linear growth over time](https://www.youtube.com/watch?v=cwnke_pjX90) — 5분 · Quadratic and exponential word problems: Exponential
+- ✅ [Writing exponential functions from graphs](https://www.youtube.com/watch?v=gFdh_rE2XgU) — 7분 · Quadratic and exponential word problems: Exponential
+- ✅ [Analyzing tables of exponential functions](https://www.youtube.com/watch?v=yOqhKOicqhU) — 7분 · Quadratic and exponential word problems: Exponential
+- ✅ [Analyzing graphs of exponential functions](https://www.youtube.com/watch?v=fe1Hsqyetzk) — 4분 · Quadratic and exponential word problems: Exponential
+- ✅ [Analyzing graphs of exponential functions: negative initial value](https://www.youtube.com/watch?v=No1LKevjF6U) — 6분 · Quadratic and exponential word problems: Exponential
+- ✅ [Modeling with basic exponential functions word problem](https://www.youtube.com/watch?v=2iZXFd_ZImA) — 6분 · Quadratic and exponential word problems: Exponential
+- ✅ [Forms & features of quadratic functions](https://www.youtube.com/watch?v=4Bc5-HRop5Y) — 8분 · Quadratic graphs
+- ✅ [Worked examples: Forms & features of quadratic functions](https://www.youtube.com/watch?v=eRbgHCaWQQE) — 7분 · Quadratic graphs
+- ✅ [Vertex & axis of symmetry of a parabola](https://www.youtube.com/watch?v=dfoXtodyiIA) — 7분 · Quadratic graphs
+- ✅ [Finding features of quadratic functions](https://www.youtube.com/watch?v=V-BAdpvejTw) — 8분 · Quadratic graphs
+- ✅ [Interpret quadratic models: Factored form](https://www.youtube.com/watch?v=ITBRCLusU1s) — 4분 · Quadratic graphs
+- ✅ [Interpret quadratic models: Vertex form](https://www.youtube.com/watch?v=JdWEdb90V1s) — 6분 · Quadratic graphs
+- ✅ [Creativity break: How does creativity play a role in your everyday life?](https://www.youtube.com/watch?v=eU8IfaoD-v8) — 2분 · Quadratic graphs
+- ✅ [Exponential function graph](https://www.youtube.com/watch?v=9SOSfRNCQZQ) — 6분 · Exponential graphs
+- ✅ [Graphs of exponential growth](https://www.youtube.com/watch?v=6rX2VNybXEE) — 4분 · Exponential graphs
+- ✅ [Writing exponential functions](https://www.youtube.com/watch?v=UgLfAb_aFt4) — 2분 · Exponential graphs
+- ✅ [Writing exponential functions from tables](https://www.youtube.com/watch?v=Qst1UVtq8pE) — 5분 · Exponential graphs
+- ✅ [Intro to the Polynomial Remainder Theorem](https://www.youtube.com/watch?v=MwG6QD352yc) — 7분 · Polynomial and other nonlinear graphs
+- ✅ [Remainder theorem: finding remainder from equation](https://www.youtube.com/watch?v=MHtTP6vc4RU) — 4분 · Polynomial and other nonlinear graphs
+- ✅ [Remainder theorem: checking factors](https://www.youtube.com/watch?v=JAdNNJynWM4) — 3분 · Polynomial and other nonlinear graphs
+- ✅ [Remainder theorem: finding coefficients](https://www.youtube.com/watch?v=e0lBUViss8E) — 4분 · Polynomial and other nonlinear graphs
+- ✅ [Proof of the Polynomial Remainder Theorem](https://www.youtube.com/watch?v=NIazpCER9oM) — 6분 · Polynomial and other nonlinear graphs
+- ✅ [Zeros of polynomials & their graphs](https://www.youtube.com/watch?v=uFZvWYPfOmw) — 5분 · Polynomial and other nonlinear graphs
+- ✅ [Intro to end behavior of polynomials](https://www.youtube.com/watch?v=tZKzaF28sOk) — 8분 · Polynomial and other nonlinear graphs
+- ✅ [End behavior of functions & their graphs](https://www.youtube.com/watch?v=hpBBuaiIkrg) — 2분 · Polynomial and other nonlinear graphs
+
+### Get ready: Geometry and trigonometry
+
+- ✅ [Volume of triangular prism & cube](https://www.youtube.com/watch?v=ZqzAOZ9pP9Q) — 4분 · Area and volume
+- ✅ [Volume of rectangular pyramids using cubes](https://www.youtube.com/watch?v=tDNCy8dalPY) — 2분 · Area and volume
+- ✅ [Volume of rectangular pyramids using rectangular prisms](https://www.youtube.com/watch?v=PPey8fjuH84) — 4분 · Area and volume
+- ✅ [Cylinder volume & surface area](https://www.youtube.com/watch?v=gL3HxBQyeg0) — 8분 · Area and volume
+- ✅ [Volume of a sphere](https://www.youtube.com/watch?v=IelS2vg7JO8) — 3분 · Area and volume
+- ✅ [Volume of a cone](https://www.youtube.com/watch?v=hC6zx9WAiC4) — 6분 · Area and volume
+- ✅ [Congruent shapes & transformations](https://www.youtube.com/watch?v=KZMRhWdzEPo) — 2분 · Congruence, similarity, and angle relationships
+- ✅ [Non-congruent shapes & transformations](https://www.youtube.com/watch?v=7Rb3V-HyVD8) — 2분 · Congruence, similarity, and angle relationships
+- ✅ [Similar shapes & transformations](https://www.youtube.com/watch?v=H-YuW_uckz4) — 3분 · Congruence, similarity, and angle relationships
+- ✅ [Side lengths after dilation](https://www.youtube.com/watch?v=2yjSAarzWF8) — 2분 · Congruence, similarity, and angle relationships
+- ✅ [Intro to the Pythagorean theorem](https://www.youtube.com/watch?v=AA6RfgP-AHU) — 11분 · Right triangle trigonometry: Pythagorean theorem
+- ✅ [Pythagorean theorem example](https://www.youtube.com/watch?v=O64YFlX1_aI) — 4분 · Right triangle trigonometry: Pythagorean theorem
+- ✅ [Pythagorean theorem with isosceles triangle](https://www.youtube.com/watch?v=TjOlZr_2uW4) — 4분 · Right triangle trigonometry: Pythagorean theorem
+- ✅ [Using similarity to estimate ratio between side lengths](https://www.youtube.com/watch?v=M-jQMTWBuzQ) — 5분 · Right triangle trigonometry: Ratios
+- ✅ [Using right triangle ratios to approximate angle measure](https://www.youtube.com/watch?v=fPXQTEYjF-o) — 3분 · Right triangle trigonometry: Ratios
+- ✅ [Triangle similarity & the trigonometric ratios](https://www.youtube.com/watch?v=QuZMXVJNLCo) — 9분 · Right triangle trigonometry: Ratios
+- ✅ [Trigonometric ratios in right triangles](https://www.youtube.com/watch?v=G-T_6hCdMQc) — 12분 · Right triangle trigonometry: Ratios
+- ✅ [Intro to arc measure](https://www.youtube.com/watch?v=_H4jllna_ec) — 5분 · Circle theorems
+- ✅ [Finding arc measures](https://www.youtube.com/watch?v=GOA9XWEo7QI) — 7분 · Circle theorems
+- ✅ [Finding arc measures with equations](https://www.youtube.com/watch?v=bsDu8VQKwxA) — 7분 · Circle theorems
+- ✅ [Arc length from subtended angle](https://www.youtube.com/watch?v=tVcasOt55Lc) — 5분 · Circle theorems
+- ✅ [Subtended angle from arc length](https://www.youtube.com/watch?v=1BH2TNzAAik) — 2분 · Circle theorems
+- ✅ [Area of a sector](https://www.youtube.com/watch?v=u8JFdwmBvvQ) — 2분 · Circle theorems
+- ✅ [Radians as ratio of arc length to radius](https://www.youtube.com/watch?v=9qrx0aqyhS8) — 7분 · Unit circle trigonometry
+- ✅ [Intro to radians](https://www.youtube.com/watch?v=EnwWxMZVBeg) — 11분 · Unit circle trigonometry
+- ✅ [Radians & degrees](https://www.youtube.com/watch?v=z8vj8tUCkxY) — 7분 · Unit circle trigonometry
+- ✅ [Degrees to radians](https://www.youtube.com/watch?v=O3jvUZ8wvZs) — 7분 · Unit circle trigonometry
+- ✅ [Radians to degrees](https://www.youtube.com/watch?v=z0-1gBy1ykE) — 3분 · Unit circle trigonometry
+- ✅ [Arc length as fraction of circumference](https://www.youtube.com/watch?v=XFI7GK4Nv-s) — 3분 · Unit circle trigonometry
+- ✅ [Arc length from subtended angle: radians](https://www.youtube.com/watch?v=dtQyiDMoub4) — 3분 · Unit circle trigonometry
+- ✅ [Intro to conic sections](https://www.youtube.com/watch?v=0A7RR0oy2ho) — 11분 · Circle equations
+- ✅ [Graphing circles from features](https://www.youtube.com/watch?v=LDjMDIuTWtM) — 2분 · Circle equations
+- ✅ [Features of a circle from its graph](https://www.youtube.com/watch?v=SLyM_-sQwMM) — 4분 · Circle equations
+- ✅ [Features of a circle from its standard equation](https://www.youtube.com/watch?v=JvDpYlyKkNU) — 4분 · Circle equations
+- ✅ [Graphing a circle from its standard equation](https://www.youtube.com/watch?v=thDrJvWNI8M) — 5분 · Circle equations
+- ✅ [Writing standard equation of a circle](https://www.youtube.com/watch?v=iX5UgArMyiI) — 6분 · Circle equations
+
+## ❌ 뺄 영상

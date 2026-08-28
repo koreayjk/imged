@@ -281,6 +281,10 @@ async def main():
     exe = os.environ.get("KHAN_CHROMIUM")
     if exe:
         launch_kwargs["executable_path"] = exe
+    # 원격 환경은 아웃바운드가 프록시 경유. CA는 브라우저 NSS 저장소에 이미 등록되어 있음.
+    proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
+    if proxy:
+        launch_kwargs["proxy"] = {"server": proxy}
 
     report = []
     async with async_playwright() as pw:

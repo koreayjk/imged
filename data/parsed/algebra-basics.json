@@ -1,0 +1,2077 @@
+{
+  "key": "algebra-basics",
+  "tier": "T1",
+  "subject": "math",
+  "slug": "algebra-basics",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Algebra basics",
+  "course_slug": "algebra-basics",
+  "units": [
+    {
+      "title": "Foundations",
+      "slug": "basic-alg-foundations",
+      "relative_url": "/math/algebra-basics/basic-alg-foundations",
+      "lessons": [
+        {
+          "title": "Negative numbers",
+          "slug": "alg-basics-negative-numbers",
+          "videos": [
+            {
+              "title": "Number opposites",
+              "slug": "v/opposite-of-a-number",
+              "youtube_id": "2Zk6u7Uk5ow",
+              "youtube_url": "https://www.youtube.com/watch?v=2Zk6u7Uk5ow",
+              "duration_sec": 192,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-negative-number-topic/negative-symbol-as-opposite/v/opposite-of-a-number"
+            },
+            {
+              "title": "Adding numbers with different signs",
+              "slug": "v/adding-integers-with-different-signs",
+              "youtube_id": "NrVvu7cM8_o",
+              "youtube_url": "https://www.youtube.com/watch?v=NrVvu7cM8_o",
+              "duration_sec": 332,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers/v/adding-integers-with-different-signs"
+            },
+            {
+              "title": "Adding & subtracting negative numbers",
+              "slug": "v/adding-and-subtracting-negative-number-examples",
+              "youtube_id": "NQSN00zL5gg",
+              "youtube_url": "https://www.youtube.com/watch?v=NQSN00zL5gg",
+              "duration_sec": 247,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers/v/adding-and-subtracting-negative-number-examples"
+            },
+            {
+              "title": "Subtracting a negative = adding a positive",
+              "slug": "v/why-subtracting-a-negative-equivalent-to-adding-a-positive",
+              "youtube_id": "lBscLuttQq0",
+              "youtube_url": "https://www.youtube.com/watch?v=lBscLuttQq0",
+              "duration_sec": 93,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/x6b17ba59:subtracting-negative-numbers-fluently/v/why-subtracting-a-negative-equivalent-to-adding-a-positive"
+            },
+            {
+              "title": "Multiplying positive & negative numbers",
+              "slug": "v/multiplying-positive-and-negative-numbers",
+              "youtube_id": "47wjId9k2Hs",
+              "youtube_url": "https://www.youtube.com/watch?v=47wjId9k2Hs",
+              "duration_sec": 334,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives/v/multiplying-positive-and-negative-numbers"
+            },
+            {
+              "title": "Why a negative times a negative is a positive",
+              "slug": "v/why-a-negative-times-a-negative-is-a-positive",
+              "youtube_id": "rK4sXm_MPWo",
+              "youtube_url": "https://www.youtube.com/watch?v=rK4sXm_MPWo",
+              "duration_sec": 347,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/x6b17ba59:multiply-with-negatives/v/why-a-negative-times-a-negative-is-a-positive"
+            },
+            {
+              "title": "Why a negative times a negative makes sense",
+              "slug": "v/why-a-negative-times-a-negative-makes-intuitive-sense",
+              "youtube_id": "pzQY-9Nmtws",
+              "youtube_url": "https://www.youtube.com/watch?v=pzQY-9Nmtws",
+              "duration_sec": 374,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/x6b17ba59:multiply-with-negatives/v/why-a-negative-times-a-negative-makes-intuitive-sense"
+            },
+            {
+              "title": "Dividing positive and negative numbers",
+              "slug": "v/dividing-positive-and-negative-numbers",
+              "youtube_id": "bQ-KR3clFgs",
+              "youtube_url": "https://www.youtube.com/watch?v=bQ-KR3clFgs",
+              "duration_sec": 292,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives/v/dividing-positive-and-negative-numbers"
+            }
+          ],
+          "exercise_count": 5
+        },
+        {
+          "title": "Absolute value",
+          "slug": "alg-basics-absolute-value-new",
+          "videos": [
+            {
+              "title": "Absolute value examples",
+              "slug": "v/absolute-value-of-integers",
+              "youtube_id": "r6hS_8nm1jM",
+              "youtube_url": "https://www.youtube.com/watch?v=r6hS_8nm1jM",
+              "duration_sec": 142,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-negative-number-topic/cc-6th-absolute-value/v/absolute-value-of-integers"
+            },
+            {
+              "title": "Absolute value and number lines",
+              "slug": "v/absolute-value-and-number-lines",
+              "youtube_id": "frBJEYvyd-8",
+              "youtube_url": "https://www.youtube.com/watch?v=frBJEYvyd-8",
+              "duration_sec": 339,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-absolute-value-new/v/absolute-value-and-number-lines"
+            },
+            {
+              "title": "Interpreting absolute value",
+              "slug": "v/interpreting-absolute-value",
+              "youtube_id": "faUh3bAxomM",
+              "youtube_url": "https://www.youtube.com/watch?v=faUh3bAxomM",
+              "duration_sec": 226,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-negative-number-topic/x0267d782:cc-6th-comparing-absolute-values/v/interpreting-absolute-value"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Exponents",
+          "slug": "alg-basics-exponents",
+          "videos": [
+            {
+              "title": "Intro to exponents",
+              "slug": "v/introduction-to-exponents",
+              "youtube_id": "XZRQhkii0h0",
+              "youtube_url": "https://www.youtube.com/watch?v=XZRQhkii0h0",
+              "duration_sec": 183,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/cc-6th-exponents/v/introduction-to-exponents"
+            },
+            {
+              "title": "Exponent example 1",
+              "slug": "v/understanding-exponents-2",
+              "youtube_id": "5qfOViJda_g",
+              "youtube_url": "https://www.youtube.com/watch?v=5qfOViJda_g",
+              "duration_sec": 75,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-exponents/v/understanding-exponents-2"
+            },
+            {
+              "title": "Exponent example 2",
+              "slug": "v/understanding-exponents",
+              "youtube_id": "mJ1P4A-KA8k",
+              "youtube_url": "https://www.youtube.com/watch?v=mJ1P4A-KA8k",
+              "duration_sec": 115,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-exponents/v/understanding-exponents"
+            },
+            {
+              "title": "The 0 & 1st power",
+              "slug": "v/raising-a-number-to-the-0th-and-1st-power",
+              "youtube_id": "dAvosUEUH6I",
+              "youtube_url": "https://www.youtube.com/watch?v=dAvosUEUH6I",
+              "duration_sec": 307,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/exponents-with-negative-bases/v/raising-a-number-to-the-0th-and-1st-power"
+            },
+            {
+              "title": "Powers of zero",
+              "slug": "v/powers-of-zero",
+              "youtube_id": "S2PjhiAQMK8",
+              "youtube_url": "https://www.youtube.com/watch?v=S2PjhiAQMK8",
+              "duration_sec": 201,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-exp-prop-integers/v/powers-of-zero"
+            },
+            {
+              "title": "1 and -1 to different powers",
+              "slug": "v/powers-of-1-and-1",
+              "youtube_id": "jYOfMszfzAQ",
+              "youtube_url": "https://www.youtube.com/watch?v=jYOfMszfzAQ",
+              "duration_sec": 368,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/x6b17ba59:powers-with-rational-bases/v/powers-of-1-and-1"
+            },
+            {
+              "title": "Comparing exponent expressions",
+              "slug": "v/comparing-exponent-expressions",
+              "youtube_id": "kFElpYl7Te0",
+              "youtube_url": "https://www.youtube.com/watch?v=kFElpYl7Te0",
+              "duration_sec": 129,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/x0267d782:more-on-order-of-operations/v/comparing-exponent-expressions"
+            },
+            {
+              "title": "Exponents of decimals",
+              "slug": "v/exponents-of-decimals",
+              "youtube_id": "o_urKmMdGK0",
+              "youtube_url": "https://www.youtube.com/watch?v=o_urKmMdGK0",
+              "duration_sec": 151,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/x0267d782:powers-of-fractions-and-decimals/v/exponents-of-decimals"
+            },
+            {
+              "title": "Evaluating exponent expressions with variables",
+              "slug": "v/evaluating-exponent-expressions-with-variables",
+              "youtube_id": "9K54G5yeR74",
+              "youtube_url": "https://www.youtube.com/watch?v=9K54G5yeR74",
+              "duration_sec": 181,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-substitution/v/evaluating-exponent-expressions-with-variables"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Square roots",
+          "slug": "alg-basics-roots",
+          "videos": [
+            {
+              "title": "Intro to square roots",
+              "slug": "v/introduction-to-square-roots",
+              "youtube_id": "mbc3_e5lWw0",
+              "youtube_url": "https://www.youtube.com/watch?v=mbc3_e5lWw0",
+              "duration_sec": 324,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:radicals/v/introduction-to-square-roots"
+            },
+            {
+              "title": "Simplifying square roots",
+              "slug": "v/simplifying-square-roots-1",
+              "youtube_id": "cw3mp8oNASk",
+              "youtube_url": "https://www.youtube.com/watch?v=cw3mp8oNASk",
+              "duration_sec": 189,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:simplifying-square-roots/v/simplifying-square-roots-1"
+            },
+            {
+              "title": "Simplifying square roots of fractions",
+              "slug": "v/rewriting-square-root-of-fraction",
+              "youtube_id": "s9ppnjgmiyk",
+              "youtube_url": "https://www.youtube.com/watch?v=s9ppnjgmiyk",
+              "duration_sec": 281,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-roots/v/rewriting-square-root-of-fraction"
+            },
+            {
+              "title": "Simplifying square-root expressions: no variables",
+              "slug": "v/simplifying-square-root-expressions-no-variables",
+              "youtube_id": "74iuGIaBgRc",
+              "youtube_url": "https://www.youtube.com/watch?v=74iuGIaBgRc",
+              "duration_sec": 380,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-roots/v/simplifying-square-root-expressions-no-variables"
+            },
+            {
+              "title": "Simplifying square roots (variables)",
+              "slug": "v/simplifying-square-roots-comment-response",
+              "youtube_id": "qFFhdLlX220",
+              "youtube_url": "https://www.youtube.com/watch?v=qFFhdLlX220",
+              "duration_sec": 256,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:simplifying-square-roots/v/simplifying-square-roots-comment-response"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Order of operations",
+          "slug": "alg-basics-order-of-operations",
+          "videos": [
+            {
+              "title": "Intro to order of operations",
+              "slug": "v/introduction-to-order-of-operations",
+              "youtube_id": "ClYdw4d4OmA",
+              "youtube_url": "https://www.youtube.com/watch?v=ClYdw4d4OmA",
+              "duration_sec": 580,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-order-of-operations/v/introduction-to-order-of-operations"
+            },
+            {
+              "title": "Order of operations examples: exponents",
+              "slug": "v/order-of-operations-with-exponents-examples",
+              "youtube_id": "_jiI0AV8Vr4",
+              "youtube_url": "https://www.youtube.com/watch?v=_jiI0AV8Vr4",
+              "duration_sec": 214,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/x0267d782:more-on-order-of-operations/v/order-of-operations-with-exponents-examples"
+            },
+            {
+              "title": "Worked example: Order of operations (PEMDAS)",
+              "slug": "v/more-complicated-order-of-operations-example",
+              "youtube_id": "piIcRV2dx7E",
+              "youtube_url": "https://www.youtube.com/watch?v=piIcRV2dx7E",
+              "duration_sec": 320,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/cc-6th-order-of-operations/v/more-complicated-order-of-operations-example"
+            },
+            {
+              "title": "Order of operations example",
+              "slug": "v/order-of-operations-1",
+              "youtube_id": "gjrGd9TjjnY",
+              "youtube_url": "https://www.youtube.com/watch?v=gjrGd9TjjnY",
+              "duration_sec": 276,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-order-of-operations/v/order-of-operations-1"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Fractions",
+          "slug": "alg-basics-fractions",
+          "videos": [
+            {
+              "title": "Adding fractions word problem: paint",
+              "slug": "v/adding-fractions-with-unlike-denominators-word-problem",
+              "youtube_id": "PKh5B9xyzSc",
+              "youtube_url": "https://www.youtube.com/watch?v=PKh5B9xyzSc",
+              "duration_sec": 347,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-fractions-with-unlike-denominators-word-problems/v/adding-fractions-with-unlike-denominators-word-problem"
+            },
+            {
+              "title": "Adding fractions with different signs",
+              "slug": "v/adding-fractions-with-different-signs",
+              "youtube_id": "QS1LMomm0Gk",
+              "youtube_url": "https://www.youtube.com/watch?v=QS1LMomm0Gk",
+              "duration_sec": 382,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:rational-numbers-addition-and-subtraction/cc-7th-add-sub-neg-fractions/v/adding-fractions-with-different-signs"
+            },
+            {
+              "title": "Multiplying positive and negative fractions",
+              "slug": "v/multiplying-negative-and-positive-fractions",
+              "youtube_id": "pi3WWQ0q6Lc",
+              "youtube_url": "https://www.youtube.com/watch?v=pi3WWQ0q6Lc",
+              "duration_sec": 273,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions/v/multiplying-negative-and-positive-fractions"
+            },
+            {
+              "title": "Dividing negative fractions",
+              "slug": "v/examples-of-dividing-negative-fractions",
+              "youtube_id": "H0q9Fqb8YT4",
+              "youtube_url": "https://www.youtube.com/watch?v=H0q9Fqb8YT4",
+              "duration_sec": 251,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions/v/examples-of-dividing-negative-fractions"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Decimals, fractions and percentages",
+          "slug": "alg-basics-decimals",
+          "videos": [
+            {
+              "title": "The meaning of percent",
+              "slug": "v/describing-the-meaning-of-percent",
+              "youtube_id": "Lvr2YsxG10o",
+              "youtube_url": "https://www.youtube.com/watch?v=Lvr2YsxG10o",
+              "duration_sec": 181,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-rates-and-percentages/cc-6th-percentages/v/describing-the-meaning-of-percent"
+            },
+            {
+              "title": "Meaning of 109%",
+              "slug": "v/describing-the-meaning-of-percent-2",
+              "youtube_id": "MokI3Fi8jpc",
+              "youtube_url": "https://www.youtube.com/watch?v=MokI3Fi8jpc",
+              "duration_sec": 142,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-rates-and-percentages/cc-6th-percentages/v/describing-the-meaning-of-percent-2"
+            },
+            {
+              "title": "Percents from fraction models",
+              "slug": "v/percent-from-fraction-models",
+              "youtube_id": "nV6bRozq5Po",
+              "youtube_url": "https://www.youtube.com/watch?v=nV6bRozq5Po",
+              "duration_sec": 262,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-rates-and-percentages/cc-6th-percentages/v/percent-from-fraction-models"
+            },
+            {
+              "title": "Fraction, decimal, and percent from visual model",
+              "slug": "v/fraction-decimal-and-percent-from-visual-model",
+              "youtube_id": "wwg052FC_Zw",
+              "youtube_url": "https://www.youtube.com/watch?v=wwg052FC_Zw",
+              "duration_sec": 213,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-rates-and-percentages/x0267d782:equivalent-representations-of-percent-problems/v/fraction-decimal-and-percent-from-visual-model"
+            },
+            {
+              "title": "Worked example: Converting a fraction (7/8) to a decimal ",
+              "slug": "v/converting-fractions-to-decimals-example",
+              "youtube_id": "Y1V5mZaMfTk",
+              "youtube_url": "https://www.youtube.com/watch?v=Y1V5mZaMfTk",
+              "duration_sec": 137,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-fracs-to-decimals/v/converting-fractions-to-decimals-example"
+            },
+            {
+              "title": "Fraction to decimal with rounding",
+              "slug": "v/converting-fractions-to-decimals-ex1",
+              "youtube_id": "NM8qTo361ic",
+              "youtube_url": "https://www.youtube.com/watch?v=NM8qTo361ic",
+              "duration_sec": 195,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-fracs-to-decimals/v/converting-fractions-to-decimals-ex1"
+            },
+            {
+              "title": "Rewriting decimals as fractions: 0.36",
+              "slug": "v/converting-decimals-to-fractions-1-ex-3",
+              "youtube_id": "OS1g4PDdNdM",
+              "youtube_url": "https://www.youtube.com/watch?v=OS1g4PDdNdM",
+              "duration_sec": 74,
+              "relative_url": "/math/cc-fourth-grade-math/imp-decimals/imp-converting-decimals-to-fractions/v/converting-decimals-to-fractions-1-ex-3"
+            },
+            {
+              "title": "Converting decimals to fractions 2 (ex 1)",
+              "slug": "v/converting-decimals-to-fractions-2-ex-1",
+              "youtube_id": "EGr3KC55sfU",
+              "youtube_url": "https://www.youtube.com/watch?v=EGr3KC55sfU",
+              "duration_sec": 74,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-decimals/v/converting-decimals-to-fractions-2-ex-1"
+            },
+            {
+              "title": "Finding a percent",
+              "slug": "v/finding-percentages-example",
+              "youtube_id": "FaDtge_vkbg",
+              "youtube_url": "https://www.youtube.com/watch?v=FaDtge_vkbg",
+              "duration_sec": 213,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-rates-and-percentages/cc-6th-percent-problems/v/finding-percentages-example"
+            },
+            {
+              "title": "Percent of a whole number",
+              "slug": "v/taking-a-percentage-example",
+              "youtube_id": "-lUEWEEpmIo",
+              "youtube_url": "https://www.youtube.com/watch?v=-lUEWEEpmIo",
+              "duration_sec": 127,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-rates-and-percentages/x0267d782:equivalent-representations-of-percent-problems/v/taking-a-percentage-example"
+            },
+            {
+              "title": "Percent word problem: guavas",
+              "slug": "v/another-percent-word-problem",
+              "youtube_id": "d1oNF88SAgg",
+              "youtube_url": "https://www.youtube.com/watch?v=d1oNF88SAgg",
+              "duration_sec": 378,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems/v/another-percent-word-problem"
+            },
+            {
+              "title": "Percent word problem: recycling cans",
+              "slug": "v/percent-word-problems",
+              "youtube_id": "AjYil74WrVo",
+              "youtube_url": "https://www.youtube.com/watch?v=AjYil74WrVo",
+              "duration_sec": 169,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-rates-and-percentages/cc-6th-percent-word-problems/v/percent-word-problems"
+            }
+          ],
+          "exercise_count": 7
+        },
+        {
+          "title": "Operations with decimals",
+          "slug": "alg-basics-operations-with-decimals",
+          "videos": [
+            {
+              "title": "Adding decimals: 9.087+15.31",
+              "slug": "v/adding-decimals-example-1",
+              "youtube_id": "oLh_sIESQnY",
+              "youtube_url": "https://www.youtube.com/watch?v=oLh_sIESQnY",
+              "duration_sec": 160,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-add-decimals/v/adding-decimals-example-1"
+            },
+            {
+              "title": "Adding decimals: 0.822+5.65",
+              "slug": "v/adding-decimals-example-2",
+              "youtube_id": "ErHFQUhZ94I",
+              "youtube_url": "https://www.youtube.com/watch?v=ErHFQUhZ94I",
+              "duration_sec": 106,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-add-decimals/v/adding-decimals-example-2"
+            },
+            {
+              "title": "Subtracting decimals: 9.57-8.09",
+              "slug": "v/subtracting-decimals-up-to-hundredths",
+              "youtube_id": "o31cLUkS23E",
+              "youtube_url": "https://www.youtube.com/watch?v=o31cLUkS23E",
+              "duration_sec": 71,
+              "relative_url": "/math/cc-fifth-grade-math/subtract-decimals/xe33ac28b798af866:subtracting-decimals-hundredths/v/subtracting-decimals-up-to-hundredths"
+            },
+            {
+              "title": "Subtracting decimals: 39.1 - 0.794",
+              "slug": "v/subtracting-decimals-up-to-thousandths-place",
+              "youtube_id": "lDXaju6JoQ0",
+              "youtube_url": "https://www.youtube.com/watch?v=lDXaju6JoQ0",
+              "duration_sec": 126,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-sub-decimals/v/subtracting-decimals-up-to-thousandths-place"
+            },
+            {
+              "title": "Multiplying decimals example",
+              "slug": "v/multiplying-decimals",
+              "youtube_id": "JEHejQphIYc",
+              "youtube_url": "https://www.youtube.com/watch?v=JEHejQphIYc",
+              "duration_sec": 172,
+              "relative_url": "/math/algebra-basics/basic-alg-foundations/alg-basics-operations-with-decimals/v/multiplying-decimals"
+            },
+            {
+              "title": "Multiplying challenging decimals",
+              "slug": "v/more-involved-multiplying-decimals-example",
+              "youtube_id": "D5fmcpNygQk",
+              "youtube_url": "https://www.youtube.com/watch?v=D5fmcpNygQk",
+              "duration_sec": 265,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-multiplying-decimals/v/more-involved-multiplying-decimals-example"
+            },
+            {
+              "title": "Dividing decimals with hundredths",
+              "slug": "v/dividing-decimals-with-hundredths",
+              "youtube_id": "Hrjr5f5pZ84",
+              "youtube_url": "https://www.youtube.com/watch?v=Hrjr5f5pZ84",
+              "duration_sec": 277,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-dividing-decimals/v/dividing-decimals-with-hundredths"
+            },
+            {
+              "title": "Dividing by a multi-digit decimal",
+              "slug": "v/dividing-decimals",
+              "youtube_id": "Nqts8zW8RxM",
+              "youtube_url": "https://www.youtube.com/watch?v=Nqts8zW8RxM",
+              "duration_sec": 332,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-dividing-decimals/v/dividing-decimals"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Area of triangles",
+          "slug": "alg-basics-area-triangle",
+          "videos": [
+            {
+              "title": "Area of a triangle",
+              "slug": "v/intuition-for-area-of-a-triangle",
+              "youtube_id": "rRTXKQpblEc",
+              "youtube_url": "https://www.youtube.com/watch?v=rRTXKQpblEc",
+              "duration_sec": 330,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-area-triangle/v/intuition-for-area-of-a-triangle"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Circumference and area of circles",
+          "slug": "alg-basics-circles",
+          "videos": [
+            {
+              "title": "Radius, diameter, circumference & π",
+              "slug": "v/circles-radius-diameter-and-circumference",
+              "youtube_id": "jyLRpr2P0MQ",
+              "youtube_url": "https://www.youtube.com/watch?v=jyLRpr2P0MQ",
+              "duration_sec": 665,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/circles-radius-diameter-and-circumference"
+            },
+            {
+              "title": "Labeling parts of a circle",
+              "slug": "v/parts-of-a-circle",
+              "youtube_id": "04N79tItPEA",
+              "youtube_url": "https://www.youtube.com/watch?v=04N79tItPEA",
+              "duration_sec": 121,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/parts-of-a-circle"
+            },
+            {
+              "title": "Area of a circle",
+              "slug": "v/area-of-a-circle",
+              "youtube_id": "ZyOhRgnFmIY",
+              "youtube_url": "https://www.youtube.com/watch?v=ZyOhRgnFmIY",
+              "duration_sec": 242,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/area-of-a-circle"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Algebraic expressions",
+      "slug": "alg-basics-algebraic-expressions",
+      "relative_url": "/math/algebra-basics/alg-basics-algebraic-expressions",
+      "lessons": [
+        {
+          "title": "Introduction to variables",
+          "slug": "alg-basics-intro-to-variables",
+          "videos": [
+            {
+              "title": "What is a variable?",
+              "slug": "v/what-is-a-variable",
+              "youtube_id": "tHYis-DP0oU",
+              "youtube_url": "https://www.youtube.com/watch?v=tHYis-DP0oU",
+              "duration_sec": 198,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/v/what-is-a-variable"
+            },
+            {
+              "title": "Why aren't we using the multiplication sign?",
+              "slug": "v/why-aren-t-we-using-the-multiplication-sign",
+              "youtube_id": "vDaIKB19TvY",
+              "youtube_url": "https://www.youtube.com/watch?v=vDaIKB19TvY",
+              "duration_sec": 298,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/v/why-aren-t-we-using-the-multiplication-sign"
+            },
+            {
+              "title": "Evaluating an expression with one variable",
+              "slug": "v/variables-and-expressions-1",
+              "youtube_id": "AJNDeVt9UOo",
+              "youtube_url": "https://www.youtube.com/watch?v=AJNDeVt9UOo",
+              "duration_sec": 120,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/v/variables-and-expressions-1"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Substitution & evaluating expressions",
+          "slug": "alg-basics-substitution",
+          "videos": [
+            {
+              "title": "Evaluating expressions with two variables",
+              "slug": "v/evaluating-expressions-in-two-variables",
+              "youtube_id": "S_OX3ByvBSc",
+              "youtube_url": "https://www.youtube.com/watch?v=S_OX3ByvBSc",
+              "duration_sec": 125,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/v/evaluating-expressions-in-two-variables"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Writing algebraic expressions",
+          "slug": "alg-basics-writing-expressions",
+          "videos": [
+            {
+              "title": "Writing basic expressions with variables",
+              "slug": "v/writing-expressions-with-variables-examples",
+              "youtube_id": "640-86yn2wM",
+              "youtube_url": "https://www.youtube.com/watch?v=640-86yn2wM",
+              "duration_sec": 157,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-writing-expressions/v/writing-expressions-with-variables-examples"
+            },
+            {
+              "title": "Writing expressions with variables",
+              "slug": "v/writing-expressions-1",
+              "youtube_id": "Q1vMNyIP4Us",
+              "youtube_url": "https://www.youtube.com/watch?v=Q1vMNyIP4Us",
+              "duration_sec": 98,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-writing-expressions/v/writing-expressions-1"
+            },
+            {
+              "title": "Writing expressions with variables & parentheses",
+              "slug": "v/writing-expressions-2",
+              "youtube_id": "xLYVo_k0_us",
+              "youtube_url": "https://www.youtube.com/watch?v=xLYVo_k0_us",
+              "duration_sec": 165,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-writing-expressions/v/writing-expressions-2"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Combining like terms",
+          "slug": "alg-basics-combining-like-terms",
+          "videos": [
+            {
+              "title": "Intro to combining like terms",
+              "slug": "v/combining-like-terms",
+              "youtube_id": "CLWpkv6ccpA",
+              "youtube_url": "https://www.youtube.com/watch?v=CLWpkv6ccpA",
+              "duration_sec": 273,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/v/combining-like-terms"
+            },
+            {
+              "title": "Combining like terms with negative coefficients & distribution",
+              "slug": "v/combining-like-terms-and-the-distributive-property",
+              "youtube_id": "3NHSwiv_pSE",
+              "youtube_url": "https://www.youtube.com/watch?v=3NHSwiv_pSE",
+              "duration_sec": 247,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/v/combining-like-terms-and-the-distributive-property"
+            },
+            {
+              "title": "Combining like terms with negative coefficients",
+              "slug": "v/combining-like-terms-3",
+              "youtube_id": "FNnmseBlvaY",
+              "youtube_url": "https://www.youtube.com/watch?v=FNnmseBlvaY",
+              "duration_sec": 279,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/v/combining-like-terms-3"
+            },
+            {
+              "title": "Combining like terms with rational coefficients",
+              "slug": "v/simplifying-expressions-involving-rational-numbers",
+              "youtube_id": "rtNuo7R3scY",
+              "youtube_url": "https://www.youtube.com/watch?v=rtNuo7R3scY",
+              "duration_sec": 256,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/v/simplifying-expressions-involving-rational-numbers"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Distributive property",
+          "slug": "alg-basics-distributive-property",
+          "videos": [
+            {
+              "title": "Distributive property with variables",
+              "slug": "v/distributive-property-with-variables-exercise",
+              "youtube_id": "Jp25LHI9wII",
+              "youtube_url": "https://www.youtube.com/watch?v=Jp25LHI9wII",
+              "duration_sec": 389,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-distributive-property/v/distributive-property-with-variables-exercise"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Equivalent algebraic expressions",
+          "slug": "alg-basics-equivalent-expressions",
+          "videos": [
+            {
+              "title": "Equivalent expressions",
+              "slug": "v/equivalent-algebraic-expressions-exercise",
+              "youtube_id": "rHNY01R2VSQ",
+              "youtube_url": "https://www.youtube.com/watch?v=rHNY01R2VSQ",
+              "duration_sec": 118,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:equivalent-expressions-intro/v/equivalent-algebraic-expressions-exercise"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Nested fractions",
+          "slug": "alg-basics-nested-fractions",
+          "videos": [
+            {
+              "title": "Nested fractions",
+              "slug": "v/algebraic-expressions-with-fraction-division",
+              "youtube_id": "_BFaxpf35sY",
+              "youtube_url": "https://www.youtube.com/watch?v=_BFaxpf35sY",
+              "duration_sec": 346,
+              "relative_url": "/math/algebra-basics/alg-basics-algebraic-expressions/alg-basics-nested-fractions/v/algebraic-expressions-with-fraction-division"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Linear equations and inequalities",
+      "slug": "alg-basics-linear-equations-and-inequalities",
+      "relative_url": "/math/algebra-basics/alg-basics-linear-equations-and-inequalities",
+      "lessons": [
+        {
+          "title": "One-step equations",
+          "slug": "alg-basics-one-step-add-sub-equations",
+          "videos": [
+            {
+              "title": "One-step addition & subtraction equations",
+              "slug": "v/adding-and-subtracting-the-same-thing-from-both-sides",
+              "youtube_id": "jWpiMu5LNdg",
+              "youtube_url": "https://www.youtube.com/watch?v=jWpiMu5LNdg",
+              "duration_sec": 129,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-one-step-add-sub-equations/v/adding-and-subtracting-the-same-thing-from-both-sides"
+            },
+            {
+              "title": "One-step addition equation",
+              "slug": "v/solving-one-step-equations",
+              "youtube_id": "VidnbCEOGdg",
+              "youtube_url": "https://www.youtube.com/watch?v=VidnbCEOGdg",
+              "duration_sec": 114,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-one-step-add-sub-equations/v/solving-one-step-equations"
+            },
+            {
+              "title": "One-step division equations",
+              "slug": "v/simple-equations",
+              "youtube_id": "9Ek61w1LxSc",
+              "youtube_url": "https://www.youtube.com/watch?v=9Ek61w1LxSc",
+              "duration_sec": 666,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-one-step-mult-div-equations/v/simple-equations"
+            },
+            {
+              "title": "One-step multiplication equations",
+              "slug": "v/solving-one-step-equations-2",
+              "youtube_id": "DqeMQHomwAU",
+              "youtube_url": "https://www.youtube.com/watch?v=DqeMQHomwAU",
+              "duration_sec": 143,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-one-step-mult-div-equations/v/solving-one-step-equations-2"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Two-steps equations",
+          "slug": "alg-basics-two-steps-equations-intro",
+          "videos": [
+            {
+              "title": "Intro to two-step equations",
+              "slug": "v/why-we-do-the-same-thing-to-both-sides-two-step-equations",
+              "youtube_id": "_y_Q3_B2Vh8",
+              "youtube_url": "https://www.youtube.com/watch?v=_y_Q3_B2Vh8",
+              "duration_sec": 312,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro/v/why-we-do-the-same-thing-to-both-sides-two-step-equations"
+            },
+            {
+              "title": "Two-step equations intuition",
+              "slug": "v/equations-2",
+              "youtube_id": "XoEn1LfVoTo",
+              "youtube_url": "https://www.youtube.com/watch?v=XoEn1LfVoTo",
+              "duration_sec": 521,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro/v/equations-2"
+            },
+            {
+              "title": "Worked example: two-step equations",
+              "slug": "v/solving-equations-1",
+              "youtube_id": "p5e5mf_G3FI",
+              "youtube_url": "https://www.youtube.com/watch?v=p5e5mf_G3FI",
+              "duration_sec": 184,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro/v/solving-equations-1"
+            },
+            {
+              "title": "Two-step equation word problem: computers",
+              "slug": "v/basic-linear-equation-word-problem",
+              "youtube_id": "roHvNNFXr4k",
+              "youtube_url": "https://www.youtube.com/watch?v=roHvNNFXr4k",
+              "duration_sec": 286,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-linear-eq-word-probs/v/basic-linear-equation-word-problem"
+            },
+            {
+              "title": "Two-step equation word problem: garden",
+              "slug": "v/application-problems-with-equation-in-one-variable",
+              "youtube_id": "iimpwYBiKNg",
+              "youtube_url": "https://www.youtube.com/watch?v=iimpwYBiKNg",
+              "duration_sec": 122,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-linear-eq-word-probs/v/application-problems-with-equation-in-one-variable"
+            },
+            {
+              "title": "Two-step equation word problem: oranges",
+              "slug": "v/linear-equation-word-problem-example",
+              "youtube_id": "xKH1Evwu150",
+              "youtube_url": "https://www.youtube.com/watch?v=xKH1Evwu150",
+              "duration_sec": 359,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-linear-eq-word-probs/v/linear-equation-word-problem-example"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multi-step equations",
+          "slug": "alg-basics-variables-on-both-sides",
+          "videos": [
+            {
+              "title": "Why we do the same thing to both sides: Variable on both sides",
+              "slug": "v/why-we-do-the-same-thing-to-both-sides-multi-step-equations",
+              "youtube_id": "vkhYFml0w6c",
+              "youtube_url": "https://www.youtube.com/watch?v=vkhYFml0w6c",
+              "duration_sec": 456,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/why-we-do-the-same-thing-to-both-sides-multi-step-equations"
+            },
+            {
+              "title": "Intro to equations with variables on both sides",
+              "slug": "v/equations-3",
+              "youtube_id": "f15zA0PhSek",
+              "youtube_url": "https://www.youtube.com/watch?v=f15zA0PhSek",
+              "duration_sec": 533,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/equations-3"
+            },
+            {
+              "title": "Equations with variables on both sides: 20-7x=6x-6",
+              "slug": "v/solving-equations-2",
+              "youtube_id": "1c5HY3z4k8M",
+              "youtube_url": "https://www.youtube.com/watch?v=1c5HY3z4k8M",
+              "duration_sec": 246,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/solving-equations-2"
+            },
+            {
+              "title": "Equations with parentheses",
+              "slug": "v/solving-equations-with-the-distributive-property",
+              "youtube_id": "YZBStgZGyDY",
+              "youtube_url": "https://www.youtube.com/watch?v=YZBStgZGyDY",
+              "duration_sec": 364,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-parentheses/v/solving-equations-with-the-distributive-property"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "One-step inequalities",
+          "slug": "alg-basics-one-step-inequalities",
+          "videos": [
+            {
+              "title": "One-step inequalities examples",
+              "slug": "v/inequalities-using-multiplication-and-division",
+              "youtube_id": "PNXozoJWsWc",
+              "youtube_url": "https://www.youtube.com/watch?v=PNXozoJWsWc",
+              "duration_sec": 627,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-inequalities/v/inequalities-using-multiplication-and-division"
+            },
+            {
+              "title": "One-step inequalities: -5c ≤ 15",
+              "slug": "v/one-step-inequalities-2",
+              "youtube_id": "D1cKk48kz-E",
+              "youtube_url": "https://www.youtube.com/watch?v=D1cKk48kz-E",
+              "duration_sec": 174,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-inequalities/v/one-step-inequalities-2"
+            },
+            {
+              "title": "One-step inequality word problem",
+              "slug": "v/inequalities",
+              "youtube_id": "FZ2APP6-grU",
+              "youtube_url": "https://www.youtube.com/watch?v=FZ2APP6-grU",
+              "duration_sec": 129,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-inequalities/v/inequalities"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Two-step inequalities",
+          "slug": "alg-basics-two-step-inequalities",
+          "videos": [
+            {
+              "title": "Two-step inequalities ",
+              "slug": "v/solving-inequalities",
+              "youtube_id": "y7QLay8wrW8",
+              "youtube_url": "https://www.youtube.com/watch?v=y7QLay8wrW8",
+              "duration_sec": 272,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-two-step-inequalities/v/solving-inequalities"
+            },
+            {
+              "title": "Two-step inequality word problem: apples",
+              "slug": "v/interpreting-inequalities",
+              "youtube_id": "wo7DSaPP8hQ",
+              "youtube_url": "https://www.youtube.com/watch?v=wo7DSaPP8hQ",
+              "duration_sec": 399,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-two-step-inequalities/v/interpreting-inequalities"
+            },
+            {
+              "title": "Two-step inequality word problem: R&B",
+              "slug": "v/writing-and-using-inequalities-3",
+              "youtube_id": "pbLiN8D9gAk",
+              "youtube_url": "https://www.youtube.com/watch?v=pbLiN8D9gAk",
+              "duration_sec": 121,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-two-step-inequalities/v/writing-and-using-inequalities-3"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multi-step inequalities",
+          "slug": "alg-basics-multi-step-inequalities",
+          "videos": [
+            {
+              "title": "Inequalities with variables on both sides",
+              "slug": "v/multi-step-inequalities-3",
+              "youtube_id": "SgKBBUFaGb4",
+              "youtube_url": "https://www.youtube.com/watch?v=SgKBBUFaGb4",
+              "duration_sec": 338,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities-3"
+            },
+            {
+              "title": "Inequalities with variables on both sides (with parentheses)",
+              "slug": "v/multi-step-inequalities-2",
+              "youtube_id": "XOAn5z8mkvI",
+              "youtube_url": "https://www.youtube.com/watch?v=XOAn5z8mkvI",
+              "duration_sec": 227,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities-2"
+            },
+            {
+              "title": "Multi-step inequalities",
+              "slug": "v/multi-step-inequalities",
+              "youtube_id": "xOxvyeSl0uA",
+              "youtube_url": "https://www.youtube.com/watch?v=xOxvyeSl0uA",
+              "duration_sec": 482,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Writing & solving proportions",
+          "slug": "alg-basics-write-and-solve-proportions",
+          "videos": [
+            {
+              "title": "Worked example: Solving proportions",
+              "slug": "v/find-an-unknown-in-a-proportion",
+              "youtube_id": "GO5ajwbFqVQ",
+              "youtube_url": "https://www.youtube.com/watch?v=GO5ajwbFqVQ",
+              "duration_sec": 440,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions/v/find-an-unknown-in-a-proportion"
+            },
+            {
+              "title": "Solving tricky proportions",
+              "slug": "v/proportions-2-exercise-examples",
+              "youtube_id": "qzsR7cChujg",
+              "youtube_url": "https://www.youtube.com/watch?v=qzsR7cChujg",
+              "duration_sec": 264,
+              "relative_url": "/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-write-and-solve-proportions/v/proportions-2-exercise-examples"
+            },
+            {
+              "title": "Writing proportions example",
+              "slug": "v/writing-proportions",
+              "youtube_id": "96ZEmUbnuU8",
+              "youtube_url": "https://www.youtube.com/watch?v=96ZEmUbnuU8",
+              "duration_sec": 351,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions/v/writing-proportions"
+            },
+            {
+              "title": "Proportion word problem: cookies",
+              "slug": "v/find-an-unknown-in-a-proportion-2",
+              "youtube_id": "4ywTWCaLmXE",
+              "youtube_url": "https://www.youtube.com/watch?v=4ywTWCaLmXE",
+              "duration_sec": 348,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions/v/find-an-unknown-in-a-proportion-2"
+            },
+            {
+              "title": "Proportion word problem: hot dogs",
+              "slug": "v/using-proportion-to-solve-for-variable",
+              "youtube_id": "s8_14yxp1lQ",
+              "youtube_url": "https://www.youtube.com/watch?v=s8_14yxp1lQ",
+              "duration_sec": 298,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions/v/using-proportion-to-solve-for-variable"
+            }
+          ],
+          "exercise_count": 4
+        }
+      ]
+    },
+    {
+      "title": "Graphing lines and slope",
+      "slug": "alg-basics-graphing-lines-and-slope",
+      "relative_url": "/math/algebra-basics/alg-basics-graphing-lines-and-slope",
+      "lessons": [
+        {
+          "title": "Coordinate plane",
+          "slug": "alg-basics-coordinate-planee",
+          "videos": [
+            {
+              "title": "Quadrants of the coordinate plane",
+              "slug": "v/quadrants-of-coordinate-plane",
+              "youtube_id": "1op92ojA6q0",
+              "youtube_url": "https://www.youtube.com/watch?v=1op92ojA6q0",
+              "duration_sec": 144,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:coordinate-plane/cc-6th-coordinate-plane/v/quadrants-of-coordinate-plane"
+            },
+            {
+              "title": "Points and quadrants example",
+              "slug": "v/graphing-points-and-naming-quadrants-exercise",
+              "youtube_id": "Jeh5vudjmLI",
+              "youtube_url": "https://www.youtube.com/watch?v=Jeh5vudjmLI",
+              "duration_sec": 116,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:coordinate-plane/cc-6th-coordinate-plane/v/graphing-points-and-naming-quadrants-exercise"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Solutions to two-variable linear equations",
+          "slug": "alg-basics-solutions-to-two-var-equations",
+          "videos": [
+            {
+              "title": "Two-variable linear equations intro",
+              "slug": "v/2-variable-linear-equations-graphs",
+              "youtube_id": "AOxMJRtoR2A",
+              "youtube_url": "https://www.youtube.com/watch?v=AOxMJRtoR2A",
+              "duration_sec": 501,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-linear-equations-intro/v/2-variable-linear-equations-graphs"
+            },
+            {
+              "title": "Solutions to 2-variable equations",
+              "slug": "v/checking-ordered-pair-solutions-to-equations-1",
+              "youtube_id": "qk69pR91R00",
+              "youtube_url": "https://www.youtube.com/watch?v=qk69pR91R00",
+              "duration_sec": 155,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-linear-equations-intro/v/checking-ordered-pair-solutions-to-equations-1"
+            },
+            {
+              "title": "Worked example: solutions to 2-variable equations",
+              "slug": "v/checking-ordered-pair-solutions-to-equations-2",
+              "youtube_id": "d3VMo1VWFvc",
+              "youtube_url": "https://www.youtube.com/watch?v=d3VMo1VWFvc",
+              "duration_sec": 146,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-linear-equations-intro/v/checking-ordered-pair-solutions-to-equations-2"
+            },
+            {
+              "title": "Completing solutions to 2-variable equations",
+              "slug": "v/graphing-solutions-to-2-variable-linear-equations-1",
+              "youtube_id": "EHR-YDwrrhM",
+              "youtube_url": "https://www.youtube.com/watch?v=EHR-YDwrrhM",
+              "duration_sec": 431,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-linear-equations-intro/v/graphing-solutions-to-2-variable-linear-equations-1"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "x-intercepts and y-intercepts",
+          "slug": "alg-basics-x-and-y-intercepts",
+          "videos": [
+            {
+              "title": "Intro to intercepts",
+              "slug": "v/introduction-to-intercepts",
+              "youtube_id": "LNSB0N6esPU",
+              "youtube_url": "https://www.youtube.com/watch?v=LNSB0N6esPU",
+              "duration_sec": 393,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:x-intercepts-and-y-intercepts/v/introduction-to-intercepts"
+            },
+            {
+              "title": "x-intercept of a line",
+              "slug": "v/finding-x-intercept-of-a-line",
+              "youtube_id": "xiIQQNufFuU",
+              "youtube_url": "https://www.youtube.com/watch?v=xiIQQNufFuU",
+              "duration_sec": 103,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:x-intercepts-and-y-intercepts/v/finding-x-intercept-of-a-line"
+            },
+            {
+              "title": "Intercepts from an equation",
+              "slug": "v/x-and-y-intercepts",
+              "youtube_id": "xGmef7lFc5w",
+              "youtube_url": "https://www.youtube.com/watch?v=xGmef7lFc5w",
+              "duration_sec": 248,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:x-intercepts-and-y-intercepts/v/x-and-y-intercepts"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Slope",
+          "slug": "alg-basics-slope",
+          "videos": [
+            {
+              "title": "Intro to slope",
+              "slug": "v/introduction-to-slope",
+              "youtube_id": "MeU-KzdCBps",
+              "youtube_url": "https://www.youtube.com/watch?v=MeU-KzdCBps",
+              "duration_sec": 416,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/introduction-to-slope"
+            },
+            {
+              "title": "Positive & negative slope",
+              "slug": "v/positive-and-negative-slope",
+              "youtube_id": "EQoNfxToez0",
+              "youtube_url": "https://www.youtube.com/watch?v=EQoNfxToez0",
+              "duration_sec": 302,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/positive-and-negative-slope"
+            },
+            {
+              "title": "Worked example: slope from graph",
+              "slug": "v/slope-of-a-line",
+              "youtube_id": "R948Tsyq4vA",
+              "youtube_url": "https://www.youtube.com/watch?v=R948Tsyq4vA",
+              "duration_sec": 280,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/slope-of-a-line"
+            },
+            {
+              "title": "Worked example: slope from two points",
+              "slug": "v/slope-of-a-line-2",
+              "youtube_id": "WkspBxrzuZo",
+              "youtube_url": "https://www.youtube.com/watch?v=WkspBxrzuZo",
+              "duration_sec": 432,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:slope/v/slope-of-a-line-2"
+            },
+            {
+              "title": "Slope (more examples)",
+              "slug": "v/slope-and-rate-of-change",
+              "youtube_id": "Iqws-qzyZwc",
+              "youtube_url": "https://www.youtube.com/watch?v=Iqws-qzyZwc",
+              "duration_sec": 822,
+              "relative_url": "/math/algebra-basics/alg-basics-graphing-lines-and-slope/alg-basics-slope/v/slope-and-rate-of-change"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Horizontal & vertical lines",
+          "slug": "hor-and-ver-lines-alg-basics",
+          "videos": [
+            {
+              "title": "Slope of a horizontal line",
+              "slug": "v/slope-of-a-line-3",
+              "youtube_id": "CFSHq099Mx0",
+              "youtube_url": "https://www.youtube.com/watch?v=CFSHq099Mx0",
+              "duration_sec": 305,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:horizontal-vertical-lines/v/slope-of-a-line-3"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Slope-intercept form intro",
+          "slug": "alg-basics-slope-intercept-form",
+          "videos": [
+            {
+              "title": "Intro to slope-intercept form",
+              "slug": "v/slope-intercept-form",
+              "youtube_id": "IL3UCuXrUzE",
+              "youtube_url": "https://www.youtube.com/watch?v=IL3UCuXrUzE",
+              "duration_sec": 540,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:intro-to-slope-intercept-form/v/slope-intercept-form"
+            },
+            {
+              "title": "Graph from slope-intercept equation",
+              "slug": "v/graphing-a-line-in-slope-intercept-form",
+              "youtube_id": "uk7gS3cZVp4",
+              "youtube_url": "https://www.youtube.com/watch?v=uk7gS3cZVp4",
+              "duration_sec": 181,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:graphing-slope-intercept-equations/v/graphing-a-line-in-slope-intercept-form"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Writing slope-intercept equations",
+          "slug": "alg-basics-writing-slope-intercept",
+          "videos": [
+            {
+              "title": "Slope-intercept equation from graph",
+              "slug": "v/graphs-using-slope-intercept-form",
+              "youtube_id": "9wOalujeZf4",
+              "youtube_url": "https://www.youtube.com/watch?v=9wOalujeZf4",
+              "duration_sec": 671,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:writing-slope-intercept-equations/v/graphs-using-slope-intercept-form"
+            },
+            {
+              "title": "Slope-intercept equation from slope & point",
+              "slug": "v/equation-of-a-line-1",
+              "youtube_id": "AqFwKecNaTk",
+              "youtube_url": "https://www.youtube.com/watch?v=AqFwKecNaTk",
+              "duration_sec": 226,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:writing-slope-intercept-equations/v/equation-of-a-line-1"
+            },
+            {
+              "title": "Slope-intercept equation from two points",
+              "slug": "v/equation-of-a-line-3",
+              "youtube_id": "XMJ72mtMn4Y",
+              "youtube_url": "https://www.youtube.com/watch?v=XMJ72mtMn4Y",
+              "duration_sec": 402,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:writing-slope-intercept-equations/v/equation-of-a-line-3"
+            },
+            {
+              "title": "Slope-intercept form problems",
+              "slug": "v/linear-equations-in-slope-intercept-form",
+              "youtube_id": "5fkh01mClLU",
+              "youtube_url": "https://www.youtube.com/watch?v=5fkh01mClLU",
+              "duration_sec": 898,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/write-slope-intercept-equations/v/linear-equations-in-slope-intercept-form"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Graphing two-variable inequalities",
+          "slug": "alg-basics-graphing-inequalities",
+          "videos": [
+            {
+              "title": "Intro to graphing two-variable inequalities",
+              "slug": "v/graphing-inequalities",
+              "youtube_id": "unSBFwK881s",
+              "youtube_url": "https://www.youtube.com/watch?v=unSBFwK881s",
+              "duration_sec": 483,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:graphing-two-variable-inequalities/v/graphing-inequalities"
+            },
+            {
+              "title": "Graphing two-variable inequalities",
+              "slug": "v/graphing-linear-inequalities-in-two-variables-example-2",
+              "youtube_id": "FnrqBgot3jM",
+              "youtube_url": "https://www.youtube.com/watch?v=FnrqBgot3jM",
+              "duration_sec": 183,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:graphing-two-variable-inequalities/v/graphing-linear-inequalities-in-two-variables-example-2"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Systems of equations",
+      "slug": "alg-basics-systems-of-equations",
+      "relative_url": "/math/algebra-basics/alg-basics-systems-of-equations",
+      "lessons": [
+        {
+          "title": "Systems of equations intro",
+          "slug": "alg-basics-intro-to-systems-of-equations",
+          "videos": [
+            {
+              "title": "Systems of equations: trolls, tolls (1 of 2)",
+              "slug": "v/trolls-tolls-and-systems-of-equations",
+              "youtube_id": "OcNt-36QKu8",
+              "youtube_url": "https://www.youtube.com/watch?v=OcNt-36QKu8",
+              "duration_sec": 411,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/trolls-tolls-and-systems-of-equations"
+            },
+            {
+              "title": "Systems of equations: trolls, tolls (2 of 2)",
+              "slug": "v/solving-the-troll-riddle-visually",
+              "youtube_id": "H-HfmyUzPw8",
+              "youtube_url": "https://www.youtube.com/watch?v=H-HfmyUzPw8",
+              "duration_sec": 341,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/solving-the-troll-riddle-visually"
+            },
+            {
+              "title": "Testing a solution to a system of equations",
+              "slug": "v/testing-a-solution-for-a-system-of-equations",
+              "youtube_id": "SkMNREAMNvc",
+              "youtube_url": "https://www.youtube.com/watch?v=SkMNREAMNvc",
+              "duration_sec": 158,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/testing-a-solution-for-a-system-of-equations"
+            },
+            {
+              "title": "Systems of equations with graphing: y=7/5x-5 & y=3/5x-1",
+              "slug": "v/solving-systems-graphically",
+              "youtube_id": "VhH2nEDCd68",
+              "youtube_url": "https://www.youtube.com/watch?v=VhH2nEDCd68",
+              "duration_sec": 142,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/solving-systems-graphically"
+            },
+            {
+              "title": "Systems of equations with graphing: exact & approximate solutions",
+              "slug": "v/solving-systems-graphically-examples",
+              "youtube_id": "o4pbAQgJYjI",
+              "youtube_url": "https://www.youtube.com/watch?v=o4pbAQgJYjI",
+              "duration_sec": 356,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/solving-systems-graphically-examples"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Elimination method for systems of equations",
+          "slug": "alg-basics-elimination-method-systems",
+          "videos": [
+            {
+              "title": "Systems of equations with elimination: King's cupcakes",
+              "slug": "v/king-s-cupcakes-solving-systems-by-elimination",
+              "youtube_id": "xCIHAjsZCE0",
+              "youtube_url": "https://www.youtube.com/watch?v=xCIHAjsZCE0",
+              "duration_sec": 540,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/king-s-cupcakes-solving-systems-by-elimination"
+            },
+            {
+              "title": "Systems of equations with elimination: x-4y=-18 & -x+3y=11",
+              "slug": "v/simple-elimination-practice",
+              "youtube_id": "NPXTkj75-AM",
+              "youtube_url": "https://www.youtube.com/watch?v=NPXTkj75-AM",
+              "duration_sec": 359,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/simple-elimination-practice"
+            },
+            {
+              "title": "Systems of equations with elimination: potato chips",
+              "slug": "v/how-many-bags-of-potato-chips-do-people-eat",
+              "youtube_id": "VuJEidLhY1E",
+              "youtube_url": "https://www.youtube.com/watch?v=VuJEidLhY1E",
+              "duration_sec": 561,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/how-many-bags-of-potato-chips-do-people-eat"
+            },
+            {
+              "title": "Systems of equations with elimination (and manipulation)",
+              "slug": "v/solving-systems-of-equations-by-multiplication",
+              "youtube_id": "wYrxKGt_bLg",
+              "youtube_url": "https://www.youtube.com/watch?v=wYrxKGt_bLg",
+              "duration_sec": 721,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/v/solving-systems-of-equations-by-multiplication"
+            },
+            {
+              "title": "Why can we subtract one equation from the other in a system of equations?",
+              "slug": "v/why-we-do-the-same-thing-to-both-sides-basic-systems",
+              "youtube_id": "h9ZgZimXn2Q",
+              "youtube_url": "https://www.youtube.com/watch?v=h9ZgZimXn2Q",
+              "duration_sec": 493,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:equivalent-systems-equations/v/why-we-do-the-same-thing-to-both-sides-basic-systems"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Substitution method for systems of equations",
+          "slug": "alg-basics-solving-systems-with-substitution",
+          "videos": [
+            {
+              "title": "Systems of equations with substitution: potato chips",
+              "slug": "v/solving-systems-with-substitution",
+              "youtube_id": "2EwPpga_XPw",
+              "youtube_url": "https://www.youtube.com/watch?v=2EwPpga_XPw",
+              "duration_sec": 321,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-of-equations-with-substitution/v/solving-systems-with-substitution"
+            },
+            {
+              "title": "Systems of equations with substitution: -3x-4y=-2 & y=2x-5",
+              "slug": "v/practice-using-substitution-for-systems",
+              "youtube_id": "GWZKz4F9hWM",
+              "youtube_url": "https://www.youtube.com/watch?v=GWZKz4F9hWM",
+              "duration_sec": 261,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-of-equations-with-substitution/v/practice-using-substitution-for-systems"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Number of solutions to systems of equations",
+          "slug": "alg-basics-systems-number-of-solutions",
+          "videos": [
+            {
+              "title": "Systems of equations number of solutions: fruit prices (1 of 2)",
+              "slug": "v/inconsistent-systems-of-equations",
+              "youtube_id": "NJRyxmommqQ",
+              "youtube_url": "https://www.youtube.com/watch?v=NJRyxmommqQ",
+              "duration_sec": 565,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/inconsistent-systems-of-equations"
+            },
+            {
+              "title": "Systems of equations number of solutions: fruit prices (2 of 2)",
+              "slug": "v/infinite-solutions-to-systems",
+              "youtube_id": "MpRUEGD2-_c",
+              "youtube_url": "https://www.youtube.com/watch?v=MpRUEGD2-_c",
+              "duration_sec": 428,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/infinite-solutions-to-systems"
+            },
+            {
+              "title": "Solutions to systems of equations: consistent vs. inconsistent",
+              "slug": "v/consistent-and-inconsistent-systems",
+              "youtube_id": "Ix8Nne-a-KQ",
+              "youtube_url": "https://www.youtube.com/watch?v=Ix8Nne-a-KQ",
+              "duration_sec": 329,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/consistent-and-inconsistent-systems"
+            },
+            {
+              "title": "Solutions to systems of equations: dependent vs. independent",
+              "slug": "v/independent-and-dependent-systems",
+              "youtube_id": "WSpF5uvApLA",
+              "youtube_url": "https://www.youtube.com/watch?v=WSpF5uvApLA",
+              "duration_sec": 310,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/independent-and-dependent-systems"
+            },
+            {
+              "title": "Number of solutions to a system of equations",
+              "slug": "v/solving-systems-by-graphing-2",
+              "youtube_id": "BNHLzEv6Mjg",
+              "youtube_url": "https://www.youtube.com/watch?v=BNHLzEv6Mjg",
+              "duration_sec": 206,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/solving-systems-by-graphing-2"
+            },
+            {
+              "title": "Number of solutions to a system of equations graphically",
+              "slug": "v/practice-thinking-about-number-of-solutions-to-systems",
+              "youtube_id": "SuB1gkto9LU",
+              "youtube_url": "https://www.youtube.com/watch?v=SuB1gkto9LU",
+              "duration_sec": 396,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/practice-thinking-about-number-of-solutions-to-systems"
+            },
+            {
+              "title": "Number of solutions to a system of equations algebraically",
+              "slug": "v/examples-algebraically-analyzing-solutions-to-systems",
+              "youtube_id": "ogEddosP1G8",
+              "youtube_url": "https://www.youtube.com/watch?v=ogEddosP1G8",
+              "duration_sec": 361,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/examples-algebraically-analyzing-solutions-to-systems"
+            },
+            {
+              "title": "How many solutions does a system of linear equations have if there are at least two?",
+              "slug": "v/understanding-systems-of-equations-example-2",
+              "youtube_id": "bzseeIVEslA",
+              "youtube_url": "https://www.youtube.com/watch?v=bzseeIVEslA",
+              "duration_sec": 132,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations/v/understanding-systems-of-equations-example-2"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Expressions with exponents",
+      "slug": "alg-basics-expressions-with-exponents",
+      "relative_url": "/math/algebra-basics/alg-basics-expressions-with-exponents",
+      "lessons": [
+        {
+          "title": "Exponent properties intro ",
+          "slug": "alg-basics-exponent-properties-intro",
+          "videos": [
+            {
+              "title": "Exponent properties with products",
+              "slug": "v/exponent-properties-involving-products",
+              "youtube_id": "zM_p7tfWvLU",
+              "youtube_url": "https://www.youtube.com/watch?v=zM_p7tfWvLU",
+              "duration_sec": 840,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-exponent-properties/v/exponent-properties-involving-products"
+            },
+            {
+              "title": "Exponent properties with parentheses",
+              "slug": "v/products-and-exponents-raised-to-an-exponent-properties",
+              "youtube_id": "SwqOrUWzDY8",
+              "youtube_url": "https://www.youtube.com/watch?v=SwqOrUWzDY8",
+              "duration_sec": 358,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-exponent-properties/v/products-and-exponents-raised-to-an-exponent-properties"
+            },
+            {
+              "title": "Exponent properties with quotients",
+              "slug": "v/exponent-properties-involving-quotients",
+              "youtube_id": "AR1uqNbjM5s",
+              "youtube_url": "https://www.youtube.com/watch?v=AR1uqNbjM5s",
+              "duration_sec": 562,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-exponent-properties/v/exponent-properties-involving-quotients"
+            }
+          ],
+          "exercise_count": 5
+        },
+        {
+          "title": "Negative exponents",
+          "slug": "alg-basics-pos-neg-exponents",
+          "videos": [
+            {
+              "title": "Negative exponents",
+              "slug": "v/negative-exponents",
+              "youtube_id": "JnpqlXN9Whw",
+              "youtube_url": "https://www.youtube.com/watch?v=JnpqlXN9Whw",
+              "duration_sec": 434,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-pos-neg-exponents/v/negative-exponents"
+            },
+            {
+              "title": "Negative exponent intuition",
+              "slug": "v/negative-exponent-intuition",
+              "youtube_id": "Tqpcku0hrPU",
+              "youtube_url": "https://www.youtube.com/watch?v=Tqpcku0hrPU",
+              "duration_sec": 278,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-pos-neg-exponents/v/negative-exponent-intuition"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Exponent properties (integer exponents) ",
+          "slug": "alg-basics-exponent-properties",
+          "videos": [
+            {
+              "title": "Multiplying & dividing powers (integer exponents)",
+              "slug": "v/multiplying-and-dividing-powers-with-integer-exponents",
+              "youtube_id": "CZ5ne_mX5_I",
+              "youtube_url": "https://www.youtube.com/watch?v=CZ5ne_mX5_I",
+              "duration_sec": 264,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:exponent-properties-review/v/multiplying-and-dividing-powers-with-integer-exponents"
+            },
+            {
+              "title": "Powers of products & quotients (integer exponents)",
+              "slug": "v/powers-of-products-and-quotients-integer-exponents",
+              "youtube_id": "dC1ojsMi1yU",
+              "youtube_url": "https://www.youtube.com/watch?v=dC1ojsMi1yU",
+              "duration_sec": 404,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:exponent-properties-review/v/powers-of-products-and-quotients-integer-exponents"
+            },
+            {
+              "title": "Powers of zero",
+              "slug": "v/powers-of-zero",
+              "youtube_id": "S2PjhiAQMK8",
+              "youtube_url": "https://www.youtube.com/watch?v=S2PjhiAQMK8",
+              "duration_sec": 201,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-exp-prop-integers/v/powers-of-zero"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Scientific notation intro",
+          "slug": "alg-basics-scientific-notation",
+          "videos": [
+            {
+              "title": "Scientific notation examples",
+              "slug": "v/scientific-notation",
+              "youtube_id": "i6lfVUp5RW8",
+              "youtube_url": "https://www.youtube.com/watch?v=i6lfVUp5RW8",
+              "duration_sec": 686,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation/v/scientific-notation"
+            },
+            {
+              "title": "Scientific notation example: 0.0000000003457",
+              "slug": "v/scientific-notation-i",
+              "youtube_id": "6phoVfGKKec",
+              "youtube_url": "https://www.youtube.com/watch?v=6phoVfGKKec",
+              "duration_sec": 252,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation/v/scientific-notation-i"
+            },
+            {
+              "title": "Multiplying in scientific notation example",
+              "slug": "v/scientific-notation-example-2",
+              "youtube_id": "xxAFh-qHPPA",
+              "youtube_url": "https://www.youtube.com/watch?v=xxAFh-qHPPA",
+              "duration_sec": 323,
+              "relative_url": "/math/algebra-basics/alg-basics-expressions-with-exponents/alg-basics-scientific-notation/v/scientific-notation-example-2"
+            },
+            {
+              "title": "Multiplying & dividing in scientific notation ",
+              "slug": "v/multiplying-and-dividing-in-scientific-notation",
+              "youtube_id": "497oIjqRPco",
+              "youtube_url": "https://www.youtube.com/watch?v=497oIjqRPco",
+              "duration_sec": 173,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation-compu/v/multiplying-and-dividing-in-scientific-notation"
+            },
+            {
+              "title": "Multiplying three numbers in scientific notation",
+              "slug": "v/multiplying-in-scientific-notation",
+              "youtube_id": "67jn5Zv-myg",
+              "youtube_url": "https://www.youtube.com/watch?v=67jn5Zv-myg",
+              "duration_sec": 455,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation-compu/v/multiplying-in-scientific-notation"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Scientific notation word problems",
+          "slug": "alg-basics-scientific-notation-word-problems",
+          "videos": [
+            {
+              "title": "Scientific notation word problem: red blood cells",
+              "slug": "v/calculating-red-blood-cells-in-the-body-using-scientific-notation",
+              "youtube_id": "0lOpqmTdtzk",
+              "youtube_url": "https://www.youtube.com/watch?v=0lOpqmTdtzk",
+              "duration_sec": 286,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation-word-problems/v/calculating-red-blood-cells-in-the-body-using-scientific-notation"
+            },
+            {
+              "title": "Scientific notation word problem: U.S. national debt",
+              "slug": "v/scientific-notation-3",
+              "youtube_id": "XJBwJjP2_hM",
+              "youtube_url": "https://www.youtube.com/watch?v=XJBwJjP2_hM",
+              "duration_sec": 381,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation-word-problems/v/scientific-notation-3"
+            },
+            {
+              "title": "Scientific notation word problem: speed of light",
+              "slug": "v/scientific-notation-3-new",
+              "youtube_id": "dD71fFNwVJw",
+              "youtube_url": "https://www.youtube.com/watch?v=dD71fFNwVJw",
+              "duration_sec": 267,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation-word-problems/v/scientific-notation-3-new"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Quadratics and polynomials",
+      "slug": "alg-basics-quadratics-and-polynomials",
+      "relative_url": "/math/algebra-basics/alg-basics-quadratics-and-polynomials",
+      "lessons": [
+        {
+          "title": "Adding & subtracting polynomials",
+          "slug": "alg-basics-adding-and-subtracting-polynomials",
+          "videos": [
+            {
+              "title": "Adding polynomials",
+              "slug": "v/adding-and-subtracting-polynomials-1",
+              "youtube_id": "ahdKdxsTj8E",
+              "youtube_url": "https://www.youtube.com/watch?v=ahdKdxsTj8E",
+              "duration_sec": 121,
+              "relative_url": "/math/algebra2/x2ec2f6f830c9fb89:poly-arithmetic/x2ec2f6f830c9fb89:poly-add-sub/v/adding-and-subtracting-polynomials-1"
+            },
+            {
+              "title": "Subtracting polynomials",
+              "slug": "v/subtracting-polynomials",
+              "youtube_id": "5ZdxnFspyP8",
+              "youtube_url": "https://www.youtube.com/watch?v=5ZdxnFspyP8",
+              "duration_sec": 127,
+              "relative_url": "/math/algebra2/x2ec2f6f830c9fb89:poly-arithmetic/x2ec2f6f830c9fb89:poly-add-sub/v/subtracting-polynomials"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiplying binomials",
+          "slug": "alg-basics-multiplying-binomials",
+          "videos": [
+            {
+              "title": "Multiplying monomials by polynomials",
+              "slug": "v/multiplying-monomials-by-polynomials",
+              "youtube_id": "pD2-H15ucNE",
+              "youtube_url": "https://www.youtube.com/watch?v=pD2-H15ucNE",
+              "duration_sec": 163,
+              "relative_url": "/math/algebra2/x2ec2f6f830c9fb89:poly-arithmetic/x2ec2f6f830c9fb89:mono-by-poly/v/multiplying-monomials-by-polynomials"
+            },
+            {
+              "title": "Multiplying binomials: area model",
+              "slug": "v/area-model-for-multiplying-binomials",
+              "youtube_id": "oOTFGdjhqqM",
+              "youtube_url": "https://www.youtube.com/watch?v=oOTFGdjhqqM",
+              "duration_sec": 235,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/v/area-model-for-multiplying-binomials"
+            },
+            {
+              "title": "Multiplying binomials intro",
+              "slug": "v/multiplying-simple-binomials",
+              "youtube_id": "Xy8NKUoyy98",
+              "youtube_url": "https://www.youtube.com/watch?v=Xy8NKUoyy98",
+              "duration_sec": 287,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/v/multiplying-simple-binomials"
+            },
+            {
+              "title": "Multiplying binomials",
+              "slug": "v/multiplying-binomials",
+              "youtube_id": "ZMLFfTX615w",
+              "youtube_url": "https://www.youtube.com/watch?v=ZMLFfTX615w",
+              "duration_sec": 347,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/v/multiplying-binomials"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Special products of binomials",
+          "slug": "alg-basics-special-products-of-polynomials",
+          "videos": [
+            {
+              "title": "Special products of the form (x+a)(x-a)",
+              "slug": "v/difference-of-squares-pattern-for-simple-binomials",
+              "youtube_id": "JfuisfEdnjk",
+              "youtube_url": "https://www.youtube.com/watch?v=JfuisfEdnjk",
+              "duration_sec": 294,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:special-product-binomials/v/difference-of-squares-pattern-for-simple-binomials"
+            },
+            {
+              "title": "Squaring binomials of the form (x+a)²",
+              "slug": "v/pattern-for-squaring-simple-binomials",
+              "youtube_id": "xH_GllPuymc",
+              "youtube_url": "https://www.youtube.com/watch?v=xH_GllPuymc",
+              "duration_sec": 343,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:special-product-binomials/v/pattern-for-squaring-simple-binomials"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Factoring polynomials by taking common factors",
+          "slug": "alg-basics-factoring-polynomials-1-common-factors",
+          "videos": [
+            {
+              "title": "Factoring with the distributive property",
+              "slug": "v/factoring-linear-binomials",
+              "youtube_id": "mbb3msmX2xs",
+              "youtube_url": "https://www.youtube.com/watch?v=mbb3msmX2xs",
+              "duration_sec": 208,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:intro-factoring/v/factoring-linear-binomials"
+            },
+            {
+              "title": "Taking common factor from binomial",
+              "slug": "v/algebraic-factoring-by-greatest-common-monomial-factor",
+              "youtube_id": "iTn3TTF0IXk",
+              "youtube_url": "https://www.youtube.com/watch?v=iTn3TTF0IXk",
+              "duration_sec": 298,
+              "relative_url": "/math/algebra2/x2ec2f6f830c9fb89:poly-factor/x2ec2f6f830c9fb89:common-factor/v/algebraic-factoring-by-greatest-common-monomial-factor"
+            },
+            {
+              "title": "Taking common factor from trinomial",
+              "slug": "v/factoring-and-the-distributive-property-3",
+              "youtube_id": "MZl6Mna0leQ",
+              "youtube_url": "https://www.youtube.com/watch?v=MZl6Mna0leQ",
+              "duration_sec": 354,
+              "relative_url": "/math/algebra2/x2ec2f6f830c9fb89:poly-factor/x2ec2f6f830c9fb89:common-factor/v/factoring-and-the-distributive-property-3"
+            },
+            {
+              "title": "Taking common factor: area model",
+              "slug": "v/factoring-polynomial-with-area-model",
+              "youtube_id": "tYknkDjp-bQ",
+              "youtube_url": "https://www.youtube.com/watch?v=tYknkDjp-bQ",
+              "duration_sec": 327,
+              "relative_url": "/math/algebra2/x2ec2f6f830c9fb89:poly-factor/x2ec2f6f830c9fb89:common-factor/v/factoring-polynomial-with-area-model"
+            },
+            {
+              "title": "Factoring polynomials: common binomial factor",
+              "slug": "v/factoring-a-common-binomial-factor",
+              "youtube_id": "tDlzWNtRzS8",
+              "youtube_url": "https://www.youtube.com/watch?v=tDlzWNtRzS8",
+              "duration_sec": 102,
+              "relative_url": "/math/algebra-basics/alg-basics-quadratics-and-polynomials/alg-basics-factoring-polynomials-1-common-factors/v/factoring-a-common-binomial-factor"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Factoring quadratics 1",
+          "slug": "alg-basics-factoring-quadratics-1",
+          "videos": [
+            {
+              "title": "Factoring quadratics as (x+a)(x+b)",
+              "slug": "v/factoring-simple-quadratic-expression",
+              "youtube_id": "D3a8NnpQ2vU",
+              "youtube_url": "https://www.youtube.com/watch?v=D3a8NnpQ2vU",
+              "duration_sec": 394,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-intro/v/factoring-simple-quadratic-expression"
+            },
+            {
+              "title": "Factoring quadratics as (x+a)(x+b) (example 2)",
+              "slug": "v/factoring-polynomials-1",
+              "youtube_id": "1kfq0aR3ASs",
+              "youtube_url": "https://www.youtube.com/watch?v=1kfq0aR3ASs",
+              "duration_sec": 260,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-intro/v/factoring-polynomials-1"
+            },
+            {
+              "title": "More examples of factoring quadratics as (x+a)(x+b)",
+              "slug": "v/factoring-quadratic-expressions",
+              "youtube_id": "eF6zYNzlZKQ",
+              "youtube_url": "https://www.youtube.com/watch?v=eF6zYNzlZKQ",
+              "duration_sec": 990,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-intro/v/factoring-quadratic-expressions"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Factoring quadratics 2",
+          "slug": "alg-basics-factoring-quadratics-2",
+          "videos": [
+            {
+              "title": "Intro to grouping",
+              "slug": "v/factor-by-grouping-and-factoring-completely",
+              "youtube_id": "X7B_tH4O-_s",
+              "youtube_url": "https://www.youtube.com/watch?v=X7B_tH4O-_s",
+              "duration_sec": 837,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/v/factor-by-grouping-and-factoring-completely"
+            },
+            {
+              "title": "Factoring quadratics by grouping",
+              "slug": "v/factoring-trinomials-by-grouping-4",
+              "youtube_id": "u1SAo2GiX8A",
+              "youtube_url": "https://www.youtube.com/watch?v=u1SAo2GiX8A",
+              "duration_sec": 235,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/v/factoring-trinomials-by-grouping-4"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Factoring quadratics: Difference of squares",
+          "slug": "alg-basics-factoring-diff-of-squares",
+          "videos": [
+            {
+              "title": "Factoring difference of squares: leading coefficient ≠ 1",
+              "slug": "v/factoring-to-produce-difference-of-squares",
+              "youtube_id": "jmbg-DKWuc4",
+              "youtube_url": "https://www.youtube.com/watch?v=jmbg-DKWuc4",
+              "duration_sec": 143,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-difference-squares/v/factoring-to-produce-difference-of-squares"
+            },
+            {
+              "title": "Factoring difference of squares: analyzing factorization",
+              "slug": "v/equivalent-expressions-to-differences-of-squares",
+              "youtube_id": "TK-U1p9O6Nc",
+              "youtube_url": "https://www.youtube.com/watch?v=TK-U1p9O6Nc",
+              "duration_sec": 189,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-difference-squares/v/equivalent-expressions-to-differences-of-squares"
+            },
+            {
+              "title": "Factoring difference of squares: missing values",
+              "slug": "v/factoring-difference-of-squares-exercise-example",
+              "youtube_id": "IRmv-Z--3LA",
+              "youtube_url": "https://www.youtube.com/watch?v=IRmv-Z--3LA",
+              "duration_sec": 350,
+              "relative_url": "/math/algebra-basics/alg-basics-quadratics-and-polynomials/alg-basics-factoring-diff-of-squares/v/factoring-difference-of-squares-exercise-example"
+            },
+            {
+              "title": "Factoring difference of squares: shared factors",
+              "slug": "v/finding-a-shared-binomial-factor",
+              "youtube_id": "xYQR2LNZLeU",
+              "youtube_url": "https://www.youtube.com/watch?v=xYQR2LNZLeU",
+              "duration_sec": 263,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-difference-squares/v/finding-a-shared-binomial-factor"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Factoring quadratics: Perfect squares",
+          "slug": "alg-basics-factoring-perfect-squares",
+          "videos": [
+            {
+              "title": "Factoring perfect squares",
+              "slug": "v/factoring-perfect-square-trinomials",
+              "youtube_id": "liRNTieIU_k",
+              "youtube_url": "https://www.youtube.com/watch?v=liRNTieIU_k",
+              "duration_sec": 294,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/factoring-perfect-square-trinomials"
+            },
+            {
+              "title": "Identifying perfect square form",
+              "slug": "v/identifying-perfect-square-trinomials",
+              "youtube_id": "4STGvuoBi5U",
+              "youtube_url": "https://www.youtube.com/watch?v=4STGvuoBi5U",
+              "duration_sec": 277,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/identifying-perfect-square-trinomials"
+            },
+            {
+              "title": "Factoring higher degree polynomials: Common factor",
+              "slug": "v/factoring-perfect-square-polynomial",
+              "youtube_id": "BFW2lHobO4E",
+              "youtube_url": "https://www.youtube.com/watch?v=BFW2lHobO4E",
+              "duration_sec": 219,
+              "relative_url": "/math/algebra2/x2ec2f6f830c9fb89:poly-factor/x2ec2f6f830c9fb89:factor-high-deg/v/factoring-perfect-square-polynomial"
+            },
+            {
+              "title": "Factoring perfect squares: negative common factor",
+              "slug": "v/u09-l2-t1-we1-factoring-special-products-1",
+              "youtube_id": "XuwldEyWjH0",
+              "youtube_url": "https://www.youtube.com/watch?v=XuwldEyWjH0",
+              "duration_sec": 232,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/u09-l2-t1-we1-factoring-special-products-1"
+            },
+            {
+              "title": "Factoring perfect squares: missing values",
+              "slug": "v/solving-for-constants-in-perfect-square-polynomial",
+              "youtube_id": "oIslHyWJHEY",
+              "youtube_url": "https://www.youtube.com/watch?v=oIslHyWJHEY",
+              "duration_sec": 159,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/solving-for-constants-in-perfect-square-polynomial"
+            },
+            {
+              "title": "Factoring perfect squares: shared factors",
+              "slug": "v/shared-binomial-factor-between-perfect-square-and-difference-of-squares",
+              "youtube_id": "6jZZ6EeE-j0",
+              "youtube_url": "https://www.youtube.com/watch?v=6jZZ6EeE-j0",
+              "duration_sec": 266,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-perfect-squares/v/shared-binomial-factor-between-perfect-square-and-difference-of-squares"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Solving quadratic equations by factoring",
+          "slug": "alg-basics-solving-quadratics-by-factoring",
+          "videos": [
+            {
+              "title": "Solving quadratics by factoring",
+              "slug": "v/example-1-solving-a-quadratic-equation-by-factoring",
+              "youtube_id": "2ZzuZvz33X0",
+              "youtube_url": "https://www.youtube.com/watch?v=2ZzuZvz33X0",
+              "duration_sec": 382,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/v/example-1-solving-a-quadratic-equation-by-factoring"
+            },
+            {
+              "title": "Solving quadratics by factoring: leading coefficient ≠ 1",
+              "slug": "v/solving-quadratics-by-dividing-and-factoring",
+              "youtube_id": "KbFwLvCOBUI",
+              "youtube_url": "https://www.youtube.com/watch?v=KbFwLvCOBUI",
+              "duration_sec": 275,
+              "relative_url": "/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/v/solving-quadratics-by-dividing-and-factoring"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Equations and geometry",
+      "slug": "alg-basics-equations-and-geometry",
+      "relative_url": "/math/algebra-basics/alg-basics-equations-and-geometry",
+      "lessons": [
+        {
+          "title": "Equations & geometry",
+          "slug": "equations-geometry",
+          "videos": [
+            {
+              "title": "Equation practice with segment addition",
+              "slug": "v/segment-addition",
+              "youtube_id": "YFqeMzfcyg4",
+              "youtube_url": "https://www.youtube.com/watch?v=YFqeMzfcyg4",
+              "duration_sec": 221,
+              "relative_url": "/math/algebra-basics/alg-basics-equations-and-geometry/equations-geometry/v/segment-addition"
+            },
+            {
+              "title": "Equation practice with midpoints",
+              "slug": "v/midpoint-of-a-segment",
+              "youtube_id": "E0TNh9uWesw",
+              "youtube_url": "https://www.youtube.com/watch?v=E0TNh9uWesw",
+              "duration_sec": 199,
+              "relative_url": "/math/algebra-basics/alg-basics-equations-and-geometry/equations-geometry/v/midpoint-of-a-segment"
+            },
+            {
+              "title": "Equation practice with vertical angles",
+              "slug": "v/using-algebra-to-find-the-measures-of-vertical-angles",
+              "youtube_id": "2CZrkdtgeNU",
+              "youtube_url": "https://www.youtube.com/watch?v=2CZrkdtgeNU",
+              "duration_sec": 154,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/using-algebra-to-find-the-measures-of-vertical-angles"
+            },
+            {
+              "title": "Equation practice with complementary angles",
+              "slug": "v/example-using-algebra-to-find-measure-of-complementary-angles",
+              "youtube_id": "XDOH9Ul2OOM",
+              "youtube_url": "https://www.youtube.com/watch?v=XDOH9Ul2OOM",
+              "duration_sec": 153,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/example-using-algebra-to-find-measure-of-complementary-angles"
+            },
+            {
+              "title": "Equation practice with supplementary angles",
+              "slug": "v/example-using-algebra-to-find-measure-of-supplementary-angles",
+              "youtube_id": "zNtbi4OJs9I",
+              "youtube_url": "https://www.youtube.com/watch?v=zNtbi4OJs9I",
+              "duration_sec": 157,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/example-using-algebra-to-find-measure-of-supplementary-angles"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Triangle angles",
+          "slug": "alg-basics-triangle-angles",
+          "videos": [
+            {
+              "title": "Angles in a triangle sum to 180° proof",
+              "slug": "v/proof-sum-of-measures-of-angles-in-a-triangle-are-180",
+              "youtube_id": "6s1CI3uuhko",
+              "youtube_url": "https://www.youtube.com/watch?v=6s1CI3uuhko",
+              "duration_sec": 268,
+              "relative_url": "/math/geometry/hs-geo-congruence/hs-geo-congruence-theorems/v/proof-sum-of-measures-of-angles-in-a-triangle-are-180"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Pythagorean theorem",
+          "slug": "alg-basics-pythagorean-theorem",
+          "videos": [
+            {
+              "title": "Intro to the Pythagorean theorem",
+              "slug": "v/the-pythagorean-theorem",
+              "youtube_id": "AA6RfgP-AHU",
+              "youtube_url": "https://www.youtube.com/watch?v=AA6RfgP-AHU",
+              "duration_sec": 646,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-pythagorean-theorem/v/the-pythagorean-theorem"
+            },
+            {
+              "title": "Intro to the Pythagorean theorem 2",
+              "slug": "v/pythagorean-theorem",
+              "youtube_id": "AEIzy1kNRqo",
+              "youtube_url": "https://www.youtube.com/watch?v=AEIzy1kNRqo",
+              "duration_sec": 783,
+              "relative_url": "/math/algebra-basics/alg-basics-equations-and-geometry/alg-basics-pythagorean-theorem/v/pythagorean-theorem"
+            },
+            {
+              "title": "Pythagorean theorem example",
+              "slug": "v/pythagorean-theorem-2",
+              "youtube_id": "O64YFlX1_aI",
+              "youtube_url": "https://www.youtube.com/watch?v=O64YFlX1_aI",
+              "duration_sec": 257,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-pythagorean-theorem/v/pythagorean-theorem-2"
+            },
+            {
+              "title": "Thiago asks: How much time does a goalkeeper have to react to a penalty kick?",
+              "slug": "v/soccer-thiago",
+              "youtube_id": "XtJwkIacpi8",
+              "youtube_url": "https://www.youtube.com/watch?v=XtJwkIacpi8",
+              "duration_sec": 725,
+              "relative_url": "/math/algebra-basics/alg-basics-equations-and-geometry/alg-basics-pythagorean-theorem/v/soccer-thiago"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Triangle similarity intro",
+          "slug": "alg-basics-intro-to-triangle-similarity",
+          "videos": [
+            {
+              "title": "Intro to triangle similarity",
+              "slug": "v/similar-triangle-basics",
+              "youtube_id": "9ThXDY9Y3oU",
+              "youtube_url": "https://www.youtube.com/watch?v=9ThXDY9Y3oU",
+              "duration_sec": 557,
+              "relative_url": "/math/geometry/hs-geo-similarity/hs-geo-triangle-similarity-intro/v/similar-triangle-basics"
+            },
+            {
+              "title": "Triangle similarity postulates/criteria",
+              "slug": "v/similarity-postulates",
+              "youtube_id": "7bO0TmJ6Ba4",
+              "youtube_url": "https://www.youtube.com/watch?v=7bO0TmJ6Ba4",
+              "duration_sec": 734,
+              "relative_url": "/math/geometry/hs-geo-similarity/hs-geo-triangle-similarity-intro/v/similarity-postulates"
+            },
+            {
+              "title": "Determining similar triangles",
+              "slug": "v/similar-triangle-example-problems",
+              "youtube_id": "Ly86lwq_2gc",
+              "youtube_url": "https://www.youtube.com/watch?v=Ly86lwq_2gc",
+              "duration_sec": 563,
+              "relative_url": "/math/geometry/hs-geo-similarity/hs-geo-triangle-similarity-intro/v/similar-triangle-example-problems"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Solving similar triangles",
+          "slug": "alg-basics-solving-similar-triangles",
+          "videos": [
+            {
+              "title": "Solving similar triangles",
+              "slug": "v/similarity-example-problems",
+              "youtube_id": "R-6CAr_zEEk",
+              "youtube_url": "https://www.youtube.com/watch?v=R-6CAr_zEEk",
+              "duration_sec": 457,
+              "relative_url": "/math/geometry/hs-geo-similarity/hs-geo-solving-similar-triangles/v/similarity-example-problems"
+            },
+            {
+              "title": "Solving similar triangles: same side plays different roles",
+              "slug": "v/similarity-example-where-same-side-plays-different-roles",
+              "youtube_id": "Tal_fgREll0",
+              "youtube_url": "https://www.youtube.com/watch?v=Tal_fgREll0",
+              "duration_sec": 365,
+              "relative_url": "/math/geometry/hs-geo-similarity/hs-geo-solving-similar-triangles/v/similarity-example-where-same-side-plays-different-roles"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    }
+  ]
+}

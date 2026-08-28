@@ -1,0 +1,1247 @@
+{
+  "key": "hs-biology",
+  "tier": "T1",
+  "subject": "science",
+  "slug": "hs-bio",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "High school biology",
+  "course_slug": "hs-bio",
+  "units": [
+    {
+      "title": "Ecology and natural systems",
+      "slug": "x230b3ff252126bb6:ecology-and-natural-systems",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:ecology-and-natural-systems",
+      "lessons": [
+        {
+          "title": "Organization of natural systems",
+          "slug": "x230b3ff252126bb6:organization-of-natural-systems",
+          "videos": [
+            {
+              "title": "Welcome to high school biology",
+              "slug": "v/welcome-to-high-school-biology",
+              "youtube_id": "HjA-SvvL2BQ",
+              "youtube_url": "https://www.youtube.com/watch?v=HjA-SvvL2BQ",
+              "duration_sec": 129,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:ecology-and-natural-systems/x230b3ff252126bb6:organization-of-natural-systems/v/welcome-to-high-school-biology"
+            },
+            {
+              "title": "Biotic and abiotic factors in Earth’s natural systems",
+              "slug": "v/biotic-and-abiotic-factors-in-earths-natural-systems",
+              "youtube_id": "GxKWCiZHsvo",
+              "youtube_url": "https://www.youtube.com/watch?v=GxKWCiZHsvo",
+              "duration_sec": 314,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:ecology-and-natural-systems/x230b3ff252126bb6:organization-of-natural-systems/v/biotic-and-abiotic-factors-in-earths-natural-systems"
+            },
+            {
+              "title": "Ecosystems and biomes",
+              "slug": "v/ecosystems-and-biomes",
+              "youtube_id": "A495e31cDdE",
+              "youtube_url": "https://www.youtube.com/watch?v=A495e31cDdE",
+              "duration_sec": 453,
+              "relative_url": "/science/biology/ecology/intro-to-ecosystems/v/ecosystems-and-biomes"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The distribution of life",
+          "slug": "x230b3ff252126bb6:the-distribution-of-life",
+          "videos": [],
+          "exercise_count": 2
+        },
+        {
+          "title": "An organism's niche",
+          "slug": "x230b3ff252126bb6:an-organisms-niche",
+          "videos": [
+            {
+              "title": "Abiotic factors and an organism's range",
+              "slug": "v/abiotic-factors-for-an-organism-s-range",
+              "youtube_id": "ZqB-Sp7Zi6E",
+              "youtube_url": "https://www.youtube.com/watch?v=ZqB-Sp7Zi6E",
+              "duration_sec": 240,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:ecology-and-natural-systems/x230b3ff252126bb6:an-organisms-niche/v/abiotic-factors-for-an-organism-s-range"
+            },
+            {
+              "title": "An organism's niche",
+              "slug": "v/organism-niche",
+              "youtube_id": "tiaFqgbq1hM",
+              "youtube_url": "https://www.youtube.com/watch?v=tiaFqgbq1hM",
+              "duration_sec": 342,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:ecology-and-natural-systems/x230b3ff252126bb6:an-organisms-niche/v/organism-niche"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Population growth and carrying capacity",
+          "slug": "x230b3ff252126bb6:population-growth-and-carrying-capacity",
+          "videos": [
+            {
+              "title": "Describing populations",
+              "slug": "v/describing-populations",
+              "youtube_id": "jGeyBOTGp9g",
+              "youtube_url": "https://www.youtube.com/watch?v=jGeyBOTGp9g",
+              "duration_sec": 297,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:ecology-and-natural-systems/x230b3ff252126bb6:population-growth-and-carrying-capacity/v/describing-populations"
+            },
+            {
+              "title": "Exponential and logistic growth in populations",
+              "slug": "v/exponential-and-logistic-growth-in-populations",
+              "youtube_id": "KyAKEisg2PQ",
+              "youtube_url": "https://www.youtube.com/watch?v=KyAKEisg2PQ",
+              "duration_sec": 452,
+              "relative_url": "/science/ap-biology/ecology-ap/population-ecology-ap/v/exponential-and-logistic-growth-in-populations"
+            },
+            {
+              "title": "r-selected and K-selected population growth strategies",
+              "slug": "v/k-selected-and-r-selected-population-growth-strategies",
+              "youtube_id": "ey4FTyYjiPw",
+              "youtube_url": "https://www.youtube.com/watch?v=ey4FTyYjiPw",
+              "duration_sec": 400,
+              "relative_url": "/science/ap-college-environmental-science/x0b0e430a38ebd23f:populations/x0b0e430a38ebd23f:species-growth/v/k-selected-and-r-selected-population-growth-strategies"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Activity: Why are human-shark interactions increasing around Cape Cod? ",
+          "slug": "x230b3ff252126bb6:activity-why-are-human-shark-interactions-increasing-around-cape-cod",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Interactions in communities",
+          "slug": "x230b3ff252126bb6:interactions-in-communities",
+          "videos": [
+            {
+              "title": "Interactions between populations",
+              "slug": "v/interactions-between-populations",
+              "youtube_id": "q2zdiLn3gSE",
+              "youtube_url": "https://www.youtube.com/watch?v=q2zdiLn3gSE",
+              "duration_sec": 492,
+              "relative_url": "/science/ap-biology/ecology-ap/community-ecology/v/interactions-between-populations"
+            },
+            {
+              "title": "Predator-prey population cycles",
+              "slug": "v/predator-prey-population-cycles",
+              "youtube_id": "UASWxKWdKCw",
+              "youtube_url": "https://www.youtube.com/watch?v=UASWxKWdKCw",
+              "duration_sec": 388,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:ecology-and-natural-systems/x230b3ff252126bb6:interactions-in-communities/v/predator-prey-population-cycles"
+            },
+            {
+              "title": "Interactions within and among species",
+              "slug": "v/interactions-within-and-among-species",
+              "youtube_id": "OnBXX4ooiuY",
+              "youtube_url": "https://www.youtube.com/watch?v=OnBXX4ooiuY",
+              "duration_sec": 349,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:ecology-and-natural-systems/x230b3ff252126bb6:interactions-in-communities/v/interactions-within-and-among-species"
+            }
+          ],
+          "exercise_count": 4
+        }
+      ]
+    },
+    {
+      "title": "From cells to organisms",
+      "slug": "x230b3ff252126bb6:from-cells-to-organisms",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:from-cells-to-organisms",
+      "lessons": [
+        {
+          "title": "The cellular basis of life",
+          "slug": "x230b3ff252126bb6:the-cellular-basis-of-life",
+          "videos": [
+            {
+              "title": "Cell theory",
+              "slug": "v/cell-theory",
+              "youtube_id": "zk3vlhz1b6k",
+              "youtube_url": "https://www.youtube.com/watch?v=zk3vlhz1b6k",
+              "duration_sec": 483,
+              "relative_url": "/science/biology/structure-of-a-cell/introduction-to-cells/v/cell-theory"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Prokaryotic and eukaryotic cells",
+          "slug": "x230b3ff252126bb6:prokaryotic-and-eukaryotic-cells",
+          "videos": [
+            {
+              "title": "Comparing prokaryotic and eukaryotic cells",
+              "slug": "v/comparing-prokaryotic-and-eukaryotic-cells",
+              "youtube_id": "hIHYqT0S9B8",
+              "youtube_url": "https://www.youtube.com/watch?v=hIHYqT0S9B8",
+              "duration_sec": 404,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:from-cells-to-organisms/x230b3ff252126bb6:prokaryotic-and-eukaryotic-cells/v/comparing-prokaryotic-and-eukaryotic-cells"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Cell structure and function",
+          "slug": "x230b3ff252126bb6:cell-structure-and-function",
+          "videos": [
+            {
+              "title": "Organelles in eukaryotic cells",
+              "slug": "v/organelles-in-eukaryotic-cells",
+              "youtube_id": "bWPQvxElpLY",
+              "youtube_url": "https://www.youtube.com/watch?v=bWPQvxElpLY",
+              "duration_sec": 578,
+              "relative_url": "/science/ap-biology/cell-structure-and-function/cell-structures-and-their-functions/v/organelles-in-eukaryotic-cells"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "From cells to organisms",
+          "slug": "x230b3ff252126bb6:untitled-26",
+          "videos": [
+            {
+              "title": "Stem cells and differentiation",
+              "slug": "v/stem-cells-and-differentiation",
+              "youtube_id": "jOBRupYkyaw",
+              "youtube_url": "https://www.youtube.com/watch?v=jOBRupYkyaw",
+              "duration_sec": 404,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:from-cells-to-organisms/x230b3ff252126bb6:untitled-26/v/stem-cells-and-differentiation"
+            },
+            {
+              "title": "Organization of multicellular organisms",
+              "slug": "v/organization-of-multicellular-organisms",
+              "youtube_id": "8pWMifyG5bU",
+              "youtube_url": "https://www.youtube.com/watch?v=8pWMifyG5bU",
+              "duration_sec": 256,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:from-cells-to-organisms/x230b3ff252126bb6:untitled-26/v/organization-of-multicellular-organisms"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Human body systems",
+          "slug": "x230b3ff252126bb6:human-body-systems",
+          "videos": [
+            {
+              "title": "Meet the heart!",
+              "slug": "v/meet-the-heart",
+              "youtube_id": "Vi1JK6IYVt8",
+              "youtube_url": "https://www.youtube.com/watch?v=Vi1JK6IYVt8",
+              "duration_sec": 609,
+              "relative_url": "/science/health-and-medicine/circulatory-system/circulatory-system-introduction/v/meet-the-heart"
+            },
+            {
+              "title": "Meet the lungs!",
+              "slug": "v/meet-the-lungs",
+              "youtube_id": "qGiPZf7njqY",
+              "youtube_url": "https://www.youtube.com/watch?v=qGiPZf7njqY",
+              "duration_sec": 576,
+              "relative_url": "/science/health-and-medicine/human-anatomy-and-physiology/lung-introduction/v/meet-the-lungs"
+            },
+            {
+              "title": "Meet the gastrointestinal tract!",
+              "slug": "v/meet-the-gastrointestinal-tract",
+              "youtube_id": "Oh_Pt_UrtEE",
+              "youtube_url": "https://www.youtube.com/watch?v=Oh_Pt_UrtEE",
+              "duration_sec": 321,
+              "relative_url": "/science/health-and-medicine/gastro-intestinal-system/gastrointestinal-intro/v/meet-the-gastrointestinal-tract"
+            },
+            {
+              "title": "Welcome to the reproductive system",
+              "slug": "v/welcome-to-the-reproductive-system",
+              "youtube_id": "jRYEqOOrjH8",
+              "youtube_url": "https://www.youtube.com/watch?v=jRYEqOOrjH8",
+              "duration_sec": 398,
+              "relative_url": "/science/health-and-medicine/human-anatomy-and-physiology/reproductive-system-introduction/v/welcome-to-the-reproductive-system"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Homeostasis",
+          "slug": "x230b3ff252126bb6:homeostasis",
+          "videos": [
+            {
+              "title": "Feedback in living systems",
+              "slug": "v/feedback-in-living-systems",
+              "youtube_id": "eHsYuPEYXgE",
+              "youtube_url": "https://www.youtube.com/watch?v=eHsYuPEYXgE",
+              "duration_sec": 495,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:from-cells-to-organisms/x230b3ff252126bb6:homeostasis/v/feedback-in-living-systems"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "The cell cycle and differentiation",
+      "slug": "x230b3ff252126bb6:the-cell-cycle-and-differentiation",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:the-cell-cycle-and-differentiation",
+      "lessons": [
+        {
+          "title": "The cell cycle and mitosis",
+          "slug": "x230b3ff252126bb6:the-cell-cycle-and-mitosis",
+          "videos": [
+            {
+              "title": "Interphase",
+              "slug": "v/interphase",
+              "youtube_id": "VXLSTd_dlKg",
+              "youtube_url": "https://www.youtube.com/watch?v=VXLSTd_dlKg",
+              "duration_sec": 508,
+              "relative_url": "/science/ap-biology/cell-communication-and-cell-cycle/cell-cycle/v/interphase"
+            },
+            {
+              "title": "Mitosis",
+              "slug": "v/mitosis",
+              "youtube_id": "TKGcfbyFXsw",
+              "youtube_url": "https://www.youtube.com/watch?v=TKGcfbyFXsw",
+              "duration_sec": 732,
+              "relative_url": "/science/ap-biology/cell-communication-and-cell-cycle/cell-cycle/v/mitosis"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Regulation of the cell cycle and cancer",
+          "slug": "x230b3ff252126bb6:regulation-of-the-cell-cycle-and-cancer",
+          "videos": [],
+          "exercise_count": 2
+        },
+        {
+          "title": "Fertilization, growth, and cell differentiation",
+          "slug": "x230b3ff252126bb6:fertilization-growth-and-cell-differentiation",
+          "videos": [
+            {
+              "title": "Human fertilization and early development",
+              "slug": "v/human-fertilization-and-early-development",
+              "youtube_id": "-7WKUNG9v-w",
+              "youtube_url": "https://www.youtube.com/watch?v=-7WKUNG9v-w",
+              "duration_sec": 479,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:the-cell-cycle-and-differentiation/x230b3ff252126bb6:fertilization-growth-and-cell-differentiation/v/human-fertilization-and-early-development"
+            },
+            {
+              "title": "Cellular specialization (differentiation)",
+              "slug": "v/cellular-specialization-differentiation",
+              "youtube_id": "YtvL-LQlPrU",
+              "youtube_url": "https://www.youtube.com/watch?v=YtvL-LQlPrU",
+              "duration_sec": 511,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/v/cellular-specialization-differentiation"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How do stem cells give rise to the diverse cell types that make up the human body? ",
+          "slug": "x230b3ff252126bb6:activity-how-do-stem-cells-give-rise-to-the-diverse-cell-types-that-make-up-the-human-body",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Energy and matter in biological systems",
+      "slug": "x230b3ff252126bb6:energy-and-matter-in-biological-systems",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:energy-and-matter-in-biological-systems",
+      "lessons": [
+        {
+          "title": "Biomolecules and reactions",
+          "slug": "x230b3ff252126bb6:biomolecules-and-reactions",
+          "videos": [
+            {
+              "title": "Formation of biomolecules",
+              "slug": "v/formation-of-biomolecules",
+              "youtube_id": "9RUSMa-UIcQ",
+              "youtube_url": "https://www.youtube.com/watch?v=9RUSMa-UIcQ",
+              "duration_sec": 436,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:energy-and-matter-in-biological-systems/x230b3ff252126bb6:biomolecules-and-reactions/v/formation-of-biomolecules"
+            },
+            {
+              "title": "Introduction to carbohydrates",
+              "slug": "v/introduction-to-carbohydrates",
+              "youtube_id": "6o4WL5jlpn0",
+              "youtube_url": "https://www.youtube.com/watch?v=6o4WL5jlpn0",
+              "duration_sec": 268,
+              "relative_url": "/science/ap-biology/chemistry-of-life/properties-structure-and-function-of-biological-macromolecules/v/introduction-to-carbohydrates"
+            },
+            {
+              "title": "Introduction to proteins and amino acids",
+              "slug": "v/introduction-to-proteins-and-amino-acids",
+              "youtube_id": "78QUeXVKiJ4",
+              "youtube_url": "https://www.youtube.com/watch?v=78QUeXVKiJ4",
+              "duration_sec": 353,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:energy-and-matter-in-biological-systems/x230b3ff252126bb6:biomolecules-and-reactions/v/introduction-to-proteins-and-amino-acids"
+            },
+            {
+              "title": "Introduction to nucleic acids and nucleotides",
+              "slug": "v/introduction-to-nucleic-acids-and-nucleotides",
+              "youtube_id": "hI4v7v8AdfI",
+              "youtube_url": "https://www.youtube.com/watch?v=hI4v7v8AdfI",
+              "duration_sec": 355,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/dna-and-rna-structure/v/introduction-to-nucleic-acids-and-nucleotides"
+            },
+            {
+              "title": "Introduction to lipids",
+              "slug": "v/introduction-to-lipids",
+              "youtube_id": "HGg_WiaSr4U",
+              "youtube_url": "https://www.youtube.com/watch?v=HGg_WiaSr4U",
+              "duration_sec": 343,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:energy-and-matter-in-biological-systems/x230b3ff252126bb6:biomolecules-and-reactions/v/introduction-to-lipids"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: Why do animals often prefer to eat ripe fruit?",
+          "slug": "x230b3ff252126bb6:activity",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Photosynthesis",
+          "slug": "x230b3ff252126bb6:photosynthesis",
+          "videos": [
+            {
+              "title": "Photosynthesis",
+              "slug": "v/photosynthesis-hs",
+              "youtube_id": "Yxm-WMYEpHg",
+              "youtube_url": "https://www.youtube.com/watch?v=Yxm-WMYEpHg",
+              "duration_sec": 602,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:energy-and-matter-in-biological-systems/x230b3ff252126bb6:photosynthesis/v/photosynthesis-hs"
+            },
+            {
+              "title": "Breaking down photosynthesis stages",
+              "slug": "v/breaking-down-photosynthesis-stages",
+              "youtube_id": "Wt5EMpUt-_g",
+              "youtube_url": "https://www.youtube.com/watch?v=Wt5EMpUt-_g",
+              "duration_sec": 288,
+              "relative_url": "/science/ap-biology/cellular-energetics/photosynthesis/v/breaking-down-photosynthesis-stages"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: Why do plants have different kinds of leaves?",
+          "slug": "x230b3ff252126bb6:activity-why-do-plants-have-different-kinds-of-leaves",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Cellular respiration",
+          "slug": "x230b3ff252126bb6:cellular-respiration",
+          "videos": [
+            {
+              "title": "Cellular respiration",
+              "slug": "v/cellular-respiration",
+              "youtube_id": "NUFbQUOLAXc",
+              "youtube_url": "https://www.youtube.com/watch?v=NUFbQUOLAXc",
+              "duration_sec": 460,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:energy-and-matter-in-biological-systems/x230b3ff252126bb6:cellular-respiration/v/cellular-respiration"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Flow of energy and matter through ecosystems",
+          "slug": "x230b3ff252126bb6:flow-of-matter-and-energy-through-ecosystems",
+          "videos": [
+            {
+              "title": "Flow of energy and matter through ecosystems",
+              "slug": "v/flow-of-energy-and-matter-through-ecosystems",
+              "youtube_id": "TitrRpMUt0I",
+              "youtube_url": "https://www.youtube.com/watch?v=TitrRpMUt0I",
+              "duration_sec": 626,
+              "relative_url": "/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/v/flow-of-energy-and-matter-through-ecosystems"
+            },
+            {
+              "title": "Impact of changes to trophic pyramids",
+              "slug": "v/impact-of-changes-to-trophic-pyramids",
+              "youtube_id": "sV-KQ91Fnck",
+              "youtube_url": "https://www.youtube.com/watch?v=sV-KQ91Fnck",
+              "duration_sec": 432,
+              "relative_url": "/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/v/impact-of-changes-to-trophic-pyramids"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Biogeochemical cycles",
+          "slug": "x230b3ff252126bb6:biogeochemical-cycles",
+          "videos": [
+            {
+              "title": "The carbon cycle",
+              "slug": "v/carbon-cycle",
+              "youtube_id": "_dYkByQ9Kmg",
+              "youtube_url": "https://www.youtube.com/watch?v=_dYkByQ9Kmg",
+              "duration_sec": 517,
+              "relative_url": "/science/biology/ecology/biogeochemical-cycles/v/carbon-cycle"
+            },
+            {
+              "title": "The nitrogen cycle",
+              "slug": "v/nitrogen-cycle",
+              "youtube_id": "DsCMYyQ0NWU",
+              "youtube_url": "https://www.youtube.com/watch?v=DsCMYyQ0NWU",
+              "duration_sec": 345,
+              "relative_url": "/science/biology/ecology/biogeochemical-cycles/v/nitrogen-cycle"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Gene expression and regulation",
+      "slug": "x230b3ff252126bb6:gene-expression-and-regulation",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:gene-expression-and-regulation",
+      "lessons": [
+        {
+          "title": "Genes, proteins, and traits",
+          "slug": "x230b3ff252126bb6:genes-proteins-and-traits",
+          "videos": [
+            {
+              "title": "Genes, proteins, and traits",
+              "slug": "v/genes-proteins-and-traits",
+              "youtube_id": "tfZfLDRu39c",
+              "youtube_url": "https://www.youtube.com/watch?v=tfZfLDRu39c",
+              "duration_sec": 293,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:genes-proteins-and-traits/v/genes-proteins-and-traits"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "DNA structure and replication",
+          "slug": "x230b3ff252126bb6:dna-structure-and-replication",
+          "videos": [
+            {
+              "title": "DNA",
+              "slug": "v/dna-deoxyribonucleic-acid",
+              "youtube_id": "AmOO4j0E408",
+              "youtube_url": "https://www.youtube.com/watch?v=AmOO4j0E408",
+              "duration_sec": 782,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/dna-and-rna-structure/v/dna-deoxyribonucleic-acid"
+            },
+            {
+              "title": "Antiparallel structure of DNA strands",
+              "slug": "v/antiparallel-structure-of-dna-strands",
+              "youtube_id": "0CQ5ls3Uc2Q",
+              "youtube_url": "https://www.youtube.com/watch?v=0CQ5ls3Uc2Q",
+              "duration_sec": 597,
+              "relative_url": "/science/ap-biology/chemistry-of-life/nucleic-acids-ap/v/antiparallel-structure-of-dna-strands"
+            },
+            {
+              "title": "Leading and lagging strands in DNA replication",
+              "slug": "v/leading-and-lagging-strands-in-dna-replication",
+              "youtube_id": "eM7arWJJ3zk",
+              "youtube_url": "https://www.youtube.com/watch?v=eM7arWJJ3zk",
+              "duration_sec": 619,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/replication/v/leading-and-lagging-strands-in-dna-replication"
+            },
+            {
+              "title": "Semi-conservative replication",
+              "slug": "v/semi-conservative-replication",
+              "youtube_id": "jaJ3NlqK5dA",
+              "youtube_url": "https://www.youtube.com/watch?v=jaJ3NlqK5dA",
+              "duration_sec": 132,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/replication/v/semi-conservative-replication"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Gene expression and regulation",
+          "slug": "x230b3ff252126bb6:untitled-348",
+          "videos": [
+            {
+              "title": "DNA replication and RNA transcription and translation",
+              "slug": "v/rna-transcription-and-translation",
+              "youtube_id": "6gUY5NoX1Lk",
+              "youtube_url": "https://www.youtube.com/watch?v=6gUY5NoX1Lk",
+              "duration_sec": 924,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/translation/v/rna-transcription-and-translation"
+            },
+            {
+              "title": "Transcription and mRNA processing",
+              "slug": "v/transcription-and-mrna-processing",
+              "youtube_id": "JQIwwJqF5D0",
+              "youtube_url": "https://www.youtube.com/watch?v=JQIwwJqF5D0",
+              "duration_sec": 625,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/transcription-and-rna-processing/v/transcription-and-mrna-processing"
+            },
+            {
+              "title": "Translation (mRNA to protein)",
+              "slug": "v/translation-mrna-to-protein",
+              "youtube_id": "ocAAkB32Hqs",
+              "youtube_url": "https://www.youtube.com/watch?v=ocAAkB32Hqs",
+              "duration_sec": 850,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/translation/v/translation-mrna-to-protein"
+            },
+            {
+              "title": "Gene expression and regulation",
+              "slug": "v/gene-expression-and-regulation",
+              "youtube_id": "fdzsrTpUe4w",
+              "youtube_url": "https://www.youtube.com/watch?v=fdzsrTpUe4w",
+              "duration_sec": 432,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:gene-expression-and-regulation/x230b3ff252126bb6:untitled-348/v/gene-expression-and-regulation"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Mutations",
+          "slug": "x230b3ff252126bb6:mutations",
+          "videos": [
+            {
+              "title": "Impact of mutations on translation into amino acids",
+              "slug": "v/impact-of-mutations-on-translation-into-amino-acids",
+              "youtube_id": "1Dk0_-fyyDI",
+              "youtube_url": "https://www.youtube.com/watch?v=1Dk0_-fyyDI",
+              "duration_sec": 532,
+              "relative_url": "/science/ap-biology/gene-expression-and-regulation/mutations-ap/v/impact-of-mutations-on-translation-into-amino-acids"
+            },
+            {
+              "title": "Mutation as a source of variation",
+              "slug": "v/mutation-as-a-source-of-variation",
+              "youtube_id": "LZCE-4q5f9c",
+              "youtube_url": "https://www.youtube.com/watch?v=LZCE-4q5f9c",
+              "duration_sec": 366,
+              "relative_url": "/science/ap-biology/ecology-ap/disruptions-to-ecosystems/v/mutation-as-a-source-of-variation"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: How can gene mutations help us understand the formation of flowers?",
+          "slug": "x230b3ff252126bb6:activity-how-can-gene-mutations-help-us-understand-the-formation-of-flowers",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Inheritance and variation of traits",
+      "slug": "x230b3ff252126bb6:inheritance-and-variation-of-traits",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:inheritance-and-variation-of-traits",
+      "lessons": [
+        {
+          "title": "Meiosis",
+          "slug": "x230b3ff252126bb6:meiosis",
+          "videos": [
+            {
+              "title": "Sexual reproduction and genetic variation",
+              "slug": "v/sexual-reproduction-and-genetic-variation",
+              "youtube_id": "oi6yfPgYiFk",
+              "youtube_url": "https://www.youtube.com/watch?v=oi6yfPgYiFk",
+              "duration_sec": 348,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:reproduction-and-genetic-variation/v/sexual-reproduction-and-genetic-variation"
+            },
+            {
+              "title": "Comparing mitosis and meiosis",
+              "slug": "v/comparing-mitosis-and-meiosis",
+              "youtube_id": "IQJ4DBkCnco",
+              "youtube_url": "https://www.youtube.com/watch?v=IQJ4DBkCnco",
+              "duration_sec": 351,
+              "relative_url": "/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/comparing-mitosis-and-meiosis"
+            },
+            {
+              "title": "Chromosomal crossover in meiosis I",
+              "slug": "v/chromosomal-crossover-in-meiosis-i",
+              "youtube_id": "04gQ0bQu6xk",
+              "youtube_url": "https://www.youtube.com/watch?v=04gQ0bQu6xk",
+              "duration_sec": 736,
+              "relative_url": "/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/chromosomal-crossover-in-meiosis-i"
+            },
+            {
+              "title": "Phases of meiosis I",
+              "slug": "v/phases-of-meiosis-i",
+              "youtube_id": "XGWL9jfPHJ8",
+              "youtube_url": "https://www.youtube.com/watch?v=XGWL9jfPHJ8",
+              "duration_sec": 585,
+              "relative_url": "/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/phases-of-meiosis-i"
+            },
+            {
+              "title": "Phases of meiosis II",
+              "slug": "v/phases-of-meiosis-ii",
+              "youtube_id": "mMCcBsSAlF4",
+              "youtube_url": "https://www.youtube.com/watch?v=mMCcBsSAlF4",
+              "duration_sec": 658,
+              "relative_url": "/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/phases-of-meiosis-ii"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: Why do kittens in a litter often look so different?",
+          "slug": "x230b3ff252126bb6:activity-why-do-kittens-in-a-litter-often-look-so-different",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Mendelian genetics",
+          "slug": "x230b3ff252126bb6:mendelian-genetics",
+          "videos": [
+            {
+              "title": "Genetics vocabulary",
+              "slug": "v/genetics-vocabulary",
+              "youtube_id": "kvwK63Mwhw0",
+              "youtube_url": "https://www.youtube.com/watch?v=kvwK63Mwhw0",
+              "duration_sec": 348,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:reproduction-and-genetic-variation/v/genetics-vocabulary"
+            },
+            {
+              "title": "Mendelian inheritance and Punnett squares",
+              "slug": "v/mendelian-inheritance-and-punnett-squares",
+              "youtube_id": "OhYOfTczCk4",
+              "youtube_url": "https://www.youtube.com/watch?v=OhYOfTczCk4",
+              "duration_sec": 444,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:inheritance-and-variation-of-traits/x230b3ff252126bb6:mendelian-genetics/v/mendelian-inheritance-and-punnett-squares"
+            },
+            {
+              "title": "Worked examples: Punnett squares",
+              "slug": "v/worked-examples-punnett-squares",
+              "youtube_id": "VH1lAfZL_fU",
+              "youtube_url": "https://www.youtube.com/watch?v=VH1lAfZL_fU",
+              "duration_sec": 407,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:reproduction-and-genetic-variation/v/worked-examples-punnett-squares"
+            },
+            {
+              "title": "Dihybrid cross and the law of independent assortment",
+              "slug": "v/dihybrid-cross-and-the-law-of-independent-assortment",
+              "youtube_id": "ZkyX3TmmMag",
+              "youtube_url": "https://www.youtube.com/watch?v=ZkyX3TmmMag",
+              "duration_sec": 548,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:inheritance-and-variation-of-traits/x230b3ff252126bb6:mendelian-genetics/v/dihybrid-cross-and-the-law-of-independent-assortment"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Complex patterns of inheritance",
+          "slug": "x230b3ff252126bb6:complex-patterns-of-inheritance",
+          "videos": [
+            {
+              "title": "Co-dominance and incomplete dominance",
+              "slug": "v/co-dominance-and-incomplete-dominance",
+              "youtube_id": "OVM68-0YVWI",
+              "youtube_url": "https://www.youtube.com/watch?v=OVM68-0YVWI",
+              "duration_sec": 209,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:inheritance-and-variation-of-traits/x230b3ff252126bb6:complex-patterns-of-inheritance/v/co-dominance-and-incomplete-dominance"
+            },
+            {
+              "title": "Thomas Hunt Morgan and fruit flies",
+              "slug": "v/thomas-hunt-morgan-and-fruit-flies",
+              "youtube_id": "huDDaj0PjLU",
+              "youtube_url": "https://www.youtube.com/watch?v=huDDaj0PjLU",
+              "duration_sec": 640,
+              "relative_url": "/science/ap-biology/heredity/non-mendelian-genetics/v/thomas-hunt-morgan-and-fruit-flies"
+            },
+            {
+              "title": "Worked example: Punnett square for sex-linked recessive trait",
+              "slug": "v/example-punnet-square-for-sex-linked-recessive-trait",
+              "youtube_id": "I_DjmWS_9cg",
+              "youtube_url": "https://www.youtube.com/watch?v=I_DjmWS_9cg",
+              "duration_sec": 294,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:inheritance-and-variation-of-traits/x230b3ff252126bb6:complex-patterns-of-inheritance/v/example-punnet-square-for-sex-linked-recessive-trait"
+            },
+            {
+              "title": "Pedigrees",
+              "slug": "v/pedigrees",
+              "youtube_id": "11s5Biyi9q4",
+              "youtube_url": "https://www.youtube.com/watch?v=11s5Biyi9q4",
+              "duration_sec": 368,
+              "relative_url": "/science/ap-biology/heredity/mendelian-genetics-ap/v/pedigrees"
+            },
+            {
+              "title": "Pedigree for determining probability of exhibiting sex linked recessive trait",
+              "slug": "v/pedigree-for-determining-probability-of-exhibiting-sex-linked-recessive-trait",
+              "youtube_id": "DzP7XO0Qg_Y",
+              "youtube_url": "https://www.youtube.com/watch?v=DzP7XO0Qg_Y",
+              "duration_sec": 319,
+              "relative_url": "/science/ap-biology/heredity/non-mendelian-genetics/v/pedigree-for-determining-probability-of-exhibiting-sex-linked-recessive-trait"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Environmental effects on phenotype",
+          "slug": "x230b3ff252126bb6:environmental-effects-on-phenotype",
+          "videos": [
+            {
+              "title": "Genes, traits, and the environment",
+              "slug": "v/genes-traits-and-the-environment",
+              "youtube_id": "OR9j5hog1mQ",
+              "youtube_url": "https://www.youtube.com/watch?v=OR9j5hog1mQ",
+              "duration_sec": 213,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:inheritance-and-variation-of-traits/x230b3ff252126bb6:environmental-effects-on-phenotype/v/genes-traits-and-the-environment"
+            },
+            {
+              "title": "Phenotype plasticity",
+              "slug": "v/phenotype-plasticity",
+              "youtube_id": "Mh3QXbVU6Eo",
+              "youtube_url": "https://www.youtube.com/watch?v=Mh3QXbVU6Eo",
+              "duration_sec": 197,
+              "relative_url": "/science/ap-biology/heredity/environmental-effects-on-phenotype/v/phenotype-plasticity"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Mechanisms of evolution",
+      "slug": "x230b3ff252126bb6:mechanisms-of-evolution-hs",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:mechanisms-of-evolution-hs",
+      "lessons": [
+        {
+          "title": "Mechanisms of evolution",
+          "slug": "x230b3ff252126bb6:mechanisms-of-evolution",
+          "videos": [
+            {
+              "title": "Natural selection and evolution",
+              "slug": "v/natural-selection-and-evolution",
+              "youtube_id": "ifyEocJ2Rog",
+              "youtube_url": "https://www.youtube.com/watch?v=ifyEocJ2Rog",
+              "duration_sec": 390,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:mechanisms-of-evolution-hs/x230b3ff252126bb6:mechanisms-of-evolution/v/natural-selection-and-evolution"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Natural selection and adaptation",
+          "slug": "x230b3ff252126bb6:natural-selection-and-adaptation",
+          "videos": [
+            {
+              "title": "Natural selection and adaptation",
+              "slug": "v/natural-selection-and-adaptation",
+              "youtube_id": "giw2ELZr-bE",
+              "youtube_url": "https://www.youtube.com/watch?v=giw2ELZr-bE",
+              "duration_sec": 532,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:mechanisms-of-evolution-hs/x230b3ff252126bb6:natural-selection-and-adaptation/v/natural-selection-and-adaptation"
+            },
+            {
+              "title": "Adaptation and environmental change",
+              "slug": "v/adaptation-and-environmental-change",
+              "youtube_id": "XkhD_Rphlm0",
+              "youtube_url": "https://www.youtube.com/watch?v=XkhD_Rphlm0",
+              "duration_sec": 558,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:mechanisms-of-evolution-hs/x230b3ff252126bb6:natural-selection-and-adaptation/v/adaptation-and-environmental-change"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: Why are male birds often more brightly colored than females?",
+          "slug": "x230b3ff252126bb6:activity-why-are-male-birds-often-more-brightly-colored-than-females",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Group behavior and evolution",
+          "slug": "x230b3ff252126bb6:group-behavior-and-evolution",
+          "videos": [
+            {
+              "title": "Evolution of group behavior",
+              "slug": "v/evolution-of-group-behavior",
+              "youtube_id": "61Zii5J8qoI",
+              "youtube_url": "https://www.youtube.com/watch?v=61Zii5J8qoI",
+              "duration_sec": 254,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:mechanisms-of-evolution-hs/x230b3ff252126bb6:group-behavior-and-evolution/v/evolution-of-group-behavior"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Speciation and other patterns of evolution",
+          "slug": "x230b3ff252126bb6:speciation-and-other-patterns-of-evolution",
+          "videos": [
+            {
+              "title": "Species and the environment",
+              "slug": "v/species-and-the-environment",
+              "youtube_id": "YdZqK60bxjs",
+              "youtube_url": "https://www.youtube.com/watch?v=YdZqK60bxjs",
+              "duration_sec": 263,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:mechanisms-of-evolution-hs/x230b3ff252126bb6:speciation-and-other-patterns-of-evolution/v/species-and-the-environment"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Common ancestry and phylogeny",
+      "slug": "x230b3ff252126bb6:common-ancestry-and-phylogeny",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:common-ancestry-and-phylogeny",
+      "lessons": [
+        {
+          "title": "Evidence for evolution",
+          "slug": "x230b3ff252126bb6:evidence-for-evolution",
+          "videos": [
+            {
+              "title": "Evidence for evolution",
+              "slug": "v/evidence-for-evolution",
+              "youtube_id": "Q-aGAX27SIo",
+              "youtube_url": "https://www.youtube.com/watch?v=Q-aGAX27SIo",
+              "duration_sec": 779,
+              "relative_url": "/science/ap-biology/natural-selection/common-ancestry-and-continuing-evolution/v/evidence-for-evolution"
+            },
+            {
+              "title": "Cellular evidence of common ancestry",
+              "slug": "v/cellular-evidence-of-common-ancestry",
+              "youtube_id": "BwwElHbjTGo",
+              "youtube_url": "https://www.youtube.com/watch?v=BwwElHbjTGo",
+              "duration_sec": 229,
+              "relative_url": "/science/ap-biology/natural-selection/common-ancestry-and-continuing-evolution/v/cellular-evidence-of-common-ancestry"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The fossil record",
+          "slug": "x230b3ff252126bb6:the-fossil-record",
+          "videos": [
+            {
+              "title": "Fossils: rocking the Earth",
+              "slug": "v/fossils-rocking-the-earth",
+              "youtube_id": "rSWwmN5ozQ0",
+              "youtube_url": "https://www.youtube.com/watch?v=rSWwmN5ozQ0",
+              "duration_sec": 134,
+              "relative_url": "/science/ap-biology/natural-selection/evidence-for-evolution-ap/v/fossils-rocking-the-earth"
+            },
+            {
+              "title": "Earth's fossil record",
+              "slug": "v/earth-s-fossil-record",
+              "youtube_id": "2f38r4qKkLw",
+              "youtube_url": "https://www.youtube.com/watch?v=2f38r4qKkLw",
+              "duration_sec": 354,
+              "relative_url": "/science/ms-biology/x0c5bb03129646fd6:evolution/x0c5bb03129646fd6:the-fossil-record/v/earth-s-fossil-record"
+            },
+            {
+              "title": "Biogeography: where life lives",
+              "slug": "v/biogeography-where-life-lives",
+              "youtube_id": "2UQC5ts6hUs",
+              "youtube_url": "https://www.youtube.com/watch?v=2UQC5ts6hUs",
+              "duration_sec": 110,
+              "relative_url": "/science/ap-biology/natural-selection/evidence-for-evolution-ap/v/biogeography-where-life-lives"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Key events in the history of life",
+          "slug": "x230b3ff252126bb6:key-events-in-the-history-of-life",
+          "videos": [
+            {
+              "title": "Extinction",
+              "slug": "v/extinction",
+              "youtube_id": "gmr5QYeFJ4g",
+              "youtube_url": "https://www.youtube.com/watch?v=gmr5QYeFJ4g",
+              "duration_sec": 333,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:biodiversity-and-human-impacts/x230b3ff252126bb6:humans-and-biodiversity/v/extinction"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Phylogeny and evolutionary trees",
+          "slug": "x230b3ff252126bb6:phylogeny-and-evolutionary-trees",
+          "videos": [
+            {
+              "title": "Understanding and building phylogenetic trees",
+              "slug": "v/understanding-and-building-phylogenetic-trees-or-cladograms",
+              "youtube_id": "6_XMKmFQ_w8",
+              "youtube_url": "https://www.youtube.com/watch?v=6_XMKmFQ_w8",
+              "duration_sec": 657,
+              "relative_url": "/science/ap-biology/natural-selection/phylogeny/v/understanding-and-building-phylogenetic-trees-or-cladograms"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How can we reconstruct the evolution of species across islands?",
+          "slug": "x230b3ff252126bb6:activity-how-can-we-reconstruct-the-evolution-of-species-across-islands",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Biodiversity and human impacts",
+      "slug": "x230b3ff252126bb6:biodiversity-and-human-impacts",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:biodiversity-and-human-impacts",
+      "lessons": [
+        {
+          "title": "Biodiversity and ecosystem services",
+          "slug": "x230b3ff252126bb6:biodiversity",
+          "videos": [
+            {
+              "title": "Biodiversity",
+              "slug": "v/biodiversity",
+              "youtube_id": "TZ-S9sc6HYM",
+              "youtube_url": "https://www.youtube.com/watch?v=TZ-S9sc6HYM",
+              "duration_sec": 471,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:biodiversity-and-human-impacts/x230b3ff252126bb6:biodiversity/v/biodiversity"
+            },
+            {
+              "title": "Humans and ecosystems: how do vultures provide ecosystem services?",
+              "slug": "v/humans-and-ecosystems-how-do-vultures-provide-ecosystem-services",
+              "youtube_id": "bT_2MyIRsas",
+              "youtube_url": "https://www.youtube.com/watch?v=bT_2MyIRsas",
+              "duration_sec": 299,
+              "relative_url": "/science/ap-college-environmental-science/x0b0e430a38ebd23f:the-living-world-ecosystems-and-biodiversity/x0b0e430a38ebd23f:intro-to-biodiversity-and-biogeography/v/humans-and-ecosystems-how-do-vultures-provide-ecosystem-services"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: How does biodiversity vary in my community?",
+          "slug": "x230b3ff252126bb6:activity-how-does-biodiversity-vary-in-my-community",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Threats to biodiversity",
+          "slug": "x230b3ff252126bb6:humans-and-biodiversity",
+          "videos": [
+            {
+              "title": "Human impacts on ecosystems",
+              "slug": "v/human-impacts-on-ecosystems-video",
+              "youtube_id": "K10qnzCYH54",
+              "youtube_url": "https://www.youtube.com/watch?v=K10qnzCYH54",
+              "duration_sec": 336,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:biodiversity-and-human-impacts/x230b3ff252126bb6:humans-and-biodiversity/v/human-impacts-on-ecosystems-video"
+            },
+            {
+              "title": "Extinction",
+              "slug": "v/extinction",
+              "youtube_id": "gmr5QYeFJ4g",
+              "youtube_url": "https://www.youtube.com/watch?v=gmr5QYeFJ4g",
+              "duration_sec": 333,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:biodiversity-and-human-impacts/x230b3ff252126bb6:humans-and-biodiversity/v/extinction"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Disturbance in ecosystems",
+          "slug": "x230b3ff252126bb6:disturbance-in-ecosystems",
+          "videos": [
+            {
+              "title": "Ecological succession",
+              "slug": "v/ecological-succession",
+              "youtube_id": "d7xbyNSxxrI",
+              "youtube_url": "https://www.youtube.com/watch?v=d7xbyNSxxrI",
+              "duration_sec": 280,
+              "relative_url": "/science/biology/ecology/community-structure-and-diversity/v/ecological-succession"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Global change biology",
+          "slug": "x230b3ff252126bb6:global-change-biology",
+          "videos": [
+            {
+              "title": "Greenhouse effect and greenhouse gases",
+              "slug": "v/greenhouse-effect-and-greenhouse-gases",
+              "youtube_id": "YpfxiDktSoI",
+              "youtube_url": "https://www.youtube.com/watch?v=YpfxiDktSoI",
+              "duration_sec": 419,
+              "relative_url": "/science/ap-college-environmental-science/x0b0e430a38ebd23f:global-change/x0b0e430a38ebd23f:greenhouse-effect/v/greenhouse-effect-and-greenhouse-gases"
+            },
+            {
+              "title": "Ocean acidification",
+              "slug": "v/ocean-acidification",
+              "youtube_id": "8JUEga3MYsM",
+              "youtube_url": "https://www.youtube.com/watch?v=8JUEga3MYsM",
+              "duration_sec": 325,
+              "relative_url": "/science/ap-college-environmental-science/x0b0e430a38ebd23f:global-change/x0b0e430a38ebd23f:climate-change/v/ocean-acidification"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Conservation and sustainability",
+          "slug": "x230b3ff252126bb6:sustainability",
+          "videos": [
+            {
+              "title": "Science, technology, and the environment",
+              "slug": "v/science-technology-and-the-environment",
+              "youtube_id": "FIYVnvHa2dc",
+              "youtube_url": "https://www.youtube.com/watch?v=FIYVnvHa2dc",
+              "duration_sec": 385,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:biodiversity-and-human-impacts/x230b3ff252126bb6:sustainability/v/science-technology-and-the-environment"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Explore biology through simulations",
+      "slug": "x230b3ff252126bb6:explore-biology-through-simulations",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:explore-biology-through-simulations",
+      "lessons": [
+        {
+          "title": "Introduction to simulation-based exercises",
+          "slug": "x230b3ff252126bb6:introduction-to-simulation-based-exercises",
+          "videos": [
+            {
+              "title": "Introduction to simulation-based exercises",
+              "slug": "v/introduction-to-simulation-based-exercises",
+              "youtube_id": "JO68D_EieXA",
+              "youtube_url": "https://www.youtube.com/watch?v=JO68D_EieXA",
+              "duration_sec": 148,
+              "relative_url": "/science/ap-biology/x16acb03e699817e9:simulations/x16acb03e699817e9:introduction-to-simulation-based-exercises/v/introduction-to-simulation-based-exercises"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "PhET simulation: Exploring gene expression",
+          "slug": "x230b3ff252126bb6:phet-simulation-exploring-gene-expression",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "PhET simulation: Exploring natural selection",
+          "slug": "x230b3ff252126bb6:phet-simulation-exploring-natural-selection",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "PhET simulation: Exploring the greenhouse effect",
+          "slug": "x230b3ff252126bb6:phet-simulation-exploring-the-greenhouse-effect",
+          "videos": [],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Teacher resources",
+      "slug": "x230b3ff252126bb6:teacher-resources",
+      "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources",
+      "lessons": [
+        {
+          "title": "Unit guides",
+          "slug": "x230b3ff252126bb6:unit-guides",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Hands-on biology activities",
+          "slug": "x230b3ff252126bb6:hands-on-biology-activities",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Creativity in biology",
+          "slug": "x230b3ff252126bb6:untitled-290",
+          "videos": [
+            {
+              "title": "The intersection of creativity and biology | Khan Academy X OpenBio",
+              "slug": "v/the-intersection-of-creativity-and-biology-khan-academy-x-openbio",
+              "youtube_id": "n1Jyv6Bxte8",
+              "youtube_url": "https://www.youtube.com/watch?v=n1Jyv6Bxte8",
+              "duration_sec": 488,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/the-intersection-of-creativity-and-biology-khan-academy-x-openbio"
+            },
+            {
+              "title": "Creativity break: why is learning biology important?",
+              "slug": "v/creativity-break-why-is-learning-biology-important",
+              "youtube_id": "EHVC2ktR7ng",
+              "youtube_url": "https://www.youtube.com/watch?v=EHVC2ktR7ng",
+              "duration_sec": 130,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-why-is-learning-biology-important"
+            },
+            {
+              "title": "Creativity break: how do you apply creativity to biology?",
+              "slug": "v/creativity-break-how-do-you-apply-creativity-to-biology",
+              "youtube_id": "VDRc0vkkLNU",
+              "youtube_url": "https://www.youtube.com/watch?v=VDRc0vkkLNU",
+              "duration_sec": 160,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-how-do-you-apply-creativity-to-biology"
+            },
+            {
+              "title": "Creativity break: how have you used creative communication to solve a problem?",
+              "slug": "v/creativity-break-how-have-you-used-creative-communication-to-solve-a-problem",
+              "youtube_id": "DAKmXK-qWJ8",
+              "youtube_url": "https://www.youtube.com/watch?v=DAKmXK-qWJ8",
+              "duration_sec": 121,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-how-have-you-used-creative-communication-to-solve-a-problem"
+            },
+            {
+              "title": "Creativity break: how does creativity play a role in your everyday life?",
+              "slug": "v/creativity-break-how-does-creativity-play-a-role-in-your-everyday-life",
+              "youtube_id": "urs0Pep2Wdc",
+              "youtube_url": "https://www.youtube.com/watch?v=urs0Pep2Wdc",
+              "duration_sec": 114,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-how-does-creativity-play-a-role-in-your-everyday-life"
+            },
+            {
+              "title": "Creativity break: how do you get into your creative zone?",
+              "slug": "v/creativity-break-how-do-you-get-into-your-creative-zone",
+              "youtube_id": "SdzST7SD3ig",
+              "youtube_url": "https://www.youtube.com/watch?v=SdzST7SD3ig",
+              "duration_sec": 122,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-how-do-you-get-into-your-creative-zone"
+            },
+            {
+              "title": "Creativity break: how can students expand their creativity in biology?",
+              "slug": "v/creativity-break-how-can-students-expand-their-creativity-in-biology",
+              "youtube_id": "B-up-XLGQIA",
+              "youtube_url": "https://www.youtube.com/watch?v=B-up-XLGQIA",
+              "duration_sec": 87,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-how-can-students-expand-their-creativity-in-biology"
+            },
+            {
+              "title": "Creativity break: what are some new ways of thinking about problem solving?",
+              "slug": "v/creativity-break-what-are-some-new-ways-of-thinking-about-problem-solving",
+              "youtube_id": "LOgjCaCn9_E",
+              "youtube_url": "https://www.youtube.com/watch?v=LOgjCaCn9_E",
+              "duration_sec": 131,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-what-are-some-new-ways-of-thinking-about-problem-solving"
+            },
+            {
+              "title": "Creativity break: why is creativity important in biology?",
+              "slug": "v/creativity-break-why-is-creativity-important-in-biology",
+              "youtube_id": "RFezo2PlY3c",
+              "youtube_url": "https://www.youtube.com/watch?v=RFezo2PlY3c",
+              "duration_sec": 79,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-why-is-creativity-important-in-biology"
+            },
+            {
+              "title": "Creativity break: what types of skills will help students innovate in biology?",
+              "slug": "v/creativity-break-what-types-of-skills-will-help-students-innovate-in-biology",
+              "youtube_id": "rF7yuIYELNU",
+              "youtube_url": "https://www.youtube.com/watch?v=rF7yuIYELNU",
+              "duration_sec": 86,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-what-types-of-skills-will-help-students-innovate-in-biology"
+            },
+            {
+              "title": "Creativity break: how is creativity in biology changing the world?",
+              "slug": "v/creativity-break-how-is-creativity-in-biology-changing-the-world",
+              "youtube_id": "w8wR836X1q4",
+              "youtube_url": "https://www.youtube.com/watch?v=w8wR836X1q4",
+              "duration_sec": 104,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-how-is-creativity-in-biology-changing-the-world"
+            },
+            {
+              "title": "Creativity break: what types of science jobs involve creativity?",
+              "slug": "v/creativity-break-what-types-of-science-jobs-involve-creativity",
+              "youtube_id": "N34Vowgievg",
+              "youtube_url": "https://www.youtube.com/watch?v=N34Vowgievg",
+              "duration_sec": 113,
+              "relative_url": "/science/hs-bio/x230b3ff252126bb6:teacher-resources/x230b3ff252126bb6:untitled-290/v/creativity-break-what-types-of-science-jobs-involve-creativity"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Meet the biology professional",
+          "slug": "x230b3ff252126bb6:meet-the-biology-professional",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

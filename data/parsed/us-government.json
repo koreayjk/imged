@@ -1,0 +1,2310 @@
+{
+  "key": "us-government",
+  "tier": "T1",
+  "subject": "social",
+  "slug": "us-government-and-civics",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "US government and civics",
+  "course_slug": "us-government-and-civics",
+  "units": [
+    {
+      "title": "Foundations of American democracy",
+      "slug": "us-gov-foundations",
+      "relative_url": "/humanities/us-government-and-civics/us-gov-foundations",
+      "lessons": [
+        {
+          "title": "Why study government and civics?",
+          "slug": "x231f0f4241b58f49:welcome-to-us-government-and-civics",
+          "videos": [
+            {
+              "title": "US Government and Civics Introduction",
+              "slug": "v/us-government-and-civics-introduction",
+              "youtube_id": "dxLamB6hRuM",
+              "youtube_url": "https://www.youtube.com/watch?v=dxLamB6hRuM",
+              "duration_sec": 153,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/x231f0f4241b58f49:welcome-to-us-government-and-civics/v/us-government-and-civics-introduction"
+            },
+            {
+              "title": "The social contract",
+              "slug": "v/thomas-hobbes-and-social-contract",
+              "youtube_id": "fI1t0dY5zoc",
+              "youtube_url": "https://www.youtube.com/watch?v=fI1t0dY5zoc",
+              "duration_sec": 480,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/x231f0f4241b58f49:welcome-to-us-government-and-civics/v/thomas-hobbes-and-social-contract"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "How have democratic ideals shaped the U.S. government?",
+          "slug": "us-gov-ideals-of-democracy",
+          "videos": [
+            {
+              "title": "Democratic ideals of US government",
+              "slug": "v/democratic-ideals-of-us-government",
+              "youtube_id": "QbuKqvFrjt8",
+              "youtube_url": "https://www.youtube.com/watch?v=QbuKqvFrjt8",
+              "duration_sec": 544,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ideals-of-democracy/v/democratic-ideals-of-us-government"
+            },
+            {
+              "title": "Democratic ideals in the Declaration of Independence",
+              "slug": "v/democratic-ideals-in-the-declaration-of-independence",
+              "youtube_id": "wWy8ONwhdLQ",
+              "youtube_url": "https://www.youtube.com/watch?v=wWy8ONwhdLQ",
+              "duration_sec": 473,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ideals-of-democracy/v/democratic-ideals-in-the-declaration-of-independence"
+            },
+            {
+              "title": "Democratic ideals in the Preamble to the US Constitution",
+              "slug": "v/democratic-ideals-in-the-preamble-of-the-us-constitution",
+              "youtube_id": "vC07D-guWj0",
+              "youtube_url": "https://www.youtube.com/watch?v=vC07D-guWj0",
+              "duration_sec": 192,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ideals-of-democracy/v/democratic-ideals-in-the-preamble-of-the-us-constitution"
+            },
+            {
+              "title": "The Preamble to the Constitution",
+              "slug": "v/preamble",
+              "youtube_id": "V3tTnqznYwk",
+              "youtube_url": "https://www.youtube.com/watch?v=V3tTnqznYwk",
+              "duration_sec": 895,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ideals-of-democracy/v/preamble"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What are different types of democracy?",
+          "slug": "us-gov-types-of-democracy",
+          "videos": [
+            {
+              "title": "Introduction to democracy and its variations",
+              "slug": "v/introduction-to-democracy-and-its-broad-variations",
+              "youtube_id": "HbzvIrRdVY4",
+              "youtube_url": "https://www.youtube.com/watch?v=HbzvIrRdVY4",
+              "duration_sec": 555,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-types-of-democracy/v/introduction-to-democracy-and-its-broad-variations"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Why did the Articles of Confederation fail?",
+          "slug": "us-gov-challenges-of-the-articles-of-confederation",
+          "videos": [
+            {
+              "title": "The Articles of Confederation and Shays' Rebellion",
+              "slug": "v/the-articles-of-confederation-and-shays-rebellion",
+              "youtube_id": "Y1CcSXmb1VY",
+              "youtube_url": "https://www.youtube.com/watch?v=Y1CcSXmb1VY",
+              "duration_sec": 537,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-challenges-of-the-articles-of-confederation/v/the-articles-of-confederation-and-shays-rebellion"
+            },
+            {
+              "title": "What was the Articles of Confederation?",
+              "slug": "v/what-was-the-articles-of-confederation",
+              "youtube_id": "evPP1FDePOY",
+              "youtube_url": "https://www.youtube.com/watch?v=evPP1FDePOY",
+              "duration_sec": 320,
+              "relative_url": "/humanities/us-history/road-to-revolution/creating-a-nation/v/what-was-the-articles-of-confederation"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How was the Constitution designed, debated, and ratified?",
+          "slug": "us-gov-ratification-of-the-us-constitution",
+          "videos": [
+            {
+              "title": "The Constitutional Convention",
+              "slug": "v/the-constitutional-convention",
+              "youtube_id": "M0UTy_s01pw",
+              "youtube_url": "https://www.youtube.com/watch?v=M0UTy_s01pw",
+              "duration_sec": 616,
+              "relative_url": "/humanities/us-history/road-to-revolution/creating-a-nation/v/the-constitutional-convention"
+            },
+            {
+              "title": "Constitutional compromises: The Electoral College",
+              "slug": "v/constitutional-compromises-the-electoral-college",
+              "youtube_id": "UyiDxjN8kcI",
+              "youtube_url": "https://www.youtube.com/watch?v=UyiDxjN8kcI",
+              "duration_sec": 332,
+              "relative_url": "/humanities/ap-us-history/period-3/apush-the-constitutional-convention-and-debates-over-ratification/v/constitutional-compromises-the-electoral-college"
+            },
+            {
+              "title": "Constitutional compromises: The Three-Fifths Compromise",
+              "slug": "v/constitutional-compromises-the-three-fifths-compromise",
+              "youtube_id": "ILAK1bSqccY",
+              "youtube_url": "https://www.youtube.com/watch?v=ILAK1bSqccY",
+              "duration_sec": 417,
+              "relative_url": "/humanities/ap-us-history/period-3/apush-the-constitutional-convention-and-debates-over-ratification/v/constitutional-compromises-the-three-fifths-compromise"
+            },
+            {
+              "title": "The impact of constitutional compromises on us today",
+              "slug": "v/impact-of-constitutional-compromise-on-us-today",
+              "youtube_id": "2sFjcn9sMsc",
+              "youtube_url": "https://www.youtube.com/watch?v=2sFjcn9sMsc",
+              "duration_sec": 506,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ratification-of-the-us-constitution/v/impact-of-constitutional-compromise-on-us-today"
+            },
+            {
+              "title": "Article V of the Constitution: Amendment Process",
+              "slug": "v/article-v-of-the-constitution",
+              "youtube_id": "DARUu2sJfqI",
+              "youtube_url": "https://www.youtube.com/watch?v=DARUu2sJfqI",
+              "duration_sec": 1032,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ratification-of-the-us-constitution/v/article-v-of-the-constitution"
+            },
+            {
+              "title": "Article VI of the Constitution: Debts, Supremacy, Oaths, Religious Tests",
+              "slug": "v/article-vi-of-the-constitution",
+              "youtube_id": "a6E5Sr9Ypcw",
+              "youtube_url": "https://www.youtube.com/watch?v=a6E5Sr9Ypcw",
+              "duration_sec": 832,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ratification-of-the-us-constitution/v/article-vi-of-the-constitution"
+            },
+            {
+              "title": "Article VII of the Constitution: Ratification",
+              "slug": "v/article-vii-of-the-constitution",
+              "youtube_id": "_VuMqbtphr0",
+              "youtube_url": "https://www.youtube.com/watch?v=_VuMqbtphr0",
+              "duration_sec": 1033,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ratification-of-the-us-constitution/v/article-vii-of-the-constitution"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does the U.S. government balance power and individual rights?",
+          "slug": "us-gov-government-power-and-individual-rights",
+          "videos": [
+            {
+              "title": "Federalist No. 10 (part 1)",
+              "slug": "v/federalist-papers-10-part-1",
+              "youtube_id": "afRanGsRlOc",
+              "youtube_url": "https://www.youtube.com/watch?v=afRanGsRlOc",
+              "duration_sec": 597,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-government-power-and-individual-rights/v/federalist-papers-10-part-1"
+            },
+            {
+              "title": "Federalist No. 10 (part 2)",
+              "slug": "v/federalist-papers-10-part-2",
+              "youtube_id": "_27P6HZzXJM",
+              "youtube_url": "https://www.youtube.com/watch?v=_27P6HZzXJM",
+              "duration_sec": 366,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-government-power-and-individual-rights/v/federalist-papers-10-part-2"
+            },
+            {
+              "title": "Anti-Federalists and Brutus No. 1",
+              "slug": "v/anti-federalists-and-brutus-i",
+              "youtube_id": "YQ74W9OKSdA",
+              "youtube_url": "https://www.youtube.com/watch?v=YQ74W9OKSdA",
+              "duration_sec": 543,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-government-power-and-individual-rights/v/anti-federalists-and-brutus-i"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What are key principles of American democracy?",
+          "slug": "us-gov-principles-of-american-government",
+          "videos": [
+            {
+              "title": "Separation of powers and checks and balances",
+              "slug": "v/separation-of-powers-and-checks-and-balances",
+              "youtube_id": "APcKEHAPYEg",
+              "youtube_url": "https://www.youtube.com/watch?v=APcKEHAPYEg",
+              "duration_sec": 239,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-principles-of-american-government/v/separation-of-powers-and-checks-and-balances"
+            },
+            {
+              "title": "Multiple points of influence due to separation of powers and checks and balances",
+              "slug": "v/multiple-points-of-influence-due-to-separation-of-powers-and-checks-and-balances",
+              "youtube_id": "oXVAzyKswPw",
+              "youtube_url": "https://www.youtube.com/watch?v=oXVAzyKswPw",
+              "duration_sec": 268,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-principles-of-american-government/v/multiple-points-of-influence-due-to-separation-of-powers-and-checks-and-balances"
+            },
+            {
+              "title": "Impeachment",
+              "slug": "v/impeachment",
+              "youtube_id": "S0Ru5MOvfCU",
+              "youtube_url": "https://www.youtube.com/watch?v=S0Ru5MOvfCU",
+              "duration_sec": 514,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-principles-of-american-government/v/impeachment"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How is power divided between states and the federal government?",
+          "slug": "us-gov-relationship-between-the-states-and-the-federal-government",
+          "videos": [
+            {
+              "title": "Federalism in the United States",
+              "slug": "v/federalism-in-the-united-states",
+              "youtube_id": "y6tljCXVSdc",
+              "youtube_url": "https://www.youtube.com/watch?v=y6tljCXVSdc",
+              "duration_sec": 364,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-relationship-between-the-states-and-the-federal-government/v/federalism-in-the-united-states"
+            },
+            {
+              "title": "Categorical grants, mandates, and the Commerce Clause",
+              "slug": "v/categorical-grants-mandates-and-the-commerce-clause",
+              "youtube_id": "DZaNZ1vFx18",
+              "youtube_url": "https://www.youtube.com/watch?v=DZaNZ1vFx18",
+              "duration_sec": 303,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-relationship-between-the-states-and-the-federal-government/v/categorical-grants-mandates-and-the-commerce-clause"
+            },
+            {
+              "title": "Article IV of the Constitution: States, Citizenship, New States",
+              "slug": "v/article-iv-of-the-constitution",
+              "youtube_id": "hKRada3AWII",
+              "youtube_url": "https://www.youtube.com/watch?v=hKRada3AWII",
+              "duration_sec": 839,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-relationship-between-the-states-and-the-federal-government/v/article-iv-of-the-constitution"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What is federalism, and how does it work?",
+          "slug": "us-gov-constitutional-interpretations-of-federalism",
+          "videos": [
+            {
+              "title": "Federal and state powers and the Tenth and Fourteenth Amendments",
+              "slug": "v/federal-and-state-powers-and-the-10th-and-14th-amendments",
+              "youtube_id": "Gvp_2CL-uR8",
+              "youtube_url": "https://www.youtube.com/watch?v=Gvp_2CL-uR8",
+              "duration_sec": 281,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-constitutional-interpretations-of-federalism/v/federal-and-state-powers-and-the-10th-and-14th-amendments"
+            },
+            {
+              "title": "The Tenth Amendment",
+              "slug": "v/the-tenth-amendment",
+              "youtube_id": "9Me8VGbA9dA",
+              "youtube_url": "https://www.youtube.com/watch?v=9Me8VGbA9dA",
+              "duration_sec": 997,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-constitutional-interpretations-of-federalism/v/the-tenth-amendment"
+            },
+            {
+              "title": "Enumerated and implied powers of the federal government",
+              "slug": "v/enumerated-and-implied-powers-of-the-us-federal-government",
+              "youtube_id": "eqEw_9_sLVk",
+              "youtube_url": "https://www.youtube.com/watch?v=eqEw_9_sLVk",
+              "duration_sec": 363,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-constitutional-interpretations-of-federalism/v/enumerated-and-implied-powers-of-the-us-federal-government"
+            },
+            {
+              "title": "McCulloch v. Maryland | Case facts",
+              "slug": "v/mcculloch-vs-maryland",
+              "youtube_id": "i5qQM7Mc2ho",
+              "youtube_url": "https://www.youtube.com/watch?v=i5qQM7Mc2ho",
+              "duration_sec": 469,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-constitutional-interpretations-of-federalism/v/mcculloch-vs-maryland"
+            },
+            {
+              "title": "McCulloch v. Maryland ",
+              "slug": "v/mcculloch-v-maryland",
+              "youtube_id": "hScx0e9qyMw",
+              "youtube_url": "https://www.youtube.com/watch?v=hScx0e9qyMw",
+              "duration_sec": 1186,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-constitutional-interpretations-of-federalism/v/mcculloch-v-maryland"
+            },
+            {
+              "title": "United States v.  Lopez",
+              "slug": "v/unites-states-v-lopez",
+              "youtube_id": "hDk9Qx8Po3M",
+              "youtube_url": "https://www.youtube.com/watch?v=hDk9Qx8Po3M",
+              "duration_sec": 299,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-constitutional-interpretations-of-federalism/v/unites-states-v-lopez"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does federalism affect everyday life?",
+          "slug": "us-gov-federalism-in-action",
+          "videos": [
+            {
+              "title": "Introduction to the public policy process",
+              "slug": "v/introduction-to-the-public-policy-process",
+              "youtube_id": "ipm5Bk10Fio",
+              "youtube_url": "https://www.youtube.com/watch?v=ipm5Bk10Fio",
+              "duration_sec": 347,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-federalism-in-action/v/introduction-to-the-public-policy-process"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Foundations of American Democracy | Unit overview",
+          "slug": "x231f0f4241b58f49:unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The legislative branch",
+      "slug": "x231f0f4241b58f49:the-legislative-branch",
+      "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch",
+      "lessons": [
+        {
+          "title": "What is the role of the legislative branch?",
+          "slug": "us-gov-congress-the-senate-and-the-house-of-representatives",
+          "videos": [
+            {
+              "title": "Article I of the Constitution: The Legislative Branch",
+              "slug": "v/article-i-of-the-constitution",
+              "youtube_id": "CIFBjZU55so",
+              "youtube_url": "https://www.youtube.com/watch?v=CIFBjZU55so",
+              "duration_sec": 803,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-congress-the-senate-and-the-house-of-representatives/v/article-i-of-the-constitution"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "What are the powers of Congress?",
+          "slug": "us-gov-structures-powers-and-functions-of-congress",
+          "videos": [
+            {
+              "title": "How a bill becomes a law",
+              "slug": "v/how-a-bill-becomes-a-law",
+              "youtube_id": "B45S0K_tQKA",
+              "youtube_url": "https://www.youtube.com/watch?v=B45S0K_tQKA",
+              "duration_sec": 637,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-structures-powers-and-functions-of-congress/v/how-a-bill-becomes-a-law"
+            },
+            {
+              "title": "The House of Representatives in comparison to the Senate",
+              "slug": "v/the-house-of-represenatives-in-comparison-to-the-senate",
+              "youtube_id": "zedtd7XCiMI",
+              "youtube_url": "https://www.youtube.com/watch?v=zedtd7XCiMI",
+              "duration_sec": 322,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-structures-powers-and-functions-of-congress/v/the-house-of-represenatives-in-comparison-to-the-senate"
+            },
+            {
+              "title": "Senate filibusters, unanimous consent and cloture",
+              "slug": "v/senate-filibusters-unanimous-consent-and-cloture",
+              "youtube_id": "k78Ygx23UYw",
+              "youtube_url": "https://www.youtube.com/watch?v=k78Ygx23UYw",
+              "duration_sec": 402,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-structures-powers-and-functions-of-congress/v/senate-filibusters-unanimous-consent-and-cloture"
+            },
+            {
+              "title": "Discretionary and mandatory outlays of the US federal government",
+              "slug": "v/discretionary-and-mandatory-outlays-of-the-us-federal-government",
+              "youtube_id": "bvmezdvui9Y",
+              "youtube_url": "https://www.youtube.com/watch?v=bvmezdvui9Y",
+              "duration_sec": 384,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-structures-powers-and-functions-of-congress/v/discretionary-and-mandatory-outlays-of-the-us-federal-government"
+            },
+            {
+              "title": "Earmarks, pork barrel projects and logrolling",
+              "slug": "v/earmarks-pork-barrel-projects-and-logrolling",
+              "youtube_id": "soNO1iflers",
+              "youtube_url": "https://www.youtube.com/watch?v=soNO1iflers",
+              "duration_sec": 575,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-structures-powers-and-functions-of-congress/v/earmarks-pork-barrel-projects-and-logrolling"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "How do members of Congress represent the people?",
+          "slug": "us-gov-congressional-behavior",
+          "videos": [
+            {
+              "title": "Representatives as delegates, trustees, and politicos",
+              "slug": "v/representatives-as-delegates-trustees-and-politicos",
+              "youtube_id": "j54aGQStW6I",
+              "youtube_url": "https://www.youtube.com/watch?v=j54aGQStW6I",
+              "duration_sec": 378,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-congressional-behavior/v/representatives-as-delegates-trustees-and-politicos"
+            },
+            {
+              "title": "Gerrymandering",
+              "slug": "v/gerrymandering",
+              "youtube_id": "WfxBuwMGTts",
+              "youtube_url": "https://www.youtube.com/watch?v=WfxBuwMGTts",
+              "duration_sec": 360,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-congressional-behavior/v/gerrymandering"
+            },
+            {
+              "title": "Baker v. Carr",
+              "slug": "v/baker-v-carr",
+              "youtube_id": "Ffhvwg2YXVA",
+              "youtube_url": "https://www.youtube.com/watch?v=Ffhvwg2YXVA",
+              "duration_sec": 1006,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-congressional-behavior/v/baker-v-carr"
+            },
+            {
+              "title": "Divided government and gridlock in the United States",
+              "slug": "v/divided-government-and-gridlock-in-the-united-states",
+              "youtube_id": "TYrxaQ5m7m0",
+              "youtube_url": "https://www.youtube.com/watch?v=TYrxaQ5m7m0",
+              "duration_sec": 343,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-congressional-behavior/v/divided-government-and-gridlock-in-the-united-states"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "The legislative branch | Unit overview",
+          "slug": "x231f0f4241b58f49:the-legislative-branch-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The executive branch",
+      "slug": "us-gov-interactions-among-branches",
+      "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches",
+      "lessons": [
+        {
+          "title": "What are the roles and powers of the president?",
+          "slug": "x231f0f4241b58f49:what-powers-does-the-president-have",
+          "videos": [
+            {
+              "title": "Article II of the Constitution: The Executive Branch",
+              "slug": "v/article-ii-of-the-constitution",
+              "youtube_id": "H2vGXCVo-K0",
+              "youtube_url": "https://www.youtube.com/watch?v=H2vGXCVo-K0",
+              "duration_sec": 1067,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-constitution/v/article-ii-of-the-constitution"
+            },
+            {
+              "title": "Formal and informal powers of the US president",
+              "slug": "v/formal-and-informal-powers-of-the-us-president",
+              "youtube_id": "TG63zz1AFjc",
+              "youtube_url": "https://www.youtube.com/watch?v=TG63zz1AFjc",
+              "duration_sec": 490,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/x231f0f4241b58f49:what-powers-does-the-president-have/v/formal-and-informal-powers-of-the-us-president"
+            },
+            {
+              "title": "Executive orders",
+              "slug": "v/executive-orders-1",
+              "youtube_id": "gCNvBqTJTUA",
+              "youtube_url": "https://www.youtube.com/watch?v=gCNvBqTJTUA",
+              "duration_sec": 261,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/x231f0f4241b58f49:what-powers-does-the-president-have/v/executive-orders-1"
+            },
+            {
+              "title": "Presidential signing statements",
+              "slug": "v/presidential-signing-statements",
+              "youtube_id": "-OsBdrZglMU",
+              "youtube_url": "https://www.youtube.com/watch?v=-OsBdrZglMU",
+              "duration_sec": 314,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/x231f0f4241b58f49:what-powers-does-the-president-have/v/presidential-signing-statements"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "How has presidential power changed over time?",
+          "slug": "us-gov-expansion-of-presidential-power",
+          "videos": [
+            {
+              "title": "Expansion of presidential power",
+              "slug": "v/expansion-of-presidential-power-video",
+              "youtube_id": "wL76BRa1EQ0",
+              "youtube_url": "https://www.youtube.com/watch?v=wL76BRa1EQ0",
+              "duration_sec": 588,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-expansion-of-presidential-power/v/expansion-of-presidential-power-video"
+            },
+            {
+              "title": "Changes to the role of the presidency",
+              "slug": "v/changes-to-the-role-of-the-presidency",
+              "youtube_id": "cZSsAKaklBM",
+              "youtube_url": "https://www.youtube.com/watch?v=cZSsAKaklBM",
+              "duration_sec": 319,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-expansion-of-presidential-power/v/changes-to-the-role-of-the-presidency"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Who checks the power of the president?",
+          "slug": "us-gov-checks-on-the-presidency",
+          "videos": [
+            {
+              "title": "Senate checks on presidential appointments",
+              "slug": "v/senate-checks-on-presidential-appointments",
+              "youtube_id": "Dnf4M3PU6Qc",
+              "youtube_url": "https://www.youtube.com/watch?v=Dnf4M3PU6Qc",
+              "duration_sec": 216,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-checks-on-the-presidency/v/senate-checks-on-presidential-appointments"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "How does the president communicate with the public?",
+          "slug": "us-gov-presidential-communication",
+          "videos": [
+            {
+              "title": "The president's bully pulpit ",
+              "slug": "v/presidents-bully-pulpit",
+              "youtube_id": "ceZoaInLVpY",
+              "youtube_url": "https://www.youtube.com/watch?v=ceZoaInLVpY",
+              "duration_sec": 355,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-presidential-communication/v/presidents-bully-pulpit"
+            },
+            {
+              "title": "Technology and presidential communication",
+              "slug": "v/technology-and-presidential-communication",
+              "youtube_id": "lbQCx-AwPsY",
+              "youtube_url": "https://www.youtube.com/watch?v=lbQCx-AwPsY",
+              "duration_sec": 367,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-presidential-communication/v/technology-and-presidential-communication"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "What is the federal bureaucracy?",
+          "slug": "us-gov-the-bureaucracy-functions-and-responsibilities",
+          "videos": [
+            {
+              "title": "Introduction to the federal bureaucracy",
+              "slug": "v/introduction-to-the-federal-bureaucracy",
+              "youtube_id": "M4Q0kl5sH7I",
+              "youtube_url": "https://www.youtube.com/watch?v=M4Q0kl5sH7I",
+              "duration_sec": 297,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-the-bureaucracy-functions-and-responsibilities/v/introduction-to-the-federal-bureaucracy"
+            },
+            {
+              "title": "Iron triangles and issue networks",
+              "slug": "v/iron-triangles-and-issue-networks",
+              "youtube_id": "sYuUQHa2I88",
+              "youtube_url": "https://www.youtube.com/watch?v=sYuUQHa2I88",
+              "duration_sec": 223,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-the-bureaucracy-functions-and-responsibilities/v/iron-triangles-and-issue-networks"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "How does the bureaucracy influence policy and society?",
+          "slug": "us-gov-the-bureaucracy-authority-and-accountability",
+          "videos": [
+            {
+              "title": "Discretionary and rulemaking authority of the federal bureaucracy",
+              "slug": "v/discretionary-rule-making-authority-of-the-federal-bureaucracy",
+              "youtube_id": "OoaKKd7T7Os",
+              "youtube_url": "https://www.youtube.com/watch?v=OoaKKd7T7Os",
+              "duration_sec": 323,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-the-bureaucracy-authority-and-accountability/v/discretionary-rule-making-authority-of-the-federal-bureaucracy"
+            },
+            {
+              "title": "Congressional oversight of the bureaucracy",
+              "slug": "v/congressional-oversight-of-bureaucracy",
+              "youtube_id": "wqclfPKJEbA",
+              "youtube_url": "https://www.youtube.com/watch?v=wqclfPKJEbA",
+              "duration_sec": 268,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-the-bureaucracy-authority-and-accountability/v/congressional-oversight-of-bureaucracy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The executive branch | Unit overview",
+          "slug": "x231f0f4241b58f49:the-executive-branch-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The judicial branch",
+      "slug": "x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch",
+      "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch",
+      "lessons": [
+        {
+          "title": "What is the role of the judicial branch?",
+          "slug": "us-gov-the-judicial-branch",
+          "videos": [
+            {
+              "title": "Article III of the Constitution: The Judicial Branch",
+              "slug": "v/article-iii-of-the-constitution",
+              "youtube_id": "COVELT85zto",
+              "youtube_url": "https://www.youtube.com/watch?v=COVELT85zto",
+              "duration_sec": 1017,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-constitution/v/article-iii-of-the-constitution"
+            },
+            {
+              "title": "Marbury v. Madison",
+              "slug": "v/marbury-v-madison",
+              "youtube_id": "bP1pDUwV5hE",
+              "youtube_url": "https://www.youtube.com/watch?v=bP1pDUwV5hE",
+              "duration_sec": 1023,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-landmark-supreme-court-cases/v/marbury-v-madison"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "How does the judiciary maintain legitimacy in a democracy?",
+          "slug": "us-gov-legitimacy-of-the-judicial-branch",
+          "videos": [
+            {
+              "title": "Stare decisis and precedent in the Supreme Court",
+              "slug": "v/stare-decisis-and-precedent-in-the-supreme-court",
+              "youtube_id": "8Yl_yNNXKnY",
+              "youtube_url": "https://www.youtube.com/watch?v=8Yl_yNNXKnY",
+              "duration_sec": 243,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch/us-gov-legitimacy-of-the-judicial-branch/v/stare-decisis-and-precedent-in-the-supreme-court"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Who checks the power of the judicial branch?",
+          "slug": "us-gov-checks-on-the-judicial-branch",
+          "videos": [
+            {
+              "title": "Executive and legislative disagreements with the Supreme Court",
+              "slug": "v/executive-and-legislative-disagreements-with-supreme-court",
+              "youtube_id": "CrnyDEwYNxE",
+              "youtube_url": "https://www.youtube.com/watch?v=CrnyDEwYNxE",
+              "duration_sec": 362,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch/us-gov-checks-on-the-judicial-branch/v/executive-and-legislative-disagreements-with-supreme-court"
+            },
+            {
+              "title": "Checks on the judicial branch",
+              "slug": "v/checks-on-the-judicial-branch",
+              "youtube_id": "Fnf1lNU7C-A",
+              "youtube_url": "https://www.youtube.com/watch?v=Fnf1lNU7C-A",
+              "duration_sec": 187,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch/us-gov-checks-on-the-judicial-branch/v/checks-on-the-judicial-branch"
+            },
+            {
+              "title": "State checks on the judicial branch",
+              "slug": "v/state-checks-on-the-judicial-branch",
+              "youtube_id": "CwiVwRzqCmA",
+              "youtube_url": "https://www.youtube.com/watch?v=CwiVwRzqCmA",
+              "duration_sec": 405,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch/us-gov-checks-on-the-judicial-branch/v/state-checks-on-the-judicial-branch"
+            },
+            {
+              "title": "Senate confirmation as a check on the judicial branch",
+              "slug": "v/senate-confirmation-hearings-for-justices",
+              "youtube_id": "kMCSbnqWFK8",
+              "youtube_url": "https://www.youtube.com/watch?v=kMCSbnqWFK8",
+              "duration_sec": 230,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch/us-gov-checks-on-the-judicial-branch/v/senate-confirmation-hearings-for-justices"
+            },
+            {
+              "title": "Judicial activism and judicial restraint",
+              "slug": "v/judicial-activism-vs-judicial-restraint",
+              "youtube_id": "uIjSx1c1HKQ",
+              "youtube_url": "https://www.youtube.com/watch?v=uIjSx1c1HKQ",
+              "duration_sec": 498,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch/us-gov-checks-on-the-judicial-branch/v/judicial-activism-vs-judicial-restraint"
+            },
+            {
+              "title": "Increased politicization of the Supreme Court",
+              "slug": "v/increased-politicization-of-the-supreme-court",
+              "youtube_id": "EoUpiipuP2M",
+              "youtube_url": "https://www.youtube.com/watch?v=EoUpiipuP2M",
+              "duration_sec": 228,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch/us-gov-checks-on-the-judicial-branch/v/increased-politicization-of-the-supreme-court"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "The judicial branch | Unit overview",
+          "slug": "x231f0f4241b58f49:the-judicial-branch-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Protection of civil rights and liberties",
+      "slug": "us-gov-civil-liberties-and-civil-rights",
+      "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights",
+      "lessons": [
+        {
+          "title": "What is the purpose of the Bill of Rights?",
+          "slug": "us-gov-the-bill-of-rights",
+          "videos": [
+            {
+              "title": "The Bill of Rights: an introduction",
+              "slug": "v/overview-of-the-bill-of-rights",
+              "youtube_id": "ZQj0b949rDY",
+              "youtube_url": "https://www.youtube.com/watch?v=ZQj0b949rDY",
+              "duration_sec": 249,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-the-bill-of-rights/v/overview-of-the-bill-of-rights"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does the First Amendment protect freedom of religion?",
+          "slug": "us-gov-the-first-amendment-freedom-of-religion",
+          "videos": [
+            {
+              "title": "The First Amendment",
+              "slug": "v/the-first-amendment",
+              "youtube_id": "ck_L-TD1t2Y",
+              "youtube_url": "https://www.youtube.com/watch?v=ck_L-TD1t2Y",
+              "duration_sec": 974,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/the-first-amendment"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does the First Amendment protect freedom of speech?",
+          "slug": "us-gov-the-first-amendment-freedom-of-speech",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does the First Amendment protect freedom of the press?",
+          "slug": "us-gov-the-first-amendment-freedom-of-the-press",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does the Second Amendment protect individual rights?",
+          "slug": "us-gov-the-second-amendment",
+          "videos": [
+            {
+              "title": "The Second Amendment",
+              "slug": "v/the-second-amendment",
+              "youtube_id": "2EjEUoeIccc",
+              "youtube_url": "https://www.youtube.com/watch?v=2EjEUoeIccc",
+              "duration_sec": 1006,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/the-second-amendment"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does the government balance liberty and public safety?",
+          "slug": "us-gov-balancing-individual-freedom-with-public-order-and-safety",
+          "videos": [
+            {
+              "title": "The Fourth Amendment",
+              "slug": "v/the-fourth-amendment",
+              "youtube_id": "J92qYl6m_MI",
+              "youtube_url": "https://www.youtube.com/watch?v=J92qYl6m_MI",
+              "duration_sec": 853,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-balancing-individual-freedom-with-public-order-and-safety/v/the-fourth-amendment"
+            },
+            {
+              "title": "The Eighth Amendment",
+              "slug": "v/the-eighth-amendment",
+              "youtube_id": "L83jiEPYnAs",
+              "youtube_url": "https://www.youtube.com/watch?v=L83jiEPYnAs",
+              "duration_sec": 1225,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-balancing-individual-freedom-with-public-order-and-safety/v/the-eighth-amendment"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What is selective incorporation, and why does it matter?",
+          "slug": "us-gov-selective-incorporation",
+          "videos": [
+            {
+              "title": "Selective incorporation",
+              "slug": "v/selective-incorporation",
+              "youtube_id": "0a799xooy-w",
+              "youtube_url": "https://www.youtube.com/watch?v=0a799xooy-w",
+              "duration_sec": 193,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-selective-incorporation/v/selective-incorporation"
+            },
+            {
+              "title": "McDonald v. Chicago ",
+              "slug": "v/mcdonald-v-chicago",
+              "youtube_id": "7WWsGtOIF_4",
+              "youtube_url": "https://www.youtube.com/watch?v=7WWsGtOIF_4",
+              "duration_sec": 931,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-landmark-supreme-court-cases/v/mcdonald-v-chicago"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How are the rights of the accused protected by the Constitution?",
+          "slug": "us-gov-due-process-and-the-rights-of-the-accused",
+          "videos": [
+            {
+              "title": "The Fifth Amendment",
+              "slug": "v/the-fifth-amendment",
+              "youtube_id": "nh78-VKSBUY",
+              "youtube_url": "https://www.youtube.com/watch?v=nh78-VKSBUY",
+              "duration_sec": 876,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-rights-of-the-accused/v/the-fifth-amendment"
+            },
+            {
+              "title": "The Sixth Amendment",
+              "slug": "v/the-sixth-amendment",
+              "youtube_id": "ReahyukN0qg",
+              "youtube_url": "https://www.youtube.com/watch?v=ReahyukN0qg",
+              "duration_sec": 963,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-rights-of-the-accused/v/the-sixth-amendment"
+            },
+            {
+              "title": "Miranda v. Arizona",
+              "slug": "v/miranda-v-arizona",
+              "youtube_id": "lCK77MI7cT4",
+              "youtube_url": "https://www.youtube.com/watch?v=lCK77MI7cT4",
+              "duration_sec": 918,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-rights-of-the-accused/v/miranda-v-arizona"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How is the right to privacy protected by the Constitution?",
+          "slug": "us-gov-due-process-and-the-right-to-privacy",
+          "videos": [
+            {
+              "title": "Due process and the right to privacy",
+              "slug": "v/due-process-and-the-right-to-privacy",
+              "youtube_id": "WBz1VGlHIiw",
+              "youtube_url": "https://www.youtube.com/watch?v=WBz1VGlHIiw",
+              "duration_sec": 365,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-right-to-privacy/v/due-process-and-the-right-to-privacy"
+            },
+            {
+              "title": "Roe v. Wade",
+              "slug": "v/roe-v-wade",
+              "youtube_id": "bXu5QiE6Knc",
+              "youtube_url": "https://www.youtube.com/watch?v=bXu5QiE6Knc",
+              "duration_sec": 832,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-right-to-privacy/v/roe-v-wade"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Protection of civil rights and liberties | Unit overview",
+          "slug": "x231f0f4241b58f49:protection-of-civil-rights-and-liberties-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Citizenship",
+      "slug": "x231f0f4241b58f49:citizens-us-gov-civics",
+      "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics",
+      "lessons": [
+        {
+          "title": "What does it mean to be a citizen?",
+          "slug": "x231f0f4241b58f49:what-does-it-mean-to-be-a-citizen-civics",
+          "videos": [
+            {
+              "title": "What is citizenship?",
+              "slug": "v/what-is-citizenship",
+              "youtube_id": "JVXQvJvfuGw",
+              "youtube_url": "https://www.youtube.com/watch?v=JVXQvJvfuGw",
+              "duration_sec": 139,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-does-it-mean-to-be-a-citizen-civics/v/what-is-citizenship"
+            },
+            {
+              "title": "Civil society",
+              "slug": "v/civil-society",
+              "youtube_id": "b6_YVsuyUEM",
+              "youtube_url": "https://www.youtube.com/watch?v=b6_YVsuyUEM",
+              "duration_sec": 187,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-does-it-mean-to-be-a-citizen-civics/v/civil-society"
+            },
+            {
+              "title": "Civic life, private life, politics, and government",
+              "slug": "v/civic-life-private-life-politics-and-government",
+              "youtube_id": "4Xn5DqJzhJk",
+              "youtube_url": "https://www.youtube.com/watch?v=4Xn5DqJzhJk",
+              "duration_sec": 276,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-does-it-mean-to-be-a-citizen-civics/v/civic-life-private-life-politics-and-government"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "What are the rights and responsibilities of citizenship?",
+          "slug": "x231f0f4241b58f49:what-are-the-rights-and-responsibilities-of-citizenship",
+          "videos": [
+            {
+              "title": "Personal rights",
+              "slug": "v/personal-rights",
+              "youtube_id": "AG6SiMEK1tk",
+              "youtube_url": "https://www.youtube.com/watch?v=AG6SiMEK1tk",
+              "duration_sec": 299,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-are-the-rights-and-responsibilities-of-citizenship/v/personal-rights"
+            },
+            {
+              "title": "Political rights",
+              "slug": "v/political-rights",
+              "youtube_id": "jCP23_xNf1A",
+              "youtube_url": "https://www.youtube.com/watch?v=jCP23_xNf1A",
+              "duration_sec": 222,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-are-the-rights-and-responsibilities-of-citizenship/v/political-rights"
+            },
+            {
+              "title": "Economic rights of citizenship",
+              "slug": "v/economic-rights-of-citizenship",
+              "youtube_id": "j_XrGo15iBc",
+              "youtube_url": "https://www.youtube.com/watch?v=j_XrGo15iBc",
+              "duration_sec": 269,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-are-the-rights-and-responsibilities-of-citizenship/v/economic-rights-of-citizenship"
+            },
+            {
+              "title": "Responsibilities of citizenship",
+              "slug": "v/responsibilities-of-citizenship",
+              "youtube_id": "Tms0TgD_97g",
+              "youtube_url": "https://www.youtube.com/watch?v=Tms0TgD_97g",
+              "duration_sec": 152,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-are-the-rights-and-responsibilities-of-citizenship/v/responsibilities-of-citizenship"
+            },
+            {
+              "title": "Obligations of citizenship",
+              "slug": "v/obligations-of-citizenship",
+              "youtube_id": "VjPE5JTGjXE",
+              "youtube_url": "https://www.youtube.com/watch?v=VjPE5JTGjXE",
+              "duration_sec": 251,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-are-the-rights-and-responsibilities-of-citizenship/v/obligations-of-citizenship"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "How has the definition of citizenship changed over time?",
+          "slug": "x231f0f4241b58f49:how-has-the-definition-of-citizenship-changed-over-time",
+          "videos": [
+            {
+              "title": "Citizenship in early America, 1789-1830s",
+              "slug": "v/citizenship-in-early-america-part-1",
+              "youtube_id": "XTubp0aUTEA",
+              "youtube_url": "https://www.youtube.com/watch?v=XTubp0aUTEA",
+              "duration_sec": 254,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-has-the-definition-of-citizenship-changed-over-time/v/citizenship-in-early-america-part-1"
+            },
+            {
+              "title": "Citizenship in early America, 1840s-1870s",
+              "slug": "v/citizenship-in-early-america-part-2",
+              "youtube_id": "SMvZkK02ipI",
+              "youtube_url": "https://www.youtube.com/watch?v=SMvZkK02ipI",
+              "duration_sec": 335,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-has-the-definition-of-citizenship-changed-over-time/v/citizenship-in-early-america-part-2"
+            },
+            {
+              "title": "The Dred Scott case and citizenship",
+              "slug": "v/the-dred-scott-case-and-citizenship",
+              "youtube_id": "U3vK0RuwZMc",
+              "youtube_url": "https://www.youtube.com/watch?v=U3vK0RuwZMc",
+              "duration_sec": 468,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-has-the-definition-of-citizenship-changed-over-time/v/the-dred-scott-case-and-citizenship"
+            },
+            {
+              "title": "The 19th Amendment and citizenship",
+              "slug": "v/the-19th-amendment-and-citizenship",
+              "youtube_id": "LS2Av3F-8iM",
+              "youtube_url": "https://www.youtube.com/watch?v=LS2Av3F-8iM",
+              "duration_sec": 261,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-has-the-definition-of-citizenship-changed-over-time/v/the-19th-amendment-and-citizenship"
+            },
+            {
+              "title": "Citizenship in the US territories and District of Columbia",
+              "slug": "v/citizenship-in-the-us-territories-and-district-of-columbia",
+              "youtube_id": "SIT637hrMOo",
+              "youtube_url": "https://www.youtube.com/watch?v=SIT637hrMOo",
+              "duration_sec": 372,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-has-the-definition-of-citizenship-changed-over-time/v/citizenship-in-the-us-territories-and-district-of-columbia"
+            },
+            {
+              "title": "Citizenship and voting rights of indigenous people",
+              "slug": "v/citizenship-and-voting-rights-of-indigenous-people",
+              "youtube_id": "b4vLXhf7vYk",
+              "youtube_url": "https://www.youtube.com/watch?v=b4vLXhf7vYk",
+              "duration_sec": 300,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-has-the-definition-of-citizenship-changed-over-time/v/citizenship-and-voting-rights-of-indigenous-people"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "What is the difference between citizens and non-citizens?",
+          "slug": "x231f0f4241b58f49:what-is-the-difference-between-citizens-and-non-citizens",
+          "videos": [],
+          "exercise_count": 2
+        },
+        {
+          "title": "What is the pathway to citizenship?",
+          "slug": "x231f0f4241b58f49:what-is-the-pathway-to-citizenship",
+          "videos": [
+            {
+              "title": "The naturalization process",
+              "slug": "v/the-naturalization-process",
+              "youtube_id": "NJk_ZOUpvl0",
+              "youtube_url": "https://www.youtube.com/watch?v=NJk_ZOUpvl0",
+              "duration_sec": 153,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-is-the-pathway-to-citizenship/v/the-naturalization-process"
+            },
+            {
+              "title": "Who is eligible for naturalization?",
+              "slug": "v/who-is-eligible-for-naturalization",
+              "youtube_id": "gM15QCuHWMo",
+              "youtube_url": "https://www.youtube.com/watch?v=gM15QCuHWMo",
+              "duration_sec": 435,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-is-the-pathway-to-citizenship/v/who-is-eligible-for-naturalization"
+            },
+            {
+              "title": "Challenges of naturalization",
+              "slug": "v/challenges-of-naturalization",
+              "youtube_id": "rQzMYkMZmks",
+              "youtube_url": "https://www.youtube.com/watch?v=rQzMYkMZmks",
+              "duration_sec": 230,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:what-is-the-pathway-to-citizenship/v/challenges-of-naturalization"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "How can citizens shape and strengthen democracy?",
+          "slug": "x231f0f4241b58f49:how-can-citizens-change-a-democracy",
+          "videos": [
+            {
+              "title": "Civic engagement",
+              "slug": "v/civic-engagement",
+              "youtube_id": "387o7cyj40g",
+              "youtube_url": "https://www.youtube.com/watch?v=387o7cyj40g",
+              "duration_sec": 171,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-can-citizens-change-a-democracy/v/civic-engagement"
+            },
+            {
+              "title": "Models of citizenship",
+              "slug": "v/models-of-citizenship",
+              "youtube_id": "1HRl5nEOwGM",
+              "youtube_url": "https://www.youtube.com/watch?v=1HRl5nEOwGM",
+              "duration_sec": 381,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-can-citizens-change-a-democracy/v/models-of-citizenship"
+            },
+            {
+              "title": "Service in the United States",
+              "slug": "v/service-in-the-united-states",
+              "youtube_id": "VBRlnO1BbcU",
+              "youtube_url": "https://www.youtube.com/watch?v=VBRlnO1BbcU",
+              "duration_sec": 206,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:citizens-us-gov-civics/x231f0f4241b58f49:how-can-citizens-change-a-democracy/v/service-in-the-united-states"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Citizenship | Unit overview",
+          "slug": "x231f0f4241b58f49:citizenship-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Social movements",
+      "slug": "x231f0f4241b58f49:us-gov-social-movements",
+      "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-social-movements",
+      "lessons": [
+        {
+          "title": "How have social movements expanded equal protection?",
+          "slug": "us-gov-social-movements-and-equal-protection",
+          "videos": [
+            {
+              "title": "The Fourteenth Amendment and equal protection",
+              "slug": "v/14th-amendment-and-equal-protection",
+              "youtube_id": "re2d80cqhYw",
+              "youtube_url": "https://www.youtube.com/watch?v=re2d80cqhYw",
+              "duration_sec": 288,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-social-movements/us-gov-social-movements-and-equal-protection/v/14th-amendment-and-equal-protection"
+            },
+            {
+              "title": "Letter from a Birmingham Jail",
+              "slug": "v/letter-from-a-birmingham-jail",
+              "youtube_id": "VKq7wUoIIK8",
+              "youtube_url": "https://www.youtube.com/watch?v=VKq7wUoIIK8",
+              "duration_sec": 252,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-social-movements/us-gov-social-movements-and-equal-protection/v/letter-from-a-birmingham-jail"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How has the government responded to social movements?",
+          "slug": "us-gov-government-responses-to-social-movements",
+          "videos": [
+            {
+              "title": "Brown v. Board of Education of Topeka",
+              "slug": "v/brown-v-board-of-education-of-topeka-us-government-and-politics-khan-academy",
+              "youtube_id": "x7Tj2vtkUCc",
+              "youtube_url": "https://www.youtube.com/watch?v=x7Tj2vtkUCc",
+              "duration_sec": 1011,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-social-movements/us-gov-government-responses-to-social-movements/v/brown-v-board-of-education-of-topeka-us-government-and-politics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does the government balance majority rule and minority rights?",
+          "slug": "us-gov-balancing-minority-and-majority-rights",
+          "videos": [
+            {
+              "title": "Rulings on majority and minority rights by the Supreme Court",
+              "slug": "v/rulings-on-majority-and-minority-rights-by-the-supreme-court",
+              "youtube_id": "7R1B4QFd668",
+              "youtube_url": "https://www.youtube.com/watch?v=7R1B4QFd668",
+              "duration_sec": 309,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-social-movements/us-gov-balancing-minority-and-majority-rights/v/rulings-on-majority-and-minority-rights-by-the-supreme-court"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What is affirmative action, and how does it impact society?",
+          "slug": "us-gov-affirmative-action",
+          "videos": [
+            {
+              "title": "Affirmative action",
+              "slug": "v/affirmative-action",
+              "youtube_id": "i0sUJVxSXlk",
+              "youtube_url": "https://www.youtube.com/watch?v=i0sUJVxSXlk",
+              "duration_sec": 654,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-social-movements/us-gov-affirmative-action/v/affirmative-action"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Social movements | Unit overview",
+          "slug": "x231f0f4241b58f49:social-movements-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "American political ideologies and beliefs",
+      "slug": "us-gov-american-political-ideologies-and-beliefs",
+      "relative_url": "/humanities/us-government-and-civics/us-gov-american-political-ideologies-and-beliefs",
+      "lessons": [
+        {
+          "title": "What shapes people’s beliefs about government and politics?",
+          "slug": "us-gov-american-attitudes-about-government-and-politics",
+          "videos": [
+            {
+              "title": "American attitudes about government and politics",
+              "slug": "v/core-beliefs-around-the-role-of-government-in-the-us",
+              "youtube_id": "VmFX6AIzllE",
+              "youtube_url": "https://www.youtube.com/watch?v=VmFX6AIzllE",
+              "duration_sec": 512,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-american-political-ideologies-and-beliefs/us-gov-american-attitudes-about-government-and-politics/v/core-beliefs-around-the-role-of-government-in-the-us"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What is political socialization?",
+          "slug": "us-gov-political-socialization",
+          "videos": [
+            {
+              "title": "Political socialization",
+              "slug": "v/political-socialization",
+              "youtube_id": "chfz7QiwdOc",
+              "youtube_url": "https://www.youtube.com/watch?v=chfz7QiwdOc",
+              "duration_sec": 212,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-american-political-ideologies-and-beliefs/us-gov-political-socialization/v/political-socialization"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What factors influence political ideology?",
+          "slug": "us-gov-influences-on-ideology",
+          "videos": [
+            {
+              "title": "Generational and lifecycle effects on political ideology",
+              "slug": "v/generational-and-lifecycle-effects-on-political-ideology",
+              "youtube_id": "wyU1zIKO97M",
+              "youtube_url": "https://www.youtube.com/watch?v=wyU1zIKO97M",
+              "duration_sec": 302,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-american-political-ideologies-and-beliefs/us-gov-influences-on-ideology/v/generational-and-lifecycle-effects-on-political-ideology"
+            },
+            {
+              "title": "Influence of political events on ideology",
+              "slug": "v/influence-of-political-events-on-ideology",
+              "youtube_id": "uj1Kqhs_xB0",
+              "youtube_url": "https://www.youtube.com/watch?v=uj1Kqhs_xB0",
+              "duration_sec": 258,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-american-political-ideologies-and-beliefs/us-gov-influences-on-ideology/v/influence-of-political-events-on-ideology"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "How do the major political parties differ in ideology?",
+          "slug": "us-gov-ideologies-of-political-parties",
+          "videos": [
+            {
+              "title": "Ideologies of political parties in the United States",
+              "slug": "v/ideologies-of-political-parties-in-the-united-states",
+              "youtube_id": "4_ss4WEN3ZI",
+              "youtube_url": "https://www.youtube.com/watch?v=4_ss4WEN3ZI",
+              "duration_sec": 459,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-american-political-ideologies-and-beliefs/us-gov-ideologies-of-political-parties/v/ideologies-of-political-parties-in-the-united-states"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How do political beliefs shape views on the economy?",
+          "slug": "us-gov-ideology-and-economic-policy",
+          "videos": [
+            {
+              "title": "Political ideology and economics",
+              "slug": "v/political-ideology-and-economics",
+              "youtube_id": "AX988fq3cXY",
+              "youtube_url": "https://www.youtube.com/watch?v=AX988fq3cXY",
+              "duration_sec": 369,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-american-political-ideologies-and-beliefs/us-gov-ideology-and-economic-policy/v/political-ideology-and-economics"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How do political beliefs shape views on society and culture?",
+          "slug": "us-gov-ideology-and-social-policy",
+          "videos": [
+            {
+              "title": "Ideology and social policy",
+              "slug": "v/ideology-and-social-policy",
+              "youtube_id": "xx0Y2NPpoTk",
+              "youtube_url": "https://www.youtube.com/watch?v=xx0Y2NPpoTk",
+              "duration_sec": 495,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-american-political-ideologies-and-beliefs/us-gov-ideology-and-social-policy/v/ideology-and-social-policy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "American political beliefs and ideologies | Unit overview",
+          "slug": "x231f0f4241b58f49:american-political-beliefs-and-ideologies-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Political participation",
+      "slug": "us-gov-political-participation",
+      "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation",
+      "lessons": [
+        {
+          "title": "What are voting rights?",
+          "slug": "us-gov-voting-rights-and-models-of-voter-behavior",
+          "videos": [
+            {
+              "title": "Voting rights",
+              "slug": "v/voting-rights",
+              "youtube_id": "sQcwHXgmR8M",
+              "youtube_url": "https://www.youtube.com/watch?v=sQcwHXgmR8M",
+              "duration_sec": 486,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-voting-rights-and-models-of-voter-behavior/v/voting-rights"
+            },
+            {
+              "title": "Voting behavior",
+              "slug": "v/models-of-voting-behavior",
+              "youtube_id": "alqGXue7Ca8",
+              "youtube_url": "https://www.youtube.com/watch?v=alqGXue7Ca8",
+              "duration_sec": 318,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-voting-rights-and-models-of-voter-behavior/v/models-of-voting-behavior"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Who votes, and who doesn’t?",
+          "slug": "us-gov-voter-turnout",
+          "videos": [
+            {
+              "title": "Voter turnout",
+              "slug": "v/voter-turnout",
+              "youtube_id": "You0q4JJzS4",
+              "youtube_url": "https://www.youtube.com/watch?v=You0q4JJzS4",
+              "duration_sec": 608,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-voter-turnout/v/voter-turnout"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What roles do political parties play in U.S. politics?",
+          "slug": "us-gov-political-parties",
+          "videos": [
+            {
+              "title": "Linkage institutions and political parties",
+              "slug": "v/linkage-institutions-and-political-parties",
+              "youtube_id": "vA3o-lTreKM",
+              "youtube_url": "https://www.youtube.com/watch?v=vA3o-lTreKM",
+              "duration_sec": 451,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-political-parties/v/linkage-institutions-and-political-parties"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How and why do political parties evolve?",
+          "slug": "us-gov-how-and-why-political-parties-change-and-adapt",
+          "videos": [
+            {
+              "title": "Evolution of political parties in picking candidates and voter mobilization",
+              "slug": "v/evolution-of-political-parties-in-picking-candidates-and-voter-mobilization",
+              "youtube_id": "-hK1p6Ymbhw",
+              "youtube_url": "https://www.youtube.com/watch?v=-hK1p6Ymbhw",
+              "duration_sec": 407,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-how-and-why-political-parties-change-and-adapt/v/evolution-of-political-parties-in-picking-candidates-and-voter-mobilization"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What role do third parties play in U.S. politics?",
+          "slug": "us-gov-third-party-politics",
+          "videos": [
+            {
+              "title": "Third parties in the United States",
+              "slug": "v/third-parties-in-the-united-states",
+              "youtube_id": "Lqy4DVE1tik",
+              "youtube_url": "https://www.youtube.com/watch?v=Lqy4DVE1tik",
+              "duration_sec": 294,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-third-party-politics/v/third-parties-in-the-united-states"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How do interest groups influence government?",
+          "slug": "us-gov-groups-influencing-policymaking-and-policy-outcomes",
+          "videos": [
+            {
+              "title": "Interest groups and lobbying",
+              "slug": "v/interest-groups-and-lobbying",
+              "youtube_id": "-rr81Uf10pc",
+              "youtube_url": "https://www.youtube.com/watch?v=-rr81Uf10pc",
+              "duration_sec": 389,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-groups-influencing-policymaking-and-policy-outcomes/v/interest-groups-and-lobbying"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How is the president elected?",
+          "slug": "us-gov-electing-a-president",
+          "videos": [
+            {
+              "title": "The presidential incumbency advantage",
+              "slug": "v/incumbency-advantage-phenomenon",
+              "youtube_id": "Rk-EtuESRm4",
+              "youtube_url": "https://www.youtube.com/watch?v=Rk-EtuESRm4",
+              "duration_sec": 259,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-electing-a-president/v/incumbency-advantage-phenomenon"
+            },
+            {
+              "title": "Primaries and caucuses",
+              "slug": "v/primaries-and-caucuses",
+              "youtube_id": "z_QeYCg4yJ8",
+              "youtube_url": "https://www.youtube.com/watch?v=z_QeYCg4yJ8",
+              "duration_sec": 493,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/primaries-and-caucuses"
+            },
+            {
+              "title": "Open primaries, closed primaries, and blanket primaries",
+              "slug": "v/open-primaries-closed-primaries-and-blanket-primaries",
+              "youtube_id": "YyXlrRMFUJw",
+              "youtube_url": "https://www.youtube.com/watch?v=YyXlrRMFUJw",
+              "duration_sec": 540,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-electing-a-president/v/open-primaries-closed-primaries-and-blanket-primaries"
+            },
+            {
+              "title": "The Electoral College",
+              "slug": "v/electoral-college",
+              "youtube_id": "oTbvYGH_Hiw",
+              "youtube_url": "https://www.youtube.com/watch?v=oTbvYGH_Hiw",
+              "duration_sec": 670,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/electoral-college"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How are members of Congress elected?",
+          "slug": "us-gov-congressional-elections",
+          "videos": [
+            {
+              "title": "Congressional elections",
+              "slug": "v/congressional-elections",
+              "youtube_id": "18B5S96H9CU",
+              "youtube_url": "https://www.youtube.com/watch?v=18B5S96H9CU",
+              "duration_sec": 462,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-congressional-elections/v/congressional-elections"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How do we measure public opinion?",
+          "slug": "x231f0f4241b58f49:how-do-public-opinion-polls-influence-elections-and-policy",
+          "videos": [
+            {
+              "title": "Measuring public opinion",
+              "slug": "v/measuring-public-opinion",
+              "youtube_id": "GoAiLiPWB1U",
+              "youtube_url": "https://www.youtube.com/watch?v=GoAiLiPWB1U",
+              "duration_sec": 214,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/x231f0f4241b58f49:how-do-public-opinion-polls-influence-elections-and-policy/v/measuring-public-opinion"
+            },
+            {
+              "title": "Scientific polling introduction",
+              "slug": "v/scientific-polling-introduction",
+              "youtube_id": "85NM1-FQrn0",
+              "youtube_url": "https://www.youtube.com/watch?v=85NM1-FQrn0",
+              "duration_sec": 514,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/x231f0f4241b58f49:how-do-public-opinion-polls-influence-elections-and-policy/v/scientific-polling-introduction"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does public opinion shape policy and campaigns?",
+          "slug": "x231f0f4241b58f49:how-does-public-opinion-shape-policy",
+          "videos": [
+            {
+              "title": "Why polls can be wrong",
+              "slug": "v/why-polls-can-be-wrong",
+              "youtube_id": "DVKY9alKYtc",
+              "youtube_url": "https://www.youtube.com/watch?v=DVKY9alKYtc",
+              "duration_sec": 157,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/x231f0f4241b58f49:how-does-public-opinion-shape-policy/v/why-polls-can-be-wrong"
+            },
+            {
+              "title": "Why policy decisions may not reflect perceived public opinion",
+              "slug": "v/why-policy-decisions-may-not-reflect-perceived-public-opinion",
+              "youtube_id": "2Etffnqb1qE",
+              "youtube_url": "https://www.youtube.com/watch?v=2Etffnqb1qE",
+              "duration_sec": 185,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/x231f0f4241b58f49:how-does-public-opinion-shape-policy/v/why-policy-decisions-may-not-reflect-perceived-public-opinion"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What shapes modern political campaigns?",
+          "slug": "us-gov-modern-campaigns",
+          "videos": [
+            {
+              "title": "Cost and duration of modern campaigns",
+              "slug": "v/cost-and-duration-of-modern-campaigns",
+              "youtube_id": "yb5DH9y-rB8",
+              "youtube_url": "https://www.youtube.com/watch?v=yb5DH9y-rB8",
+              "duration_sec": 351,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-modern-campaigns/v/cost-and-duration-of-modern-campaigns"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Who pays for political campaigns, and why does it matter?",
+          "slug": "us-gov-campaign-finance",
+          "videos": [
+            {
+              "title": "Campaign finance",
+              "slug": "v/campaign-finance",
+              "youtube_id": "lPfNgTrWKyE",
+              "youtube_url": "https://www.youtube.com/watch?v=lPfNgTrWKyE",
+              "duration_sec": 521,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-campaign-finance/v/campaign-finance"
+            },
+            {
+              "title": "Citizens United v. Federal Election Commission",
+              "slug": "v/citizens-united-v-federal-election-commission",
+              "youtube_id": "1co7bMQplwQ",
+              "youtube_url": "https://www.youtube.com/watch?v=1co7bMQplwQ",
+              "duration_sec": 1155,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-campaign-finance/v/citizens-united-v-federal-election-commission"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Political participation | Unit overview",
+          "slug": "x231f0f4241b58f49:political-participation-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Democracy today",
+      "slug": "x231f0f4241b58f49:us-gov-democracy-today",
+      "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-democracy-today",
+      "lessons": [
+        {
+          "title": "How do state and local governments work?",
+          "slug": "x231f0f4241b58f49:how-do-state-and-local-governments-work",
+          "videos": [
+            {
+              "title": "State and local government",
+              "slug": "v/state-and-local-government-video",
+              "youtube_id": "pjia3mqX3sA",
+              "youtube_url": "https://www.youtube.com/watch?v=pjia3mqX3sA",
+              "duration_sec": 340,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-democracy-today/x231f0f4241b58f49:how-do-state-and-local-governments-work/v/state-and-local-government-video"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How does the media shape our understanding of politics?",
+          "slug": "us-gov-the-media",
+          "videos": [
+            {
+              "title": "Media as a linkage institution",
+              "slug": "v/media-as-a-linkage-institution",
+              "youtube_id": "DmANu5lkTl8",
+              "youtube_url": "https://www.youtube.com/watch?v=DmANu5lkTl8",
+              "duration_sec": 356,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-democracy-today/us-gov-the-media/v/media-as-a-linkage-institution"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How has social media changed political participation?",
+          "slug": "us-gov-changing-media",
+          "videos": [
+            {
+              "title": "Impact of media evolution on politics",
+              "slug": "v/impact-of-media-evolution-on-politics",
+              "youtube_id": "vyIMg4F5axw",
+              "youtube_url": "https://www.youtube.com/watch?v=vyIMg4F5axw",
+              "duration_sec": 266,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-democracy-today/us-gov-changing-media/v/impact-of-media-evolution-on-politics"
+            },
+            {
+              "title": "The media and partisanship",
+              "slug": "v/the-media-and-partisanship",
+              "youtube_id": "nxOi0EbNPtY",
+              "youtube_url": "https://www.youtube.com/watch?v=nxOi0EbNPtY",
+              "duration_sec": 365,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-democracy-today/us-gov-changing-media/v/the-media-and-partisanship"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "How can we evaluate political information and spot misinformation?",
+          "slug": "x231f0f4241b58f49:how-can-we-evaluate-political-information-and-spot-misinformation",
+          "videos": [
+            {
+              "title": "How to spot misinformation ",
+              "slug": "v/how-to-spot-misinformation",
+              "youtube_id": "-b8fceyd-ik",
+              "youtube_url": "https://www.youtube.com/watch?v=-b8fceyd-ik",
+              "duration_sec": 421,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-democracy-today/x231f0f4241b58f49:how-can-we-evaluate-political-information-and-spot-misinformation/v/how-to-spot-misinformation"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Why does trust in government matter?",
+          "slug": "x231f0f4241b58f49:how-do-people-participate-in-democracy-beyond-voting",
+          "videos": [
+            {
+              "title": "Trust in the government",
+              "slug": "v/trust-in-the-government-video",
+              "youtube_id": "JVK9WZ-kjDo",
+              "youtube_url": "https://www.youtube.com/watch?v=JVK9WZ-kjDo",
+              "duration_sec": 227,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-democracy-today/x231f0f4241b58f49:how-do-people-participate-in-democracy-beyond-voting/v/trust-in-the-government-video"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Democracy today | Unit overview",
+          "slug": "x231f0f4241b58f49:democracy-today-unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Government & civics with CBS's John Dickerson",
+      "slug": "government-civics-with-cbss-john-dickerson",
+      "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson",
+      "lessons": [
+        {
+          "title": "Why it matters",
+          "slug": "why-it-matters",
+          "videos": [
+            {
+              "title": "Sal Khan & John Dickerson: introduction",
+              "slug": "v/sal-khan-john-dickerson-introduction",
+              "youtube_id": "yK90u3DQIK0",
+              "youtube_url": "https://www.youtube.com/watch?v=yK90u3DQIK0",
+              "duration_sec": 69,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/why-it-matters/v/sal-khan-john-dickerson-introduction"
+            },
+            {
+              "title": "Why study US history, government, and civics?",
+              "slug": "v/why-study-us-history-government-and-civics",
+              "youtube_id": "3axHf16S0Us",
+              "youtube_url": "https://www.youtube.com/watch?v=3axHf16S0Us",
+              "duration_sec": 108,
+              "relative_url": "/humanities/us-history/history-survey/us-history-survey/v/why-study-us-history-government-and-civics"
+            },
+            {
+              "title": "Why do midterm congressional elections matter?",
+              "slug": "v/why-do-midterm-congressional-elections-matter",
+              "youtube_id": "kofT_ctT-JY",
+              "youtube_url": "https://www.youtube.com/watch?v=kofT_ctT-JY",
+              "duration_sec": 70,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/why-it-matters/v/why-do-midterm-congressional-elections-matter"
+            },
+            {
+              "title": "Why does your vote matter?",
+              "slug": "v/why-does-your-vote-matter",
+              "youtube_id": "6Vf_mmb0ED4",
+              "youtube_url": "https://www.youtube.com/watch?v=6Vf_mmb0ED4",
+              "duration_sec": 192,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/why-it-matters/v/why-does-your-vote-matter"
+            },
+            {
+              "title": "How does voter turnout in midterms compare to presidential elections?",
+              "slug": "v/how-does-voter-turnout-in-midterms-compare-to-presidential-elections",
+              "youtube_id": "Of8A37PGgpE",
+              "youtube_url": "https://www.youtube.com/watch?v=Of8A37PGgpE",
+              "duration_sec": 75,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/why-it-matters/v/how-does-voter-turnout-in-midterms-compare-to-presidential-elections"
+            },
+            {
+              "title": "Does the president's party usually gain or lose seats at the midterm elections?",
+              "slug": "v/does-the-presidents-party-usually-gain-or-lose-seats-at-the-midterm-elections",
+              "youtube_id": "oYQvxRrknZE",
+              "youtube_url": "https://www.youtube.com/watch?v=oYQvxRrknZE",
+              "duration_sec": 91,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/why-it-matters/v/does-the-presidents-party-usually-gain-or-lose-seats-at-the-midterm-elections"
+            },
+            {
+              "title": "Who is the Speaker of the House?",
+              "slug": "v/who-is-the-speaker-of-the-house-us-government-and-civics-khan-academy",
+              "youtube_id": "Yn81qh73wZ0",
+              "youtube_url": "https://www.youtube.com/watch?v=Yn81qh73wZ0",
+              "duration_sec": 43,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/why-it-matters/v/who-is-the-speaker-of-the-house-us-government-and-civics-khan-academy"
+            },
+            {
+              "title": "Why is the Speaker of the House second in succession to the President?",
+              "slug": "v/why-is-the-speaker-second-in-succession-us-government-and-civics-khan-academy",
+              "youtube_id": "dLokWU0JiAs",
+              "youtube_url": "https://www.youtube.com/watch?v=dLokWU0JiAs",
+              "duration_sec": 96,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/why-it-matters/v/why-is-the-speaker-second-in-succession-us-government-and-civics-khan-academy"
+            },
+            {
+              "title": "What was the Articles of Confederation?",
+              "slug": "v/what-was-the-articles-of-confederation",
+              "youtube_id": "evPP1FDePOY",
+              "youtube_url": "https://www.youtube.com/watch?v=evPP1FDePOY",
+              "duration_sec": 320,
+              "relative_url": "/humanities/us-history/road-to-revolution/creating-a-nation/v/what-was-the-articles-of-confederation"
+            },
+            {
+              "title": "What was the Gilded Age?",
+              "slug": "v/what-was-the-gilded-age",
+              "youtube_id": "2MEyuKGw6-A",
+              "youtube_url": "https://www.youtube.com/watch?v=2MEyuKGw6-A",
+              "duration_sec": 465,
+              "relative_url": "/humanities/us-history/the-gilded-age/x71a94f19:politics-of-the-gilded-age/v/what-was-the-gilded-age"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "What has changed",
+          "slug": "what-has-changed",
+          "videos": [
+            {
+              "title": "Changes to the role of the presidency",
+              "slug": "v/changes-to-the-role-of-the-presidency",
+              "youtube_id": "cZSsAKaklBM",
+              "youtube_url": "https://www.youtube.com/watch?v=cZSsAKaklBM",
+              "duration_sec": 319,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-interactions-among-branches/us-gov-expansion-of-presidential-power/v/changes-to-the-role-of-the-presidency"
+            },
+            {
+              "title": "The media and partisanship",
+              "slug": "v/the-media-and-partisanship",
+              "youtube_id": "nxOi0EbNPtY",
+              "youtube_url": "https://www.youtube.com/watch?v=nxOi0EbNPtY",
+              "duration_sec": 365,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-democracy-today/us-gov-changing-media/v/the-media-and-partisanship"
+            },
+            {
+              "title": "Increased politicization of the Supreme Court",
+              "slug": "v/increased-politicization-of-the-supreme-court",
+              "youtube_id": "EoUpiipuP2M",
+              "youtube_url": "https://www.youtube.com/watch?v=EoUpiipuP2M",
+              "duration_sec": 228,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-and-civics-the-judicial-branch/us-gov-checks-on-the-judicial-branch/v/increased-politicization-of-the-supreme-court"
+            },
+            {
+              "title": "How have congressional elections changed over time?",
+              "slug": "v/how-have-congressional-elections-changed-over-time",
+              "youtube_id": "lSSFMVeFc2Q",
+              "youtube_url": "https://www.youtube.com/watch?v=lSSFMVeFc2Q",
+              "duration_sec": 193,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/what-has-changed/v/how-have-congressional-elections-changed-over-time"
+            },
+            {
+              "title": "How has the position of Speaker of the House changed over time?",
+              "slug": "v/how-has-the-position-of-speaker-changed-over-time-us-government-and-civics-khan-academy",
+              "youtube_id": "t1ShvSU63LE",
+              "youtube_url": "https://www.youtube.com/watch?v=t1ShvSU63LE",
+              "duration_sec": 98,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/what-has-changed/v/how-has-the-position-of-speaker-changed-over-time-us-government-and-civics-khan-academy"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Presidential history",
+          "slug": "focus-on-presidents",
+          "videos": [
+            {
+              "title": "Why was George Washington the first president?",
+              "slug": "v/why-was-george-washington-the-first-president",
+              "youtube_id": "vuC_4Y1zgZw",
+              "youtube_url": "https://www.youtube.com/watch?v=vuC_4Y1zgZw",
+              "duration_sec": 399,
+              "relative_url": "/humanities/us-history/road-to-revolution/x71a94f19:leading-the-nation/v/why-was-george-washington-the-first-president"
+            },
+            {
+              "title": "Why was Reagan's presidency so significant?",
+              "slug": "v/why-was-reagans-presidency-so-significant-us-government-and-civics-khan-academy",
+              "youtube_id": "mtBqK9dB-EA",
+              "youtube_url": "https://www.youtube.com/watch?v=mtBqK9dB-EA",
+              "duration_sec": 80,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/focus-on-presidents/v/why-was-reagans-presidency-so-significant-us-government-and-civics-khan-academy"
+            },
+            {
+              "title": "How did Reagan's policies affect the economy?",
+              "slug": "v/how-did-reagans-policies-affect-the-economy-us-government-and-civics-khan-academy",
+              "youtube_id": "kr6zA_78nys",
+              "youtube_url": "https://www.youtube.com/watch?v=kr6zA_78nys",
+              "duration_sec": 98,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/focus-on-presidents/v/how-did-reagans-policies-affect-the-economy-us-government-and-civics-khan-academy"
+            },
+            {
+              "title": "How have Reagan's policies affected the government?",
+              "slug": "v/how-have-reagans-policies-affected-the-government-us-government-and-civics-khan-academy",
+              "youtube_id": "gTRa6OYhi1g",
+              "youtube_url": "https://www.youtube.com/watch?v=gTRa6OYhi1g",
+              "duration_sec": 108,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/focus-on-presidents/v/how-have-reagans-policies-affected-the-government-us-government-and-civics-khan-academy"
+            },
+            {
+              "title": "Which Reagan policies are still debated today?",
+              "slug": "v/what-reagan-policies-are-still-debated-today-us-government-and-civics-khan-academy",
+              "youtube_id": "pgRknobBvr0",
+              "youtube_url": "https://www.youtube.com/watch?v=pgRknobBvr0",
+              "duration_sec": 77,
+              "relative_url": "/humanities/us-government-and-civics/government-civics-with-cbss-john-dickerson/focus-on-presidents/v/what-reagan-policies-are-still-debated-today-us-government-and-civics-khan-academy"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The National Constitution Center",
+      "slug": "us-gov-the-national-constitution-center",
+      "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center",
+      "lessons": [
+        {
+          "title": "The Constitution",
+          "slug": "us-gov-the-constitution",
+          "videos": [
+            {
+              "title": "The Preamble to the Constitution",
+              "slug": "v/preamble",
+              "youtube_id": "V3tTnqznYwk",
+              "youtube_url": "https://www.youtube.com/watch?v=V3tTnqznYwk",
+              "duration_sec": 895,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ideals-of-democracy/v/preamble"
+            },
+            {
+              "title": "Article I of the Constitution: The Legislative Branch",
+              "slug": "v/article-i-of-the-constitution",
+              "youtube_id": "CIFBjZU55so",
+              "youtube_url": "https://www.youtube.com/watch?v=CIFBjZU55so",
+              "duration_sec": 803,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-congress-the-senate-and-the-house-of-representatives/v/article-i-of-the-constitution"
+            },
+            {
+              "title": "Article II of the Constitution: The Executive Branch",
+              "slug": "v/article-ii-of-the-constitution",
+              "youtube_id": "H2vGXCVo-K0",
+              "youtube_url": "https://www.youtube.com/watch?v=H2vGXCVo-K0",
+              "duration_sec": 1067,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-constitution/v/article-ii-of-the-constitution"
+            },
+            {
+              "title": "Article III of the Constitution: The Judicial Branch",
+              "slug": "v/article-iii-of-the-constitution",
+              "youtube_id": "COVELT85zto",
+              "youtube_url": "https://www.youtube.com/watch?v=COVELT85zto",
+              "duration_sec": 1017,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-constitution/v/article-iii-of-the-constitution"
+            },
+            {
+              "title": "Article IV of the Constitution: States, Citizenship, New States",
+              "slug": "v/article-iv-of-the-constitution",
+              "youtube_id": "hKRada3AWII",
+              "youtube_url": "https://www.youtube.com/watch?v=hKRada3AWII",
+              "duration_sec": 839,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-relationship-between-the-states-and-the-federal-government/v/article-iv-of-the-constitution"
+            },
+            {
+              "title": "Article V of the Constitution: Amendment Process",
+              "slug": "v/article-v-of-the-constitution",
+              "youtube_id": "DARUu2sJfqI",
+              "youtube_url": "https://www.youtube.com/watch?v=DARUu2sJfqI",
+              "duration_sec": 1032,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ratification-of-the-us-constitution/v/article-v-of-the-constitution"
+            },
+            {
+              "title": "Article VI of the Constitution: Debts, Supremacy, Oaths, Religious Tests",
+              "slug": "v/article-vi-of-the-constitution",
+              "youtube_id": "a6E5Sr9Ypcw",
+              "youtube_url": "https://www.youtube.com/watch?v=a6E5Sr9Ypcw",
+              "duration_sec": 832,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ratification-of-the-us-constitution/v/article-vi-of-the-constitution"
+            },
+            {
+              "title": "Article VII of the Constitution: Ratification",
+              "slug": "v/article-vii-of-the-constitution",
+              "youtube_id": "_VuMqbtphr0",
+              "youtube_url": "https://www.youtube.com/watch?v=_VuMqbtphr0",
+              "duration_sec": 1033,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-ratification-of-the-us-constitution/v/article-vii-of-the-constitution"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "The Bill of Rights",
+          "slug": "us-gov-the-bill-of-rights-ncc",
+          "videos": [
+            {
+              "title": "The First Amendment",
+              "slug": "v/the-first-amendment",
+              "youtube_id": "ck_L-TD1t2Y",
+              "youtube_url": "https://www.youtube.com/watch?v=ck_L-TD1t2Y",
+              "duration_sec": 974,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/the-first-amendment"
+            },
+            {
+              "title": "The Second Amendment",
+              "slug": "v/the-second-amendment",
+              "youtube_id": "2EjEUoeIccc",
+              "youtube_url": "https://www.youtube.com/watch?v=2EjEUoeIccc",
+              "duration_sec": 1006,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/the-second-amendment"
+            },
+            {
+              "title": "The Third Amendment",
+              "slug": "v/the-third-amendment",
+              "youtube_id": "R13q7uHlwmY",
+              "youtube_url": "https://www.youtube.com/watch?v=R13q7uHlwmY",
+              "duration_sec": 869,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/the-third-amendment"
+            },
+            {
+              "title": "The Fourth Amendment",
+              "slug": "v/the-fourth-amendment",
+              "youtube_id": "J92qYl6m_MI",
+              "youtube_url": "https://www.youtube.com/watch?v=J92qYl6m_MI",
+              "duration_sec": 853,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-balancing-individual-freedom-with-public-order-and-safety/v/the-fourth-amendment"
+            },
+            {
+              "title": "The Fifth Amendment",
+              "slug": "v/the-fifth-amendment",
+              "youtube_id": "nh78-VKSBUY",
+              "youtube_url": "https://www.youtube.com/watch?v=nh78-VKSBUY",
+              "duration_sec": 876,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-rights-of-the-accused/v/the-fifth-amendment"
+            },
+            {
+              "title": "The Fifth Amendment - takings clause",
+              "slug": "v/the-fifth-amendment-takings-clause",
+              "youtube_id": "H8HxEC67BrM",
+              "youtube_url": "https://www.youtube.com/watch?v=H8HxEC67BrM",
+              "duration_sec": 763,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/the-fifth-amendment-takings-clause"
+            },
+            {
+              "title": "The Sixth Amendment",
+              "slug": "v/the-sixth-amendment",
+              "youtube_id": "ReahyukN0qg",
+              "youtube_url": "https://www.youtube.com/watch?v=ReahyukN0qg",
+              "duration_sec": 963,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-rights-of-the-accused/v/the-sixth-amendment"
+            },
+            {
+              "title": "The Seventh Amendment",
+              "slug": "v/the-seventh-amendment",
+              "youtube_id": "uf41Qj_1HQo",
+              "youtube_url": "https://www.youtube.com/watch?v=uf41Qj_1HQo",
+              "duration_sec": 841,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/the-seventh-amendment"
+            },
+            {
+              "title": "The Eighth Amendment",
+              "slug": "v/the-eighth-amendment",
+              "youtube_id": "L83jiEPYnAs",
+              "youtube_url": "https://www.youtube.com/watch?v=L83jiEPYnAs",
+              "duration_sec": 1225,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-balancing-individual-freedom-with-public-order-and-safety/v/the-eighth-amendment"
+            },
+            {
+              "title": "The Ninth Amendment",
+              "slug": "v/the-ninth-amendment",
+              "youtube_id": "7PlTwiRM9ig",
+              "youtube_url": "https://www.youtube.com/watch?v=7PlTwiRM9ig",
+              "duration_sec": 915,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/the-ninth-amendment"
+            },
+            {
+              "title": "The Tenth Amendment",
+              "slug": "v/the-tenth-amendment",
+              "youtube_id": "9Me8VGbA9dA",
+              "youtube_url": "https://www.youtube.com/watch?v=9Me8VGbA9dA",
+              "duration_sec": 997,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-constitutional-interpretations-of-federalism/v/the-tenth-amendment"
+            },
+            {
+              "title": "Unadopted amendments to the Bill of Rights",
+              "slug": "v/unadopted-amendments",
+              "youtube_id": "lTNwCTDokrU",
+              "youtube_url": "https://www.youtube.com/watch?v=lTNwCTDokrU",
+              "duration_sec": 999,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-the-bill-of-rights-ncc/v/unadopted-amendments"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Landmark Supreme Court cases",
+          "slug": "us-gov-landmark-supreme-court-cases",
+          "videos": [
+            {
+              "title": "Marbury v. Madison",
+              "slug": "v/marbury-v-madison",
+              "youtube_id": "bP1pDUwV5hE",
+              "youtube_url": "https://www.youtube.com/watch?v=bP1pDUwV5hE",
+              "duration_sec": 1023,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-landmark-supreme-court-cases/v/marbury-v-madison"
+            },
+            {
+              "title": "McCulloch v. Maryland ",
+              "slug": "v/mcculloch-v-maryland",
+              "youtube_id": "hScx0e9qyMw",
+              "youtube_url": "https://www.youtube.com/watch?v=hScx0e9qyMw",
+              "duration_sec": 1186,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-foundations/us-gov-constitutional-interpretations-of-federalism/v/mcculloch-v-maryland"
+            },
+            {
+              "title": "Dred Scott v. Sandford",
+              "slug": "v/dred-scott-v-sandford",
+              "youtube_id": "sWuXMjrv4aA",
+              "youtube_url": "https://www.youtube.com/watch?v=sWuXMjrv4aA",
+              "duration_sec": 1123,
+              "relative_url": "/humanities/us-history/civil-war-era/sectional-tension-1850s/v/dred-scott-v-sandford"
+            },
+            {
+              "title": "Plessy v. Ferguson",
+              "slug": "v/plessy-v-ferguson",
+              "youtube_id": "IfybCoVN9G8",
+              "youtube_url": "https://www.youtube.com/watch?v=IfybCoVN9G8",
+              "duration_sec": 1119,
+              "relative_url": "/humanities/us-history/the-gilded-age/south-after-civil-war/v/plessy-v-ferguson"
+            },
+            {
+              "title": "Brown v. Board of Education of Topeka",
+              "slug": "v/brown-v-board-of-education-of-topeka-us-government-and-politics-khan-academy",
+              "youtube_id": "x7Tj2vtkUCc",
+              "youtube_url": "https://www.youtube.com/watch?v=x7Tj2vtkUCc",
+              "duration_sec": 1011,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:us-gov-social-movements/us-gov-government-responses-to-social-movements/v/brown-v-board-of-education-of-topeka-us-government-and-politics-khan-academy"
+            },
+            {
+              "title": "Baker v. Carr",
+              "slug": "v/baker-v-carr",
+              "youtube_id": "Ffhvwg2YXVA",
+              "youtube_url": "https://www.youtube.com/watch?v=Ffhvwg2YXVA",
+              "duration_sec": 1006,
+              "relative_url": "/humanities/us-government-and-civics/x231f0f4241b58f49:the-legislative-branch/us-gov-congressional-behavior/v/baker-v-carr"
+            },
+            {
+              "title": "Miranda v. Arizona",
+              "slug": "v/miranda-v-arizona",
+              "youtube_id": "lCK77MI7cT4",
+              "youtube_url": "https://www.youtube.com/watch?v=lCK77MI7cT4",
+              "duration_sec": 918,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-rights-of-the-accused/v/miranda-v-arizona"
+            },
+            {
+              "title": "Roe v. Wade",
+              "slug": "v/roe-v-wade",
+              "youtube_id": "bXu5QiE6Knc",
+              "youtube_url": "https://www.youtube.com/watch?v=bXu5QiE6Knc",
+              "duration_sec": 832,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-due-process-and-the-right-to-privacy/v/roe-v-wade"
+            },
+            {
+              "title": "McDonald v. Chicago ",
+              "slug": "v/mcdonald-v-chicago",
+              "youtube_id": "7WWsGtOIF_4",
+              "youtube_url": "https://www.youtube.com/watch?v=7WWsGtOIF_4",
+              "duration_sec": 931,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-the-national-constitution-center/us-gov-landmark-supreme-court-cases/v/mcdonald-v-chicago"
+            },
+            {
+              "title": "Citizens United v. Federal Election Commission",
+              "slug": "v/citizens-united-v-federal-election-commission",
+              "youtube_id": "1co7bMQplwQ",
+              "youtube_url": "https://www.youtube.com/watch?v=1co7bMQplwQ",
+              "duration_sec": 1155,
+              "relative_url": "/humanities/us-government-and-civics/us-gov-political-participation/us-gov-campaign-finance/v/citizens-united-v-federal-election-commission"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "American civics",
+      "slug": "american-civics-parent",
+      "relative_url": "/humanities/us-government-and-civics/american-civics-parent",
+      "lessons": [
+        {
+          "title": "American civics ",
+          "slug": "american-civics",
+          "videos": [
+            {
+              "title": "PPACA or \"Obamacare\"",
+              "slug": "v/ppaca-or-obamacare",
+              "youtube_id": "8nW9L7cSop4",
+              "youtube_url": "https://www.youtube.com/watch?v=8nW9L7cSop4",
+              "duration_sec": 434,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/ppaca-or-obamacare"
+            },
+            {
+              "title": "The fiscal cliff",
+              "slug": "v/the-fiscal-cliff",
+              "youtube_id": "lV3LBiivTxw",
+              "youtube_url": "https://www.youtube.com/watch?v=lV3LBiivTxw",
+              "duration_sec": 722,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/the-fiscal-cliff"
+            },
+            {
+              "title": "More fiscal cliff analysis",
+              "slug": "v/more-fiscal-cliff-analysis",
+              "youtube_id": "QwvJ6z49m-c",
+              "youtube_url": "https://www.youtube.com/watch?v=QwvJ6z49m-c",
+              "duration_sec": 920,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/more-fiscal-cliff-analysis"
+            },
+            {
+              "title": "The Electoral College",
+              "slug": "v/electoral-college",
+              "youtube_id": "oTbvYGH_Hiw",
+              "youtube_url": "https://www.youtube.com/watch?v=oTbvYGH_Hiw",
+              "duration_sec": 670,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/electoral-college"
+            },
+            {
+              "title": "Sal teaches Grover about the electoral college",
+              "slug": "v/sal-teaches-grover-about-the-electoral-college",
+              "youtube_id": "p-n_YOtUnqU",
+              "youtube_url": "https://www.youtube.com/watch?v=p-n_YOtUnqU",
+              "duration_sec": 217,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/sal-teaches-grover-about-the-electoral-college"
+            },
+            {
+              "title": "Primaries and caucuses",
+              "slug": "v/primaries-and-caucuses",
+              "youtube_id": "z_QeYCg4yJ8",
+              "youtube_url": "https://www.youtube.com/watch?v=z_QeYCg4yJ8",
+              "duration_sec": 493,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/primaries-and-caucuses"
+            },
+            {
+              "title": "Deficit and debt ceiling",
+              "slug": "v/deficit-and-debt-ceiling",
+              "youtube_id": "-05OfTp6ZEE",
+              "youtube_url": "https://www.youtube.com/watch?v=-05OfTp6ZEE",
+              "duration_sec": 597,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/deficit-and-debt-ceiling"
+            },
+            {
+              "title": "Government's financial condition",
+              "slug": "v/government-s-financial-condition",
+              "youtube_id": "LOiw5aBrm4Y",
+              "youtube_url": "https://www.youtube.com/watch?v=LOiw5aBrm4Y",
+              "duration_sec": 632,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/government-s-financial-condition"
+            },
+            {
+              "title": "Social security intro",
+              "slug": "v/social-security-intro",
+              "youtube_id": "gLHUCUv1e5Y",
+              "youtube_url": "https://www.youtube.com/watch?v=gLHUCUv1e5Y",
+              "duration_sec": 389,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/social-security-intro"
+            },
+            {
+              "title": "FICA tax",
+              "slug": "v/fica-tax",
+              "youtube_id": "UP9xy2eVj7s",
+              "youtube_url": "https://www.youtube.com/watch?v=UP9xy2eVj7s",
+              "duration_sec": 450,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/fica-tax"
+            },
+            {
+              "title": "Medicare sustainability",
+              "slug": "v/medicare-sustainability",
+              "youtube_id": "o1Y0G8Z67iU",
+              "youtube_url": "https://www.youtube.com/watch?v=o1Y0G8Z67iU",
+              "duration_sec": 472,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/medicare-sustainability"
+            },
+            {
+              "title": "SOPA and PIPA",
+              "slug": "v/sopa-and-pipa",
+              "youtube_id": "tzqMoOk9NWc",
+              "youtube_url": "https://www.youtube.com/watch?v=tzqMoOk9NWc",
+              "duration_sec": 675,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/sopa-and-pipa"
+            },
+            {
+              "title": "Pension obligations",
+              "slug": "v/pension-obligations",
+              "youtube_id": "qBYa_QOWuaE",
+              "youtube_url": "https://www.youtube.com/watch?v=qBYa_QOWuaE",
+              "duration_sec": 607,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/pension-obligations"
+            },
+            {
+              "title": "Illinois pension obligations",
+              "slug": "v/illinois-pension-obligations",
+              "youtube_id": "Tczu_dvVuuk",
+              "youtube_url": "https://www.youtube.com/watch?v=Tczu_dvVuuk",
+              "duration_sec": 450,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/illinois-pension-obligations"
+            },
+            {
+              "title": "Introduction to the FAFSA",
+              "slug": "v/fafsa_intro",
+              "youtube_id": "7nKXXKn6jL8",
+              "youtube_url": "https://www.youtube.com/watch?v=7nKXXKn6jL8",
+              "duration_sec": 605,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/fafsa_intro"
+            },
+            {
+              "title": "History of the Democratic Party",
+              "slug": "v/history-of-the-democratic-party",
+              "youtube_id": "XVWiAArXYpE",
+              "youtube_url": "https://www.youtube.com/watch?v=XVWiAArXYpE",
+              "duration_sec": 954,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/history-of-the-democratic-party"
+            },
+            {
+              "title": "History of the Republican Party",
+              "slug": "v/history-of-the-republican-party",
+              "youtube_id": "7T7PxQMLTt8",
+              "youtube_url": "https://www.youtube.com/watch?v=7T7PxQMLTt8",
+              "duration_sec": 687,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/history-of-the-republican-party"
+            },
+            {
+              "title": "Constitutional powers of the president",
+              "slug": "v/constitutional-powers-of-the-president",
+              "youtube_id": "xMrQuCZBijg",
+              "youtube_url": "https://www.youtube.com/watch?v=xMrQuCZBijg",
+              "duration_sec": 850,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/constitutional-powers-of-the-president"
+            },
+            {
+              "title": "Presidential precedents of George Washington",
+              "slug": "v/presidential-precedents-of-george-washington",
+              "youtube_id": "wz2QnEl699I",
+              "youtube_url": "https://www.youtube.com/watch?v=wz2QnEl699I",
+              "duration_sec": 581,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/presidential-precedents-of-george-washington"
+            },
+            {
+              "title": "The President as Commander-in-Chief",
+              "slug": "v/the-president-as-commander-in-chief",
+              "youtube_id": "78_l5SSmbRM",
+              "youtube_url": "https://www.youtube.com/watch?v=78_l5SSmbRM",
+              "duration_sec": 637,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/the-president-as-commander-in-chief"
+            },
+            {
+              "title": "Expansion of presidential power",
+              "slug": "v/expansion-of-presidential-power",
+              "youtube_id": "O8pAsJBvfcA",
+              "youtube_url": "https://www.youtube.com/watch?v=O8pAsJBvfcA",
+              "duration_sec": 685,
+              "relative_url": "/humanities/us-government-and-civics/american-civics-parent/american-civics/v/expansion-of-presidential-power"
+            },
+            {
+              "title": "Why was George Washington the first president?",
+              "slug": "v/why-was-george-washington-the-first-president",
+              "youtube_id": "vuC_4Y1zgZw",
+              "youtube_url": "https://www.youtube.com/watch?v=vuC_4Y1zgZw",
+              "duration_sec": 399,
+              "relative_url": "/humanities/us-history/road-to-revolution/x71a94f19:leading-the-nation/v/why-was-george-washington-the-first-president"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Primary documents",
+      "slug": "us-gov-primary-documents",
+      "relative_url": "/humanities/us-government-and-civics/us-gov-primary-documents",
+      "lessons": [
+        {
+          "title": "Primary documents in US government and civics",
+          "slug": "primary-documents-in-us-government-and-civics",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

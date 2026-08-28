@@ -1,0 +1,1632 @@
+{
+  "key": "us-history",
+  "tier": "T2",
+  "subject": "social",
+  "slug": "us-history",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "US history",
+  "course_slug": "us-history",
+  "units": [
+    {
+      "title": "Worlds collide (1491–1607)",
+      "slug": "precontact-and-early-colonial-era",
+      "relative_url": "/humanities/us-history/precontact-and-early-colonial-era",
+      "lessons": [
+        {
+          "title": "Indigenous America",
+          "slug": "before-contact",
+          "videos": [
+            {
+              "title": "Native American societies before contact",
+              "slug": "v/native-american-societies-before-contact",
+              "youtube_id": "Ht0FW7RwRmc",
+              "youtube_url": "https://www.youtube.com/watch?v=Ht0FW7RwRmc",
+              "duration_sec": 325,
+              "relative_url": "/humanities/us-history/precontact-and-early-colonial-era/before-contact/v/native-american-societies-before-contact"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Origins of European exploration",
+          "slug": "x71a94f19:origins-of-european-exploration",
+          "videos": [
+            {
+              "title": "Origins of European exploration in the Americas",
+              "slug": "v/origins-of-european-exploration-in-the-americas",
+              "youtube_id": "Wwk7__c7r50",
+              "youtube_url": "https://www.youtube.com/watch?v=Wwk7__c7r50",
+              "duration_sec": 607,
+              "relative_url": "/humanities/us-history/precontact-and-early-colonial-era/x71a94f19:origins-of-european-exploration/v/origins-of-european-exploration-in-the-americas"
+            },
+            {
+              "title": "Christopher Columbus",
+              "slug": "v/christopher-columbus",
+              "youtube_id": "83JI9i8DZbs",
+              "youtube_url": "https://www.youtube.com/watch?v=83JI9i8DZbs",
+              "duration_sec": 309,
+              "relative_url": "/humanities/us-history/precontact-and-early-colonial-era/x71a94f19:origins-of-european-exploration/v/christopher-columbus"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Columbian Exchange",
+          "slug": "old-and-new-worlds-collide",
+          "videos": [
+            {
+              "title": "Consequences of Columbus's voyage on the Tainos and Europe",
+              "slug": "v/consequences-of-columbuss-voyage-on-the-tainos-and-europe",
+              "youtube_id": "VbKB4dRO2jc",
+              "youtube_url": "https://www.youtube.com/watch?v=VbKB4dRO2jc",
+              "duration_sec": 618,
+              "relative_url": "/humanities/us-history/precontact-and-early-colonial-era/old-and-new-worlds-collide/v/consequences-of-columbuss-voyage-on-the-tainos-and-europe"
+            },
+            {
+              "title": "The Columbian Exchange",
+              "slug": "v/the-columbian-exchange",
+              "youtube_id": "pLijVYVDKlc",
+              "youtube_url": "https://www.youtube.com/watch?v=pLijVYVDKlc",
+              "duration_sec": 557,
+              "relative_url": "/humanities/us-history/precontact-and-early-colonial-era/old-and-new-worlds-collide/v/the-columbian-exchange"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Spanish colonization ",
+          "slug": "spanish-colonization",
+          "videos": [
+            {
+              "title": "Spanish colonization",
+              "slug": "v/spanish-colonization",
+              "youtube_id": "uWj0GCvn_Oo",
+              "youtube_url": "https://www.youtube.com/watch?v=uWj0GCvn_Oo",
+              "duration_sec": 701,
+              "relative_url": "/humanities/us-history/precontact-and-early-colonial-era/spanish-colonization/v/spanish-colonization"
+            },
+            {
+              "title": "Comparing European and Native American cultures",
+              "slug": "v/comparing-european-and-native-american-cultures",
+              "youtube_id": "AGiWyQRZqpo",
+              "youtube_url": "https://www.youtube.com/watch?v=AGiWyQRZqpo",
+              "duration_sec": 429,
+              "relative_url": "/humanities/us-history/precontact-and-early-colonial-era/spanish-colonization/v/comparing-european-and-native-american-cultures"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:unit-1-overview-ush",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Colonial America (1607–1754)",
+      "slug": "colonial-america",
+      "relative_url": "/humanities/us-history/colonial-america",
+      "lessons": [
+        {
+          "title": "French and Dutch colonization",
+          "slug": "early-english-settlement",
+          "videos": [
+            {
+              "title": "French and Dutch colonization",
+              "slug": "v/french-and-dutch-colonization",
+              "youtube_id": "5L_6VfsfWms",
+              "youtube_url": "https://www.youtube.com/watch?v=5L_6VfsfWms",
+              "duration_sec": 629,
+              "relative_url": "/humanities/us-history/colonial-america/early-english-settlement/v/french-and-dutch-colonization"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Humble beginnings of English colonization",
+          "slug": "x71a94f19:humble-beginnings-of-english-colonization",
+          "videos": [
+            {
+              "title": "England in the Age of Exploration",
+              "slug": "v/england-in-the-age-of-exploration",
+              "youtube_id": "DZxG2miqgZI",
+              "youtube_url": "https://www.youtube.com/watch?v=DZxG2miqgZI",
+              "duration_sec": 328,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:humble-beginnings-of-english-colonization/v/england-in-the-age-of-exploration"
+            },
+            {
+              "title": "Motivations for English colonization",
+              "slug": "v/motivations-for-english-colonization",
+              "youtube_id": "wT2cfxFnx_U",
+              "youtube_url": "https://www.youtube.com/watch?v=wT2cfxFnx_U",
+              "duration_sec": 564,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:humble-beginnings-of-english-colonization/v/motivations-for-english-colonization"
+            },
+            {
+              "title": "The Lost Colony of Roanoke - background and first attempts",
+              "slug": "v/the-lost-colony-of-roanoke-background-and-first-attempts",
+              "youtube_id": "ghLhtqtp3ZQ",
+              "youtube_url": "https://www.youtube.com/watch?v=ghLhtqtp3ZQ",
+              "duration_sec": 650,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:humble-beginnings-of-english-colonization/v/the-lost-colony-of-roanoke-background-and-first-attempts"
+            },
+            {
+              "title": "The Lost Colony of Roanoke - settlement and disappearance",
+              "slug": "v/the-lost-colony-of-roanoke-settlement-and-disappearance",
+              "youtube_id": "D9Y8Doh5a9c",
+              "youtube_url": "https://www.youtube.com/watch?v=D9Y8Doh5a9c",
+              "duration_sec": 599,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:humble-beginnings-of-english-colonization/v/the-lost-colony-of-roanoke-settlement-and-disappearance"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Virginia Company and Jamestown",
+          "slug": "early-chesapeake-and-southern-colonies",
+          "videos": [
+            {
+              "title": "Early English settlements - Jamestown",
+              "slug": "v/early-english-settlements-jamestown",
+              "youtube_id": "g1lC2OIMipA",
+              "youtube_url": "https://www.youtube.com/watch?v=g1lC2OIMipA",
+              "duration_sec": 296,
+              "relative_url": "/humanities/us-history/colonial-america/early-chesapeake-and-southern-colonies/v/early-english-settlements-jamestown"
+            },
+            {
+              "title": "Early interactions with Native Americans",
+              "slug": "v/jamestown-john-smith-and-pocahontas",
+              "youtube_id": "MjXOYLefass",
+              "youtube_url": "https://www.youtube.com/watch?v=MjXOYLefass",
+              "duration_sec": 368,
+              "relative_url": "/humanities/us-history/colonial-america/early-chesapeake-and-southern-colonies/v/jamestown-john-smith-and-pocahontas"
+            },
+            {
+              "title": "The impact of tobacco",
+              "slug": "v/jamestown-the-impact-of-tobacco",
+              "youtube_id": "jZnJLEyJtBU",
+              "youtube_url": "https://www.youtube.com/watch?v=jZnJLEyJtBU",
+              "duration_sec": 276,
+              "relative_url": "/humanities/us-history/colonial-america/early-chesapeake-and-southern-colonies/v/jamestown-the-impact-of-tobacco"
+            },
+            {
+              "title": "Life and labor in the Chesapeake",
+              "slug": "v/jamestown-life-and-labor-in-the-chesapeake",
+              "youtube_id": "Advpf1WgMiQ",
+              "youtube_url": "https://www.youtube.com/watch?v=Advpf1WgMiQ",
+              "duration_sec": 457,
+              "relative_url": "/humanities/us-history/colonial-america/early-chesapeake-and-southern-colonies/v/jamestown-life-and-labor-in-the-chesapeake"
+            },
+            {
+              "title": "Bacon's Rebellion",
+              "slug": "v/jamestown-bacons-rebellion",
+              "youtube_id": "Z_VpwQ-yTa4",
+              "youtube_url": "https://www.youtube.com/watch?v=Z_VpwQ-yTa4",
+              "duration_sec": 740,
+              "relative_url": "/humanities/us-history/colonial-america/early-chesapeake-and-southern-colonies/v/jamestown-bacons-rebellion"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The New England colonies in the North",
+          "slug": "x71a94f19:the-new-england-colonies-in-the-north",
+          "videos": [
+            {
+              "title": "Society and religion in the New England colonies",
+              "slug": "v/society-and-religion-in-the-new-england-colonies",
+              "youtube_id": "Y4z2fS8FwfE",
+              "youtube_url": "https://www.youtube.com/watch?v=Y4z2fS8FwfE",
+              "duration_sec": 667,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:the-new-england-colonies-in-the-north/v/society-and-religion-in-the-new-england-colonies"
+            },
+            {
+              "title": "Politics and native relations in the New England colonies",
+              "slug": "v/politics-and-native-relations-in-the-new-england-colonies",
+              "youtube_id": "pf-4JrX7CeM",
+              "youtube_url": "https://www.youtube.com/watch?v=pf-4JrX7CeM",
+              "duration_sec": 706,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:the-new-england-colonies-in-the-north/v/politics-and-native-relations-in-the-new-england-colonies"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "The Southern and Middle colonies",
+          "slug": "x71a94f19:the-southern-and-middle-colonies",
+          "videos": [
+            {
+              "title": "The West Indies and the Southern colonies",
+              "slug": "v/the-west-indies-and-the-southern-colonies",
+              "youtube_id": "2TA4y9BtzBw",
+              "youtube_url": "https://www.youtube.com/watch?v=2TA4y9BtzBw",
+              "duration_sec": 717,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:the-southern-and-middle-colonies/v/the-west-indies-and-the-southern-colonies"
+            },
+            {
+              "title": "The Middle colonies",
+              "slug": "v/the-middle-colonies",
+              "youtube_id": "UGiNOeuQRnE",
+              "youtube_url": "https://www.youtube.com/watch?v=UGiNOeuQRnE",
+              "duration_sec": 633,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:the-southern-and-middle-colonies/v/the-middle-colonies"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Origins of slavery in the English colonies",
+          "slug": "x71a94f19:origins-of-slavery-in-the-english-colonies",
+          "videos": [
+            {
+              "title": "Slavery in the British colonies",
+              "slug": "v/slavery-in-the-british-colonies",
+              "youtube_id": "4GQOgcI3x_Q",
+              "youtube_url": "https://www.youtube.com/watch?v=4GQOgcI3x_Q",
+              "duration_sec": 306,
+              "relative_url": "/humanities/us-history/colonial-america/x71a94f19:origins-of-slavery-in-the-english-colonies/v/slavery-in-the-british-colonies"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Developing a national identity",
+          "slug": "colonial-north-america",
+          "videos": [
+            {
+              "title": "Developing an American colonial identity",
+              "slug": "v/developing-an-american-colonial-identity",
+              "youtube_id": "YxiSd6HW75M",
+              "youtube_url": "https://www.youtube.com/watch?v=YxiSd6HW75M",
+              "duration_sec": 466,
+              "relative_url": "/humanities/us-history/colonial-america/colonial-north-america/v/developing-an-american-colonial-identity"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:unit-overview-unit-2",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The Revolutionary Era (1754–1800)",
+      "slug": "road-to-revolution",
+      "relative_url": "/humanities/us-history/road-to-revolution",
+      "lessons": [
+        {
+          "title": "The Seven Year's War",
+          "slug": "x71a94f19:the-seven-years-war",
+          "videos": [
+            {
+              "title": "The Seven Years' War: background and combatants",
+              "slug": "v/the-seven-years-war-part-1",
+              "youtube_id": "UAhbwYBAoe0",
+              "youtube_url": "https://www.youtube.com/watch?v=UAhbwYBAoe0",
+              "duration_sec": 748,
+              "relative_url": "/humanities/us-history/road-to-revolution/x71a94f19:the-seven-years-war/v/the-seven-years-war-part-1"
+            },
+            {
+              "title": "The Seven Years' War: battles and legacy",
+              "slug": "v/the-seven-years-war-part-2",
+              "youtube_id": "egCzfiaUYPA",
+              "youtube_url": "https://www.youtube.com/watch?v=egCzfiaUYPA",
+              "duration_sec": 690,
+              "relative_url": "/humanities/us-history/road-to-revolution/x71a94f19:the-seven-years-war/v/the-seven-years-war-part-2"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Growing discontent",
+          "slug": "x71a94f19:growing-discontent",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "The American Revolution",
+          "slug": "the-american-revolution",
+          "videos": [
+            {
+              "title": "The Declaration of Independence",
+              "slug": "v/the-declaration-of-independence",
+              "youtube_id": "Ug8amZRFrZs",
+              "youtube_url": "https://www.youtube.com/watch?v=Ug8amZRFrZs",
+              "duration_sec": 793,
+              "relative_url": "/humanities/us-history/road-to-revolution/the-american-revolution/v/the-declaration-of-independence"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Creating a nation",
+          "slug": "creating-a-nation",
+          "videos": [
+            {
+              "title": "The Articles of Confederation",
+              "slug": "v/the-articles-of-confederation",
+              "youtube_id": "NfFRNgyQebE",
+              "youtube_url": "https://www.youtube.com/watch?v=NfFRNgyQebE",
+              "duration_sec": 314,
+              "relative_url": "/humanities/us-history/road-to-revolution/creating-a-nation/v/the-articles-of-confederation"
+            },
+            {
+              "title": "What was the Articles of Confederation?",
+              "slug": "v/what-was-the-articles-of-confederation",
+              "youtube_id": "evPP1FDePOY",
+              "youtube_url": "https://www.youtube.com/watch?v=evPP1FDePOY",
+              "duration_sec": 320,
+              "relative_url": "/humanities/us-history/road-to-revolution/creating-a-nation/v/what-was-the-articles-of-confederation"
+            },
+            {
+              "title": "The Constitutional Convention",
+              "slug": "v/the-constitutional-convention",
+              "youtube_id": "M0UTy_s01pw",
+              "youtube_url": "https://www.youtube.com/watch?v=M0UTy_s01pw",
+              "duration_sec": 616,
+              "relative_url": "/humanities/us-history/road-to-revolution/creating-a-nation/v/the-constitutional-convention"
+            },
+            {
+              "title": "The US Constitution",
+              "slug": "v/the-us-constitution",
+              "youtube_id": "s4GUt8G4Wd8",
+              "youtube_url": "https://www.youtube.com/watch?v=s4GUt8G4Wd8",
+              "duration_sec": 563,
+              "relative_url": "/humanities/us-history/road-to-revolution/creating-a-nation/v/the-us-constitution"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Social consequences of revolutionary ideals",
+          "slug": "x71a94f19:social-consequences-of-revolutionary-ideals",
+          "videos": [
+            {
+              "title": "Social consequences of revolutionary ideals",
+              "slug": "v/social-consequences-of-revolutionary-ideals",
+              "youtube_id": "crNShYTL0Ss",
+              "youtube_url": "https://www.youtube.com/watch?v=crNShYTL0Ss",
+              "duration_sec": 480,
+              "relative_url": "/humanities/us-history/road-to-revolution/x71a94f19:social-consequences-of-revolutionary-ideals/v/social-consequences-of-revolutionary-ideals"
+            },
+            {
+              "title": "Regional attitudes about slavery, 1754-1800",
+              "slug": "v/regional-attitudes-about-slavery-1754-1800",
+              "youtube_id": "SFhd8kcjaOw",
+              "youtube_url": "https://www.youtube.com/watch?v=SFhd8kcjaOw",
+              "duration_sec": 574,
+              "relative_url": "/humanities/us-history/road-to-revolution/x71a94f19:social-consequences-of-revolutionary-ideals/v/regional-attitudes-about-slavery-1754-1800"
+            },
+            {
+              "title": "Continuity and change in American society, 1754-1800",
+              "slug": "v/continuity-and-change-in-american-society-1754-1800",
+              "youtube_id": "wc3cDimF4a4",
+              "youtube_url": "https://www.youtube.com/watch?v=wc3cDimF4a4",
+              "duration_sec": 551,
+              "relative_url": "/humanities/us-history/road-to-revolution/x71a94f19:social-consequences-of-revolutionary-ideals/v/continuity-and-change-in-american-society-1754-1800"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Shaping a new republic",
+          "slug": "x71a94f19:leading-the-nation",
+          "videos": [
+            {
+              "title": "Why was George Washington the first president?",
+              "slug": "v/why-was-george-washington-the-first-president",
+              "youtube_id": "vuC_4Y1zgZw",
+              "youtube_url": "https://www.youtube.com/watch?v=vuC_4Y1zgZw",
+              "duration_sec": 399,
+              "relative_url": "/humanities/us-history/road-to-revolution/x71a94f19:leading-the-nation/v/why-was-george-washington-the-first-president"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:unit-overview",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The Early Republic (1800–1848)",
+      "slug": "the-early-republic",
+      "relative_url": "/humanities/us-history/the-early-republic",
+      "lessons": [
+        {
+          "title": "The Jeffersonian republic",
+          "slug": "politics-society-early-19th-c",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "Foreign policy in the early 1800s",
+          "slug": "x71a94f19:foreign-policy-in-the-early-1800s",
+          "videos": [
+            {
+              "title": "The Monroe Doctrine",
+              "slug": "v/the-monroe-doctrine",
+              "youtube_id": "Woh4gwIFpic",
+              "youtube_url": "https://www.youtube.com/watch?v=Woh4gwIFpic",
+              "duration_sec": 873,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:foreign-policy-in-the-early-1800s/v/the-monroe-doctrine"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Market Revolution",
+          "slug": "x71a94f19:the-market-revolution",
+          "videos": [
+            {
+              "title": "Textile mills and the cotton gin ",
+              "slug": "v/the-market-revolution-part-1",
+              "youtube_id": "KwIQy8xBOsk",
+              "youtube_url": "https://www.youtube.com/watch?v=KwIQy8xBOsk",
+              "duration_sec": 690,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:the-market-revolution/v/the-market-revolution-part-1"
+            },
+            {
+              "title": "Communication and transportation in the Market Revolution",
+              "slug": "v/the-market-revolution-part-2",
+              "youtube_id": "LRmEmbP-UOU",
+              "youtube_url": "https://www.youtube.com/watch?v=LRmEmbP-UOU",
+              "duration_sec": 625,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:the-market-revolution/v/the-market-revolution-part-2"
+            },
+            {
+              "title": "The impact and significance of the Market Revolution",
+              "slug": "v/the-market-revolution-part-3",
+              "youtube_id": "Qyi_J9jANlU",
+              "youtube_url": "https://www.youtube.com/watch?v=Qyi_J9jANlU",
+              "duration_sec": 716,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:the-market-revolution/v/the-market-revolution-part-3"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The age of Jackson ",
+          "slug": "age-of-jackson",
+          "videos": [
+            {
+              "title": "Jacksonian Democracy",
+              "slug": "v/jacksonian-democracy-part-1",
+              "youtube_id": "o0K8bb9uJQ4",
+              "youtube_url": "https://www.youtube.com/watch?v=o0K8bb9uJQ4",
+              "duration_sec": 350,
+              "relative_url": "/humanities/us-history/the-early-republic/age-of-jackson/v/jacksonian-democracy-part-1"
+            },
+            {
+              "title": "The \"corrupt bargain\" and the election of 1824 ",
+              "slug": "v/jacksonian-democracy-part-2",
+              "youtube_id": "m_Z3dWw7mVw",
+              "youtube_url": "https://www.youtube.com/watch?v=m_Z3dWw7mVw",
+              "duration_sec": 381,
+              "relative_url": "/humanities/us-history/the-early-republic/age-of-jackson/v/jacksonian-democracy-part-2"
+            },
+            {
+              "title": "Mudslinging and the election of 1828",
+              "slug": "v/jacksonian-democracy-part-3",
+              "youtube_id": "GnOf2f68Sao",
+              "youtube_url": "https://www.youtube.com/watch?v=GnOf2f68Sao",
+              "duration_sec": 381,
+              "relative_url": "/humanities/us-history/the-early-republic/age-of-jackson/v/jacksonian-democracy-part-3"
+            },
+            {
+              "title": "The spoils system, Bank War, and Trail of Tears",
+              "slug": "v/jacksonian-democracy-part-4",
+              "youtube_id": "mSzaJXR6MhA",
+              "youtube_url": "https://www.youtube.com/watch?v=mSzaJXR6MhA",
+              "duration_sec": 752,
+              "relative_url": "/humanities/us-history/the-early-republic/age-of-jackson/v/jacksonian-democracy-part-4"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Developing an American identity",
+          "slug": "x71a94f19:developing-an-american-identity",
+          "videos": [
+            {
+              "title": "Developing an American identity, 1800-1848",
+              "slug": "v/developing-an-american-identity-1800-1848",
+              "youtube_id": "VQ-xQ9B-0ss",
+              "youtube_url": "https://www.youtube.com/watch?v=VQ-xQ9B-0ss",
+              "duration_sec": 441,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:developing-an-american-identity/v/developing-an-american-identity-1800-1848"
+            },
+            {
+              "title": "The Second Great Awakening - origins and major ideas",
+              "slug": "v/the-second-great-awakening-part-1",
+              "youtube_id": "wnaLjLOAwkc",
+              "youtube_url": "https://www.youtube.com/watch?v=wnaLjLOAwkc",
+              "duration_sec": 678,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:developing-an-american-identity/v/the-second-great-awakening-part-1"
+            },
+            {
+              "title": "The Second Great Awakening - influence of the Market Revolution",
+              "slug": "v/the-second-great-awakening-part-2",
+              "youtube_id": "n_ZyBwiV-Vs",
+              "youtube_url": "https://www.youtube.com/watch?v=n_ZyBwiV-Vs",
+              "duration_sec": 777,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:developing-an-american-identity/v/the-second-great-awakening-part-2"
+            },
+            {
+              "title": "The Second Great Awakening - reform and religious movements",
+              "slug": "v/the-second-great-awakening-part-3",
+              "youtube_id": "LHwqEqOtrBg",
+              "youtube_url": "https://www.youtube.com/watch?v=LHwqEqOtrBg",
+              "duration_sec": 521,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:developing-an-american-identity/v/the-second-great-awakening-part-3"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Developing an American culture",
+          "slug": "culture-and-reform",
+          "videos": [
+            {
+              "title": "The development of an American culture",
+              "slug": "v/the-development-of-an-american-culture",
+              "youtube_id": "-zr1NBxTgG8",
+              "youtube_url": "https://www.youtube.com/watch?v=-zr1NBxTgG8",
+              "duration_sec": 598,
+              "relative_url": "/humanities/us-history/the-early-republic/culture-and-reform/v/the-development-of-an-american-culture"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Reform movements",
+          "slug": "x71a94f19:reform-movements",
+          "videos": [
+            {
+              "title": "The early temperance movement - origins",
+              "slug": "v/the-early-temperance-movement-part-1",
+              "youtube_id": "As-YfI9xVB0",
+              "youtube_url": "https://www.youtube.com/watch?v=As-YfI9xVB0",
+              "duration_sec": 293,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:reform-movements/v/the-early-temperance-movement-part-1"
+            },
+            {
+              "title": "The early temperance movement - spread and temporary decline ",
+              "slug": "v/the-early-temperance-movement-part-2",
+              "youtube_id": "gIEQ32s35ZE",
+              "youtube_url": "https://www.youtube.com/watch?v=gIEQ32s35ZE",
+              "duration_sec": 379,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:reform-movements/v/the-early-temperance-movement-part-2"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Manifest destiny",
+          "slug": "x71a94f19:manifest-destiny",
+          "videos": [
+            {
+              "title": "Manifest Destiny: causes and effects of westward expansion",
+              "slug": "v/manifest-destiny",
+              "youtube_id": "BH7URONYaHU",
+              "youtube_url": "https://www.youtube.com/watch?v=BH7URONYaHU",
+              "duration_sec": 518,
+              "relative_url": "/humanities/us-history/the-early-republic/x71a94f19:manifest-destiny/v/manifest-destiny"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:unit-overview-unit-4",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The Civil War Era (1844–1877)",
+      "slug": "civil-war-era",
+      "relative_url": "/humanities/us-history/civil-war-era",
+      "lessons": [
+        {
+          "title": "The Cotton Kingdom",
+          "slug": "x71a94f19:the-cotton-kingdom",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Mexican-American War",
+          "slug": "x71a94f19:the-mexican-american-war",
+          "videos": [
+            {
+              "title": "The Mexican-American War ",
+              "slug": "v/the-mexican-american-war",
+              "youtube_id": "QKRYLUlGlWc",
+              "youtube_url": "https://www.youtube.com/watch?v=QKRYLUlGlWc",
+              "duration_sec": 460,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:the-mexican-american-war/v/the-mexican-american-war"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "The Fugitive Slave Act",
+          "slug": "x71a94f19:the-fugitive-slave-act",
+          "videos": [
+            {
+              "title": "Influence of the Fugitive Slave Act",
+              "slug": "v/uncle-toms-cabin-part-1",
+              "youtube_id": "Z08N7pqr_cw",
+              "youtube_url": "https://www.youtube.com/watch?v=Z08N7pqr_cw",
+              "duration_sec": 455,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:the-fugitive-slave-act/v/uncle-toms-cabin-part-1"
+            },
+            {
+              "title": "Reception and significance of Uncle Tom's Cabin",
+              "slug": "v/uncle-toms-cabin-part-3",
+              "youtube_id": "MDFI8lWq33c",
+              "youtube_url": "https://www.youtube.com/watch?v=MDFI8lWq33c",
+              "duration_sec": 429,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:the-fugitive-slave-act/v/uncle-toms-cabin-part-3"
+            },
+            {
+              "title": "Uncle Tom's Cabin",
+              "slug": "v/uncle-toms-cabin-part-2",
+              "youtube_id": "GiuuoYkQJXk",
+              "youtube_url": "https://www.youtube.com/watch?v=GiuuoYkQJXk",
+              "duration_sec": 379,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:the-fugitive-slave-act/v/uncle-toms-cabin-part-2"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Bleeding Kansas",
+          "slug": "x71a94f19:bleeding-kansas",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "National crisis",
+          "slug": "sectional-tension-1850s",
+          "videos": [
+            {
+              "title": "Sectional conflict: Regional differences",
+              "slug": "v/sectional-conflict-regional-differences",
+              "youtube_id": "H-EDcke6n9E",
+              "youtube_url": "https://www.youtube.com/watch?v=H-EDcke6n9E",
+              "duration_sec": 508,
+              "relative_url": "/humanities/us-history/civil-war-era/sectional-tension-1850s/v/sectional-conflict-regional-differences"
+            },
+            {
+              "title": "Dred Scott v. Sandford",
+              "slug": "v/dred-scott-v-sandford",
+              "youtube_id": "sWuXMjrv4aA",
+              "youtube_url": "https://www.youtube.com/watch?v=sWuXMjrv4aA",
+              "duration_sec": 1123,
+              "relative_url": "/humanities/us-history/civil-war-era/sectional-tension-1850s/v/dred-scott-v-sandford"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Civil War",
+          "slug": "slavery-and-the-civil-war",
+          "videos": [
+            {
+              "title": "Slavery and the Missouri Compromise ",
+              "slug": "v/slavery-and-missouri-compromise-in-early-1800s",
+              "youtube_id": "d9hQk2Mmpcw",
+              "youtube_url": "https://www.youtube.com/watch?v=d9hQk2Mmpcw",
+              "duration_sec": 661,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/slavery-and-missouri-compromise-in-early-1800s"
+            },
+            {
+              "title": "Increasing political battles over slavery in the mid-1800s",
+              "slug": "v/increasing-political-battles-over-slavery-in-mid-1800s",
+              "youtube_id": "09YsW2U-7kw",
+              "youtube_url": "https://www.youtube.com/watch?v=09YsW2U-7kw",
+              "duration_sec": 707,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/increasing-political-battles-over-slavery-in-mid-1800s"
+            },
+            {
+              "title": "Start of the Civil War - secession and Fort Sumter",
+              "slug": "v/start-of-the-civil-war",
+              "youtube_id": "Dl0RRDiG6O8",
+              "youtube_url": "https://www.youtube.com/watch?v=Dl0RRDiG6O8",
+              "duration_sec": 644,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/start-of-the-civil-war"
+            },
+            {
+              "title": "Strategy of the Civil War",
+              "slug": "v/strategy-of-the-civil-war",
+              "youtube_id": "L87VpmRLAPg",
+              "youtube_url": "https://www.youtube.com/watch?v=L87VpmRLAPg",
+              "duration_sec": 663,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/strategy-of-the-civil-war"
+            },
+            {
+              "title": "Early phases of Civil War and Antietam",
+              "slug": "v/early-phases-of-civil-war-and-antietam",
+              "youtube_id": "01crUV4VSkk",
+              "youtube_url": "https://www.youtube.com/watch?v=01crUV4VSkk",
+              "duration_sec": 617,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/early-phases-of-civil-war-and-antietam"
+            },
+            {
+              "title": "Significance of the battle of Antietam",
+              "slug": "v/antietam-part-2",
+              "youtube_id": "k4uSZ6sonCU",
+              "youtube_url": "https://www.youtube.com/watch?v=k4uSZ6sonCU",
+              "duration_sec": 441,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/antietam-part-2"
+            },
+            {
+              "title": "The battle of Gettysburg",
+              "slug": "v/gettysburg",
+              "youtube_id": "DtZOaOHROvg",
+              "youtube_url": "https://www.youtube.com/watch?v=DtZOaOHROvg",
+              "duration_sec": 737,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/gettysburg"
+            },
+            {
+              "title": "The Gettysburg Address | Setting and context ",
+              "slug": "v/the-gettysburg-address-part-1",
+              "youtube_id": "To7qmiTRZQ8",
+              "youtube_url": "https://www.youtube.com/watch?v=To7qmiTRZQ8",
+              "duration_sec": 595,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/the-gettysburg-address-part-1"
+            },
+            {
+              "title": "Photographing the Battle of Gettysburg, O'Sullivan's Harvest of Death",
+              "slug": "v/photographing-gettysburg-osullivan-harvest-of-death",
+              "youtube_id": "1Zj5upI-OpE",
+              "youtube_url": "https://www.youtube.com/watch?v=1Zj5upI-OpE",
+              "duration_sec": 382,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/photographing-gettysburg-osullivan-harvest-of-death"
+            },
+            {
+              "title": "The Gettysburg Address | Full text and analysis",
+              "slug": "v/the-gettysburg-address-part-2",
+              "youtube_id": "aXm8y90pQ8Q",
+              "youtube_url": "https://www.youtube.com/watch?v=aXm8y90pQ8Q",
+              "duration_sec": 710,
+              "relative_url": "/humanities/us-history/civil-war-era/slavery-and-the-civil-war/v/the-gettysburg-address-part-2"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The end of the Civil War",
+          "slug": "x71a94f19:the-end-of-the-civil-war",
+          "videos": [
+            {
+              "title": "The Anaconda Plan",
+              "slug": "v/later-stages-of-the-civil-war-part-1",
+              "youtube_id": "ZE_M0_k4mG4",
+              "youtube_url": "https://www.youtube.com/watch?v=ZE_M0_k4mG4",
+              "duration_sec": 351,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:the-end-of-the-civil-war/v/later-stages-of-the-civil-war-part-1"
+            },
+            {
+              "title": "The election of 1864 and Sherman's March",
+              "slug": "v/later-stages-of-the-civil-war-part-2",
+              "youtube_id": "r8YAnRo7VDo",
+              "youtube_url": "https://www.youtube.com/watch?v=r8YAnRo7VDo",
+              "duration_sec": 530,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:the-end-of-the-civil-war/v/later-stages-of-the-civil-war-part-2"
+            },
+            {
+              "title": "Appomattox and Lincoln's assassination",
+              "slug": "v/later-stages-of-the-civil-war-part-3",
+              "youtube_id": "6nTCnN-OzI4",
+              "youtube_url": "https://www.youtube.com/watch?v=6nTCnN-OzI4",
+              "duration_sec": 638,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:the-end-of-the-civil-war/v/later-stages-of-the-civil-war-part-3"
+            },
+            {
+              "title": "Big takeaways from the Civil War",
+              "slug": "v/big-takeaways-from-the-civil-war",
+              "youtube_id": "8YAJbAcRnsk",
+              "youtube_url": "https://www.youtube.com/watch?v=8YAJbAcRnsk",
+              "duration_sec": 659,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:the-end-of-the-civil-war/v/big-takeaways-from-the-civil-war"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Reconstruction",
+          "slug": "reconstruction",
+          "videos": [
+            {
+              "title": "An overview and the 13th Amendment",
+              "slug": "v/the-reconstruction-amendments-overview-and-13th-amendment",
+              "youtube_id": "2ecG8NT43x0",
+              "youtube_url": "https://www.youtube.com/watch?v=2ecG8NT43x0",
+              "duration_sec": 282,
+              "relative_url": "/humanities/us-history/civil-war-era/reconstruction/v/the-reconstruction-amendments-overview-and-13th-amendment"
+            },
+            {
+              "title": "The 14th Amendment",
+              "slug": "v/reconstruction-amendments-14th-amendment",
+              "youtube_id": "2ZSDevuR4UY",
+              "youtube_url": "https://www.youtube.com/watch?v=2ZSDevuR4UY",
+              "duration_sec": 376,
+              "relative_url": "/humanities/us-history/civil-war-era/reconstruction/v/reconstruction-amendments-14th-amendment"
+            },
+            {
+              "title": "The 15th Amendment",
+              "slug": "v/reconstruction-amendments-15th-amendment",
+              "youtube_id": "V_4pj4_C2Vc",
+              "youtube_url": "https://www.youtube.com/watch?v=V_4pj4_C2Vc",
+              "duration_sec": 423,
+              "relative_url": "/humanities/us-history/civil-war-era/reconstruction/v/reconstruction-amendments-15th-amendment"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Failure of Reconstruction",
+          "slug": "x71a94f19:failure-of-reconstruction",
+          "videos": [
+            {
+              "title": "Failure of Reconstruction",
+              "slug": "v/failure-of-reconstruction",
+              "youtube_id": "FqPozblg-MY",
+              "youtube_url": "https://www.youtube.com/watch?v=FqPozblg-MY",
+              "duration_sec": 408,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:failure-of-reconstruction/v/failure-of-reconstruction"
+            },
+            {
+              "title": "Comparing the effects of the Civil War on American national identity",
+              "slug": "v/comparing-the-effects-of-the-civil-war-on-american-national-identity",
+              "youtube_id": "5DbDqxUfIXw",
+              "youtube_url": "https://www.youtube.com/watch?v=5DbDqxUfIXw",
+              "duration_sec": 509,
+              "relative_url": "/humanities/us-history/civil-war-era/x71a94f19:failure-of-reconstruction/v/comparing-the-effects-of-the-civil-war-on-american-national-identity"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:unit-overview-unit-5",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The Gilded Age (1865–1898)",
+      "slug": "the-gilded-age",
+      "relative_url": "/humanities/us-history/the-gilded-age",
+      "lessons": [
+        {
+          "title": "The Gilded Age",
+          "slug": "gilded-age",
+          "videos": [
+            {
+              "title": "Introduction to the Gilded Age",
+              "slug": "v/the-gilded-age-part-1",
+              "youtube_id": "dC7BtsV-ddc",
+              "youtube_url": "https://www.youtube.com/watch?v=dC7BtsV-ddc",
+              "duration_sec": 458,
+              "relative_url": "/humanities/us-history/the-gilded-age/gilded-age/v/the-gilded-age-part-1"
+            },
+            {
+              "title": "The Gilded Age and the Second Industrial Revolution",
+              "slug": "v/the-gilded-age-part-2",
+              "youtube_id": "uXQqefD6sPA",
+              "youtube_url": "https://www.youtube.com/watch?v=uXQqefD6sPA",
+              "duration_sec": 630,
+              "relative_url": "/humanities/us-history/the-gilded-age/gilded-age/v/the-gilded-age-part-2"
+            },
+            {
+              "title": "A biologist's perspective on Social Darwinism",
+              "slug": "v/darwinism-vs-social-darwinism-part-1",
+              "youtube_id": "1RoJcfnZYCQ",
+              "youtube_url": "https://www.youtube.com/watch?v=1RoJcfnZYCQ",
+              "duration_sec": 527,
+              "relative_url": "/humanities/us-history/the-gilded-age/gilded-age/v/darwinism-vs-social-darwinism-part-1"
+            },
+            {
+              "title": "A historian's perspective on Social Darwinism",
+              "slug": "v/darwinism-vs-social-darwinism-part-2",
+              "youtube_id": "VqKIDyLhYJ4",
+              "youtube_url": "https://www.youtube.com/watch?v=VqKIDyLhYJ4",
+              "duration_sec": 618,
+              "relative_url": "/humanities/us-history/the-gilded-age/gilded-age/v/darwinism-vs-social-darwinism-part-2"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Politics of the Gilded Age",
+          "slug": "x71a94f19:politics-of-the-gilded-age",
+          "videos": [
+            {
+              "title": "What was the Gilded Age?",
+              "slug": "v/what-was-the-gilded-age",
+              "youtube_id": "2MEyuKGw6-A",
+              "youtube_url": "https://www.youtube.com/watch?v=2MEyuKGw6-A",
+              "duration_sec": 465,
+              "relative_url": "/humanities/us-history/the-gilded-age/x71a94f19:politics-of-the-gilded-age/v/what-was-the-gilded-age"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Capitalism and labor in the Gilded Age",
+          "slug": "x71a94f19:capitalism-and-labor-in-the-gilded-age",
+          "videos": [
+            {
+              "title": "Continuity and change in the Gilded Age",
+              "slug": "v/continuity-and-change-in-the-gilded-age",
+              "youtube_id": "bGXSvj-clXo",
+              "youtube_url": "https://www.youtube.com/watch?v=bGXSvj-clXo",
+              "duration_sec": 604,
+              "relative_url": "/humanities/us-history/the-gilded-age/x71a94f19:capitalism-and-labor-in-the-gilded-age/v/continuity-and-change-in-the-gilded-age"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Jim Crow and the \"New South\"",
+          "slug": "south-after-civil-war",
+          "videos": [
+            {
+              "title": "The origins of Jim Crow - introduction",
+              "slug": "v/jim-crow-part-1",
+              "youtube_id": "bOVQYIGtqXk",
+              "youtube_url": "https://www.youtube.com/watch?v=bOVQYIGtqXk",
+              "duration_sec": 393,
+              "relative_url": "/humanities/us-history/the-gilded-age/south-after-civil-war/v/jim-crow-part-1"
+            },
+            {
+              "title": "Black Codes and Reconstruction",
+              "slug": "v/jim-crow-part-2",
+              "youtube_id": "82Lhe3ipD90",
+              "youtube_url": "https://www.youtube.com/watch?v=82Lhe3ipD90",
+              "duration_sec": 346,
+              "relative_url": "/humanities/us-history/the-gilded-age/south-after-civil-war/v/jim-crow-part-2"
+            },
+            {
+              "title": "The Fourteenth and Fifteenth Amendments",
+              "slug": "v/jim-crow-part-3",
+              "youtube_id": "VhNouf_RdXs",
+              "youtube_url": "https://www.youtube.com/watch?v=VhNouf_RdXs",
+              "duration_sec": 241,
+              "relative_url": "/humanities/us-history/the-gilded-age/south-after-civil-war/v/jim-crow-part-3"
+            },
+            {
+              "title": "Compromise of 1877 and Plessy v. Ferguson",
+              "slug": "v/jim-crow-pt-4",
+              "youtube_id": "eUJya1CJe8c",
+              "youtube_url": "https://www.youtube.com/watch?v=eUJya1CJe8c",
+              "duration_sec": 478,
+              "relative_url": "/humanities/us-history/the-gilded-age/south-after-civil-war/v/jim-crow-pt-4"
+            },
+            {
+              "title": "Plessy v. Ferguson",
+              "slug": "v/plessy-v-ferguson",
+              "youtube_id": "IfybCoVN9G8",
+              "youtube_url": "https://www.youtube.com/watch?v=IfybCoVN9G8",
+              "duration_sec": 1119,
+              "relative_url": "/humanities/us-history/the-gilded-age/south-after-civil-war/v/plessy-v-ferguson"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The American West ",
+          "slug": "american-west",
+          "videos": [
+            {
+              "title": "Westward expansion: Social and cultural development",
+              "slug": "v/westward-expansion-social-and-cultural-development",
+              "youtube_id": "rq3ZswJXWqE",
+              "youtube_url": "https://www.youtube.com/watch?v=rq3ZswJXWqE",
+              "duration_sec": 506,
+              "relative_url": "/humanities/us-history/the-gilded-age/american-west/v/westward-expansion-social-and-cultural-development"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Building the American West",
+          "slug": "x71a94f19:building-the-american-west",
+          "videos": [
+            {
+              "title": "Immigration and migration in the Gilded Age",
+              "slug": "v/immigration-and-migration-in-the-gilded-age",
+              "youtube_id": "6GfVdrfM3-g",
+              "youtube_url": "https://www.youtube.com/watch?v=6GfVdrfM3-g",
+              "duration_sec": 508,
+              "relative_url": "/humanities/us-history/the-gilded-age/x71a94f19:building-the-american-west/v/immigration-and-migration-in-the-gilded-age"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:untitled-507",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The rise to world power (1890–1945)",
+      "slug": "rise-to-world-power",
+      "relative_url": "/humanities/us-history/rise-to-world-power",
+      "lessons": [
+        {
+          "title": "The age of empire",
+          "slug": "age-of-empire",
+          "videos": [
+            {
+              "title": "The age of empire",
+              "slug": "v/the-age-of-empire",
+              "youtube_id": "eJgtqs_Rwts",
+              "youtube_url": "https://www.youtube.com/watch?v=eJgtqs_Rwts",
+              "duration_sec": 669,
+              "relative_url": "/humanities/us-history/rise-to-world-power/age-of-empire/v/the-age-of-empire"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Progressive Era",
+          "slug": "x71a94f19:the-progressive-era",
+          "videos": [
+            {
+              "title": "The Progressives",
+              "slug": "v/the-progressives",
+              "youtube_id": "zGhsN9NmJh8",
+              "youtube_url": "https://www.youtube.com/watch?v=zGhsN9NmJh8",
+              "duration_sec": 454,
+              "relative_url": "/humanities/us-history/rise-to-world-power/x71a94f19:the-progressive-era/v/the-progressives"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The United States in World War I",
+          "slug": "us-in-wwi",
+          "videos": [
+            {
+              "title": "Blockades, u-boats and sinking of the Lusitania",
+              "slug": "v/blockades-u-boats-and-sinking-of-the-lusitania",
+              "youtube_id": "B_P48TakY3Y",
+              "youtube_url": "https://www.youtube.com/watch?v=B_P48TakY3Y",
+              "duration_sec": 724,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-in-wwi/v/blockades-u-boats-and-sinking-of-the-lusitania"
+            },
+            {
+              "title": "Zimmermann Telegram",
+              "slug": "v/zimmermann-telegram",
+              "youtube_id": "Gedy8LwQTaw",
+              "youtube_url": "https://www.youtube.com/watch?v=Gedy8LwQTaw",
+              "duration_sec": 250,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-in-wwi/v/zimmermann-telegram"
+            },
+            {
+              "title": "United States enters World War I",
+              "slug": "v/united-states-enters-world-war-i",
+              "youtube_id": "dHXzusNSF60",
+              "youtube_url": "https://www.youtube.com/watch?v=dHXzusNSF60",
+              "duration_sec": 425,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-in-wwi/v/united-states-enters-world-war-i"
+            },
+            {
+              "title": "World War I: Homefront",
+              "slug": "v/world-war-i-homefront",
+              "youtube_id": "WaWuLLuBaVo",
+              "youtube_url": "https://www.youtube.com/watch?v=WaWuLLuBaVo",
+              "duration_sec": 405,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-in-wwi/v/world-war-i-homefront"
+            },
+            {
+              "title": "Woodrow Wilson's Fourteen Points",
+              "slug": "v/woodrow-wilson-s-fourteen-points",
+              "youtube_id": "XMElagkUBmY",
+              "youtube_url": "https://www.youtube.com/watch?v=XMElagkUBmY",
+              "duration_sec": 996,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-in-wwi/v/woodrow-wilson-s-fourteen-points"
+            },
+            {
+              "title": "Paris Peace Conference and Treaty of Versailles",
+              "slug": "v/paris-peace-conference-and-treaty-of-versailles",
+              "youtube_id": "o1IFePaNENQ",
+              "youtube_url": "https://www.youtube.com/watch?v=o1IFePaNENQ",
+              "duration_sec": 610,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-in-wwi/v/paris-peace-conference-and-treaty-of-versailles"
+            },
+            {
+              "title": "More detail on the Treaty of Versailles and Germany",
+              "slug": "v/more-detail-on-the-treaty-of-versailles-and-germany",
+              "youtube_id": "TmFET3F64pE",
+              "youtube_url": "https://www.youtube.com/watch?v=TmFET3F64pE",
+              "duration_sec": 380,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-in-wwi/v/more-detail-on-the-treaty-of-versailles-and-germany"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "1920s America",
+          "slug": "1920s-america",
+          "videos": [
+            {
+              "title": "1920s urbanization and immigration",
+              "slug": "v/1920s-urbanization-and-immigration",
+              "youtube_id": "EnwqpenGGcE",
+              "youtube_url": "https://www.youtube.com/watch?v=EnwqpenGGcE",
+              "duration_sec": 306,
+              "relative_url": "/humanities/us-history/rise-to-world-power/1920s-america/v/1920s-urbanization-and-immigration"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Politics in the 1920s",
+          "slug": "x71a94f19:politics-in-the-1920s",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Culture in the 1920s",
+          "slug": "x71a94f19:culture-in-the-1920s",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Great Depression",
+          "slug": "great-depression",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "The beginning of World War II",
+          "slug": "x71a94f19:the-beginning-of-world-war-ii",
+          "videos": [
+            {
+              "title": "Beginning of World War II",
+              "slug": "v/beginning-of-world-war-ii",
+              "youtube_id": "-kKCjwNvNkQ",
+              "youtube_url": "https://www.youtube.com/watch?v=-kKCjwNvNkQ",
+              "duration_sec": 475,
+              "relative_url": "/humanities/us-history/rise-to-world-power/x71a94f19:the-beginning-of-world-war-ii/v/beginning-of-world-war-ii"
+            },
+            {
+              "title": "1940  - Axis gains momentum in World War II",
+              "slug": "v/1940-axis-gains-momentum-in-world-war-ii",
+              "youtube_id": "Toss6Hzf5n0",
+              "youtube_url": "https://www.youtube.com/watch?v=Toss6Hzf5n0",
+              "duration_sec": 374,
+              "relative_url": "/humanities/us-history/rise-to-world-power/x71a94f19:the-beginning-of-world-war-ii/v/1940-axis-gains-momentum-in-world-war-ii"
+            },
+            {
+              "title": "1941   Axis momentum accelerates in WW2",
+              "slug": "v/1941-axis-momentum-accelerates-in-ww2",
+              "youtube_id": "X3bqQI7-sCg",
+              "youtube_url": "https://www.youtube.com/watch?v=X3bqQI7-sCg",
+              "duration_sec": 732,
+              "relative_url": "/humanities/us-history/rise-to-world-power/x71a94f19:the-beginning-of-world-war-ii/v/1941-axis-momentum-accelerates-in-ww2"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "World War II",
+          "slug": "us-wwii",
+          "videos": [
+            {
+              "title": "1942 - Tide turning in World War II in Europe",
+              "slug": "v/1942-tide-turning-in-world-war-ii-in-europe",
+              "youtube_id": "FqGLqdk9Sr0",
+              "youtube_url": "https://www.youtube.com/watch?v=FqGLqdk9Sr0",
+              "duration_sec": 312,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-wwii/v/1942-tide-turning-in-world-war-ii-in-europe"
+            },
+            {
+              "title": "World War II in the Pacific",
+              "slug": "v/world-war-ii-in-the-pacific-in-1942",
+              "youtube_id": "CBHfoQsF2Y4",
+              "youtube_url": "https://www.youtube.com/watch?v=CBHfoQsF2Y4",
+              "duration_sec": 351,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-wwii/v/world-war-ii-in-the-pacific-in-1942"
+            },
+            {
+              "title": "1943 - Axis powers losing in Europe",
+              "slug": "v/1943-axis-losing-in-europe",
+              "youtube_id": "x9g82IA-IEU",
+              "youtube_url": "https://www.youtube.com/watch?v=x9g82IA-IEU",
+              "duration_sec": 296,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-wwii/v/1943-axis-losing-in-europe"
+            },
+            {
+              "title": "American progress in the Pacific in 1944",
+              "slug": "v/american-progress-in-the-pacific-in-1944",
+              "youtube_id": "-6XBnjFrWBg",
+              "youtube_url": "https://www.youtube.com/watch?v=-6XBnjFrWBg",
+              "duration_sec": 455,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-wwii/v/american-progress-in-the-pacific-in-1944"
+            },
+            {
+              "title": "1944  - Allies advance further in Europe",
+              "slug": "v/1944-allies-advance-further-in-europe",
+              "youtube_id": "0UgQ0B_0hAg",
+              "youtube_url": "https://www.youtube.com/watch?v=0UgQ0B_0hAg",
+              "duration_sec": 385,
+              "relative_url": "/humanities/us-history/rise-to-world-power/us-wwii/v/1944-allies-advance-further-in-europe"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Atomic Age",
+          "slug": "x71a94f19:the-atomic-age",
+          "videos": [
+            {
+              "title": "End of World War II",
+              "slug": "v/1945-end-of-world-war-ii",
+              "youtube_id": "U6RFAUmYU5o",
+              "youtube_url": "https://www.youtube.com/watch?v=U6RFAUmYU5o",
+              "duration_sec": 484,
+              "relative_url": "/humanities/us-history/rise-to-world-power/x71a94f19:the-atomic-age/v/1945-end-of-world-war-ii"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "American identity",
+          "slug": "x71a94f19:american-identity",
+          "videos": [
+            {
+              "title": "Shaping American national identity from 1890 to 1945",
+              "slug": "v/shaping-american-national-identity-from-1890-to-1945",
+              "youtube_id": "uaef1AR4xP4",
+              "youtube_url": "https://www.youtube.com/watch?v=uaef1AR4xP4",
+              "duration_sec": 511,
+              "relative_url": "/humanities/us-history/rise-to-world-power/x71a94f19:american-identity/v/shaping-american-national-identity-from-1890-to-1945"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:untitled-511",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The Postwar Era (1945–1980)",
+      "slug": "postwarera",
+      "relative_url": "/humanities/us-history/postwarera",
+      "lessons": [
+        {
+          "title": "The Cold War begins",
+          "slug": "x71a94f19:the-cold-war-begins",
+          "videos": [
+            {
+              "title": "Communism",
+              "slug": "v/communism",
+              "youtube_id": "MmRgMAZyYN0",
+              "youtube_url": "https://www.youtube.com/watch?v=MmRgMAZyYN0",
+              "duration_sec": 903,
+              "relative_url": "/humanities/us-history/postwarera/x71a94f19:the-cold-war-begins/v/communism"
+            },
+            {
+              "title": "Origins of the Cold War",
+              "slug": "v/origins-of-the-cold-war",
+              "youtube_id": "BlFjNf4f0mE",
+              "youtube_url": "https://www.youtube.com/watch?v=BlFjNf4f0mE",
+              "duration_sec": 718,
+              "relative_url": "/humanities/us-history/postwarera/x71a94f19:the-cold-war-begins/v/origins-of-the-cold-war"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Postwar society",
+          "slug": "postwar-era",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Korean War",
+          "slug": "x71a94f19:the-korean-war",
+          "videos": [
+            {
+              "title": "Korean War overview",
+              "slug": "v/korean-war-overview",
+              "youtube_id": "MEGyRgYJKEY",
+              "youtube_url": "https://www.youtube.com/watch?v=MEGyRgYJKEY",
+              "duration_sec": 970,
+              "relative_url": "/humanities/us-history/postwarera/x71a94f19:the-korean-war/v/korean-war-overview"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "1950s America",
+          "slug": "1950s-america",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Civil Rights Movement begins",
+          "slug": "civil-rights-movement",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "The Civil Rights Movement continues",
+          "slug": "x71a94f19:the-civil-rights-movement-continues",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Cuban Missile Crisis",
+          "slug": "x71a94f19:the-cuban-missile-crisis",
+          "videos": [
+            {
+              "title": "Bay of Pigs Invasion",
+              "slug": "v/bay-of-pigs-invasion",
+              "youtube_id": "XmkbAduMD_E",
+              "youtube_url": "https://www.youtube.com/watch?v=XmkbAduMD_E",
+              "duration_sec": 822,
+              "relative_url": "/humanities/us-history/postwarera/x71a94f19:the-cuban-missile-crisis/v/bay-of-pigs-invasion"
+            },
+            {
+              "title": "Cuban Missile Crisis",
+              "slug": "v/cuban-missile-crisis",
+              "youtube_id": "VO40SpSBjbc",
+              "youtube_url": "https://www.youtube.com/watch?v=VO40SpSBjbc",
+              "duration_sec": 1140,
+              "relative_url": "/humanities/us-history/postwarera/x71a94f19:the-cuban-missile-crisis/v/cuban-missile-crisis"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "The Vietnam War",
+          "slug": "x71a94f19:the-vietnam-war",
+          "videos": [
+            {
+              "title": "Vietnam War",
+              "slug": "v/vietnam-war",
+              "youtube_id": "9e9GWdT2pEQ",
+              "youtube_url": "https://www.youtube.com/watch?v=9e9GWdT2pEQ",
+              "duration_sec": 1061,
+              "relative_url": "/humanities/us-history/postwarera/x71a94f19:the-vietnam-war/v/vietnam-war"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "1960s America",
+          "slug": "1960s-america",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "1970s America",
+          "slug": "1970s-america",
+          "videos": [
+            {
+              "title": "Continuity and change in the postwar era",
+              "slug": "v/continuity-and-change-in-the-postwar-era",
+              "youtube_id": "cTHqWtIz4lI",
+              "youtube_url": "https://www.youtube.com/watch?v=cTHqWtIz4lI",
+              "duration_sec": 617,
+              "relative_url": "/humanities/us-history/postwarera/1970s-america/v/continuity-and-change-in-the-postwar-era"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:untitled-515",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "The Modern Era (1980–present)",
+      "slug": "modern-us",
+      "relative_url": "/humanities/us-history/modern-us",
+      "lessons": [
+        {
+          "title": "1980s America",
+          "slug": "1980s-america",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "1990s America",
+          "slug": "1990s-america",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "The new millennium ",
+          "slug": "us-after-2000",
+          "videos": [
+            {
+              "title": "Causation from 1980-2020",
+              "slug": "v/causation-from-1980-2020",
+              "youtube_id": "6JXYNT5wD2A",
+              "youtube_url": "https://www.youtube.com/watch?v=6JXYNT5wD2A",
+              "duration_sec": 583,
+              "relative_url": "/humanities/us-history/modern-us/us-after-2000/v/causation-from-1980-2020"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Unit overview",
+          "slug": "x71a94f19:untitled-519",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": " Teacher resources",
+      "slug": "x71a94f19:untitled-523",
+      "relative_url": "/humanities/us-history/x71a94f19:untitled-523",
+      "lessons": [
+        {
+          "title": "Writing Coach assignments",
+          "slug": "x71a94f19:writing-coach",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Unit overviews",
+          "slug": "x71a94f19:unit-overviews",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Surveys of history",
+      "slug": "history-survey",
+      "relative_url": "/humanities/us-history/history-survey",
+      "lessons": [
+        {
+          "title": "United States history overview",
+          "slug": "us-history-survey",
+          "videos": [
+            {
+              "title": "Why study US history, government, and civics?",
+              "slug": "v/why-study-us-history-government-and-civics",
+              "youtube_id": "3axHf16S0Us",
+              "youtube_url": "https://www.youtube.com/watch?v=3axHf16S0Us",
+              "duration_sec": 108,
+              "relative_url": "/humanities/us-history/history-survey/us-history-survey/v/why-study-us-history-government-and-civics"
+            },
+            {
+              "title": "US History Overview 1: Jamestown to the Civil War",
+              "slug": "v/us-history-overview-1-jamestown-to-the-civil-war",
+              "youtube_id": "ghgPq2wjQUQ",
+              "youtube_url": "https://www.youtube.com/watch?v=ghgPq2wjQUQ",
+              "duration_sec": 1108,
+              "relative_url": "/humanities/us-history/history-survey/us-history-survey/v/us-history-overview-1-jamestown-to-the-civil-war"
+            },
+            {
+              "title": "US History overview 2: Reconstruction to the Great Depression",
+              "slug": "v/us-history-overview-2-reconstruction-to-the-great-depression",
+              "youtube_id": "zmBV87XA52Q",
+              "youtube_url": "https://www.youtube.com/watch?v=zmBV87XA52Q",
+              "duration_sec": 863,
+              "relative_url": "/humanities/us-history/history-survey/us-history-survey/v/us-history-overview-2-reconstruction-to-the-great-depression"
+            },
+            {
+              "title": "US History overview 3: WWII to Vietnam",
+              "slug": "v/us-history-overview-3-wwii-to-vietnam",
+              "youtube_id": "j2eKaxU-8kA",
+              "youtube_url": "https://www.youtube.com/watch?v=j2eKaxU-8kA",
+              "duration_sec": 886,
+              "relative_url": "/humanities/us-history/history-survey/us-history-survey/v/us-history-overview-3-wwii-to-vietnam"
+            },
+            {
+              "title": "Appomattox and Lincoln's assassination",
+              "slug": "v/appomattox-court-house-and-lincoln-s-assassination",
+              "youtube_id": "Frpq_A7Ky_Q",
+              "youtube_url": "https://www.youtube.com/watch?v=Frpq_A7Ky_Q",
+              "duration_sec": 361,
+              "relative_url": "/humanities/us-history/history-survey/us-history-survey/v/appomattox-court-house-and-lincoln-s-assassination"
+            },
+            {
+              "title": "When Capitalism is great and not-so-great",
+              "slug": "v/when-capitalism-is-great-and-not-so-great",
+              "youtube_id": "8NJEeEUUhaI",
+              "youtube_url": "https://www.youtube.com/watch?v=8NJEeEUUhaI",
+              "duration_sec": 828,
+              "relative_url": "/humanities/us-history/history-survey/us-history-survey/v/when-capitalism-is-great-and-not-so-great"
+            },
+            {
+              "title": "20th century US capitalism and regulation",
+              "slug": "v/20th-century-capitalism-and-regulation-in-the-united-states",
+              "youtube_id": "J33nVRyTeyU",
+              "youtube_url": "https://www.youtube.com/watch?v=J33nVRyTeyU",
+              "duration_sec": 861,
+              "relative_url": "/humanities/us-history/history-survey/us-history-survey/v/20th-century-capitalism-and-regulation-in-the-united-states"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Primary documents",
+      "slug": "x71a94f19:primary-documents",
+      "relative_url": "/humanities/us-history/x71a94f19:primary-documents",
+      "lessons": [
+        {
+          "title": "Thinking like a historian",
+          "slug": "how-to-think-like-a-historian",
+          "videos": [
+            {
+              "title": "Thinking like a historian",
+              "slug": "v/thinking-like-a-historian",
+              "youtube_id": "vIdMgO-tfyE",
+              "youtube_url": "https://www.youtube.com/watch?v=vIdMgO-tfyE",
+              "duration_sec": 528,
+              "relative_url": "/humanities/us-history/x71a94f19:primary-documents/how-to-think-like-a-historian/v/thinking-like-a-historian"
+            },
+            {
+              "title": "How to read a document: Source identification",
+              "slug": "v/how-to-read-a-document",
+              "youtube_id": "Q4kxgMH46mY",
+              "youtube_url": "https://www.youtube.com/watch?v=Q4kxgMH46mY",
+              "duration_sec": 755,
+              "relative_url": "/humanities/us-history/x71a94f19:primary-documents/how-to-think-like-a-historian/v/how-to-read-a-document"
+            },
+            {
+              "title": "How to read a document: Analyzing a historical text",
+              "slug": "v/how-to-read-a-document-part-2",
+              "youtube_id": "po33g3yIRXA",
+              "youtube_url": "https://www.youtube.com/watch?v=po33g3yIRXA",
+              "duration_sec": 829,
+              "relative_url": "/humanities/us-history/x71a94f19:primary-documents/how-to-think-like-a-historian/v/how-to-read-a-document-part-2"
+            },
+            {
+              "title": "Avoiding common mistakes in historical essays",
+              "slug": "v/avoiding-common-mistakes-in-historical-essays",
+              "youtube_id": "XLAA6ic_AmI",
+              "youtube_url": "https://www.youtube.com/watch?v=XLAA6ic_AmI",
+              "duration_sec": 585,
+              "relative_url": "/humanities/us-history/x71a94f19:primary-documents/how-to-think-like-a-historian/v/avoiding-common-mistakes-in-historical-essays"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Primary documents",
+          "slug": "x71a94f19:primary-documents-lesson",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+{
+  "key": "hs-chemistry",
+  "tier": "T2",
+  "subject": "science",
+  "slug": "hs-chemistry",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "High school chemistry",
+  "course_slug": "hs-chemistry",
+  "units": [
+    {
+      "title": "Atoms, isotopes, and ions",
+      "slug": "x2613d8165d88df5e:atoms-isotopes-and-ions",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions",
+      "lessons": [
+        {
+          "title": "Atomic structure",
+          "slug": "x2613d8165d88df5e:atomic-structure",
+          "videos": [
+            {
+              "title": "Protons, neutrons, and electrons in atoms",
+              "slug": "v/protons-neutrons-and-electrons-in-atoms",
+              "youtube_id": "lz_gMkQr7YE",
+              "youtube_url": "https://www.youtube.com/watch?v=lz_gMkQr7YE",
+              "duration_sec": 151,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:atomic-structure/v/protons-neutrons-and-electrons-in-atoms"
+            },
+            {
+              "title": "Elements and atomic number",
+              "slug": "v/elements-and-atomic-number",
+              "youtube_id": "OQi8FwPSu5o",
+              "youtube_url": "https://www.youtube.com/watch?v=OQi8FwPSu5o",
+              "duration_sec": 274,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:atomic-structure/v/elements-and-atomic-number"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Isotopes",
+          "slug": "x2613d8165d88df5e:isotopes-and-ions",
+          "videos": [
+            {
+              "title": "Isotopes",
+              "slug": "v/hs_isotopes",
+              "youtube_id": "HDniYwGEl0o",
+              "youtube_url": "https://www.youtube.com/watch?v=HDniYwGEl0o",
+              "duration_sec": 250,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:isotopes-and-ions/v/hs_isotopes"
+            },
+            {
+              "title": "Worked example: using the mass number equation",
+              "slug": "v/worked-example-using-the-mass-number-equation",
+              "youtube_id": "T9UH12HdFdo",
+              "youtube_url": "https://www.youtube.com/watch?v=T9UH12HdFdo",
+              "duration_sec": 121,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:isotopes-and-ions/v/worked-example-using-the-mass-number-equation"
+            },
+            {
+              "title": "Average atomic mass",
+              "slug": "v/average-atomic-mass",
+              "youtube_id": "YsqoF3hqdkg",
+              "youtube_url": "https://www.youtube.com/watch?v=YsqoF3hqdkg",
+              "duration_sec": 518,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:isotopes-and-ions/v/average-atomic-mass"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Ions",
+          "slug": "x2613d8165d88df5e:ions",
+          "videos": [
+            {
+              "title": "Introduction to ions",
+              "slug": "v/introduction-to-ions",
+              "youtube_id": "zTUnjPALX_U",
+              "youtube_url": "https://www.youtube.com/watch?v=zTUnjPALX_U",
+              "duration_sec": 397,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:ions/v/introduction-to-ions"
+            },
+            {
+              "title": "Worked example: calculating ion charge",
+              "slug": "v/worked-example-calculating-ion-charge",
+              "youtube_id": "6qgT0RYqXNo",
+              "youtube_url": "https://www.youtube.com/watch?v=6qgT0RYqXNo",
+              "duration_sec": 167,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:ions/v/worked-example-calculating-ion-charge"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Atomic models and periodicity",
+      "slug": "x2613d8165d88df5e:atomic-models-and-periodicity",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity",
+      "lessons": [
+        {
+          "title": "The Bohr model and atomic spectra",
+          "slug": "x2613d8165d88df5e:the-bohr-model-and-atomic-spectra",
+          "videos": [
+            {
+              "title": "Atomic spectra",
+              "slug": "v/atomic_spectra",
+              "youtube_id": "N0lBsW3ZzN8",
+              "youtube_url": "https://www.youtube.com/watch?v=N0lBsW3ZzN8",
+              "duration_sec": 883,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-bohr-model-and-atomic-spectra/v/atomic_spectra"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Activity: What makes a neon sign glow?",
+          "slug": "x2613d8165d88df5e:activity-what-makes-a-neon-sign-glow",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Lewis diagrams",
+          "slug": "x2613d8165d88df5e:lewis-diagrams",
+          "videos": [
+            {
+              "title": "Lewis diagrams for atoms and ions",
+              "slug": "v/lewis-diagrams",
+              "youtube_id": "FuVAgrLqsXs",
+              "youtube_url": "https://www.youtube.com/watch?v=FuVAgrLqsXs",
+              "duration_sec": 258,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:lewis-diagrams/v/lewis-diagrams"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "The quantum model",
+          "slug": "x2613d8165d88df5e:the-quantum-model",
+          "videos": [
+            {
+              "title": "Shells, subshells, and orbitals",
+              "slug": "v/orbitals",
+              "youtube_id": "26PF9Ctch9Y",
+              "youtube_url": "https://www.youtube.com/watch?v=26PF9Ctch9Y",
+              "duration_sec": 581,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-quantum-model/v/orbitals"
+            },
+            {
+              "title": "Introduction to electron configurations",
+              "slug": "v/introduction-to-electron-configurations",
+              "youtube_id": "LyFzELsUgBU",
+              "youtube_url": "https://www.youtube.com/watch?v=LyFzELsUgBU",
+              "duration_sec": 308,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-quantum-model/v/introduction-to-electron-configurations"
+            },
+            {
+              "title": "The Aufbau principle",
+              "slug": "v/the-aufbau-principle",
+              "youtube_id": "Zersl0Ji3P0",
+              "youtube_url": "https://www.youtube.com/watch?v=Zersl0Ji3P0",
+              "duration_sec": 473,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-quantum-model/v/the-aufbau-principle"
+            },
+            {
+              "title": "Electron configurations of ions",
+              "slug": "v/electron-configurations-of-ions",
+              "youtube_id": "oCajIGPK-WM",
+              "youtube_url": "https://www.youtube.com/watch?v=oCajIGPK-WM",
+              "duration_sec": 236,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-quantum-model/v/electron-configurations-of-ions"
+            },
+            {
+              "title": "Electron configurations with the periodic table",
+              "slug": "v/electron-configurations-with-the-periodic-table",
+              "youtube_id": "hwqLCwgo6SU",
+              "youtube_url": "https://www.youtube.com/watch?v=hwqLCwgo6SU",
+              "duration_sec": 879,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-quantum-model/v/electron-configurations-with-the-periodic-table"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The periodic table",
+          "slug": "x2613d8165d88df5e:the-periodic-table",
+          "videos": [
+            {
+              "title": "The periodic table",
+              "slug": "v/the-periodic-table-new",
+              "youtube_id": "CtTmUlp3bBo",
+              "youtube_url": "https://www.youtube.com/watch?v=CtTmUlp3bBo",
+              "duration_sec": 732,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-periodic-table/v/the-periodic-table-new"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Periodic trends",
+          "slug": "x2613d8165d88df5e:periodic-trends",
+          "videos": [
+            {
+              "title": "Atomic radii trends",
+              "slug": "v/atomic-radii-trends",
+              "youtube_id": "RrwL99bEotk",
+              "youtube_url": "https://www.youtube.com/watch?v=RrwL99bEotk",
+              "duration_sec": 288,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:periodic-trends/v/atomic-radii-trends"
+            },
+            {
+              "title": "Ionization energy trends",
+              "slug": "v/ionization-energy-trends-hs",
+              "youtube_id": "MyBYZJ3Wo_0",
+              "youtube_url": "https://www.youtube.com/watch?v=MyBYZJ3Wo_0",
+              "duration_sec": 272,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:periodic-trends/v/ionization-energy-trends-hs"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Chemical bonding",
+      "slug": "x2613d8165d88df5e:chemical-bonding",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-bonding",
+      "lessons": [
+        {
+          "title": "Activity: What hidden trade-offs exist when we choose aluminum cans versus glass bottles for packaging?",
+          "slug": "x2613d8165d88df5e:activity",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Ionic bonds",
+          "slug": "x2613d8165d88df5e:ionic-bonds",
+          "videos": [
+            {
+              "title": "Valence electrons and ionic compounds",
+              "slug": "v/valence-electrons-and-ionic-compounds",
+              "youtube_id": "XPnlIEk7XrU",
+              "youtube_url": "https://www.youtube.com/watch?v=XPnlIEk7XrU",
+              "duration_sec": 475,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-bonding/x2613d8165d88df5e:ionic-bonds/v/valence-electrons-and-ionic-compounds"
+            },
+            {
+              "title": "Ionic bonds",
+              "slug": "v/ionic-bonds",
+              "youtube_id": "FaeAurHnQJs",
+              "youtube_url": "https://www.youtube.com/watch?v=FaeAurHnQJs",
+              "duration_sec": 250,
+              "relative_url": "/science/ap-biology/chemistry-of-life/introduction-to-biological-macromolecules/v/ionic-bonds"
+            },
+            {
+              "title": "Representing ionic solids using particulate models",
+              "slug": "v/representing-ionic-solids-using-particulate-models",
+              "youtube_id": "sAhRvgX4tQk",
+              "youtube_url": "https://www.youtube.com/watch?v=sAhRvgX4tQk",
+              "duration_sec": 343,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-bonding/x2613d8165d88df5e:ionic-bonds/v/representing-ionic-solids-using-particulate-models"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Ionic nomenclature",
+          "slug": "x2613d8165d88df5e:ionic-nomenclature",
+          "videos": [
+            {
+              "title": "Naming ions and ionic compounds",
+              "slug": "v/naming-ions-and-ionic-compounds",
+              "youtube_id": "ptAw20kem90",
+              "youtube_url": "https://www.youtube.com/watch?v=ptAw20kem90",
+              "duration_sec": 237,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-bonding/x2613d8165d88df5e:ionic-nomenclature/v/naming-ions-and-ionic-compounds"
+            },
+            {
+              "title": "Naming ionic compound with polyvalent ion",
+              "slug": "v/naming-ionic-compound-with-polyvalent-ion",
+              "youtube_id": "vVTwzjvWySs",
+              "youtube_url": "https://www.youtube.com/watch?v=vVTwzjvWySs",
+              "duration_sec": 242,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-bonding/x2613d8165d88df5e:ionic-nomenclature/v/naming-ionic-compound-with-polyvalent-ion"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Covalent bonds",
+          "slug": "x2613d8165d88df5e:covalent-bonds",
+          "videos": [
+            {
+              "title": "Covalent bonds",
+              "slug": "v/covalent-bonds",
+              "youtube_id": "kS5iU4v0QZk",
+              "youtube_url": "https://www.youtube.com/watch?v=kS5iU4v0QZk",
+              "duration_sec": 343,
+              "relative_url": "/science/ap-biology/chemistry-of-life/introduction-to-biological-macromolecules/v/covalent-bonds"
+            },
+            {
+              "title": "Lewis diagrams for molecules",
+              "slug": "v/lewis-diagrams-for-molecules",
+              "youtube_id": "6jndt6MXgtA",
+              "youtube_url": "https://www.youtube.com/watch?v=6jndt6MXgtA",
+              "duration_sec": 878,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-bonding/x2613d8165d88df5e:covalent-bonds/v/lewis-diagrams-for-molecules"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Metallic bonds",
+          "slug": "x2613d8165d88df5e:metallic-bonds",
+          "videos": [
+            {
+              "title": "Metallic bonds",
+              "slug": "v/metallic-bonds",
+              "youtube_id": "N5MAFQlnu18",
+              "youtube_url": "https://www.youtube.com/watch?v=N5MAFQlnu18",
+              "duration_sec": 180,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-bonding/x2613d8165d88df5e:metallic-bonds/v/metallic-bonds"
+            },
+            {
+              "title": "Predicting bond type (metals vs. nonmetals)",
+              "slug": "v/predicting-bond-type-metals-nonmetals",
+              "youtube_id": "B9GkAsd8EK8",
+              "youtube_url": "https://www.youtube.com/watch?v=B9GkAsd8EK8",
+              "duration_sec": 312,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-bonding/x2613d8165d88df5e:metallic-bonds/v/predicting-bond-type-metals-nonmetals"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Chemical reactions",
+      "slug": "x2613d8165d88df5e:chemical-reactions",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions",
+      "lessons": [
+        {
+          "title": "Representing chemical reactions",
+          "slug": "x2613d8165d88df5e:representing-chemical-reactions",
+          "videos": [
+            {
+              "title": "Physical and chemical changes",
+              "slug": "v/physical-and-chemical-changes",
+              "youtube_id": "n5cZ5CWuUJA",
+              "youtube_url": "https://www.youtube.com/watch?v=n5cZ5CWuUJA",
+              "duration_sec": 279,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:representing-chemical-reactions/v/physical-and-chemical-changes"
+            },
+            {
+              "title": "Intro to chemical equations",
+              "slug": "v/intro-to-chemical-reactions-chemical-equation-and-reactions-chemistry-khan-academy",
+              "youtube_id": "1wQqGFebxyA",
+              "youtube_url": "https://www.youtube.com/watch?v=1wQqGFebxyA",
+              "duration_sec": 344,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:representing-chemical-reactions/v/intro-to-chemical-reactions-chemical-equation-and-reactions-chemistry-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Balancing chemical equations",
+          "slug": "x2613d8165d88df5e:balancing-chemical-equations",
+          "videos": [
+            {
+              "title": "Balancing chemical equations",
+              "slug": "v/balancing-chemical-equations-introduction",
+              "youtube_id": "TUuABq95BBM",
+              "youtube_url": "https://www.youtube.com/watch?v=TUuABq95BBM",
+              "duration_sec": 304,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:balancing-chemical-equations/v/balancing-chemical-equations-introduction"
+            },
+            {
+              "title": "Balancing more complex chemical equations",
+              "slug": "v/balancing-more-complex-chemical-equation",
+              "youtube_id": "xqpYeiefZl8",
+              "youtube_url": "https://www.youtube.com/watch?v=xqpYeiefZl8",
+              "duration_sec": 277,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:balancing-chemical-equations/v/balancing-more-complex-chemical-equation"
+            },
+            {
+              "title": "Visually understanding balancing chemical equations",
+              "slug": "v/visually-understanding-balancing-chemical-equations",
+              "youtube_id": "HbIdp5DURJA",
+              "youtube_url": "https://www.youtube.com/watch?v=HbIdp5DURJA",
+              "duration_sec": 277,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:balancing-chemical-equations/v/visually-understanding-balancing-chemical-equations"
+            },
+            {
+              "title": "Balancing another combustion reaction",
+              "slug": "v/balancing-another-combustion-reaction",
+              "youtube_id": "cmi8EnJQA84",
+              "youtube_url": "https://www.youtube.com/watch?v=cmi8EnJQA84",
+              "duration_sec": 298,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:balancing-chemical-equations/v/balancing-another-combustion-reaction"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: How can a big log turn into a tiny pile of ash when it burns?",
+          "slug": "x2613d8165d88df5e:activity-how-can-a-big-log-turn-into-a-tiny-pile-of-ash-when-it-burns",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Energy of chemical reactions",
+          "slug": "x2613d8165d88df5e:energy-of-chemical-reactions",
+          "videos": [
+            {
+              "title": "Endothermic and exothermic reactions",
+              "slug": "v/endothermic-and-exothermic-reactions",
+              "youtube_id": "GSfwMq68Wt4",
+              "youtube_url": "https://www.youtube.com/watch?v=GSfwMq68Wt4",
+              "duration_sec": 343,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:energy-of-chemical-reactions/v/endothermic-and-exothermic-reactions"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Types of chemical reactions",
+          "slug": "x2613d8165d88df5e:types-of-chemical-reactions",
+          "videos": [
+            {
+              "title": "Combination and decomposition reaction",
+              "slug": "v/combination-and-decomposition-reaction-chemical-reactions-and-equations-chemistry-khan-academy",
+              "youtube_id": "6esN2vQCwrY",
+              "youtube_url": "https://www.youtube.com/watch?v=6esN2vQCwrY",
+              "duration_sec": 770,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:types-of-chemical-reactions/v/combination-and-decomposition-reaction-chemical-reactions-and-equations-chemistry-khan-academy"
+            },
+            {
+              "title": "Simple redox reactions",
+              "slug": "v/simple-redox-reactions",
+              "youtube_id": "JH4tn5dyXyE",
+              "youtube_url": "https://www.youtube.com/watch?v=JH4tn5dyXyE",
+              "duration_sec": 775,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:types-of-chemical-reactions/v/simple-redox-reactions"
+            },
+            {
+              "title": "Single replacement reactions",
+              "slug": "v/single-replacement-reactions",
+              "youtube_id": "l1xCT77_UY4",
+              "youtube_url": "https://www.youtube.com/watch?v=l1xCT77_UY4",
+              "duration_sec": 818,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:chemical-reactions/x2613d8165d88df5e:types-of-chemical-reactions/v/single-replacement-reactions"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Stoichiometry and the mole",
+      "slug": "x2613d8165d88df5e:stoichiometry-and-the-mole",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:stoichiometry-and-the-mole",
+      "lessons": [
+        {
+          "title": "Moles and molar mass",
+          "slug": "x2613d8165d88df5e:moles-and-molar-mass",
+          "videos": [
+            {
+              "title": "Calculations using Avogadro's number (part 1)",
+              "slug": "v/calculations-using-avogadro-s-number-part-1",
+              "youtube_id": "umWiEZ-VpRM",
+              "youtube_url": "https://www.youtube.com/watch?v=umWiEZ-VpRM",
+              "duration_sec": 811,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:stoichiometry-and-the-mole/x2613d8165d88df5e:moles-and-molar-mass/v/calculations-using-avogadro-s-number-part-1"
+            },
+            {
+              "title": "Worked example: Calculating molar mass and number of moles",
+              "slug": "v/worked-example-calculating-molar-mass-and-number-of-moles",
+              "youtube_id": "PAqzpZ-nMlg",
+              "youtube_url": "https://www.youtube.com/watch?v=PAqzpZ-nMlg",
+              "duration_sec": 349,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:stoichiometry-and-the-mole/x2613d8165d88df5e:moles-and-molar-mass/v/worked-example-calculating-molar-mass-and-number-of-moles"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Mole calculations",
+          "slug": "x2613d8165d88df5e:mole-calculations",
+          "videos": [
+            {
+              "title": "Empirical, molecular, and structural formulas",
+              "slug": "v/empirical-molecular-and-structural-formulas",
+              "youtube_id": "bmjg7lq4m4o",
+              "youtube_url": "https://www.youtube.com/watch?v=bmjg7lq4m4o",
+              "duration_sec": 410,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:stoichiometry-and-the-mole/x2613d8165d88df5e:mole-calculations/v/empirical-molecular-and-structural-formulas"
+            },
+            {
+              "title": "Worked example: Calculating mass percent",
+              "slug": "v/worked-example-calculating-mass-percent",
+              "youtube_id": "enTtIDEtda8",
+              "youtube_url": "https://www.youtube.com/watch?v=enTtIDEtda8",
+              "duration_sec": 338,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:stoichiometry-and-the-mole/x2613d8165d88df5e:mole-calculations/v/worked-example-calculating-mass-percent"
+            },
+            {
+              "title": "Calculations using Avogadro's number (part 2)",
+              "slug": "v/calculations-using-avogadro-s-number-part-2",
+              "youtube_id": "nC9i0zi1DCE",
+              "youtube_url": "https://www.youtube.com/watch?v=nC9i0zi1DCE",
+              "duration_sec": 873,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:stoichiometry-and-the-mole/x2613d8165d88df5e:mole-calculations/v/calculations-using-avogadro-s-number-part-2"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Stoichiometry",
+          "slug": "x2613d8165d88df5e:stoichiometry",
+          "videos": [
+            {
+              "title": "Stoichiometry: mole-to-mole and percent yield",
+              "slug": "v/stoichiometry-mole-to-mole-and-percent-yield",
+              "youtube_id": "5l4JEoPhnuQ",
+              "youtube_url": "https://www.youtube.com/watch?v=5l4JEoPhnuQ",
+              "duration_sec": 624,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:stoichiometry-and-the-mole/x2613d8165d88df5e:stoichiometry/v/stoichiometry-mole-to-mole-and-percent-yield"
+            },
+            {
+              "title": "Stoichiometry: Mass-to-mass and limiting reagent",
+              "slug": "v/stoichiometry-mass-to-mass-and-limiting-reagent",
+              "youtube_id": "5O083FL_9u8",
+              "youtube_url": "https://www.youtube.com/watch?v=5O083FL_9u8",
+              "duration_sec": 896,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:stoichiometry-and-the-mole/x2613d8165d88df5e:stoichiometry/v/stoichiometry-mass-to-mass-and-limiting-reagent"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Activity: How does the International Space Station produce enough oxygen to keep the astronauts alive?",
+          "slug": "x2613d8165d88df5e:activity-how-does-the-international-space-station-produce-enough-oxygen-to-keep-the-astronauts-alive",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "States of matter",
+      "slug": "x2613d8165d88df5e:states-of-matter",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter",
+      "lessons": [
+        {
+          "title": "Electronegativity and bond polarity",
+          "slug": "x2613d8165d88df5e:electronegativity-and-bond-polarity",
+          "videos": [
+            {
+              "title": "Electronegativity",
+              "slug": "v/electronegativity-trends",
+              "youtube_id": "Rr7LhdSKMxY",
+              "youtube_url": "https://www.youtube.com/watch?v=Rr7LhdSKMxY",
+              "duration_sec": 594,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:electronegativity-and-bond-polarity/v/electronegativity-trends"
+            },
+            {
+              "title": "Predicting bond type (electronegativity)",
+              "slug": "v/predicting-bond-type-electronegativity",
+              "youtube_id": "AHUHpVQXRsw",
+              "youtube_url": "https://www.youtube.com/watch?v=AHUHpVQXRsw",
+              "duration_sec": 283,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:electronegativity-and-bond-polarity/v/predicting-bond-type-electronegativity"
+            },
+            {
+              "title": "Electronegativity and bond type ",
+              "slug": "v/electronegativity-and-bond-type",
+              "youtube_id": "xv9igHCrnzQ",
+              "youtube_url": "https://www.youtube.com/watch?v=xv9igHCrnzQ",
+              "duration_sec": 384,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:electronegativity-and-bond-polarity/v/electronegativity-and-bond-type"
+            },
+            {
+              "title": "Molecular geometry (VSEPR theory)",
+              "slug": "v/molecular-geometry-vsepr-theory",
+              "youtube_id": "v5OzQl860tA",
+              "youtube_url": "https://www.youtube.com/watch?v=v5OzQl860tA",
+              "duration_sec": 756,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:electronegativity-and-bond-polarity/v/molecular-geometry-vsepr-theory"
+            },
+            {
+              "title": "Molecular polarity ",
+              "slug": "v/molecular-polarity",
+              "youtube_id": "NfXITji_xw4",
+              "youtube_url": "https://www.youtube.com/watch?v=NfXITji_xw4",
+              "duration_sec": 864,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:electronegativity-and-bond-polarity/v/molecular-polarity"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Intermolecular forces",
+          "slug": "x2613d8165d88df5e:intermolecular-forces",
+          "videos": [
+            {
+              "title": "London dispersion forces introduction",
+              "slug": "v/london-dispersion-forces-intro",
+              "youtube_id": "h-BiBeydkys",
+              "youtube_url": "https://www.youtube.com/watch?v=h-BiBeydkys",
+              "duration_sec": 440,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:intermolecular-forces/v/london-dispersion-forces-intro"
+            },
+            {
+              "title": "Dipole–dipole forces",
+              "slug": "v/dipole-dipole-forces",
+              "youtube_id": "hg7jN32q9A0",
+              "youtube_url": "https://www.youtube.com/watch?v=hg7jN32q9A0",
+              "duration_sec": 406,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:intermolecular-forces/v/dipole-dipole-forces"
+            },
+            {
+              "title": "Hydrogen bonding",
+              "slug": "v/hydrogen-bonding",
+              "youtube_id": "ltxqQbiI6-o",
+              "youtube_url": "https://www.youtube.com/watch?v=ltxqQbiI6-o",
+              "duration_sec": 399,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:intermolecular-forces/v/hydrogen-bonding"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How does water form droplets on surfaces?",
+          "slug": "x2613d8165d88df5e:activity-how-does-water-form-droplets-on-surfaces",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Liquids and solids",
+          "slug": "x2613d8165d88df5e:liquids-solids-and-gases",
+          "videos": [
+            {
+              "title": "Intermolecular forces and vapor pressure",
+              "slug": "v/intermolecular-forces-and-vapor-pressure",
+              "youtube_id": "eubN8DwUh48",
+              "youtube_url": "https://www.youtube.com/watch?v=eubN8DwUh48",
+              "duration_sec": 364,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:liquids-solids-and-gases/v/intermolecular-forces-and-vapor-pressure"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Gases",
+          "slug": "x2613d8165d88df5e:gases",
+          "videos": [
+            {
+              "title": "The kinetic molecular theory of gases",
+              "slug": "v/the-kinetic-molecular-theory-of-gases",
+              "youtube_id": "HkSXiHz9vUc",
+              "youtube_url": "https://www.youtube.com/watch?v=HkSXiHz9vUc",
+              "duration_sec": 384,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:gases/v/the-kinetic-molecular-theory-of-gases"
+            },
+            {
+              "title": "Kinetic molecular theory and the gas laws",
+              "slug": "v/kinetic-molecular-theory-and-the-gas-laws",
+              "youtube_id": "F6lhYxV6gEY",
+              "youtube_url": "https://www.youtube.com/watch?v=F6lhYxV6gEY",
+              "duration_sec": 491,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:gases/v/kinetic-molecular-theory-and-the-gas-laws"
+            },
+            {
+              "title": "Worked example: Using the ideal gas law to calculate a change in volume",
+              "slug": "v/worked-example-using-the-ideal-gas-law-to-calculate-a-change-in-volume",
+              "youtube_id": "bQ5vHcFlT78",
+              "youtube_url": "https://www.youtube.com/watch?v=bQ5vHcFlT78",
+              "duration_sec": 392,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:gases/v/worked-example-using-the-ideal-gas-law-to-calculate-a-change-in-volume"
+            },
+            {
+              "title": "Gas mixtures and partial pressures",
+              "slug": "v/introduction-to-partial-pressure",
+              "youtube_id": "A2xi-jEqpmg",
+              "youtube_url": "https://www.youtube.com/watch?v=A2xi-jEqpmg",
+              "duration_sec": 383,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:states-of-matter/x2613d8165d88df5e:gases/v/introduction-to-partial-pressure"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Thermochemistry",
+      "slug": "x2613d8165d88df5e:thermochemistry",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:thermochemistry",
+      "lessons": [
+        {
+          "title": "Thermal energy and equilibrium",
+          "slug": "x2613d8165d88df5e:thermal-energy-and-equilibrium",
+          "videos": [
+            {
+              "title": "Thermal energy, temperature, and heat",
+              "slug": "v/thermal-energy-temperature-and-heat",
+              "youtube_id": "-7Gl-yKF6Y4",
+              "youtube_url": "https://www.youtube.com/watch?v=-7Gl-yKF6Y4",
+              "duration_sec": 692,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:thermochemistry/x2613d8165d88df5e:thermal-energy-and-equilibrium/v/thermal-energy-temperature-and-heat"
+            },
+            {
+              "title": "First and second laws of thermodynamics",
+              "slug": "v/first-and-second-laws-of-thermodynamics",
+              "youtube_id": "f1OokOgtcqg",
+              "youtube_url": "https://www.youtube.com/watch?v=f1OokOgtcqg",
+              "duration_sec": 740,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:thermochemistry/x2613d8165d88df5e:thermal-energy-and-equilibrium/v/first-and-second-laws-of-thermodynamics"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Specific heat capacity",
+          "slug": "x2613d8165d88df5e:heat-capacity",
+          "videos": [
+            {
+              "title": "Specific heat capacity",
+              "slug": "v/specific_heat_capacity",
+              "youtube_id": "GNelfJ6IAJw",
+              "youtube_url": "https://www.youtube.com/watch?v=GNelfJ6IAJw",
+              "duration_sec": 828,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:thermochemistry/x2613d8165d88df5e:heat-capacity/v/specific_heat_capacity"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: Why does sand at the beach feel hot, even when the water feels cool?",
+          "slug": "x2613d8165d88df5e:activity-why-does-sand-at-the-beach-feel-hot-even-when-the-water-feels-cool",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Calorimetry",
+          "slug": "x2613d8165d88df5e:calorimetry",
+          "videos": [
+            {
+              "title": "Constant-pressure calorimetry",
+              "slug": "v/constant-pressure-calorimetry",
+              "youtube_id": "SkMeY6RBJZY",
+              "youtube_url": "https://www.youtube.com/watch?v=SkMeY6RBJZY",
+              "duration_sec": 560,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:thermochemistry/x2613d8165d88df5e:calorimetry/v/constant-pressure-calorimetry"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Solutions, acids, and bases",
+      "slug": "x2613d8165d88df5e:solutions-acids-and-bases",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:solutions-acids-and-bases",
+      "lessons": [
+        {
+          "title": "Aqueous solutions",
+          "slug": "x2613d8165d88df5e:aqueous-solutions",
+          "videos": [
+            {
+              "title": "Aqueous solutions",
+              "slug": "v/aqueous-solutions",
+              "youtube_id": "3mb7hfHZ48Q",
+              "youtube_url": "https://www.youtube.com/watch?v=3mb7hfHZ48Q",
+              "duration_sec": 344,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:solutions-acids-and-bases/x2613d8165d88df5e:aqueous-solutions/v/aqueous-solutions"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Solubility",
+          "slug": "x2613d8165d88df5e:solubility",
+          "videos": [
+            {
+              "title": "Solubility and intermolecular forces",
+              "slug": "v/solubility-and-intermolecular-forces",
+              "youtube_id": "ccDKr4TIWfk",
+              "youtube_url": "https://www.youtube.com/watch?v=ccDKr4TIWfk",
+              "duration_sec": 263,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:solutions-acids-and-bases/x2613d8165d88df5e:solubility/v/solubility-and-intermolecular-forces"
+            },
+            {
+              "title": "Double replacement reactions",
+              "slug": "v/double-replacement-reactions",
+              "youtube_id": "KDGDLsUN8TQ",
+              "youtube_url": "https://www.youtube.com/watch?v=KDGDLsUN8TQ",
+              "duration_sec": 732,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:solutions-acids-and-bases/x2613d8165d88df5e:solubility/v/double-replacement-reactions"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Activity: How can solubility principles help us detect and eliminate chemical contaminants in our water supply?",
+          "slug": "x2613d8165d88df5e:activity-how-can-solubility-principles-help-us-detect-and-eliminate-chemical-contaminants-in-our-water-supply",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Molarity",
+          "slug": "x2613d8165d88df5e:molarity",
+          "videos": [
+            {
+              "title": "Molarity",
+              "slug": "v/molarity",
+              "youtube_id": "L-Uhyjt8t10",
+              "youtube_url": "https://www.youtube.com/watch?v=L-Uhyjt8t10",
+              "duration_sec": 303,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:solutions-acids-and-bases/x2613d8165d88df5e:molarity/v/molarity"
+            },
+            {
+              "title": "Dilutions",
+              "slug": "v/dilutions",
+              "youtube_id": "6hls5wncscU",
+              "youtube_url": "https://www.youtube.com/watch?v=6hls5wncscU",
+              "duration_sec": 636,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:solutions-acids-and-bases/x2613d8165d88df5e:molarity/v/dilutions"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Intro to acids and bases",
+          "slug": "x2613d8165d88df5e:intro-to-acids-and-bases",
+          "videos": [
+            {
+              "title": "Intro to acids and bases",
+              "slug": "v/intro-to-acids-and-bases",
+              "youtube_id": "ja7p_tzTTEA",
+              "youtube_url": "https://www.youtube.com/watch?v=ja7p_tzTTEA",
+              "duration_sec": 733,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:solutions-acids-and-bases/x2613d8165d88df5e:intro-to-acids-and-bases/v/intro-to-acids-and-bases"
+            },
+            {
+              "title": "Introduction to pH",
+              "slug": "v/introduction-to-ph",
+              "youtube_id": "oda2K4IFBaE",
+              "youtube_url": "https://www.youtube.com/watch?v=oda2K4IFBaE",
+              "duration_sec": 322,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:solutions-acids-and-bases/x2613d8165d88df5e:intro-to-acids-and-bases/v/introduction-to-ph"
+            }
+          ],
+          "exercise_count": 4
+        }
+      ]
+    },
+    {
+      "title": "Reaction rates and equilibrium",
+      "slug": "x2613d8165d88df5e:reaction-rates-and-equilibrium",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:reaction-rates-and-equilibrium",
+      "lessons": [
+        {
+          "title": "Reaction rates",
+          "slug": "x2613d8165d88df5e:reaction-rates",
+          "videos": [
+            {
+              "title": "Collision theory",
+              "slug": "v/collision-theory",
+              "youtube_id": "1iAxhc6EflI",
+              "youtube_url": "https://www.youtube.com/watch?v=1iAxhc6EflI",
+              "duration_sec": 528,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:reaction-rates-and-equilibrium/x2613d8165d88df5e:reaction-rates/v/collision-theory"
+            },
+            {
+              "title": "Factors affecting reaction rates",
+              "slug": "v/factors-affecting-reaction-rates",
+              "youtube_id": "CoNHV7786Hg",
+              "youtube_url": "https://www.youtube.com/watch?v=CoNHV7786Hg",
+              "duration_sec": 329,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:reaction-rates-and-equilibrium/x2613d8165d88df5e:reaction-rates/v/factors-affecting-reaction-rates"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Activity: Why does food in a refrigerator stay fresh for longer? ",
+          "slug": "x2613d8165d88df5e:activity-why-does-food-in-a-refrigerator-stay-fresh-for-longer",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Catalysts",
+          "slug": "x2613d8165d88df5e:catalysts",
+          "videos": [
+            {
+              "title": "Catalysts",
+              "slug": "v/catalysts_hs",
+              "youtube_id": "8TuPmpNfoX8",
+              "youtube_url": "https://www.youtube.com/watch?v=8TuPmpNfoX8",
+              "duration_sec": 303,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:reaction-rates-and-equilibrium/x2613d8165d88df5e:catalysts/v/catalysts_hs"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Equilibrium & Le Châtelier's principle",
+          "slug": "x2613d8165d88df5e:equilibrium-lechatelier-s-principle",
+          "videos": [
+            {
+              "title": "Reversible reactions and equilibrium",
+              "slug": "v/reversible-reactions-and-equilibrium",
+              "youtube_id": "i_LCF8gmcWQ",
+              "youtube_url": "https://www.youtube.com/watch?v=i_LCF8gmcWQ",
+              "duration_sec": 159,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:reaction-rates-and-equilibrium/x2613d8165d88df5e:equilibrium-lechatelier-s-principle/v/reversible-reactions-and-equilibrium"
+            },
+            {
+              "title": "Le Châtelier's principle",
+              "slug": "v/le-chatelier-s-principle_hs",
+              "youtube_id": "B2pP02GEZL4",
+              "youtube_url": "https://www.youtube.com/watch?v=B2pP02GEZL4",
+              "duration_sec": 346,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:reaction-rates-and-equilibrium/x2613d8165d88df5e:equilibrium-lechatelier-s-principle/v/le-chatelier-s-principle_hs"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Nuclear chemistry",
+      "slug": "x2613d8165d88df5e:nuclear-chemistry-hs",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs",
+      "lessons": [
+        {
+          "title": "Radioactive decay",
+          "slug": "x2613d8165d88df5e:radioactive-decay",
+          "videos": [
+            {
+              "title": "Intro to radioactive decay",
+              "slug": "v/intro-to-radioactive-decay",
+              "youtube_id": "P_SD5Rt6XMk",
+              "youtube_url": "https://www.youtube.com/watch?v=P_SD5Rt6XMk",
+              "duration_sec": 482,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:radioactive-decay/v/intro-to-radioactive-decay"
+            },
+            {
+              "title": "Alpha decay",
+              "slug": "v/alpha-decay",
+              "youtube_id": "QCZQCi_uKpM",
+              "youtube_url": "https://www.youtube.com/watch?v=QCZQCi_uKpM",
+              "duration_sec": 666,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:radioactive-decay/v/alpha-decay"
+            },
+            {
+              "title": "Beta decay",
+              "slug": "v/beta-decay",
+              "youtube_id": "iGr6atucsBw",
+              "youtube_url": "https://www.youtube.com/watch?v=iGr6atucsBw",
+              "duration_sec": 708,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:radioactive-decay/v/beta-decay"
+            },
+            {
+              "title": "Gamma decay",
+              "slug": "v/gamma-decay",
+              "youtube_id": "ksLNmLQbNT4",
+              "youtube_url": "https://www.youtube.com/watch?v=ksLNmLQbNT4",
+              "duration_sec": 709,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:radioactive-decay/v/gamma-decay"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Half-life and radiometric dating",
+          "slug": "x2613d8165d88df5e:half-life-and-radiometric-dating",
+          "videos": [
+            {
+              "title": "Half-life",
+              "slug": "v/half-life-radiometric-dating",
+              "youtube_id": "gDpyBifg6-s",
+              "youtube_url": "https://www.youtube.com/watch?v=gDpyBifg6-s",
+              "duration_sec": 656,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:half-life-and-radiometric-dating/v/half-life-radiometric-dating"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How do we know when dinosaurs lived on Earth? ",
+          "slug": "x2613d8165d88df5e:activity-how-do-we-know-when-dinosaurs-lived-on-earth",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Nuclear fusion",
+          "slug": "x2613d8165d88df5e:nuclear-fusion",
+          "videos": [
+            {
+              "title": "Nuclear fusion",
+              "slug": "v/nuclear-fusion",
+              "youtube_id": "b9qxAFLpz9U",
+              "youtube_url": "https://www.youtube.com/watch?v=b9qxAFLpz9U",
+              "duration_sec": 825,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:nuclear-fusion/v/nuclear-fusion"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Nuclear fission",
+          "slug": "x2613d8165d88df5e:nuclear-fission",
+          "videos": [
+            {
+              "title": "Nuclear fission",
+              "slug": "v/nuclear-fission",
+              "youtube_id": "5jDFqpoTgDo",
+              "youtube_url": "https://www.youtube.com/watch?v=5jDFqpoTgDo",
+              "duration_sec": 627,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:nuclear-fission/v/nuclear-fission"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Teacher resources",
+      "slug": "x2613d8165d88df5e:teacher-resources",
+      "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:teacher-resources",
+      "lessons": [
+        {
+          "title": "Unit guides",
+          "slug": "x2613d8165d88df5e:unit-guides",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Hands-on chemistry activities",
+          "slug": "x2613d8165d88df5e:hands-on-chemistry-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

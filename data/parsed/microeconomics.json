@@ -1,0 +1,1430 @@
+{
+  "key": "microeconomics",
+  "tier": "T2",
+  "subject": "social",
+  "slug": "microeconomics",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Microeconomics",
+  "course_slug": "microeconomics",
+  "units": [
+    {
+      "title": "Basic economic concepts",
+      "slug": "basic-economic-concepts-gen-micro",
+      "relative_url": "/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro",
+      "lessons": [
+        {
+          "title": "Introduction to economics",
+          "slug": "economics-introduction",
+          "videos": [
+            {
+              "title": "Introduction to economics",
+              "slug": "v/introduction-to-economics",
+              "youtube_id": "8JYP_wU1JTU",
+              "youtube_url": "https://www.youtube.com/watch?v=8JYP_wU1JTU",
+              "duration_sec": 599,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/introduction-to-economics"
+            },
+            {
+              "title": "Scarcity",
+              "slug": "v/scarcity",
+              "youtube_id": "iy-fhpbTH9E",
+              "youtube_url": "https://www.youtube.com/watch?v=iy-fhpbTH9E",
+              "duration_sec": 344,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/scarcity"
+            },
+            {
+              "title": "Scarcity and rivalry",
+              "slug": "v/scarcity-and-rivalry-basic-economic-concepts-apr-microeconomics-khan-academy",
+              "youtube_id": "uVA1-m8SVvA",
+              "youtube_url": "https://www.youtube.com/watch?v=uVA1-m8SVvA",
+              "duration_sec": 391,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/basic-economic-concepts/ap-economics-introduction/v/scarcity-and-rivalry-basic-economic-concepts-apr-microeconomics-khan-academy"
+            },
+            {
+              "title": "Four factors of production",
+              "slug": "v/four-factors-of-production",
+              "youtube_id": "-IvwoqPh1_I",
+              "youtube_url": "https://www.youtube.com/watch?v=-IvwoqPh1_I",
+              "duration_sec": 375,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/four-factors-of-production"
+            },
+            {
+              "title": "Economic models",
+              "slug": "v/economic-models",
+              "youtube_id": "7n_Hf_UsW7I",
+              "youtube_url": "https://www.youtube.com/watch?v=7n_Hf_UsW7I",
+              "duration_sec": 410,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/economic-models"
+            },
+            {
+              "title": "Normative and positive statements",
+              "slug": "v/normative-and-positive-statements",
+              "youtube_id": "YtX6SGw7E3c",
+              "youtube_url": "https://www.youtube.com/watch?v=YtX6SGw7E3c",
+              "duration_sec": 301,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/normative-and-positive-statements"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Economic systems",
+          "slug": "economic-systems",
+          "videos": [
+            {
+              "title": "Property rights in a market system ",
+              "slug": "v/property-rights-in-a-market-system",
+              "youtube_id": "AJy7pWK0W8g",
+              "youtube_url": "https://www.youtube.com/watch?v=AJy7pWK0W8g",
+              "duration_sec": 355,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/basic-economic-concepts/resource-allocation-and-economic-systems/v/property-rights-in-a-market-system"
+            },
+            {
+              "title": "Markets and property rights",
+              "slug": "v/markets-and-property-rights",
+              "youtube_id": "PEG9OQCo2Ls",
+              "youtube_url": "https://www.youtube.com/watch?v=PEG9OQCo2Ls",
+              "duration_sec": 361,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/micro-demand/v/markets-and-property-rights"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Production possibilities frontier",
+          "slug": "production-possibilities",
+          "videos": [
+            {
+              "title": "Production possibilities curve",
+              "slug": "v/production-possibilities-frontier",
+              "youtube_id": "_7VHfuWV-Qg",
+              "youtube_url": "https://www.youtube.com/watch?v=_7VHfuWV-Qg",
+              "duration_sec": 659,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/production-possibilities-frontier"
+            },
+            {
+              "title": "Opportunity cost",
+              "slug": "v/opportunity-cost",
+              "youtube_id": "pkEiHZAtoro",
+              "youtube_url": "https://www.youtube.com/watch?v=pkEiHZAtoro",
+              "duration_sec": 348,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/opportunity-cost"
+            },
+            {
+              "title": "Increasing opportunity cost",
+              "slug": "v/increasing-opportunity-cost",
+              "youtube_id": "00fgAG6VrRQ",
+              "youtube_url": "https://www.youtube.com/watch?v=00fgAG6VrRQ",
+              "duration_sec": 386,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/increasing-opportunity-cost"
+            },
+            {
+              "title": "PPCs for increasing, decreasing and constant opportunity cost",
+              "slug": "v/ppcs-for-increasing-decreasing-and-constant-opportunity-cost",
+              "youtube_id": "-aVZtzD44vI",
+              "youtube_url": "https://www.youtube.com/watch?v=-aVZtzD44vI",
+              "duration_sec": 326,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/ppcs-for-increasing-decreasing-and-constant-opportunity-cost"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Comparative advantage and the terms of trade ",
+          "slug": "comparative-advantage-and-the-gains-from-trade",
+          "videos": [
+            {
+              "title": "Comparative advantage, specialization, and gains from trade",
+              "slug": "v/comparative-advantage-specialization-and-gains-from-trade",
+              "youtube_id": "xx9xNJlPOJo",
+              "youtube_url": "https://www.youtube.com/watch?v=xx9xNJlPOJo",
+              "duration_sec": 536,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/comparative-advantage-specialization-and-gains-from-trade"
+            },
+            {
+              "title": "Comparative advantage and absolute advantage",
+              "slug": "v/comparative-advantage-and-absolute-advantage",
+              "youtube_id": "xN3UV5FsBkU",
+              "youtube_url": "https://www.youtube.com/watch?v=xN3UV5FsBkU",
+              "duration_sec": 616,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/comparative-advantage-and-absolute-advantage"
+            },
+            {
+              "title": "Opportunity cost and comparative advantage using an output table",
+              "slug": "v/opportunity-cost-and-comparative-advantage-macroeconomics-khan-academy",
+              "youtube_id": "K8p0F92gVUM",
+              "youtube_url": "https://www.youtube.com/watch?v=K8p0F92gVUM",
+              "duration_sec": 595,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/opportunity-cost-and-comparative-advantage-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Terms of trade and the gains from trade",
+              "slug": "v/terms-of-trade-and-the-gains-from-trade-macroeconomics-khan-academy",
+              "youtube_id": "C-xLUS5JGIM",
+              "youtube_url": "https://www.youtube.com/watch?v=C-xLUS5JGIM",
+              "duration_sec": 596,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/terms-of-trade-and-the-gains-from-trade-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Input approach to determining comparative advantage ",
+              "slug": "v/input-approach-to-determining-comparative-advantage-macroeconomics-khan-academy",
+              "youtube_id": "Uqf5c6Xcjr4",
+              "youtube_url": "https://www.youtube.com/watch?v=Uqf5c6Xcjr4",
+              "duration_sec": 532,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/input-approach-to-determining-comparative-advantage-macroeconomics-khan-academy"
+            },
+            {
+              "title": "When there aren't gains from trade ",
+              "slug": "v/when-there-arent-gains-from-trade-macroeconomics-khan-academy",
+              "youtube_id": "TeAzW_tY6m4",
+              "youtube_url": "https://www.youtube.com/watch?v=TeAzW_tY6m4",
+              "duration_sec": 410,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/when-there-arent-gains-from-trade-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Comparative advantage worked example",
+              "slug": "v/comparative-advantage-worked-example",
+              "youtube_id": "jHp4fnrEA6w",
+              "youtube_url": "https://www.youtube.com/watch?v=jHp4fnrEA6w",
+              "duration_sec": 588,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/comparative-advantage-worked-example"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Supply, demand, and market equilibrium",
+      "slug": "supply-demand-equilibrium",
+      "relative_url": "/economics-finance-domain/microeconomics/supply-demand-equilibrium",
+      "lessons": [
+        {
+          "title": "Demand",
+          "slug": "demand-curve-tutorial",
+          "videos": [
+            {
+              "title": "Law of demand",
+              "slug": "v/law-of-demand",
+              "youtube_id": "ShzPtU7IOXs",
+              "youtube_url": "https://www.youtube.com/watch?v=ShzPtU7IOXs",
+              "duration_sec": 496,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/law-of-demand"
+            },
+            {
+              "title": "Market demand as the sum of individual demand",
+              "slug": "v/market-demand-as-the-sum-of-individual-demand",
+              "youtube_id": "dGjPguqHBXE",
+              "youtube_url": "https://www.youtube.com/watch?v=dGjPguqHBXE",
+              "duration_sec": 277,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/micro-demand/v/market-demand-as-the-sum-of-individual-demand"
+            },
+            {
+              "title": "Substitution and income effects and the law of demand ",
+              "slug": "v/substitution-and-income-effects-and-the-law-of-demand",
+              "youtube_id": "xGL5mbOvTmQ",
+              "youtube_url": "https://www.youtube.com/watch?v=xGL5mbOvTmQ",
+              "duration_sec": 228,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/micro-demand/v/substitution-and-income-effects-and-the-law-of-demand"
+            },
+            {
+              "title": "Price of related products and demand",
+              "slug": "v/price-of-related-products-and-demand",
+              "youtube_id": "-oClpRv7msg",
+              "youtube_url": "https://www.youtube.com/watch?v=-oClpRv7msg",
+              "duration_sec": 348,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/price-of-related-products-and-demand"
+            },
+            {
+              "title": "Change in expected future prices and demand",
+              "slug": "v/change-in-expected-future-prices-and-demand",
+              "youtube_id": "7siSvYs84fg",
+              "youtube_url": "https://www.youtube.com/watch?v=7siSvYs84fg",
+              "duration_sec": 274,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/change-in-expected-future-prices-and-demand"
+            },
+            {
+              "title": "Changes in income, population, or preferences",
+              "slug": "v/changes-in-income-population-or-preferences",
+              "youtube_id": "do1HDIdfQkU",
+              "youtube_url": "https://www.youtube.com/watch?v=do1HDIdfQkU",
+              "duration_sec": 213,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/changes-in-income-population-or-preferences"
+            },
+            {
+              "title": "Normal and inferior goods",
+              "slug": "v/normal-and-inferior-goods",
+              "youtube_id": "wYuAwm-5-Bk",
+              "youtube_url": "https://www.youtube.com/watch?v=wYuAwm-5-Bk",
+              "duration_sec": 356,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/normal-and-inferior-goods"
+            },
+            {
+              "title": "Inferior goods clarification",
+              "slug": "v/inferior-goods-clarification",
+              "youtube_id": "TAhRoJB34nw",
+              "youtube_url": "https://www.youtube.com/watch?v=TAhRoJB34nw",
+              "duration_sec": 319,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/micro-demand/v/inferior-goods-clarification"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Supply",
+          "slug": "supply-curve-tutorial",
+          "videos": [
+            {
+              "title": "Law of supply",
+              "slug": "v/law-of-supply",
+              "youtube_id": "3xCzhdVtdMI",
+              "youtube_url": "https://www.youtube.com/watch?v=3xCzhdVtdMI",
+              "duration_sec": 504,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/supply/v/law-of-supply"
+            },
+            {
+              "title": "Change in supply versus change in quantity supplied",
+              "slug": "v/change-in-supply-versus-change-in-quantity-supplied",
+              "youtube_id": "NrlF8mMHfLE",
+              "youtube_url": "https://www.youtube.com/watch?v=NrlF8mMHfLE",
+              "duration_sec": 375,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/supply/v/change-in-supply-versus-change-in-quantity-supplied"
+            },
+            {
+              "title": "Factors affecting supply",
+              "slug": "v/factors-affecting-supply",
+              "youtube_id": "0isM0GF-rMI",
+              "youtube_url": "https://www.youtube.com/watch?v=0isM0GF-rMI",
+              "duration_sec": 418,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/supply/v/factors-affecting-supply"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Market equilibrium and changes in equilibrium",
+          "slug": "market-equilibrium-tutorial",
+          "videos": [
+            {
+              "title": "Market equilibrium",
+              "slug": "v/market-equilibrium",
+              "youtube_id": "PEMkfgrifDw",
+              "youtube_url": "https://www.youtube.com/watch?v=PEMkfgrifDw",
+              "duration_sec": 617,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/market-equilibrium-disequilibrium-and-changes-in-equilibrium/v/market-equilibrium"
+            },
+            {
+              "title": "Changes in market equilibrium",
+              "slug": "v/changes-in-market-equilibrium",
+              "youtube_id": "NgPqyM3I_8o",
+              "youtube_url": "https://www.youtube.com/watch?v=NgPqyM3I_8o",
+              "duration_sec": 545,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/market-equilibrium-disequilibrium-and-changes-in-equilibrium/v/changes-in-market-equilibrium"
+            },
+            {
+              "title": "Changes in equilibrium price and quantity when supply and demand change",
+              "slug": "v/changes-in-equilibrium-price-and-quantity-when-supply-and-demand-change-khan-academy",
+              "youtube_id": "kl4n-EWwPyA",
+              "youtube_url": "https://www.youtube.com/watch?v=kl4n-EWwPyA",
+              "duration_sec": 376,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/market-equilibrium-disequilibrium-and-changes-in-equilibrium/v/changes-in-equilibrium-price-and-quantity-when-supply-and-demand-change-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Elasticity",
+      "slug": "elasticity-tutorial",
+      "relative_url": "/economics-finance-domain/microeconomics/elasticity-tutorial",
+      "lessons": [
+        {
+          "title": "Price elasticity of demand",
+          "slug": "price-elasticity-tutorial",
+          "videos": [
+            {
+              "title": "Introduction to price elasticity of demand",
+              "slug": "v/introduction-to-price-elasticity-of-demand-ap-microeconomics-khan-academy",
+              "youtube_id": "FBWJYH8DZ1g",
+              "youtube_url": "https://www.youtube.com/watch?v=FBWJYH8DZ1g",
+              "duration_sec": 520,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/23/v/introduction-to-price-elasticity-of-demand-ap-microeconomics-khan-academy"
+            },
+            {
+              "title": "Price elasticity of demand using the midpoint method",
+              "slug": "v/price-elasticity-of-demand",
+              "youtube_id": "slP8XZ6Nq40",
+              "youtube_url": "https://www.youtube.com/watch?v=slP8XZ6Nq40",
+              "duration_sec": 797,
+              "relative_url": "/economics-finance-domain/microeconomics/elasticity-tutorial/price-elasticity-tutorial/v/price-elasticity-of-demand"
+            },
+            {
+              "title": "More on elasticity of demand",
+              "slug": "v/more-on-elasticity-of-demand",
+              "youtube_id": "YOT8ryWzwbY",
+              "youtube_url": "https://www.youtube.com/watch?v=YOT8ryWzwbY",
+              "duration_sec": 361,
+              "relative_url": "/economics-finance-domain/microeconomics/elasticity-tutorial/price-elasticity-tutorial/v/more-on-elasticity-of-demand"
+            },
+            {
+              "title": "Determinants of price elasticity of demand ",
+              "slug": "v/determinants-of-price-elasticity-of-demand-ap-microeconomics-khan-academy",
+              "youtube_id": "KEhy6SwW__I",
+              "youtube_url": "https://www.youtube.com/watch?v=KEhy6SwW__I",
+              "duration_sec": 562,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/23/v/determinants-of-price-elasticity-of-demand-ap-microeconomics-khan-academy"
+            },
+            {
+              "title": "Determinants of elasticity example ",
+              "slug": "v/determinants-of-elasticity-example",
+              "youtube_id": "H4CkAid4_J4",
+              "youtube_url": "https://www.youtube.com/watch?v=H4CkAid4_J4",
+              "duration_sec": 156,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/23/v/determinants-of-elasticity-example"
+            },
+            {
+              "title": "Perfect inelasticity and perfect elasticity of demand",
+              "slug": "v/perfect-inelasticity-and-perfect-elasticity-of-demand",
+              "youtube_id": "6udRtn5jSWk",
+              "youtube_url": "https://www.youtube.com/watch?v=6udRtn5jSWk",
+              "duration_sec": 581,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/23/v/perfect-inelasticity-and-perfect-elasticity-of-demand"
+            },
+            {
+              "title": "Constant unit elasticity",
+              "slug": "v/constant-unit-elasticity",
+              "youtube_id": "m7qXvQvWlY4",
+              "youtube_url": "https://www.youtube.com/watch?v=m7qXvQvWlY4",
+              "duration_sec": 277,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/23/v/constant-unit-elasticity"
+            },
+            {
+              "title": "Total revenue and elasticity",
+              "slug": "v/total-revenue-and-elasticity",
+              "youtube_id": "Udltkvm9HLc",
+              "youtube_url": "https://www.youtube.com/watch?v=Udltkvm9HLc",
+              "duration_sec": 701,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/23/v/total-revenue-and-elasticity"
+            },
+            {
+              "title": "More on total revenue and elasticity",
+              "slug": "v/more-on-total-revenue-and-elasticity",
+              "youtube_id": "KgrLUQYgIJE",
+              "youtube_url": "https://www.youtube.com/watch?v=KgrLUQYgIJE",
+              "duration_sec": 505,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/23/v/more-on-total-revenue-and-elasticity"
+            },
+            {
+              "title": "Elasticity and strange percent changes",
+              "slug": "v/elasticity-and-strange-percent-changes",
+              "youtube_id": "fUxSB3yYIbs",
+              "youtube_url": "https://www.youtube.com/watch?v=fUxSB3yYIbs",
+              "duration_sec": 414,
+              "relative_url": "/economics-finance-domain/microeconomics/elasticity-tutorial/price-elasticity-tutorial/v/elasticity-and-strange-percent-changes"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Price elasticity of supply",
+          "slug": "price-elasticity-of-supply",
+          "videos": [
+            {
+              "title": "Introduction to price elasticity of supply ",
+              "slug": "v/introduction-to-price-elasticity-of-supply-ap-microeconomics",
+              "youtube_id": "wi1x3sYHU6I",
+              "youtube_url": "https://www.youtube.com/watch?v=wi1x3sYHU6I",
+              "duration_sec": 338,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/24/v/introduction-to-price-elasticity-of-supply-ap-microeconomics"
+            },
+            {
+              "title": "Elasticity of supply using a different method",
+              "slug": "v/elasticity-of-supply",
+              "youtube_id": "AAWsuFXojgo",
+              "youtube_url": "https://www.youtube.com/watch?v=AAWsuFXojgo",
+              "duration_sec": 573,
+              "relative_url": "/economics-finance-domain/microeconomics/elasticity-tutorial/price-elasticity-of-supply/v/elasticity-of-supply"
+            },
+            {
+              "title": "Price elasticity of supply determinants",
+              "slug": "v/price-elasticity-of-supply-determinants",
+              "youtube_id": "kBUC6iPijtw",
+              "youtube_url": "https://www.youtube.com/watch?v=kBUC6iPijtw",
+              "duration_sec": 320,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/24/v/price-elasticity-of-supply-determinants"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Income elasticity of demand and cross-price elasticity of demand",
+          "slug": "income-elasticity-of-demand",
+          "videos": [
+            {
+              "title": "Income elasticity of demand ",
+              "slug": "v/income-elasticity-of-demand",
+              "youtube_id": "RDcf5L6o0mI",
+              "youtube_url": "https://www.youtube.com/watch?v=RDcf5L6o0mI",
+              "duration_sec": 425,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/25/v/income-elasticity-of-demand"
+            },
+            {
+              "title": "Cross-price elasticity of demand",
+              "slug": "v/cross-elasticity-of-demand",
+              "youtube_id": "Ngv0Be9NxAw",
+              "youtube_url": "https://www.youtube.com/watch?v=Ngv0Be9NxAw",
+              "duration_sec": 680,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/25/v/cross-elasticity-of-demand"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Consumer and producer surplus, market interventions, and international trade",
+      "slug": "consumer-producer-surplus",
+      "relative_url": "/economics-finance-domain/microeconomics/consumer-producer-surplus",
+      "lessons": [
+        {
+          "title": "Consumer and producer surplus",
+          "slug": "consumer-producer-surplus-tut",
+          "videos": [
+            {
+              "title": "Demand curve as marginal benefit curve",
+              "slug": "v/demand-curve-as-marginal-benefit-curve",
+              "youtube_id": "KrkbbRxdDZ8",
+              "youtube_url": "https://www.youtube.com/watch?v=KrkbbRxdDZ8",
+              "duration_sec": 353,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/26/v/demand-curve-as-marginal-benefit-curve"
+            },
+            {
+              "title": "Consumer surplus introduction",
+              "slug": "v/consumer-surplus-introduction",
+              "youtube_id": "_6kwhF6hoqQ",
+              "youtube_url": "https://www.youtube.com/watch?v=_6kwhF6hoqQ",
+              "duration_sec": 302,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/26/v/consumer-surplus-introduction"
+            },
+            {
+              "title": "Total consumer surplus as area",
+              "slug": "v/total-consumer-surplus-as-area",
+              "youtube_id": "RBUBIRtn0xQ",
+              "youtube_url": "https://www.youtube.com/watch?v=RBUBIRtn0xQ",
+              "duration_sec": 346,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/26/v/total-consumer-surplus-as-area"
+            },
+            {
+              "title": "Producer surplus",
+              "slug": "v/producer-surplus",
+              "youtube_id": "-V-Y5klejSg",
+              "youtube_url": "https://www.youtube.com/watch?v=-V-Y5klejSg",
+              "duration_sec": 500,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/26/v/producer-surplus"
+            },
+            {
+              "title": "Equilibrium, allocative efficiency and total surplus",
+              "slug": "v/equilibrium-allocative-efficiency-and-total-surplus",
+              "youtube_id": "E_EmGO1XuHM",
+              "youtube_url": "https://www.youtube.com/watch?v=E_EmGO1XuHM",
+              "duration_sec": 689,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/26/v/equilibrium-allocative-efficiency-and-total-surplus"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Market interventions and deadweight loss",
+          "slug": "deadweight-loss-tutorial",
+          "videos": [
+            {
+              "title": "Rent control and deadweight loss",
+              "slug": "v/rent-control-dead-weight-cost",
+              "youtube_id": "8U8egQjcPaI",
+              "youtube_url": "https://www.youtube.com/watch?v=8U8egQjcPaI",
+              "duration_sec": 672,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/28/v/rent-control-dead-weight-cost"
+            },
+            {
+              "title": "Minimum wage and price floors",
+              "slug": "v/minimum-wage-and-price-floors",
+              "youtube_id": "j0c2vmFGbtk",
+              "youtube_url": "https://www.youtube.com/watch?v=j0c2vmFGbtk",
+              "duration_sec": 546,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/28/v/minimum-wage-and-price-floors"
+            },
+            {
+              "title": "How price controls reallocate surplus",
+              "slug": "v/how-price-controls-reallocate-surplus",
+              "youtube_id": "-T8lzuTwdbI",
+              "youtube_url": "https://www.youtube.com/watch?v=-T8lzuTwdbI",
+              "duration_sec": 523,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/28/v/how-price-controls-reallocate-surplus"
+            },
+            {
+              "title": "Taxation and dead weight loss",
+              "slug": "v/taxation-and-dead-weight-loss",
+              "youtube_id": "NuLlNAdrom4",
+              "youtube_url": "https://www.youtube.com/watch?v=NuLlNAdrom4",
+              "duration_sec": 546,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/28/v/taxation-and-dead-weight-loss"
+            },
+            {
+              "title": "Example breaking down tax incidence",
+              "slug": "v/example-breaking-down-tax-incidence",
+              "youtube_id": "1-8O5AHIb6s",
+              "youtube_url": "https://www.youtube.com/watch?v=1-8O5AHIb6s",
+              "duration_sec": 347,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/28/v/example-breaking-down-tax-incidence"
+            },
+            {
+              "title": "Percentage tax on hamburgers",
+              "slug": "v/percentage-tax-on-hamburgers",
+              "youtube_id": "xwOTlMaerEQ",
+              "youtube_url": "https://www.youtube.com/watch?v=xwOTlMaerEQ",
+              "duration_sec": 340,
+              "relative_url": "/economics-finance-domain/microeconomics/consumer-producer-surplus/deadweight-loss-tutorial/v/percentage-tax-on-hamburgers"
+            },
+            {
+              "title": "Taxes and perfectly inelastic demand",
+              "slug": "v/taxes-and-perfectly-inelastic-demand",
+              "youtube_id": "lsn16U5DWD4",
+              "youtube_url": "https://www.youtube.com/watch?v=lsn16U5DWD4",
+              "duration_sec": 471,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/28/v/taxes-and-perfectly-inelastic-demand"
+            },
+            {
+              "title": "Taxes and perfectly elastic demand",
+              "slug": "v/taxes-and-perfectly-elastic-demand",
+              "youtube_id": "z1yJPpGC3-o",
+              "youtube_url": "https://www.youtube.com/watch?v=z1yJPpGC3-o",
+              "duration_sec": 412,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/28/v/taxes-and-perfectly-elastic-demand"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "International trade",
+          "slug": "international-trade",
+          "videos": [
+            {
+              "title": "Changing equilibria from trade ",
+              "slug": "v/changing-equilibria-from-trade",
+              "youtube_id": "7adFZOA7Qfg",
+              "youtube_url": "https://www.youtube.com/watch?v=7adFZOA7Qfg",
+              "duration_sec": 384,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/29-international-trade-and-public-policy/v/changing-equilibria-from-trade"
+            },
+            {
+              "title": "Trade and tariffs",
+              "slug": "v/trade-and-tariffs",
+              "youtube_id": "3pSysspeCxY",
+              "youtube_url": "https://www.youtube.com/watch?v=3pSysspeCxY",
+              "duration_sec": 425,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/29-international-trade-and-public-policy/v/trade-and-tariffs"
+            },
+            {
+              "title": "Sample free response question (FRQ) on tariffs and trade",
+              "slug": "v/tariff-and-imports-worked-example",
+              "youtube_id": "Qq5-909rWgw",
+              "youtube_url": "https://www.youtube.com/watch?v=Qq5-909rWgw",
+              "duration_sec": 442,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/29-international-trade-and-public-policy/v/tariff-and-imports-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Consumer theory",
+      "slug": "choices-opp-cost-tutorial",
+      "relative_url": "/economics-finance-domain/microeconomics/choices-opp-cost-tutorial",
+      "lessons": [
+        {
+          "title": "Introduction to consumer theory: total utility and marginal utility",
+          "slug": "marginal-utility-tutorial",
+          "videos": [
+            {
+              "title": "Marginal utility and total utility",
+              "slug": "v/marginal-utility",
+              "youtube_id": "Kf9KhwryQNE",
+              "youtube_url": "https://www.youtube.com/watch?v=Kf9KhwryQNE",
+              "duration_sec": 734,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/basic-economic-concepts/16/v/marginal-utility"
+            },
+            {
+              "title": "Visualizing marginal utility MU and total utility TU functions",
+              "slug": "v/visualizing-marginal-utility-mu-and-total-utility-tu-functions",
+              "youtube_id": "JlS5K1AxjT4",
+              "youtube_url": "https://www.youtube.com/watch?v=JlS5K1AxjT4",
+              "duration_sec": 490,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/basic-economic-concepts/16/v/visualizing-marginal-utility-mu-and-total-utility-tu-functions"
+            },
+            {
+              "title": "Utility maximization: equalizing marginal utility per dollar ",
+              "slug": "v/equalizing-marginal-utility-per-dollar-spent",
+              "youtube_id": "KbW6OiuRa1Y",
+              "youtube_url": "https://www.youtube.com/watch?v=KbW6OiuRa1Y",
+              "duration_sec": 462,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/basic-economic-concepts/16/v/equalizing-marginal-utility-per-dollar-spent"
+            },
+            {
+              "title": "Deriving demand curve from tweaking marginal utility per dollar",
+              "slug": "v/deriving-demand-curve-from-tweaking-marginal-utility-per-dollar",
+              "youtube_id": "4-_-wQc3EGE",
+              "youtube_url": "https://www.youtube.com/watch?v=4-_-wQc3EGE",
+              "duration_sec": 523,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/unit-2-supply-and-demnd/micro-demand/v/deriving-demand-curve-from-tweaking-marginal-utility-per-dollar"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Utility maximization using marginal utility per dollar spent",
+          "slug": "utility-maximization-using-marg",
+          "videos": [
+            {
+              "title": "Utility maximization: equalizing marginal utility per dollar ",
+              "slug": "v/equalizing-marginal-utility-per-dollar-spent",
+              "youtube_id": "KbW6OiuRa1Y",
+              "youtube_url": "https://www.youtube.com/watch?v=KbW6OiuRa1Y",
+              "duration_sec": 462,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/basic-economic-concepts/16/v/equalizing-marginal-utility-per-dollar-spent"
+            },
+            {
+              "title": "Marginal utility free response example",
+              "slug": "v/marginal-utllity-free-response-example",
+              "youtube_id": "CxAXc9vL2rI",
+              "youtube_url": "https://www.youtube.com/watch?v=CxAXc9vL2rI",
+              "duration_sec": 497,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/basic-economic-concepts/16/v/marginal-utllity-free-response-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Utility maximization with indifference curves",
+          "slug": "utility-maximization-with-indifference-curves",
+          "videos": [
+            {
+              "title": "Budget line",
+              "slug": "v/budget-line",
+              "youtube_id": "Uq5Wzs96tiw",
+              "youtube_url": "https://www.youtube.com/watch?v=Uq5Wzs96tiw",
+              "duration_sec": 731,
+              "relative_url": "/economics-finance-domain/microeconomics/choices-opp-cost-tutorial/utility-maximization-with-indifference-curves/v/budget-line"
+            },
+            {
+              "title": "Indifference curves and marginal rate of substitution",
+              "slug": "v/indifference-curves-and-marginal-rate-of-substitution",
+              "youtube_id": "7G4BUm7M6MY",
+              "youtube_url": "https://www.youtube.com/watch?v=7G4BUm7M6MY",
+              "duration_sec": 652,
+              "relative_url": "/economics-finance-domain/microeconomics/choices-opp-cost-tutorial/utility-maximization-with-indifference-curves/v/indifference-curves-and-marginal-rate-of-substitution"
+            },
+            {
+              "title": "Optimal point on budget line",
+              "slug": "v/optimal-point-on-budget-line",
+              "youtube_id": "nhSSu0Nzs30",
+              "youtube_url": "https://www.youtube.com/watch?v=nhSSu0Nzs30",
+              "duration_sec": 564,
+              "relative_url": "/economics-finance-domain/microeconomics/choices-opp-cost-tutorial/utility-maximization-with-indifference-curves/v/optimal-point-on-budget-line"
+            },
+            {
+              "title": "Types of indifference curves",
+              "slug": "v/types-of-indifference-curves",
+              "youtube_id": "kJ43GdU5Uzc",
+              "youtube_url": "https://www.youtube.com/watch?v=kJ43GdU5Uzc",
+              "duration_sec": 349,
+              "relative_url": "/economics-finance-domain/microeconomics/choices-opp-cost-tutorial/utility-maximization-with-indifference-curves/v/types-of-indifference-curves"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Production decisions and economic profit",
+      "slug": "firm-economic-profit",
+      "relative_url": "/economics-finance-domain/microeconomics/firm-economic-profit",
+      "lessons": [
+        {
+          "title": "Introduction to production and costs",
+          "slug": "introduction-to-production-and-costs",
+          "videos": [
+            {
+              "title": "Introduction to production functions ",
+              "slug": "v/introduction-to-production-functions",
+              "youtube_id": "4kFLOoA5l4s",
+              "youtube_url": "https://www.youtube.com/watch?v=4kFLOoA5l4s",
+              "duration_sec": 513,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/the-production-function/v/introduction-to-production-functions"
+            },
+            {
+              "title": "Total product, marginal product, and average product",
+              "slug": "v/total-product-marginal-product-and-average-product",
+              "youtube_id": "8fm9FjDV0iA",
+              "youtube_url": "https://www.youtube.com/watch?v=8fm9FjDV0iA",
+              "duration_sec": 416,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/the-production-function/v/total-product-marginal-product-and-average-product"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Production and costs in the short run",
+          "slug": "average-costs-margin-rev",
+          "videos": [
+            {
+              "title": "Fixed, variable, and marginal cost",
+              "slug": "v/fixed-variable-and-marginal-cost",
+              "youtube_id": "bBQVaRnHqLs",
+              "youtube_url": "https://www.youtube.com/watch?v=bBQVaRnHqLs",
+              "duration_sec": 709,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/short-run-production-costs/v/fixed-variable-and-marginal-cost"
+            },
+            {
+              "title": "Marginal cost, average variable cost, and average total cost",
+              "slug": "v/marginal-cost-average-variable-cost-and-average-total-cost",
+              "youtube_id": "mW6Cwpfb5CI",
+              "youtube_url": "https://www.youtube.com/watch?v=mW6Cwpfb5CI",
+              "duration_sec": 449,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/short-run-production-costs/v/marginal-cost-average-variable-cost-and-average-total-cost"
+            },
+            {
+              "title": "Graphs of MC, AVC and ATC",
+              "slug": "v/graphs-of-mc-avc-and-atc",
+              "youtube_id": "vh7SjS-t1wA",
+              "youtube_url": "https://www.youtube.com/watch?v=vh7SjS-t1wA",
+              "duration_sec": 524,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/short-run-production-costs/v/graphs-of-mc-avc-and-atc"
+            },
+            {
+              "title": "Marginal revenue and marginal cost",
+              "slug": "v/marginal-revenue-and-marginal-cost",
+              "youtube_id": "xGkE0oHyNhk",
+              "youtube_url": "https://www.youtube.com/watch?v=xGkE0oHyNhk",
+              "duration_sec": 370,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/short-run-production-costs/v/marginal-revenue-and-marginal-cost"
+            },
+            {
+              "title": "Marginal revenue below average total cost",
+              "slug": "v/marginal-revenue-below-average-total-cost",
+              "youtube_id": "ni0TL4pXG5w",
+              "youtube_url": "https://www.youtube.com/watch?v=ni0TL4pXG5w",
+              "duration_sec": 355,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/short-run-production-costs/v/marginal-revenue-below-average-total-cost"
+            },
+            {
+              "title": "How costs change when fixed and variable costs change",
+              "slug": "v/how-costs-change-when-fixed-and-variable-costs-change",
+              "youtube_id": "dbedc5rrwhQ",
+              "youtube_url": "https://www.youtube.com/watch?v=dbedc5rrwhQ",
+              "duration_sec": 387,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/short-run-production-costs/v/how-costs-change-when-fixed-and-variable-costs-change"
+            },
+            {
+              "title": "Graphical impact of cost changes on marginal and average costs",
+              "slug": "v/graphical-impact-of-cost-changes-on-marginal-and-average-costs",
+              "youtube_id": "A1_PT1aHVLY",
+              "youtube_url": "https://www.youtube.com/watch?v=A1_PT1aHVLY",
+              "duration_sec": 227,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/short-run-production-costs/v/graphical-impact-of-cost-changes-on-marginal-and-average-costs"
+            },
+            {
+              "title": "Visualizing average costs and marginal costs as slope",
+              "slug": "v/visualizing-average-costs-and-marginal-costs-as-slope",
+              "youtube_id": "k1iHDu9GrJE",
+              "youtube_url": "https://www.youtube.com/watch?v=k1iHDu9GrJE",
+              "duration_sec": 726,
+              "relative_url": "/economics-finance-domain/microeconomics/firm-economic-profit/average-costs-margin-rev/v/visualizing-average-costs-and-marginal-costs-as-slope"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Production and costs in the long run",
+          "slug": "long-run-production-costs",
+          "videos": [
+            {
+              "title": "Long-run average total cost curve",
+              "slug": "v/long-run-average-total-cost-curve",
+              "youtube_id": "aKpnaKROoYA",
+              "youtube_url": "https://www.youtube.com/watch?v=aKpnaKROoYA",
+              "duration_sec": 512,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/33-long-run-p/v/long-run-average-total-cost-curve"
+            },
+            {
+              "title": "Economies and diseconomies of scale",
+              "slug": "v/economies-and-diseconomies-of-scale",
+              "youtube_id": "4bJs6bKjPPA",
+              "youtube_url": "https://www.youtube.com/watch?v=4bJs6bKjPPA",
+              "duration_sec": 218,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/33-long-run-p/v/economies-and-diseconomies-of-scale"
+            },
+            {
+              "title": "Minimum efficient scale and market concentration ",
+              "slug": "v/minimum-efficient-scale-and-market-concentration-ap-microeconomics-khan-academy",
+              "youtube_id": "lqAKI6remoQ",
+              "youtube_url": "https://www.youtube.com/watch?v=lqAKI6remoQ",
+              "duration_sec": 367,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/33-long-run-p/v/minimum-efficient-scale-and-market-concentration-ap-microeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Types of profit",
+          "slug": "economic-profit-tutorial",
+          "videos": [
+            {
+              "title": "Economic profit vs accounting profit",
+              "slug": "v/economic-profit-vs-accounting-profit",
+              "youtube_id": "06j_zPdPWOY",
+              "youtube_url": "https://www.youtube.com/watch?v=06j_zPdPWOY",
+              "duration_sec": 486,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/types-of-profit/v/economic-profit-vs-accounting-profit"
+            },
+            {
+              "title": "Depreciation and opportunity cost of capital",
+              "slug": "v/depreciation-and-opportunity-cost-of-capital",
+              "youtube_id": "ckBKDrKVIMU",
+              "youtube_url": "https://www.youtube.com/watch?v=ckBKDrKVIMU",
+              "duration_sec": 490,
+              "relative_url": "/economics-finance-domain/microeconomics/firm-economic-profit/economic-profit-tutorial/v/depreciation-and-opportunity-cost-of-capital"
+            },
+            {
+              "title": "Long term supply curve and economic profit",
+              "slug": "v/long-term-supply-curve-and-economic-profit",
+              "youtube_id": "CWiHA5XtqgU",
+              "youtube_url": "https://www.youtube.com/watch?v=CWiHA5XtqgU",
+              "duration_sec": 506,
+              "relative_url": "/economics-finance-domain/microeconomics/firm-economic-profit/economic-profit-tutorial/v/long-term-supply-curve-and-economic-profit"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Profit maximization",
+          "slug": "micro-profit-maximization",
+          "videos": [
+            {
+              "title": "Profit maximization",
+              "slug": "v/profit-maximization",
+              "youtube_id": "SON0BtLMUHw",
+              "youtube_url": "https://www.youtube.com/watch?v=SON0BtLMUHw",
+              "duration_sec": 300,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/profit-maximization/v/profit-maximization"
+            },
+            {
+              "title": "Profit maximization worked example",
+              "slug": "v/profit-maximization-worked-example",
+              "youtube_id": "WUJwZYTfroI",
+              "youtube_url": "https://www.youtube.com/watch?v=WUJwZYTfroI",
+              "duration_sec": 280,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/profit-maximization/v/profit-maximization-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Firm entry, exit, and the shut-down rule",
+          "slug": "firm-entry-exit-and-the-shut-down-rule",
+          "videos": [
+            {
+              "title": "Shutting down or exiting industry based on price",
+              "slug": "v/shutting-down-or-exiting-industry-based-on-price",
+              "youtube_id": "aPiZloqtlnc",
+              "youtube_url": "https://www.youtube.com/watch?v=aPiZloqtlnc",
+              "duration_sec": 460,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/36/v/shutting-down-or-exiting-industry-based-on-price"
+            },
+            {
+              "title": "Long-run economic profit for perfectly competitive firms",
+              "slug": "v/long-run-economic-profit-for-perfectly-competitive-firms",
+              "youtube_id": "Xx5-O8kDMvU",
+              "youtube_url": "https://www.youtube.com/watch?v=Xx5-O8kDMvU",
+              "duration_sec": 414,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/long-run-economic-profit-for-perfectly-competitive-firms"
+            },
+            {
+              "title": "Long run supply when industry costs aren't constant",
+              "slug": "v/long-run-supply-when-industry-costs-are-increasing-or-decreasing",
+              "youtube_id": "sN-bhe6UfRs",
+              "youtube_url": "https://www.youtube.com/watch?v=sN-bhe6UfRs",
+              "duration_sec": 358,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/long-run-supply-when-industry-costs-are-increasing-or-decreasing"
+            },
+            {
+              "title": "Free response question (FRQ) on perfect competition ",
+              "slug": "v/frq-microecononomics-on-perfect-competition",
+              "youtube_id": "BmxuzqDEBpM",
+              "youtube_url": "https://www.youtube.com/watch?v=BmxuzqDEBpM",
+              "duration_sec": 414,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/frq-microecononomics-on-perfect-competition"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Forms of competition",
+      "slug": "perfect-competition-topic",
+      "relative_url": "/economics-finance-domain/microeconomics/perfect-competition-topic",
+      "lessons": [
+        {
+          "title": "Perfect competition",
+          "slug": "perfect-competition",
+          "videos": [
+            {
+              "title": "Introduction to perfect competition",
+              "slug": "v/perfect-competition-microeconomics",
+              "youtube_id": "B_49lQxwMaM",
+              "youtube_url": "https://www.youtube.com/watch?v=B_49lQxwMaM",
+              "duration_sec": 505,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/perfect-competition-microeconomics"
+            },
+            {
+              "title": "Economic profit for firms in perfectly competitive markets ",
+              "slug": "v/economic-profit-for-firms-in-perfectly-competitive-markets",
+              "youtube_id": "JWuWzloEH40",
+              "youtube_url": "https://www.youtube.com/watch?v=JWuWzloEH40",
+              "duration_sec": 494,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/economic-profit-for-firms-in-perfectly-competitive-markets"
+            },
+            {
+              "title": "Long-run economic profit for perfectly competitive firms",
+              "slug": "v/long-run-economic-profit-for-perfectly-competitive-firms",
+              "youtube_id": "Xx5-O8kDMvU",
+              "youtube_url": "https://www.youtube.com/watch?v=Xx5-O8kDMvU",
+              "duration_sec": 414,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/long-run-economic-profit-for-perfectly-competitive-firms"
+            },
+            {
+              "title": "Long-run supply curve in constant cost perfectly competitive markets",
+              "slug": "v/long-run-supply-curve-in-constant-cost-perfectly-competitive-markets",
+              "youtube_id": "Hzw6_vUPvgg",
+              "youtube_url": "https://www.youtube.com/watch?v=Hzw6_vUPvgg",
+              "duration_sec": 398,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/long-run-supply-curve-in-constant-cost-perfectly-competitive-markets"
+            },
+            {
+              "title": "Long run supply when industry costs aren't constant",
+              "slug": "v/long-run-supply-when-industry-costs-are-increasing-or-decreasing",
+              "youtube_id": "sN-bhe6UfRs",
+              "youtube_url": "https://www.youtube.com/watch?v=sN-bhe6UfRs",
+              "duration_sec": 358,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/long-run-supply-when-industry-costs-are-increasing-or-decreasing"
+            },
+            {
+              "title": "Free response question (FRQ) on perfect competition ",
+              "slug": "v/frq-microecononomics-on-perfect-competition",
+              "youtube_id": "BmxuzqDEBpM",
+              "youtube_url": "https://www.youtube.com/watch?v=BmxuzqDEBpM",
+              "duration_sec": 414,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/production-cost-and-the-perfect-competition-model-temporary/ap-perfect-competition/v/frq-microecononomics-on-perfect-competition"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Monopoly",
+          "slug": "monopolies-tutorial",
+          "videos": [
+            {
+              "title": "Perfect and imperfect competition",
+              "slug": "v/perfect-and-imperfect-competition",
+              "youtube_id": "FZBc1wM8a8M",
+              "youtube_url": "https://www.youtube.com/watch?v=FZBc1wM8a8M",
+              "duration_sec": 600,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/introduction-to-imperfect-competition/v/perfect-and-imperfect-competition"
+            },
+            {
+              "title": "Types of competition and marginal revenue",
+              "slug": "v/types-of-competition-and-marginal-revenue",
+              "youtube_id": "Jj4hQK-GuXo",
+              "youtube_url": "https://www.youtube.com/watch?v=Jj4hQK-GuXo",
+              "duration_sec": 404,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/introduction-to-imperfect-competition/v/types-of-competition-and-marginal-revenue"
+            },
+            {
+              "title": "Marginal revenue and marginal cost in imperfect competition",
+              "slug": "v/marginal-revenue-and-marginal-cost-in-imperfect-competition",
+              "youtube_id": "A-uVHlqEiyE",
+              "youtube_url": "https://www.youtube.com/watch?v=A-uVHlqEiyE",
+              "duration_sec": 221,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/introduction-to-imperfect-competition/v/marginal-revenue-and-marginal-cost-in-imperfect-competition"
+            },
+            {
+              "title": "Monopolies vs. perfect competition",
+              "slug": "v/monopolies-vs-perfect-competition",
+              "youtube_id": "PgDrR2wj_Jc",
+              "youtube_url": "https://www.youtube.com/watch?v=PgDrR2wj_Jc",
+              "duration_sec": 284,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/ap-monopolies-tutorial/v/monopolies-vs-perfect-competition"
+            },
+            {
+              "title": "Economic profit for a monopoly",
+              "slug": "v/economic-profit-for-a-monopoly",
+              "youtube_id": "PEFEnss--mU",
+              "youtube_url": "https://www.youtube.com/watch?v=PEFEnss--mU",
+              "duration_sec": 373,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/ap-monopolies-tutorial/v/economic-profit-for-a-monopoly"
+            },
+            {
+              "title": "Monopolist optimizing price: Total revenue",
+              "slug": "v/monopolist-optimizing-price-part-1-total-revenue",
+              "youtube_id": "cczABrLd_uA",
+              "youtube_url": "https://www.youtube.com/watch?v=cczABrLd_uA",
+              "duration_sec": 431,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/ap-monopolies-tutorial/v/monopolist-optimizing-price-part-1-total-revenue"
+            },
+            {
+              "title": "Monopolist optimizing price: Marginal revenue",
+              "slug": "v/monopolist-optimizing-price-part-2-marginal-revenue",
+              "youtube_id": "s1UQQELPyrc",
+              "youtube_url": "https://www.youtube.com/watch?v=s1UQQELPyrc",
+              "duration_sec": 511,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/ap-monopolies-tutorial/v/monopolist-optimizing-price-part-2-marginal-revenue"
+            },
+            {
+              "title": "Monopolist optimizing price: Dead weight loss",
+              "slug": "v/monopolist-optimizing-price-part-3-dead-weight-loss-avi",
+              "youtube_id": "daxL1ZLrUzg",
+              "youtube_url": "https://www.youtube.com/watch?v=daxL1ZLrUzg",
+              "duration_sec": 357,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/ap-monopolies-tutorial/v/monopolist-optimizing-price-part-3-dead-weight-loss-avi"
+            },
+            {
+              "title": "Review of revenue and cost graphs for a monopoly",
+              "slug": "v/review-of-revenue-and-cost-graphs-for-a-monopoly-1",
+              "youtube_id": "A_lV-XArVeE",
+              "youtube_url": "https://www.youtube.com/watch?v=A_lV-XArVeE",
+              "duration_sec": 622,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/ap-monopolies-tutorial/v/review-of-revenue-and-cost-graphs-for-a-monopoly-1"
+            },
+            {
+              "title": "Optional calculus proof to show that MR has twice slope of demand",
+              "slug": "v/optional-calculus-proof-to-show-that-mr-has-twice-slope-of-demand",
+              "youtube_id": "atI4QH2acuw",
+              "youtube_url": "https://www.youtube.com/watch?v=atI4QH2acuw",
+              "duration_sec": 296,
+              "relative_url": "/economics-finance-domain/microeconomics/perfect-competition-topic/monopolies-tutorial/v/optional-calculus-proof-to-show-that-mr-has-twice-slope-of-demand"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Price discrimination",
+          "slug": "price-discrimination",
+          "videos": [
+            {
+              "title": "Price discrimination",
+              "slug": "v/first-degree-price-discrimination",
+              "youtube_id": "z0wg9ZPyL38",
+              "youtube_url": "https://www.youtube.com/watch?v=z0wg9ZPyL38",
+              "duration_sec": 361,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/ap-price-discrimination-tutorial/v/first-degree-price-discrimination"
+            },
+            {
+              "title": "Monopoly price discrimination",
+              "slug": "v/monopoly-price-discrimination",
+              "youtube_id": "gcq9KFpEuLc",
+              "youtube_url": "https://www.youtube.com/watch?v=gcq9KFpEuLc",
+              "duration_sec": 459,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/ap-price-discrimination-tutorial/v/monopoly-price-discrimination"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Monopolistic competition",
+          "slug": "monopolistic-competition-oligop",
+          "videos": [
+            {
+              "title": "Oligopolies and monopolistic competition",
+              "slug": "v/oligopolies-and-monopolisitc-competition",
+              "youtube_id": "PzDthFTzEa0",
+              "youtube_url": "https://www.youtube.com/watch?v=PzDthFTzEa0",
+              "duration_sec": 561,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/monopolistic-competition/v/oligopolies-and-monopolisitc-competition"
+            },
+            {
+              "title": "Monopolistic competition and economic profit",
+              "slug": "v/monopolistic-competition-and-economic-profit",
+              "youtube_id": "RUVsEovktGU",
+              "youtube_url": "https://www.youtube.com/watch?v=RUVsEovktGU",
+              "duration_sec": 531,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/monopolistic-competition/v/monopolistic-competition-and-economic-profit"
+            },
+            {
+              "title": "Long run economic profit for monopolistic competition",
+              "slug": "v/long-term-economic-profit-for-monopolistic-competition",
+              "youtube_id": "QRN2QKHe-tM",
+              "youtube_url": "https://www.youtube.com/watch?v=QRN2QKHe-tM",
+              "duration_sec": 385,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/monopolistic-competition/v/long-term-economic-profit-for-monopolistic-competition"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Oligopoly and game theory",
+          "slug": "game-theory",
+          "videos": [
+            {
+              "title": "Oligopolies, duopolies, collusion, and cartels",
+              "slug": "v/oligopolies-duopolies-collusion-and-cartels",
+              "youtube_id": "N0L00FZnhtg",
+              "youtube_url": "https://www.youtube.com/watch?v=N0L00FZnhtg",
+              "duration_sec": 506,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/oligopoly-and-game-theory/v/oligopolies-duopolies-collusion-and-cartels"
+            },
+            {
+              "title": "Prisoners' dilemma and Nash equilibrium",
+              "slug": "v/prisoners-dilemma-and-nash-equilibrium",
+              "youtube_id": "UkXI-zPcDIM",
+              "youtube_url": "https://www.youtube.com/watch?v=UkXI-zPcDIM",
+              "duration_sec": 561,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/oligopoly-and-game-theory/v/prisoners-dilemma-and-nash-equilibrium"
+            },
+            {
+              "title": "More on Nash equilibrium",
+              "slug": "v/more-on-nash-equilibrium",
+              "youtube_id": "ewu_7Dmj_18",
+              "youtube_url": "https://www.youtube.com/watch?v=ewu_7Dmj_18",
+              "duration_sec": 391,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/oligopoly-and-game-theory/v/more-on-nash-equilibrium"
+            },
+            {
+              "title": "Why parties to cartels cheat",
+              "slug": "v/why-parties-to-cartels-cheat",
+              "youtube_id": "S6TvRDwgQag",
+              "youtube_url": "https://www.youtube.com/watch?v=S6TvRDwgQag",
+              "duration_sec": 679,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/oligopoly-and-game-theory/v/why-parties-to-cartels-cheat"
+            },
+            {
+              "title": "Game theory of cheating firms",
+              "slug": "v/game-theory-of-cheating-firms",
+              "youtube_id": "XTMbRDRaviM",
+              "youtube_url": "https://www.youtube.com/watch?v=XTMbRDRaviM",
+              "duration_sec": 560,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/imperfect-competition/oligopoly-and-game-theory/v/game-theory-of-cheating-firms"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Factor markets",
+      "slug": "micro-factor-markets",
+      "relative_url": "/economics-finance-domain/microeconomics/micro-factor-markets",
+      "lessons": [
+        {
+          "title": "Introduction to factor markets",
+          "slug": "micro-introduction-to-factor-markets",
+          "videos": [
+            {
+              "title": "A firm's marginal product revenue curve",
+              "slug": "v/a-firm-s-marginal-product-revenue-curve",
+              "youtube_id": "cwClnv9Y1Y0",
+              "youtube_url": "https://www.youtube.com/watch?v=cwClnv9Y1Y0",
+              "duration_sec": 783,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/introduction-to-factor-markets/v/a-firm-s-marginal-product-revenue-curve"
+            },
+            {
+              "title": "How many people to hire given the MPR curve",
+              "slug": "v/how-many-people-to-hire-given-the-mpr-curve",
+              "youtube_id": "p8PSIpMkEvA",
+              "youtube_url": "https://www.youtube.com/watch?v=p8PSIpMkEvA",
+              "duration_sec": 542,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/introduction-to-factor-markets/v/how-many-people-to-hire-given-the-mpr-curve"
+            },
+            {
+              "title": "Introduction to labor markets",
+              "slug": "v/introduction-to-labor-markets",
+              "youtube_id": "Cm69zTuUzMI",
+              "youtube_url": "https://www.youtube.com/watch?v=Cm69zTuUzMI",
+              "duration_sec": 444,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/introduction-to-factor-markets/v/introduction-to-labor-markets"
+            },
+            {
+              "title": "Labor-leisure tradeoff and the labor supply curve",
+              "slug": "v/labor-leisure-tradeoff",
+              "youtube_id": "i5RIEwI6Hcs",
+              "youtube_url": "https://www.youtube.com/watch?v=i5RIEwI6Hcs",
+              "duration_sec": 286,
+              "relative_url": "/economics-finance-domain/microeconomics/micro-factor-markets/micro-introduction-to-factor-markets/v/labor-leisure-tradeoff"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Changes in factor demand and supply",
+          "slug": "labor-marginal-product-rev",
+          "videos": [
+            {
+              "title": "Adding demand curves",
+              "slug": "v/adding-demand-curves",
+              "youtube_id": "gHs3zuRek7o",
+              "youtube_url": "https://www.youtube.com/watch?v=gHs3zuRek7o",
+              "duration_sec": 378,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/ap-labor-marginal-product-rev/v/adding-demand-curves"
+            },
+            {
+              "title": "Changes in labor supply",
+              "slug": "v/changes-in-labor-supply",
+              "youtube_id": "16c66XCdSBo",
+              "youtube_url": "https://www.youtube.com/watch?v=16c66XCdSBo",
+              "duration_sec": 291,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/ap-labor-marginal-product-rev/v/changes-in-labor-supply"
+            },
+            {
+              "title": "Shifts in the demand for labor",
+              "slug": "v/shifts-in-demand-for-labor",
+              "youtube_id": "CuTNp-6FI0k",
+              "youtube_url": "https://www.youtube.com/watch?v=CuTNp-6FI0k",
+              "duration_sec": 281,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/ap-labor-marginal-product-rev/v/shifts-in-demand-for-labor"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Optimal choice of factors in perfectly competitive factor markets ",
+          "slug": "optimal-firm-behavior-in-perfectly-competitive-factor-markets",
+          "videos": [
+            {
+              "title": "Cost minimizing choice of inputs ",
+              "slug": "v/cost-minimizing-choice-of-inputs",
+              "youtube_id": "NSCqNsAiHOM",
+              "youtube_url": "https://www.youtube.com/watch?v=NSCqNsAiHOM",
+              "duration_sec": 629,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/profit-maximizing-behavior-in-perfectly-competitive-factor-markets/v/cost-minimizing-choice-of-inputs"
+            },
+            {
+              "title": "Factor markets worked example ",
+              "slug": "v/factor-markets-worked-example-microeconomics-khan-academy",
+              "youtube_id": "jiycJ9M2L1o",
+              "youtube_url": "https://www.youtube.com/watch?v=jiycJ9M2L1o",
+              "duration_sec": 624,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/profit-maximizing-behavior-in-perfectly-competitive-factor-markets/v/factor-markets-worked-example-microeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Choosing inputs when factor markets are monopolistically competitive",
+          "slug": "choosing-inputs-when-factor-markets-are-monopsonistically-competitive",
+          "videos": [
+            {
+              "title": "A monopsonistic market for labor",
+              "slug": "v/a-monopsonistic-market-for-labor",
+              "youtube_id": "vAaW15vwKUU",
+              "youtube_url": "https://www.youtube.com/watch?v=vAaW15vwKUU",
+              "duration_sec": 573,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/monopsonistic-markets/v/a-monopsonistic-market-for-labor"
+            },
+            {
+              "title": "Monopsony employers and minimum wages",
+              "slug": "v/monopsony-employers-and-minimum-wages",
+              "youtube_id": "FIiVE-mzmqY",
+              "youtube_url": "https://www.youtube.com/watch?v=FIiVE-mzmqY",
+              "duration_sec": 530,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/factor-markets/monopsonistic-markets/v/monopsony-employers-and-minimum-wages"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Market failure and the role of government",
+      "slug": "market-failure-and-the-role-of-government",
+      "relative_url": "/economics-finance-domain/microeconomics/market-failure-and-the-role-of-government",
+      "lessons": [
+        {
+          "title": "Externalities",
+          "slug": "externalities-micro",
+          "videos": [
+            {
+              "title": "Allocative efficiency and marginal benefit",
+              "slug": "v/allocative-efficiency-and-marginal-benefit",
+              "youtube_id": "MT4akJsAmb0",
+              "youtube_url": "https://www.youtube.com/watch?v=MT4akJsAmb0",
+              "duration_sec": 850,
+              "relative_url": "/economics-finance-domain/microeconomics/market-failure-and-the-role-of-government/externalities-micro/v/allocative-efficiency-and-marginal-benefit"
+            },
+            {
+              "title": "Negative externalities",
+              "slug": "v/negative-externalities",
+              "youtube_id": "nBw6KvU51BE",
+              "youtube_url": "https://www.youtube.com/watch?v=nBw6KvU51BE",
+              "duration_sec": 360,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/ap-consumer-producer-surplus/externalities/v/negative-externalities"
+            },
+            {
+              "title": "Positive externalities",
+              "slug": "v/positive-externalities",
+              "youtube_id": "TSTLLFJbaA4",
+              "youtube_url": "https://www.youtube.com/watch?v=TSTLLFJbaA4",
+              "duration_sec": 445,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/ap-consumer-producer-surplus/externalities/v/positive-externalities"
+            },
+            {
+              "title": "Taxes for factoring in negative externalities",
+              "slug": "v/taxes-for-factoring-in-negative-externalities",
+              "youtube_id": "UYShebe44Xs",
+              "youtube_url": "https://www.youtube.com/watch?v=UYShebe44Xs",
+              "duration_sec": 345,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/ap-consumer-producer-surplus/the-effects-of-government-intervention-in-different-market-structures/v/taxes-for-factoring-in-negative-externalities"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Bonus articles: Pollution as a negative externality",
+          "slug": "environmental-regulation",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Bonus articles: Innovation as a positive externality",
+          "slug": "innovation",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "The four types of goods: private goods, public goods, common resources, and natural monopolies",
+          "slug": "externalities-topic",
+          "videos": [
+            {
+              "title": "Tragedy of the commons",
+              "slug": "v/tragedy-of-the-commons",
+              "youtube_id": "0b2Tl0x-niw",
+              "youtube_url": "https://www.youtube.com/watch?v=0b2Tl0x-niw",
+              "duration_sec": 398,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/ap-consumer-producer-surplus/public-and-private-goods/v/tragedy-of-the-commons"
+            },
+            {
+              "title": "Rival and excludable goods",
+              "slug": "v/rival-and-excludable-goods",
+              "youtube_id": "pJU028t-7mg",
+              "youtube_url": "https://www.youtube.com/watch?v=pJU028t-7mg",
+              "duration_sec": 613,
+              "relative_url": "/economics-finance-domain/ap-microeconomics/ap-consumer-producer-surplus/public-and-private-goods/v/rival-and-excludable-goods"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    }
+  ]
+}

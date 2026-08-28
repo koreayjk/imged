@@ -5,25 +5,25 @@
     { "key": "ms-biology",            "tier": "T0", "subject": "science", "title": "Middle School Biology",               "slug_candidates": ["science/ms-biology", "science/middle-school-biology"] },
     { "key": "ms-chemistry",          "tier": "T0", "subject": "science", "title": "Middle School Chemistry",             "slug_candidates": ["science/ms-chemistry", "science/middle-school-chemistry"] },
     { "key": "ms-physics",            "tier": "T0", "subject": "science", "title": "Middle School Physics",               "slug_candidates": ["science/ms-physics", "science/middle-school-physics"] },
-    { "key": "ms-earth-space",        "tier": "T0", "subject": "science", "title": "MS Earth & Space Science",            "slug_candidates": ["science/ms-earth-and-space", "science/middle-school-earth-and-space-science"] },
+    { "key": "ms-earth-space",        "tier": "T0", "subject": "science", "title": "MS Earth & Space Science",            "slug_candidates": ["science/middle-school-earth-and-space-science"] },
 
     { "key": "pre-algebra",           "tier": "T1", "subject": "math",    "title": "Pre-algebra",                         "slug_candidates": ["math/pre-algebra"] },
     { "key": "basic-geometry",        "tier": "T1", "subject": "math",    "title": "Basic Geometry and Measurement",      "slug_candidates": ["math/basic-geo", "math/basic-geometry"] },
     { "key": "algebra-basics",        "tier": "T1", "subject": "math",    "title": "Algebra Basics",                      "slug_candidates": ["math/algebra-basics"] },
     { "key": "grammar",               "tier": "T1", "subject": "rla",     "title": "Grammar",                             "slug_candidates": ["humanities/grammar"] },
-    { "key": "sat-reading-writing",   "tier": "T1", "subject": "rla",     "title": "Get Ready / Digital SAT Reading & Writing", "slug_candidates": ["test-prep/sat-reading-and-writing", "test-prep/digital-sat-reading-writing", "test-prep/sat"] },
+    { "key": "sat-reading-writing",   "tier": "T1", "subject": "rla",     "title": "Get ready for SAT prep: Reading and Writing", "slug_candidates": ["test-prep/get-ready-for-sat-prep-reading-and-writing"] },
     { "key": "us-government",         "tier": "T1", "subject": "social",  "title": "US Government and Civics",            "slug_candidates": ["humanities/us-government-and-civics"] },
     { "key": "statistics-probability","tier": "T1", "subject": "math",    "title": "Statistics & Probability",            "slug_candidates": ["math/statistics-probability"], "note": "T1은 Unit 2·3만, T2에서 전체+Unit 5. ged_scope.json에서 제어" },
-    { "key": "hs-biology",            "tier": "T1", "subject": "science", "title": "High School Biology",                 "slug_candidates": ["science/high-school-biology", "science/hs-biology", "science/biology"] },
+    { "key": "hs-biology",            "tier": "T1", "subject": "science", "title": "High School Biology",                 "slug_candidates": ["science/hs-bio"] },
 
     { "key": "us-history",            "tier": "T2", "subject": "social",  "title": "US History",                          "slug_candidates": ["humanities/us-history"] },
     { "key": "microeconomics",        "tier": "T2", "subject": "social",  "title": "Microeconomics",                      "slug_candidates": ["economics-finance-domain/microeconomics"] },
-    { "key": "hs-chemistry",          "tier": "T2", "subject": "science", "title": "High School Chemistry",               "slug_candidates": ["science/high-school-chemistry", "science/hs-chemistry", "science/chemistry"] },
-    { "key": "hs-physics",            "tier": "T2", "subject": "science", "title": "High School Physics",                 "slug_candidates": ["science/high-school-physics", "science/hs-physics", "science/physics"] },
+    { "key": "hs-chemistry",          "tier": "T2", "subject": "science", "title": "High School Chemistry",               "slug_candidates": ["science/hs-chemistry"] },
+    { "key": "hs-physics",            "tier": "T2", "subject": "science", "title": "High School Physics",                 "slug_candidates": ["science/highschool-physics"] },
 
-    { "key": "algebra-1",             "tier": "T3", "subject": "math",    "title": "Algebra 1",                           "slug_candidates": ["math/algebra", "math/algebra-1"] },
+    { "key": "algebra-1",             "tier": "T3", "subject": "math",    "title": "Algebra 1",                           "slug_candidates": ["math/algebra"] },
     { "key": "ap-us-history",         "tier": "T3", "subject": "social",  "title": "AP US History",                       "slug_candidates": ["humanities/ap-us-history"] },
     { "key": "macroeconomics",        "tier": "T3", "subject": "social",  "title": "Macroeconomics",                      "slug_candidates": ["economics-finance-domain/macroeconomics"] },
-    { "key": "sat-math",              "tier": "T3", "subject": "math",    "title": "Get Ready / Digital SAT Math",        "slug_candidates": ["test-prep/sat-math", "test-prep/digital-sat-math"] }
+    { "key": "sat-math",              "tier": "T3", "subject": "math",    "title": "Get ready for SAT prep: Math",        "slug_candidates": ["test-prep/get-ready-for-sat-prep-math"] }
   ]
 }

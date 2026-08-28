@@ -1,0 +1,1373 @@
+{
+  "key": "grammar",
+  "tier": "T1",
+  "subject": "rla",
+  "slug": "grammar",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Grammar overview",
+  "course_slug": "grammar",
+  "units": [
+    {
+      "title": "Parts of speech: the noun",
+      "slug": "parts-of-speech-the-noun",
+      "relative_url": "/humanities/grammar/parts-of-speech-the-noun",
+      "lessons": [
+        {
+          "title": "Welcome to grammar!",
+          "slug": "welcome-to-grammar-subject",
+          "videos": [
+            {
+              "title": "Introduction to grammar",
+              "slug": "v/introduction-to-grammar",
+              "youtube_id": "O-6q-siuMik",
+              "youtube_url": "https://www.youtube.com/watch?v=O-6q-siuMik",
+              "duration_sec": 166,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/welcome-to-grammar-subject/v/introduction-to-grammar"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Introduction to nouns",
+          "slug": "grammar-nouns",
+          "videos": [
+            {
+              "title": "Introduction to nouns",
+              "slug": "v/introduction-to-nouns-the-parts-of-speech-grammar-khan-academy",
+              "youtube_id": "UejW-WQpujs",
+              "youtube_url": "https://www.youtube.com/watch?v=UejW-WQpujs",
+              "duration_sec": 268,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/grammar-nouns/v/introduction-to-nouns-the-parts-of-speech-grammar-khan-academy"
+            },
+            {
+              "title": "Introduction to singular and plural nouns",
+              "slug": "v/introduction-to-singular-and-plural-nouns-the-parts-of-speech-grammar-khan-academy",
+              "youtube_id": "ETzngG8N3AU",
+              "youtube_url": "https://www.youtube.com/watch?v=ETzngG8N3AU",
+              "duration_sec": 275,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/grammar-nouns/v/introduction-to-singular-and-plural-nouns-the-parts-of-speech-grammar-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Types of nouns",
+          "slug": "types-of-nouns",
+          "videos": [
+            {
+              "title": "Common and proper nouns",
+              "slug": "v/common-and-proper-nouns",
+              "youtube_id": "bGz1acC3Wew",
+              "youtube_url": "https://www.youtube.com/watch?v=bGz1acC3Wew",
+              "duration_sec": 172,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/types-of-nouns/v/common-and-proper-nouns"
+            },
+            {
+              "title": "Concrete and abstract nouns ",
+              "slug": "v/concrete-and-abstract-nouns",
+              "youtube_id": "3AF_rN-yN-Y",
+              "youtube_url": "https://www.youtube.com/watch?v=3AF_rN-yN-Y",
+              "duration_sec": 223,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/types-of-nouns/v/concrete-and-abstract-nouns"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Irregular plural nouns: base plurals and irregular endings",
+          "slug": "irregular-plural-nouns-base-plurals-and-irregular-endings",
+          "videos": [
+            {
+              "title": "Irregular plural nouns: -f to -ves plurals",
+              "slug": "v/irregular-plural-nouns-part-i-the-parts-of-speech-grammar-khan-academy",
+              "youtube_id": "hhBhHW__Oxg",
+              "youtube_url": "https://www.youtube.com/watch?v=hhBhHW__Oxg",
+              "duration_sec": 154,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/irregular-plural-nouns-base-plurals-and-irregular-endings/v/irregular-plural-nouns-part-i-the-parts-of-speech-grammar-khan-academy"
+            },
+            {
+              "title": "Irregular plural nouns: -en plurals",
+              "slug": "v/irregular-plural-nouns-part-ii-the-parts-of-speech-grammar-khan-academy",
+              "youtube_id": "n9poHOKkF28",
+              "youtube_url": "https://www.youtube.com/watch?v=n9poHOKkF28",
+              "duration_sec": 443,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/irregular-plural-nouns-base-plurals-and-irregular-endings/v/irregular-plural-nouns-part-ii-the-parts-of-speech-grammar-khan-academy"
+            },
+            {
+              "title": "Irregular plural nouns: the base plural",
+              "slug": "v/irregular-plurals-the-base-plural",
+              "youtube_id": "UnJmPywSSvg",
+              "youtube_url": "https://www.youtube.com/watch?v=UnJmPywSSvg",
+              "duration_sec": 307,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/irregular-plural-nouns-base-plurals-and-irregular-endings/v/irregular-plurals-the-base-plural"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Irregular plural nouns: mutant and foreign plurals",
+          "slug": "irregular-plural-nouns-mutant-and-foreign-plurals",
+          "videos": [
+            {
+              "title": "Irregular plural nouns: mutant plurals",
+              "slug": "v/irregular-plural-nouns-part-iv-the-parts-of-speech-grammar",
+              "youtube_id": "VdLOP9teko4",
+              "youtube_url": "https://www.youtube.com/watch?v=VdLOP9teko4",
+              "duration_sec": 162,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/irregular-plural-nouns-mutant-and-foreign-plurals/v/irregular-plural-nouns-part-iv-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Irregular plural nouns: foreign plurals",
+              "slug": "v/foreign-plurals-grammar",
+              "youtube_id": "L6pH8O3B4ak",
+              "youtube_url": "https://www.youtube.com/watch?v=L6pH8O3B4ak",
+              "duration_sec": 297,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/irregular-plural-nouns-mutant-and-foreign-plurals/v/foreign-plurals-grammar"
+            },
+            {
+              "title": "BONUS VIDEO – Origin of the mutant plural",
+              "slug": "v/bonus-video-origin-of-the-mutant-plural-the-parts-of-speech-grammar",
+              "youtube_id": "c3FoTqLB9zg",
+              "youtube_url": "https://www.youtube.com/watch?v=c3FoTqLB9zg",
+              "duration_sec": 353,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-noun/irregular-plural-nouns-mutant-and-foreign-plurals/v/bonus-video-origin-of-the-mutant-plural-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Parts of speech: the verb",
+      "slug": "parts-of-speech-the-verb",
+      "relative_url": "/humanities/grammar/parts-of-speech-the-verb",
+      "lessons": [
+        {
+          "title": "Introduction to verbs",
+          "slug": "introduction-to-verbs",
+          "videos": [
+            {
+              "title": "Introduction to verbs",
+              "slug": "v/introduction-to-verbs-the-parts-of-speech-grammar",
+              "youtube_id": "0T9xMqvjdLk",
+              "youtube_url": "https://www.youtube.com/watch?v=0T9xMqvjdLk",
+              "duration_sec": 86,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/introduction-to-verbs/v/introduction-to-verbs-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Introduction to verb agreement",
+              "slug": "v/introduction-to-agreement-verbs-the-parts-of-speech",
+              "youtube_id": "KEdI0-xIUFc",
+              "youtube_url": "https://www.youtube.com/watch?v=KEdI0-xIUFc",
+              "duration_sec": 214,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/introduction-to-verbs/v/introduction-to-agreement-verbs-the-parts-of-speech"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Verb tenses",
+          "slug": "the-tenses",
+          "videos": [
+            {
+              "title": "Introduction to verb tense",
+              "slug": "v/introduction-to-verb-tense-the-parts-of-speech-grammar",
+              "youtube_id": "faUvT7zfsyk",
+              "youtube_url": "https://www.youtube.com/watch?v=faUvT7zfsyk",
+              "duration_sec": 106,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/the-tenses/v/introduction-to-verb-tense-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "The present tense",
+              "slug": "v/present-tense-verbs-the-parts-of-speech",
+              "youtube_id": "gRlrZrDL5QI",
+              "youtube_url": "https://www.youtube.com/watch?v=gRlrZrDL5QI",
+              "duration_sec": 121,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/the-tenses/v/present-tense-verbs-the-parts-of-speech"
+            },
+            {
+              "title": "The past tense",
+              "slug": "v/the-past-tense-verbs-the-parts-of-speech",
+              "youtube_id": "zS6N5EqXpCY",
+              "youtube_url": "https://www.youtube.com/watch?v=zS6N5EqXpCY",
+              "duration_sec": 120,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/the-tenses/v/the-past-tense-verbs-the-parts-of-speech"
+            },
+            {
+              "title": "The future tense",
+              "slug": "v/the-future-tense-verbs-the-parts-of-speech",
+              "youtube_id": "LvlpEPHPhpI",
+              "youtube_url": "https://www.youtube.com/watch?v=LvlpEPHPhpI",
+              "duration_sec": 170,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/the-tenses/v/the-future-tense-verbs-the-parts-of-speech"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Linking and helping verbs",
+          "slug": "linking-and-helping-verbs",
+          "videos": [
+            {
+              "title": "Linking verbs",
+              "slug": "v/linking-verbs-the-parts-of-speech-grammar",
+              "youtube_id": "4dPbciiZSbo",
+              "youtube_url": "https://www.youtube.com/watch?v=4dPbciiZSbo",
+              "duration_sec": 182,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/linking-and-helping-verbs/v/linking-verbs-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Helping verbs",
+              "slug": "v/helping-verbs-the-parts-of-speech-grammar",
+              "youtube_id": "bVLql3nVt5M",
+              "youtube_url": "https://www.youtube.com/watch?v=bVLql3nVt5M",
+              "duration_sec": 174,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/linking-and-helping-verbs/v/helping-verbs-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Irregular verbs",
+          "slug": "irregular-verbs",
+          "videos": [
+            {
+              "title": "Introduction to irregular verbs",
+              "slug": "v/introduction-to-irregular-verbs-the-parts-of-speech-grammar",
+              "youtube_id": "ZKr--3HpP_A",
+              "youtube_url": "https://www.youtube.com/watch?v=ZKr--3HpP_A",
+              "duration_sec": 209,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/irregular-verbs/v/introduction-to-irregular-verbs-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Irregular verbs with \"-t\" endings",
+              "slug": "v/the-funky-ed-irregular-verb-the-parts-of-speech-grammar",
+              "youtube_id": "B8131VDv0e8",
+              "youtube_url": "https://www.youtube.com/watch?v=B8131VDv0e8",
+              "duration_sec": 113,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/irregular-verbs/v/the-funky-ed-irregular-verb-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "The vowel-shift irregular verb",
+              "slug": "v/the-vowel-shift-irregular-verb-the-parts-of-speech-grammar",
+              "youtube_id": "rDb0G066k5w",
+              "youtube_url": "https://www.youtube.com/watch?v=rDb0G066k5w",
+              "duration_sec": 191,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/irregular-verbs/v/the-vowel-shift-irregular-verb-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Irregular verbs with \"-en\" endings",
+              "slug": "v/the-irregular-verb-gets-taken-the-parts-of-speech-grammar",
+              "youtube_id": "zPQftyPqEDs",
+              "youtube_url": "https://www.youtube.com/watch?v=zPQftyPqEDs",
+              "duration_sec": 194,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/irregular-verbs/v/the-irregular-verb-gets-taken-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "The truly irregular verbs",
+              "slug": "v/the-truly-irregular-irregular-verbs-the-parts-of-speech-grammar",
+              "youtube_id": "1iDCV5NbbzM",
+              "youtube_url": "https://www.youtube.com/watch?v=1iDCV5NbbzM",
+              "duration_sec": 173,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/irregular-verbs/v/the-truly-irregular-irregular-verbs-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Verb aspect: simple, progressive, and perfect",
+          "slug": "verb-aspect-simple-progressive-and-perfect",
+          "videos": [
+            {
+              "title": "Introduction to verb aspect",
+              "slug": "v/intro-to-aspect",
+              "youtube_id": "r7Psg-4vvsA",
+              "youtube_url": "https://www.youtube.com/watch?v=r7Psg-4vvsA",
+              "duration_sec": 110,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/verb-aspect-simple-progressive-and-perfect/v/intro-to-aspect"
+            },
+            {
+              "title": "Simple aspect",
+              "slug": "v/simple-aspect",
+              "youtube_id": "_JXcMl8Hqjo",
+              "youtube_url": "https://www.youtube.com/watch?v=_JXcMl8Hqjo",
+              "duration_sec": 92,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/verb-aspect-simple-progressive-and-perfect/v/simple-aspect"
+            },
+            {
+              "title": "Progressive aspect",
+              "slug": "v/progressive-aspect",
+              "youtube_id": "-PhyqbvnoCg",
+              "youtube_url": "https://www.youtube.com/watch?v=-PhyqbvnoCg",
+              "duration_sec": 165,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/verb-aspect-simple-progressive-and-perfect/v/progressive-aspect"
+            },
+            {
+              "title": "Perfect aspect",
+              "slug": "v/perfect-aspect",
+              "youtube_id": "858npSa0rgc",
+              "youtube_url": "https://www.youtube.com/watch?v=858npSa0rgc",
+              "duration_sec": 151,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/verb-aspect-simple-progressive-and-perfect/v/perfect-aspect"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Verb aspect and modal verbs",
+          "slug": "verb-aspect-and-modal-verbs",
+          "videos": [
+            {
+              "title": "Perfect progressive aspect",
+              "slug": "v/perfect-progressive-aspect-the-parts-of-speech-grammar",
+              "youtube_id": "UORrFsnRCr8",
+              "youtube_url": "https://www.youtube.com/watch?v=UORrFsnRCr8",
+              "duration_sec": 131,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/verb-aspect-and-modal-verbs/v/perfect-progressive-aspect-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Modal verbs",
+              "slug": "v/modal-verbs-the-parts-of-speech-grammar",
+              "youtube_id": "hp9T-7on2Ow",
+              "youtube_url": "https://www.youtube.com/watch?v=hp9T-7on2Ow",
+              "duration_sec": 293,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-verb/verb-aspect-and-modal-verbs/v/modal-verbs-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Parts of speech: the pronoun",
+      "slug": "parts-of-speech-the-pronoun",
+      "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun",
+      "lessons": [
+        {
+          "title": "Introduction to pronouns",
+          "slug": "introduction-to-pronouns",
+          "videos": [
+            {
+              "title": "What is a pronoun?",
+              "slug": "v/what-is-a-pronoun-the-parts-of-speech-grammar",
+              "youtube_id": "nkjKPhleQ5E",
+              "youtube_url": "https://www.youtube.com/watch?v=nkjKPhleQ5E",
+              "duration_sec": 120,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/introduction-to-pronouns/v/what-is-a-pronoun-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Personal pronouns",
+              "slug": "v/personal-pronouns-the-parts-of-speech-grammar",
+              "youtube_id": "qtkivKA4h9w",
+              "youtube_url": "https://www.youtube.com/watch?v=qtkivKA4h9w",
+              "duration_sec": 225,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/introduction-to-pronouns/v/personal-pronouns-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Possessive and reflexive pronouns",
+          "slug": "possessive-and-reflexive-pronouns",
+          "videos": [
+            {
+              "title": "Possessive pronouns",
+              "slug": "v/possessive-pronouns-the-parts-of-speech-grammar",
+              "youtube_id": "bhzh8VDykc4",
+              "youtube_url": "https://www.youtube.com/watch?v=bhzh8VDykc4",
+              "duration_sec": 292,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/possessive-and-reflexive-pronouns/v/possessive-pronouns-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Reflexive pronouns",
+              "slug": "v/reflexive-pronouns-the-parts-of-speech-grammar",
+              "youtube_id": "Zoh8XpfcF-c",
+              "youtube_url": "https://www.youtube.com/watch?v=Zoh8XpfcF-c",
+              "duration_sec": 310,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/possessive-and-reflexive-pronouns/v/reflexive-pronouns-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Relative pronouns",
+          "slug": "relative-pronouns",
+          "videos": [
+            {
+              "title": "Relative pronouns",
+              "slug": "v/relative-pronouns-the-parts-of-speech-grammar",
+              "youtube_id": "ZHzKQkX3IxI",
+              "youtube_url": "https://www.youtube.com/watch?v=ZHzKQkX3IxI",
+              "duration_sec": 116,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/relative-pronouns/v/relative-pronouns-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "\"That\" versus \"which\"",
+              "slug": "v/that-versus-which-the-parts-of-speech-grammar",
+              "youtube_id": "6Js8tBCfbWk",
+              "youtube_url": "https://www.youtube.com/watch?v=6Js8tBCfbWk",
+              "duration_sec": 341,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/relative-pronouns/v/that-versus-which-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "\"Who\" versus \"whom\"",
+              "slug": "v/who-versus-whom-the-parts-of-speech-grammar",
+              "youtube_id": "bPqMLKXoEac",
+              "youtube_url": "https://www.youtube.com/watch?v=bPqMLKXoEac",
+              "duration_sec": 287,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/relative-pronouns/v/who-versus-whom-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Subject, object, person, and number",
+          "slug": "subject-object-person-and-number",
+          "videos": [
+            {
+              "title": "Subject and object pronouns",
+              "slug": "v/subject-and-object-pronouns-the-parts-of-speech-grammar",
+              "youtube_id": "q5HmV3Czl6g",
+              "youtube_url": "https://www.youtube.com/watch?v=q5HmV3Czl6g",
+              "duration_sec": 334,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/subject-object-person-and-number/v/subject-and-object-pronouns-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Grammatical person and pronouns",
+              "slug": "v/grammatical-person-and-pronouns-the-parts-of-speech-grammar",
+              "youtube_id": "dFFRD7GAEUA",
+              "youtube_url": "https://www.youtube.com/watch?v=dFFRD7GAEUA",
+              "duration_sec": 279,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/subject-object-person-and-number/v/grammatical-person-and-pronouns-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Pronoun number",
+              "slug": "v/pronoun-number-the-parts-of-speech-grammar",
+              "youtube_id": "iqldLGr2aug",
+              "youtube_url": "https://www.youtube.com/watch?v=iqldLGr2aug",
+              "duration_sec": 318,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/subject-object-person-and-number/v/pronoun-number-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Indefinite pronouns, pronoun vagueness, and emphatic pronouns",
+          "slug": "indefinite-pronouns-pronoun-vagueness-and-emphatic-pronouns",
+          "videos": [
+            {
+              "title": "Indefinite pronouns",
+              "slug": "v/indefinite-pronouns-the-parts-of-speech-grammar",
+              "youtube_id": "gaMFyEravAs",
+              "youtube_url": "https://www.youtube.com/watch?v=gaMFyEravAs",
+              "duration_sec": 302,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/indefinite-pronouns-pronoun-vagueness-and-emphatic-pronouns/v/indefinite-pronouns-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Emphatic pronouns",
+              "slug": "v/emphatic-pronouns-the-parts-of-speech-grammar",
+              "youtube_id": "ADfyReSt2L0",
+              "youtube_url": "https://www.youtube.com/watch?v=ADfyReSt2L0",
+              "duration_sec": 175,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/indefinite-pronouns-pronoun-vagueness-and-emphatic-pronouns/v/emphatic-pronouns-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "BONUS VIDEO – The singular they",
+              "slug": "v/singular-they",
+              "youtube_id": "f21t7DRKlg8",
+              "youtube_url": "https://www.youtube.com/watch?v=f21t7DRKlg8",
+              "duration_sec": 543,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-pronoun/indefinite-pronouns-pronoun-vagueness-and-emphatic-pronouns/v/singular-they"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Parts of speech: the modifier",
+      "slug": "parts-of-speech-the-modifier",
+      "relative_url": "/humanities/grammar/parts-of-speech-the-modifier",
+      "lessons": [
+        {
+          "title": "Introduction to adjectives and articles",
+          "slug": "introduction-to-adjectives-and-articles",
+          "videos": [
+            {
+              "title": "Introduction to adjectives",
+              "slug": "v/intro-to-adjectives-v1",
+              "youtube_id": "pt-cjNaErxI",
+              "youtube_url": "https://www.youtube.com/watch?v=pt-cjNaErxI",
+              "duration_sec": 212,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/v/intro-to-adjectives-v1"
+            },
+            {
+              "title": "Introduction to articles",
+              "slug": "v/intro-to-articles-v1",
+              "youtube_id": "4EsDY2VbIXs",
+              "youtube_url": "https://www.youtube.com/watch?v=4EsDY2VbIXs",
+              "duration_sec": 168,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/v/intro-to-articles-v1"
+            },
+            {
+              "title": "Definite and indefinite articles",
+              "slug": "v/definite-and-indefinite-articles",
+              "youtube_id": "TSd0uByBoTo",
+              "youtube_url": "https://www.youtube.com/watch?v=TSd0uByBoTo",
+              "duration_sec": 254,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/v/definite-and-indefinite-articles"
+            },
+            {
+              "title": "The indefinite article",
+              "slug": "v/the-indefinite-article-parts-of-speech-grammar-khan-academy",
+              "youtube_id": "z-SFzbp6Y08",
+              "youtube_url": "https://www.youtube.com/watch?v=z-SFzbp6Y08",
+              "duration_sec": 283,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/v/the-indefinite-article-parts-of-speech-grammar-khan-academy"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Introduction to adverbs",
+          "slug": "introduction-to-adverbs",
+          "videos": [
+            {
+              "title": "Introduction to adverbs",
+              "slug": "v/intro-to-adverbs",
+              "youtube_id": "b3RaBB7IDZc",
+              "youtube_url": "https://www.youtube.com/watch?v=b3RaBB7IDZc",
+              "duration_sec": 250,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/v/intro-to-adverbs"
+            },
+            {
+              "title": "Relative adverbs",
+              "slug": "v/relative-adverbs",
+              "youtube_id": "5Ub0Qu4uxpc",
+              "youtube_url": "https://www.youtube.com/watch?v=5Ub0Qu4uxpc",
+              "duration_sec": 203,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/v/relative-adverbs"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Adjective order and commas with adjectives",
+          "slug": "adjective-order-and-commas-with-adjectives",
+          "videos": [
+            {
+              "title": "Adjective order",
+              "slug": "v/adjective-order",
+              "youtube_id": "7sHbB9VQBgo",
+              "youtube_url": "https://www.youtube.com/watch?v=7sHbB9VQBgo",
+              "duration_sec": 349,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/adjective-order-and-commas-with-adjectives/v/adjective-order"
+            },
+            {
+              "title": "Commas and adjectives",
+              "slug": "v/commas-and-adjectives",
+              "youtube_id": "OfxiZdsqGeA",
+              "youtube_url": "https://www.youtube.com/watch?v=OfxiZdsqGeA",
+              "duration_sec": 230,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/adjective-order-and-commas-with-adjectives/v/commas-and-adjectives"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Comparative, superlative, intensifiers, and adverbs of degree",
+          "slug": "comparative-superlative-intensifiers-and-adverbs-of-degree",
+          "videos": [
+            {
+              "title": "Intro to the comparative and the superlative",
+              "slug": "v/intro-to-the-comparative-and-the-superlative-v2",
+              "youtube_id": "jROzZfJbplU",
+              "youtube_url": "https://www.youtube.com/watch?v=jROzZfJbplU",
+              "duration_sec": 251,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/comparative-superlative-intensifiers-and-adverbs-of-degree/v/intro-to-the-comparative-and-the-superlative-v2"
+            },
+            {
+              "title": "Forming comparative and superlative modifiers",
+              "slug": "v/forming-the-comparative-and-superlative",
+              "youtube_id": "Mxblg8xKBoc",
+              "youtube_url": "https://www.youtube.com/watch?v=Mxblg8xKBoc",
+              "duration_sec": 460,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/comparative-superlative-intensifiers-and-adverbs-of-degree/v/forming-the-comparative-and-superlative"
+            },
+            {
+              "title": "Intensifiers and adverbs of degree ",
+              "slug": "v/intensifiers-and-adverbs-of-degree-modifiers-the-parts-of-speech",
+              "youtube_id": "_2htRrOPiDE",
+              "youtube_url": "https://www.youtube.com/watch?v=_2htRrOPiDE",
+              "duration_sec": 314,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-modifier/comparative-superlative-intensifiers-and-adverbs-of-degree/v/intensifiers-and-adverbs-of-degree-modifiers-the-parts-of-speech"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Parts of speech: the preposition and the conjunction",
+      "slug": "parts-of-speech-the-preposition-and-the-conjunction",
+      "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction",
+      "lessons": [
+        {
+          "title": "Introduction to prepositions",
+          "slug": "introduction-to-prepositions",
+          "videos": [
+            {
+              "title": "Meet the preposition",
+              "slug": "v/meet-the-preposition",
+              "youtube_id": "D3wQ5dgFPms",
+              "youtube_url": "https://www.youtube.com/watch?v=D3wQ5dgFPms",
+              "duration_sec": 229,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/v/meet-the-preposition"
+            },
+            {
+              "title": "Prepositions of time",
+              "slug": "v/prepositions-of-time",
+              "youtube_id": "TzUO8du5Lrg",
+              "youtube_url": "https://www.youtube.com/watch?v=TzUO8du5Lrg",
+              "duration_sec": 316,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/v/prepositions-of-time"
+            },
+            {
+              "title": "Prepositions of space",
+              "slug": "v/prepositions-of-space",
+              "youtube_id": "1OjRJX0PNJE",
+              "youtube_url": "https://www.youtube.com/watch?v=1OjRJX0PNJE",
+              "duration_sec": 310,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/v/prepositions-of-space"
+            },
+            {
+              "title": "Prepositions of neither space nor time",
+              "slug": "v/prepositions-of-neither-space-nor-time",
+              "youtube_id": "RPiAT-Nm3JY",
+              "youtube_url": "https://www.youtube.com/watch?v=RPiAT-Nm3JY",
+              "duration_sec": 156,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/v/prepositions-of-neither-space-nor-time"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Types of prepositions and phrases",
+          "slug": "types-of-prepositions-and-phrases",
+          "videos": [
+            {
+              "title": "Compound prepositions",
+              "slug": "v/compound-prepositions-prepositions-the-parts-of-speech-grammar",
+              "youtube_id": "dNwf-DoSsF0",
+              "youtube_url": "https://www.youtube.com/watch?v=dNwf-DoSsF0",
+              "duration_sec": 470,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/types-of-prepositions-and-phrases/v/compound-prepositions-prepositions-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "Prepositional phrases",
+              "slug": "v/prepositional-phrases",
+              "youtube_id": "7dOBMUESkqk",
+              "youtube_url": "https://www.youtube.com/watch?v=7dOBMUESkqk",
+              "duration_sec": 338,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/types-of-prepositions-and-phrases/v/prepositional-phrases"
+            },
+            {
+              "title": "Terminal prepositions",
+              "slug": "v/terminal-prepositions-prepositions-the-parts-of-speech-grammar",
+              "youtube_id": "NhGQYjXMgsY",
+              "youtube_url": "https://www.youtube.com/watch?v=NhGQYjXMgsY",
+              "duration_sec": 404,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/types-of-prepositions-and-phrases/v/terminal-prepositions-prepositions-the-parts-of-speech-grammar"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Introduction to conjunctions",
+          "slug": "introduction-to-conjunctions",
+          "videos": [
+            {
+              "title": "Coordinating conjunctions ",
+              "slug": "v/coordinating-conjunctions-final",
+              "youtube_id": "imwtcmvk668",
+              "youtube_url": "https://www.youtube.com/watch?v=imwtcmvk668",
+              "duration_sec": 273,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/v/coordinating-conjunctions-final"
+            },
+            {
+              "title": "Subordinating conjunctions",
+              "slug": "v/subordinating-conjunctions",
+              "youtube_id": "IKrRuDWEP68",
+              "youtube_url": "https://www.youtube.com/watch?v=IKrRuDWEP68",
+              "duration_sec": 327,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/v/subordinating-conjunctions"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Correlative conjunctions and starting sentences",
+          "slug": "correlative-conjunctions-and-starting-sentences",
+          "videos": [
+            {
+              "title": "Correlative conjunctions",
+              "slug": "v/correlative-conjunctions",
+              "youtube_id": "R74Ly00UygU",
+              "youtube_url": "https://www.youtube.com/watch?v=R74Ly00UygU",
+              "duration_sec": 192,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/correlative-conjunctions-and-starting-sentences/v/correlative-conjunctions"
+            },
+            {
+              "title": "Beginning sentences with conjunctions ",
+              "slug": "v/beginning-sentences-with-conjunctions-the-conjunction-the-parts-of-speech-grammar",
+              "youtube_id": "r8KHIxscCkg",
+              "youtube_url": "https://www.youtube.com/watch?v=r8KHIxscCkg",
+              "duration_sec": 368,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/correlative-conjunctions-and-starting-sentences/v/beginning-sentences-with-conjunctions-the-conjunction-the-parts-of-speech-grammar"
+            },
+            {
+              "title": "BONUS: \"FANBOYS,\" a mnemonic song",
+              "slug": "v/fanboys-a-mnemonic-song-conjunctions-parts-of-speech-khan-academy",
+              "youtube_id": "RNwD4z3EVDc",
+              "youtube_url": "https://www.youtube.com/watch?v=RNwD4z3EVDc",
+              "duration_sec": 174,
+              "relative_url": "/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/correlative-conjunctions-and-starting-sentences/v/fanboys-a-mnemonic-song-conjunctions-parts-of-speech-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Punctuation: end-of-sentence punctuation, the comma, and the apostrophe",
+      "slug": "punctuation-the-comma-and-the-apostrophe",
+      "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe",
+      "lessons": [
+        {
+          "title": "Introduction to end-of-sentence punctuation and commas",
+          "slug": "introduction-to-commas",
+          "videos": [
+            {
+              "title": "Three ways to end a sentence",
+              "slug": "v/three-ways-to-end-a-sentence-punctuation-khan-academy",
+              "youtube_id": "B9bJaoIHRp4",
+              "youtube_url": "https://www.youtube.com/watch?v=B9bJaoIHRp4",
+              "duration_sec": 172,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/introduction-to-commas/v/three-ways-to-end-a-sentence-punctuation-khan-academy"
+            },
+            {
+              "title": "Meet the comma",
+              "slug": "v/meet-the-comma-the-comma-punctuation-khan-academy",
+              "youtube_id": "Wk0k2FLjM1c",
+              "youtube_url": "https://www.youtube.com/watch?v=Wk0k2FLjM1c",
+              "duration_sec": 239,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/introduction-to-commas/v/meet-the-comma-the-comma-punctuation-khan-academy"
+            },
+            {
+              "title": "Punctuating lists",
+              "slug": "v/punctuating-a-list-commas-punctuation-khan-academy",
+              "youtube_id": "DBMQOK64VQY",
+              "youtube_url": "https://www.youtube.com/watch?v=DBMQOK64VQY",
+              "duration_sec": 111,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/introduction-to-commas/v/punctuating-a-list-commas-punctuation-khan-academy"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Commas in space and time",
+          "slug": "commas-in-space-and-time",
+          "videos": [
+            {
+              "title": "Salutations and valedictions",
+              "slug": "v/salutations-and-valedictions-the-comma-punctuation-khan-academy",
+              "youtube_id": "W2tiu8_ReGM",
+              "youtube_url": "https://www.youtube.com/watch?v=W2tiu8_ReGM",
+              "duration_sec": 138,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/commas-in-space-and-time/v/salutations-and-valedictions-the-comma-punctuation-khan-academy"
+            },
+            {
+              "title": "Commas in addresses and dates",
+              "slug": "v/commas-in-space-and-time-the-comma-punctuation-khan-academy",
+              "youtube_id": "7dYePWVTTTI",
+              "youtube_url": "https://www.youtube.com/watch?v=7dYePWVTTTI",
+              "duration_sec": 199,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/commas-in-space-and-time/v/commas-in-space-and-time-the-comma-punctuation-khan-academy"
+            },
+            {
+              "title": "Commas and introductory elements",
+              "slug": "v/commas-and-introductory-elements-the-comma-punctuation-khan-academy",
+              "youtube_id": "NvGBug8iORE",
+              "youtube_url": "https://www.youtube.com/watch?v=NvGBug8iORE",
+              "duration_sec": 275,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/commas-in-space-and-time/v/commas-and-introductory-elements-the-comma-punctuation-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "More ways to use commas",
+          "slug": "more-ways-to-use-commas",
+          "videos": [
+            {
+              "title": "Commas in tag questions, direct address, and yes/no statements",
+              "slug": "v/more-uses-for-commas-the-comma-punctuation-khan-academy",
+              "youtube_id": "09-t-giMcNk",
+              "youtube_url": "https://www.youtube.com/watch?v=09-t-giMcNk",
+              "duration_sec": 204,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/more-ways-to-use-commas/v/more-uses-for-commas-the-comma-punctuation-khan-academy"
+            },
+            {
+              "title": "Commas in dialogue",
+              "slug": "v/commas-in-dialogue-the-comma-punctuation-khan-academy",
+              "youtube_id": "uYoX_Qyknao",
+              "youtube_url": "https://www.youtube.com/watch?v=uYoX_Qyknao",
+              "duration_sec": 180,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/more-ways-to-use-commas/v/commas-in-dialogue-the-comma-punctuation-khan-academy"
+            },
+            {
+              "title": "Appositives",
+              "slug": "v/appositives-the-comma-punctuation-khan-academy",
+              "youtube_id": "QFcaUTd8DgY",
+              "youtube_url": "https://www.youtube.com/watch?v=QFcaUTd8DgY",
+              "duration_sec": 180,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/more-ways-to-use-commas/v/appositives-the-comma-punctuation-khan-academy"
+            },
+            {
+              "title": "BONUS VIDEO – The Oxford comma",
+              "slug": "v/bonus-the-oxford-comma-the-comma-punctuation-khan-academy",
+              "youtube_id": "_i8TVzaMZ8Q",
+              "youtube_url": "https://www.youtube.com/watch?v=_i8TVzaMZ8Q",
+              "duration_sec": 223,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/more-ways-to-use-commas/v/bonus-the-oxford-comma-the-comma-punctuation-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Apostrophes and contractions",
+          "slug": "apostrophes-and-contractions",
+          "videos": [
+            {
+              "title": "Introduction to the apostrophe",
+              "slug": "v/introduction-to-the-apostrophe-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "o6zzLAhEyqo",
+              "youtube_url": "https://www.youtube.com/watch?v=o6zzLAhEyqo",
+              "duration_sec": 290,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/apostrophes-and-contractions/v/introduction-to-the-apostrophe-the-apostrophe-punctuation-khan-academy"
+            },
+            {
+              "title": "Introduction to contractions",
+              "slug": "v/introduction-to-contractions-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "q5sG_CkkAs8",
+              "youtube_url": "https://www.youtube.com/watch?v=q5sG_CkkAs8",
+              "duration_sec": 216,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/apostrophes-and-contractions/v/introduction-to-contractions-the-apostrophe-punctuation-khan-academy"
+            },
+            {
+              "title": "Apostrophes and plurals",
+              "slug": "v/apostrophes-and-plurals-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "xRGjQdHToNA",
+              "youtube_url": "https://www.youtube.com/watch?v=xRGjQdHToNA",
+              "duration_sec": 171,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/apostrophes-and-contractions/v/apostrophes-and-plurals-the-apostrophe-punctuation-khan-academy"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Introduction to the possessive",
+          "slug": "introduction-to-the-possessive",
+          "videos": [
+            {
+              "title": "Introduction to the possessive",
+              "slug": "v/introduction-to-the-possessive-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "2M4EDrD3aBQ",
+              "youtube_url": "https://www.youtube.com/watch?v=2M4EDrD3aBQ",
+              "duration_sec": 225,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/introduction-to-the-possessive/v/introduction-to-the-possessive-the-apostrophe-punctuation-khan-academy"
+            },
+            {
+              "title": "Possession for words ending in “s”",
+              "slug": "v/possession-for-words-ending-in-s-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "_GiPxFvUUxs",
+              "youtube_url": "https://www.youtube.com/watch?v=_GiPxFvUUxs",
+              "duration_sec": 111,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/introduction-to-the-possessive/v/possession-for-words-ending-in-s-the-apostrophe-punctuation-khan-academy"
+            },
+            {
+              "title": "Advanced (plural) possession",
+              "slug": "v/advanced-plural-possession-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "2M9cVwj3AtI",
+              "youtube_url": "https://www.youtube.com/watch?v=2M9cVwj3AtI",
+              "duration_sec": 251,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/introduction-to-the-possessive/v/advanced-plural-possession-the-apostrophe-punctuation-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "\"Its\" versus \"it's\"",
+          "slug": "its-vs-its",
+          "videos": [
+            {
+              "title": "Choosing between its and it’s",
+              "slug": "v/choosing-between-its-and-its-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "Yhaa214UKvA",
+              "youtube_url": "https://www.youtube.com/watch?v=Yhaa214UKvA",
+              "duration_sec": 151,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/its-vs-its/v/choosing-between-its-and-its-the-apostrophe-punctuation-khan-academy"
+            },
+            {
+              "title": "BONUS VIDEO – History of the apostrophe",
+              "slug": "v/bonus-history-of-the-apostrophe-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "u-FSLjbuv_s",
+              "youtube_url": "https://www.youtube.com/watch?v=u-FSLjbuv_s",
+              "duration_sec": 340,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/its-vs-its/v/bonus-history-of-the-apostrophe-the-apostrophe-punctuation-khan-academy"
+            },
+            {
+              "title": "BONUS VIDEO – History of the possessive apostrophe",
+              "slug": "v/bonus-history-of-the-possessive-apostrophe-the-apostrophe-punctuation-khan-academy",
+              "youtube_id": "BjIPqJ0paXI",
+              "youtube_url": "https://www.youtube.com/watch?v=BjIPqJ0paXI",
+              "duration_sec": 657,
+              "relative_url": "/humanities/grammar/punctuation-the-comma-and-the-apostrophe/its-vs-its/v/bonus-history-of-the-possessive-apostrophe-the-apostrophe-punctuation-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Punctuation: the colon, semicolon, and more",
+      "slug": "punctuation-the-colon-semicolon-and-more",
+      "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more",
+      "lessons": [
+        {
+          "title": "Introduction to colons",
+          "slug": "introduction-to-colons",
+          "videos": [
+            {
+              "title": "Linking function of the colon",
+              "slug": "v/linking-function-of-the-colon-the-colon-and-semicolon-punctuation-khan-academy",
+              "youtube_id": "0yZ0ehTLxoo",
+              "youtube_url": "https://www.youtube.com/watch?v=0yZ0ehTLxoo",
+              "duration_sec": 320,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/introduction-to-colons/v/linking-function-of-the-colon-the-colon-and-semicolon-punctuation-khan-academy"
+            },
+            {
+              "title": "The colon as a separator",
+              "slug": "v/the-colon-as-a-separator-the-colon-and-semicolon-punctuation-khan-academy",
+              "youtube_id": "3Eis7atPUKU",
+              "youtube_url": "https://www.youtube.com/watch?v=3Eis7atPUKU",
+              "duration_sec": 83,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/introduction-to-colons/v/the-colon-as-a-separator-the-colon-and-semicolon-punctuation-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Introduction to semicolons",
+          "slug": "introduction-to-semicolons",
+          "videos": [
+            {
+              "title": "Introduction to the semicolon",
+              "slug": "v/introduction-to-the-semicolon-the-colon-and-semicolon-punctuation-khan-academy",
+              "youtube_id": "41XNKfR56OY",
+              "youtube_url": "https://www.youtube.com/watch?v=41XNKfR56OY",
+              "duration_sec": 158,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/introduction-to-semicolons/v/introduction-to-the-semicolon-the-colon-and-semicolon-punctuation-khan-academy"
+            },
+            {
+              "title": "Semicolons and complex lists",
+              "slug": "v/semicolons-and-complex-lists-the-colon-and-semicolon-punctuation-khan-academy",
+              "youtube_id": "xWJ3HoQTpgY",
+              "youtube_url": "https://www.youtube.com/watch?v=xWJ3HoQTpgY",
+              "duration_sec": 159,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/introduction-to-semicolons/v/semicolons-and-complex-lists-the-colon-and-semicolon-punctuation-khan-academy"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Formatting styles",
+          "slug": "formatting-styles",
+          "videos": [
+            {
+              "title": "Italics and underlining",
+              "slug": "v/italics-and-underlining",
+              "youtube_id": "aqef1Wx4D6w",
+              "youtube_url": "https://www.youtube.com/watch?v=aqef1Wx4D6w",
+              "duration_sec": 258,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/formatting-styles/v/italics-and-underlining"
+            },
+            {
+              "title": "Using quotation marks in titles",
+              "slug": "v/quotation-marks",
+              "youtube_id": "wiXhK7aEuGY",
+              "youtube_url": "https://www.youtube.com/watch?v=wiXhK7aEuGY",
+              "duration_sec": 193,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/formatting-styles/v/quotation-marks"
+            },
+            {
+              "title": "Parentheses",
+              "slug": "v/parentheses",
+              "youtube_id": "hJtaY-iZRvU",
+              "youtube_url": "https://www.youtube.com/watch?v=hJtaY-iZRvU",
+              "duration_sec": 249,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/formatting-styles/v/parentheses"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Hyphens, dashes, and ellipses",
+          "slug": "hyphens-dashes-and-ellipses",
+          "videos": [
+            {
+              "title": "Dashes",
+              "slug": "v/dashes",
+              "youtube_id": "tLmDYzhv6Z0",
+              "youtube_url": "https://www.youtube.com/watch?v=tLmDYzhv6Z0",
+              "duration_sec": 380,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/hyphens-dashes-and-ellipses/v/dashes"
+            },
+            {
+              "title": "Hyphens versus dashes",
+              "slug": "v/hyphens",
+              "youtube_id": "CgpExkmY6Y0",
+              "youtube_url": "https://www.youtube.com/watch?v=CgpExkmY6Y0",
+              "duration_sec": 291,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/hyphens-dashes-and-ellipses/v/hyphens"
+            },
+            {
+              "title": "Ellipses",
+              "slug": "v/ellipses",
+              "youtube_id": "JmRMfFVw6NE",
+              "youtube_url": "https://www.youtube.com/watch?v=JmRMfFVw6NE",
+              "duration_sec": 312,
+              "relative_url": "/humanities/grammar/punctuation-the-colon-semicolon-and-more/hyphens-dashes-and-ellipses/v/ellipses"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Syntax: sentences and clauses",
+      "slug": "syntax-sentences-and-clauses",
+      "relative_url": "/humanities/grammar/syntax-sentences-and-clauses",
+      "lessons": [
+        {
+          "title": "Introduction to sentences",
+          "slug": "introduction-to-sentences",
+          "videos": [
+            {
+              "title": "What is a sentence? ",
+              "slug": "v/what-is-a-sentence-syntax-khan-academy",
+              "youtube_id": "TeiuG81mbII",
+              "youtube_url": "https://www.youtube.com/watch?v=TeiuG81mbII",
+              "duration_sec": 274,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/introduction-to-sentences/v/what-is-a-sentence-syntax-khan-academy"
+            },
+            {
+              "title": "Three types of sentences",
+              "slug": "v/three-types-of-sentence-syntax-khan-academy",
+              "youtube_id": "ld8r6NGXRts",
+              "youtube_url": "https://www.youtube.com/watch?v=ld8r6NGXRts",
+              "duration_sec": 212,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/introduction-to-sentences/v/three-types-of-sentence-syntax-khan-academy"
+            },
+            {
+              "title": "Exclamations ",
+              "slug": "v/exclamations-syntax-khan-academy",
+              "youtube_id": "kZkfZwTCed8",
+              "youtube_url": "https://www.youtube.com/watch?v=kZkfZwTCed8",
+              "duration_sec": 170,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/introduction-to-sentences/v/exclamations-syntax-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Types of sentences",
+          "slug": "types-of-sentences",
+          "videos": [
+            {
+              "title": "Simple and compound sentences ",
+              "slug": "v/simple-and-compound-sentences-syntax-khan-academy",
+              "youtube_id": "3DGKY3eM9PY",
+              "youtube_url": "https://www.youtube.com/watch?v=3DGKY3eM9PY",
+              "duration_sec": 269,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/types-of-sentences/v/simple-and-compound-sentences-syntax-khan-academy"
+            },
+            {
+              "title": "Complex sentences",
+              "slug": "v/complex-sentences-syntax-khan-academy",
+              "youtube_id": "CsrM_RpqXek",
+              "youtube_url": "https://www.youtube.com/watch?v=CsrM_RpqXek",
+              "duration_sec": 307,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/types-of-sentences/v/complex-sentences-syntax-khan-academy"
+            },
+            {
+              "title": "Compound-complex sentences ",
+              "slug": "v/compound-complex-sentences-syntax-khan-academy",
+              "youtube_id": "Hnmm57B0JgQ",
+              "youtube_url": "https://www.youtube.com/watch?v=Hnmm57B0JgQ",
+              "duration_sec": 254,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/types-of-sentences/v/compound-complex-sentences-syntax-khan-academy"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Subjects and predicates",
+          "slug": "subjects-and-predicates",
+          "videos": [
+            {
+              "title": "Subjects and predicates",
+              "slug": "v/subjects-and-predicates-syntax-khan-academy",
+              "youtube_id": "qXykcBGNvbk",
+              "youtube_url": "https://www.youtube.com/watch?v=qXykcBGNvbk",
+              "duration_sec": 154,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/subjects-and-predicates/v/subjects-and-predicates-syntax-khan-academy"
+            },
+            {
+              "title": "Subjects, direct objects, and indirect objects",
+              "slug": "v/subject-direct-object-and-indirect-object-syntax-khan-academy",
+              "youtube_id": "OSE3OiRGlgE",
+              "youtube_url": "https://www.youtube.com/watch?v=OSE3OiRGlgE",
+              "duration_sec": 284,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/subjects-and-predicates/v/subject-direct-object-and-indirect-object-syntax-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Phrases and clauses",
+          "slug": "phrases-and-clauses",
+          "videos": [
+            {
+              "title": "Phrases and clauses",
+              "slug": "v/phrases-and-clauses-syntax-khan-academy",
+              "youtube_id": "49EsnvxVQec",
+              "youtube_url": "https://www.youtube.com/watch?v=49EsnvxVQec",
+              "duration_sec": 357,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/phrases-and-clauses/v/phrases-and-clauses-syntax-khan-academy"
+            },
+            {
+              "title": "Dependent and independent clauses",
+              "slug": "v/dependent-and-independent-clauses-syntax-khan-academy",
+              "youtube_id": "sAo6LbCUAQo",
+              "youtube_url": "https://www.youtube.com/watch?v=sAo6LbCUAQo",
+              "duration_sec": 424,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/phrases-and-clauses/v/dependent-and-independent-clauses-syntax-khan-academy"
+            },
+            {
+              "title": "Relative clauses ",
+              "slug": "v/relative-clauses-syntax-khan-academy",
+              "youtube_id": "fm7QEiEk83o",
+              "youtube_url": "https://www.youtube.com/watch?v=fm7QEiEk83o",
+              "duration_sec": 284,
+              "relative_url": "/humanities/grammar/syntax-sentences-and-clauses/phrases-and-clauses/v/relative-clauses-syntax-khan-academy"
+            }
+          ],
+          "exercise_count": 4
+        }
+      ]
+    },
+    {
+      "title": "Syntax: conventions of standard English",
+      "slug": "syntax-conventions-of-standard-english",
+      "relative_url": "/humanities/grammar/syntax-conventions-of-standard-english",
+      "lessons": [
+        {
+          "title": "Subject-verb agreement and pronoun-antecedent agreement ",
+          "slug": "subject-verb-agreement-and-pronoun-antecedent-agreement",
+          "videos": [
+            {
+              "title": "Subject-verb agreement ",
+              "slug": "v/subject-verb-agreement-syntax-khan-academy",
+              "youtube_id": "4fMipjAnlRk",
+              "youtube_url": "https://www.youtube.com/watch?v=4fMipjAnlRk",
+              "duration_sec": 293,
+              "relative_url": "/humanities/grammar/syntax-conventions-of-standard-english/subject-verb-agreement-and-pronoun-antecedent-agreement/v/subject-verb-agreement-syntax-khan-academy"
+            },
+            {
+              "title": "Pronoun-antecedent agreement ",
+              "slug": "v/pronoun-antecedent-agreement-syntax-khan-academy",
+              "youtube_id": "j9kIACViG60",
+              "youtube_url": "https://www.youtube.com/watch?v=j9kIACViG60",
+              "duration_sec": 247,
+              "relative_url": "/humanities/grammar/syntax-conventions-of-standard-english/subject-verb-agreement-and-pronoun-antecedent-agreement/v/pronoun-antecedent-agreement-syntax-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Fragments and run-ons",
+          "slug": "fragments-and-run-ons",
+          "videos": [
+            {
+              "title": "Recognizing fragments",
+              "slug": "v/recognizing-fragments-syntax-khan-academy",
+              "youtube_id": "xpoZBnXHg3E",
+              "youtube_url": "https://www.youtube.com/watch?v=xpoZBnXHg3E",
+              "duration_sec": 228,
+              "relative_url": "/humanities/grammar/syntax-conventions-of-standard-english/fragments-and-run-ons/v/recognizing-fragments-syntax-khan-academy"
+            },
+            {
+              "title": "Run-ons and comma splices ",
+              "slug": "v/run-ons-and-comma-splices-syntax-khan-academy",
+              "youtube_id": "Fh45mhVsZrU",
+              "youtube_url": "https://www.youtube.com/watch?v=Fh45mhVsZrU",
+              "duration_sec": 278,
+              "relative_url": "/humanities/grammar/syntax-conventions-of-standard-english/fragments-and-run-ons/v/run-ons-and-comma-splices-syntax-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Dangling modifiers and parallel structure",
+          "slug": "dangling-modifiers-and-parallel-structure",
+          "videos": [
+            {
+              "title": "Dangling modifiers ",
+              "slug": "v/dangling-modifiers-syntax-khan-academy",
+              "youtube_id": "SjunMcrXgE0",
+              "youtube_url": "https://www.youtube.com/watch?v=SjunMcrXgE0",
+              "duration_sec": 259,
+              "relative_url": "/humanities/grammar/syntax-conventions-of-standard-english/dangling-modifiers-and-parallel-structure/v/dangling-modifiers-syntax-khan-academy"
+            },
+            {
+              "title": "Parallel structure ",
+              "slug": "v/parallel-structure-syntax-khan-academy",
+              "youtube_id": "2l2FgUrln1A",
+              "youtube_url": "https://www.youtube.com/watch?v=2l2FgUrln1A",
+              "duration_sec": 305,
+              "relative_url": "/humanities/grammar/syntax-conventions-of-standard-english/dangling-modifiers-and-parallel-structure/v/parallel-structure-syntax-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Usage and style",
+      "slug": "usage-and-style",
+      "relative_url": "/humanities/grammar/usage-and-style",
+      "lessons": [
+        {
+          "title": "Frequently confused words",
+          "slug": "frequently-confused-words",
+          "videos": [
+            {
+              "title": "Affect and effect",
+              "slug": "v/affect-and-effect-final",
+              "youtube_id": "5pfZ3dyG1cg",
+              "youtube_url": "https://www.youtube.com/watch?v=5pfZ3dyG1cg",
+              "duration_sec": 258,
+              "relative_url": "/humanities/grammar/usage-and-style/frequently-confused-words/v/affect-and-effect-final"
+            },
+            {
+              "title": "Hear/here and accept/except",
+              "slug": "v/hear-here-accept-except",
+              "youtube_id": "t8RMj6xCJIQ",
+              "youtube_url": "https://www.youtube.com/watch?v=t8RMj6xCJIQ",
+              "duration_sec": 194,
+              "relative_url": "/humanities/grammar/usage-and-style/frequently-confused-words/v/hear-here-accept-except"
+            },
+            {
+              "title": "There, their, and they're",
+              "slug": "v/there-their-theyre-final",
+              "youtube_id": "0D54pfccNUQ",
+              "youtube_url": "https://www.youtube.com/watch?v=0D54pfccNUQ",
+              "duration_sec": 201,
+              "relative_url": "/humanities/grammar/usage-and-style/frequently-confused-words/v/there-their-theyre-final"
+            },
+            {
+              "title": "To, two, and too",
+              "slug": "v/to-two-too",
+              "youtube_id": "joTuAvMQ9vE",
+              "youtube_url": "https://www.youtube.com/watch?v=joTuAvMQ9vE",
+              "duration_sec": 199,
+              "relative_url": "/humanities/grammar/usage-and-style/frequently-confused-words/v/to-two-too"
+            },
+            {
+              "title": "Compliment/complement and desert/dessert",
+              "slug": "v/compliment-complement-desert-dessert-final",
+              "youtube_id": "WnAzZWxiGs4",
+              "youtube_url": "https://www.youtube.com/watch?v=WnAzZWxiGs4",
+              "duration_sec": 255,
+              "relative_url": "/humanities/grammar/usage-and-style/frequently-confused-words/v/compliment-complement-desert-dessert-final"
+            },
+            {
+              "title": "Less versus fewer",
+              "slug": "v/less-v-fewer",
+              "youtube_id": "ZkFihBrRMCM",
+              "youtube_url": "https://www.youtube.com/watch?v=ZkFihBrRMCM",
+              "duration_sec": 432,
+              "relative_url": "/humanities/grammar/usage-and-style/frequently-confused-words/v/less-v-fewer"
+            },
+            {
+              "title": "Bare/bear, allowed/aloud, advice/advise, and break/brake",
+              "slug": "v/bare-bear-allowed-aloud-advice-advise-break-brake",
+              "youtube_id": "aIOYJ2Vlwy8",
+              "youtube_url": "https://www.youtube.com/watch?v=aIOYJ2Vlwy8",
+              "duration_sec": 371,
+              "relative_url": "/humanities/grammar/usage-and-style/frequently-confused-words/v/bare-bear-allowed-aloud-advice-advise-break-brake"
+            }
+          ],
+          "exercise_count": 5
+        },
+        {
+          "title": "Common expressions",
+          "slug": "common-expressions-and-idioms",
+          "videos": [],
+          "exercise_count": 3
+        },
+        {
+          "title": "Style!",
+          "slug": "style",
+          "videos": [
+            {
+              "title": "The sound of language: alliteration, assonance, and onomatopoeia",
+              "slug": "v/alliteration-assonance-and-onomatopoeia",
+              "youtube_id": "6dACXPirT3s",
+              "youtube_url": "https://www.youtube.com/watch?v=6dACXPirT3s",
+              "duration_sec": 381,
+              "relative_url": "/humanities/grammar/usage-and-style/style/v/alliteration-assonance-and-onomatopoeia"
+            },
+            {
+              "title": "The scale of formality",
+              "slug": "v/scale-of-formality",
+              "youtube_id": "dzSbmCxUyuo",
+              "youtube_url": "https://www.youtube.com/watch?v=dzSbmCxUyuo",
+              "duration_sec": 494,
+              "relative_url": "/humanities/grammar/usage-and-style/style/v/scale-of-formality"
+            },
+            {
+              "title": "Under- and overstatement",
+              "slug": "v/under-and-overstatement-final",
+              "youtube_id": "lrpB0kNvEs4",
+              "youtube_url": "https://www.youtube.com/watch?v=lrpB0kNvEs4",
+              "duration_sec": 343,
+              "relative_url": "/humanities/grammar/usage-and-style/style/v/under-and-overstatement-final"
+            },
+            {
+              "title": "Irony",
+              "slug": "v/irony-final",
+              "youtube_id": "LY5EBvlRCP4",
+              "youtube_url": "https://www.youtube.com/watch?v=LY5EBvlRCP4",
+              "duration_sec": 478,
+              "relative_url": "/humanities/grammar/usage-and-style/style/v/irony-final"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    }
+  ]
+}

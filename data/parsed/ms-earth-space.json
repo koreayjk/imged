@@ -1,0 +1,435 @@
+{
+  "key": "ms-earth-space",
+  "tier": "T0",
+  "subject": "science",
+  "slug": "middle-school-earth-and-space-science",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Middle school Earth and space science",
+  "course_slug": "middle-school-earth-and-space-science",
+  "units": [
+    {
+      "title": "Earth in space",
+      "slug": "x87d03b443efbea0a:earth-in-space",
+      "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-in-space",
+      "lessons": [
+        {
+          "title": "Earth's place in the universe",
+          "slug": "x87d03b443efbea0a:earths-place-in-the-universe",
+          "videos": [
+            {
+              "title": "Introduction to Middle school Earth and space science",
+              "slug": "v/introduction-to-middle-school-earth-and-space-science",
+              "youtube_id": "yhhVx9FZ9Hs",
+              "youtube_url": "https://www.youtube.com/watch?v=yhhVx9FZ9Hs",
+              "duration_sec": 171,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-in-space/x87d03b443efbea0a:earths-place-in-the-universe/v/introduction-to-middle-school-earth-and-space-science"
+            },
+            {
+              "title": "Earth's place in the universe",
+              "slug": "v/earths-place-in-the-universe",
+              "youtube_id": "Pv0Re0YEEq0",
+              "youtube_url": "https://www.youtube.com/watch?v=Pv0Re0YEEq0",
+              "duration_sec": 294,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:space-science/x0e04e0cb682fb793:the-earth/v/earths-place-in-the-universe"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The solar system",
+          "slug": "x87d03b443efbea0a:the-solar-system",
+          "videos": [
+            {
+              "title": "The solar system part 1",
+              "slug": "v/the-solar-system-part-1",
+              "youtube_id": "1_z_zgRmYTk",
+              "youtube_url": "https://www.youtube.com/watch?v=1_z_zgRmYTk",
+              "duration_sec": 764,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-in-space/x87d03b443efbea0a:the-solar-system/v/the-solar-system-part-1"
+            },
+            {
+              "title": "The solar system part 2",
+              "slug": "v/the-solar-system-part-2",
+              "youtube_id": "nBQpL8lhpTc",
+              "youtube_url": "https://www.youtube.com/watch?v=nBQpL8lhpTc",
+              "duration_sec": 646,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-in-space/x87d03b443efbea0a:the-solar-system/v/the-solar-system-part-2"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Gravity in space",
+          "slug": "x87d03b443efbea0a:gravity-in-space",
+          "videos": [
+            {
+              "title": "Galaxies and gravity ",
+              "slug": "v/galaxies-and-gravity",
+              "youtube_id": "tNGVqoOLl-k",
+              "youtube_url": "https://www.youtube.com/watch?v=tNGVqoOLl-k",
+              "duration_sec": 235,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:space-science/x0e04e0cb682fb793:the-universe/v/galaxies-and-gravity"
+            },
+            {
+              "title": "Gravity and the solar system",
+              "slug": "v/gravity-and-the-solar-system",
+              "youtube_id": "a0XHi4tCovg",
+              "youtube_url": "https://www.youtube.com/watch?v=a0XHi4tCovg",
+              "duration_sec": 703,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-in-space/x87d03b443efbea0a:gravity-in-space/v/gravity-and-the-solar-system"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "The Earth-Sun-moon system",
+      "slug": "x87d03b443efbea0a:the-earth-sun-moon-system",
+      "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-earth-sun-moon-system",
+      "lessons": [
+        {
+          "title": "Seasons ",
+          "slug": "x87d03b443efbea0a:seasons",
+          "videos": [
+            {
+              "title": "Why we have seasons",
+              "slug": "v/why-we-have-seasons",
+              "youtube_id": "2lSnnH12tJ4",
+              "youtube_url": "https://www.youtube.com/watch?v=2lSnnH12tJ4",
+              "duration_sec": 500,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-earth-sun-moon-system/x87d03b443efbea0a:seasons/v/why-we-have-seasons"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "The moon and its motions",
+          "slug": "x87d03b443efbea0a:the-moon-and-its-motions",
+          "videos": [
+            {
+              "title": "Phases of the moon",
+              "slug": "v/phases-of-the-moon",
+              "youtube_id": "f592IgRzq2E",
+              "youtube_url": "https://www.youtube.com/watch?v=f592IgRzq2E",
+              "duration_sec": 254,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:space-science/x0e04e0cb682fb793:the-earth/v/phases-of-the-moon"
+            },
+            {
+              "title": "Lunar eclipses",
+              "slug": "v/lunar-eclipses",
+              "youtube_id": "WXSHQK56Bfs",
+              "youtube_url": "https://www.youtube.com/watch?v=WXSHQK56Bfs",
+              "duration_sec": 127,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-earth-sun-moon-system/x87d03b443efbea0a:the-moon-and-its-motions/v/lunar-eclipses"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Solar eclipses",
+          "slug": "x87d03b443efbea0a:solar-eclipses",
+          "videos": [
+            {
+              "title": "Solar eclipses",
+              "slug": "v/solar-eclipses",
+              "youtube_id": "cVh7sTN-uNc",
+              "youtube_url": "https://www.youtube.com/watch?v=cVh7sTN-uNc",
+              "duration_sec": 200,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-earth-sun-moon-system/x87d03b443efbea0a:solar-eclipses/v/solar-eclipses"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: What happens during a solar or lunar eclipse?",
+          "slug": "x87d03b443efbea0a:unit-2-phenomenon-based-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Weather and climate",
+      "slug": "x87d03b443efbea0a:weather-and-climate",
+      "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:weather-and-climate",
+      "lessons": [
+        {
+          "title": "The water cycle ",
+          "slug": "x87d03b443efbea0a:the-water-cycle",
+          "videos": [
+            {
+              "title": "The water cycle ",
+              "slug": "v/the-water-cycle-ms",
+              "youtube_id": "r2dnUvP1JgM",
+              "youtube_url": "https://www.youtube.com/watch?v=r2dnUvP1JgM",
+              "duration_sec": 267,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:weather-and-climate/x87d03b443efbea0a:the-water-cycle/v/the-water-cycle-ms"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Weather",
+          "slug": "x87d03b443efbea0a:weather",
+          "videos": [
+            {
+              "title": "Weather",
+              "slug": "v/weather",
+              "youtube_id": "U5ikrkOGio0",
+              "youtube_url": "https://www.youtube.com/watch?v=U5ikrkOGio0",
+              "duration_sec": 243,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:weather-and-climate/x87d03b443efbea0a:weather/v/weather"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Global winds and currents",
+          "slug": "x87d03b443efbea0a:global-winds-and-currents",
+          "videos": [
+            {
+              "title": "The Sun's energy and Earth's weather",
+              "slug": "v/the-sun-s-energy-and-earth-s-weather",
+              "youtube_id": "JMaqaspDpr0",
+              "youtube_url": "https://www.youtube.com/watch?v=JMaqaspDpr0",
+              "duration_sec": 374,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:weather-and-climate/x87d03b443efbea0a:global-winds-and-currents/v/the-sun-s-energy-and-earth-s-weather"
+            },
+            {
+              "title": "Global winds and currents",
+              "slug": "v/global-winds-and-currents",
+              "youtube_id": "jjEfDULyEOg",
+              "youtube_url": "https://www.youtube.com/watch?v=jjEfDULyEOg",
+              "duration_sec": 356,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:weather-and-climate/x87d03b443efbea0a:global-winds-and-currents/v/global-winds-and-currents"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Regional climates",
+          "slug": "x87d03b443efbea0a:regional-climates",
+          "videos": [
+            {
+              "title": "Regional climates",
+              "slug": "v/regional-climates",
+              "youtube_id": "a9muG72XZ18",
+              "youtube_url": "https://www.youtube.com/watch?v=a9muG72XZ18",
+              "duration_sec": 297,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:weather-and-climate/x87d03b443efbea0a:regional-climates/v/regional-climates"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "The geosphere",
+      "slug": "x87d03b443efbea0a:the-geosphere",
+      "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-geosphere",
+      "lessons": [
+        {
+          "title": "The rock cycle",
+          "slug": "x87d03b443efbea0a:the-rock-cycle",
+          "videos": [
+            {
+              "title": "The rock cycle",
+              "slug": "v/the-rock-cycle",
+              "youtube_id": "rmH4W92eHVM",
+              "youtube_url": "https://www.youtube.com/watch?v=rmH4W92eHVM",
+              "duration_sec": 284,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-geosphere/x87d03b443efbea0a:the-rock-cycle/v/the-rock-cycle"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Fossils and rock layers",
+          "slug": "x87d03b443efbea0a:fossils-and-rock-layers",
+          "videos": [
+            {
+              "title": "Fossils and rock layers",
+              "slug": "v/fossils-and-rock-layers",
+              "youtube_id": "3LObb5WxMdw",
+              "youtube_url": "https://www.youtube.com/watch?v=3LObb5WxMdw",
+              "duration_sec": 275,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-geosphere/x87d03b443efbea0a:fossils-and-rock-layers/v/fossils-and-rock-layers"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Plate tectonics",
+          "slug": "x87d03b443efbea0a:plate-tectonics",
+          "videos": [
+            {
+              "title": "Plate tectonics",
+              "slug": "v/plate-tectonics-teks6",
+              "youtube_id": "u5uZWNOyoVY",
+              "youtube_url": "https://www.youtube.com/watch?v=u5uZWNOyoVY",
+              "duration_sec": 614,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-geosphere/x87d03b443efbea0a:plate-tectonics/v/plate-tectonics-teks6"
+            },
+            {
+              "title": "Plate tectonics and the ocean floor",
+              "slug": "v/plate-tectonics-the-ocean-floor",
+              "youtube_id": "A98wPKiPMJw",
+              "youtube_url": "https://www.youtube.com/watch?v=A98wPKiPMJw",
+              "duration_sec": 241,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-geosphere/x87d03b443efbea0a:plate-tectonics/v/plate-tectonics-the-ocean-floor"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Weathering and erosion",
+          "slug": "x87d03b443efbea0a:weathering-and-erosion",
+          "videos": [
+            {
+              "title": "Weathering and erosion",
+              "slug": "v/weathering-and-erosion",
+              "youtube_id": "xWWOHttrkWI",
+              "youtube_url": "https://www.youtube.com/watch?v=xWWOHttrkWI",
+              "duration_sec": 278,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:the-geosphere/x87d03b443efbea0a:weathering-and-erosion/v/weathering-and-erosion"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: How does weathering affect natural landscapes over time?",
+          "slug": "x87d03b443efbea0a:unit-4-phenomenon-based-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Earth and society",
+      "slug": "x87d03b443efbea0a:earth-and-society",
+      "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society",
+      "lessons": [
+        {
+          "title": "Natural resources",
+          "slug": "x87d03b443efbea0a:natural-resources",
+          "videos": [
+            {
+              "title": "Natural resources",
+              "slug": "v/natural-resources",
+              "youtube_id": "sIM0PGv8h08",
+              "youtube_url": "https://www.youtube.com/watch?v=sIM0PGv8h08",
+              "duration_sec": 274,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:energy-work-and-power/x0e04e0cb682fb793:sources-of-energy/v/natural-resources"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Natural hazards",
+          "slug": "x87d03b443efbea0a:natural-hazards",
+          "videos": [
+            {
+              "title": "Natural hazards ",
+              "slug": "v/natural-hazards",
+              "youtube_id": "rVVoccltP8A",
+              "youtube_url": "https://www.youtube.com/watch?v=rVVoccltP8A",
+              "duration_sec": 248,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:natural-hazards/v/natural-hazards"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Human impacts on the environment",
+          "slug": "x87d03b443efbea0a:human-impacts-on-the-environment",
+          "videos": [
+            {
+              "title": "Human impacts on the environment",
+              "slug": "v/human-impacts-on-the-environment",
+              "youtube_id": "ThpzFgoGrKE",
+              "youtube_url": "https://www.youtube.com/watch?v=ThpzFgoGrKE",
+              "duration_sec": 308,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:human-impacts-on-the-environment/v/human-impacts-on-the-environment"
+            },
+            {
+              "title": "Managing natural resources",
+              "slug": "v/managing-natural-resources",
+              "youtube_id": "qeK8mQ904QI",
+              "youtube_url": "https://www.youtube.com/watch?v=qeK8mQ904QI",
+              "duration_sec": 581,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:human-impacts-on-the-environment/v/managing-natural-resources"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How can we reduce our garbage footprint?",
+          "slug": "x87d03b443efbea0a:unit-5-phenomenon-based-activities",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Earth's changing climate",
+          "slug": "x87d03b443efbea0a:earths-changing-climate",
+          "videos": [
+            {
+              "title": "Earth's changing climate",
+              "slug": "v/earths-changing-climate",
+              "youtube_id": "z9xKxciHgo8",
+              "youtube_url": "https://www.youtube.com/watch?v=z9xKxciHgo8",
+              "duration_sec": 270,
+              "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:earths-changing-climate/v/earths-changing-climate"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How and why is Earth's climate changing?",
+          "slug": "x87d03b443efbea0a:activity-how-and-why-is-earth-s-climate-changing",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Explore Earth and space science through simulations",
+      "slug": "x87d03b443efbea0a:explore-earth-and-space-science-through-simulations-ms-ess",
+      "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:explore-earth-and-space-science-through-simulations-ms-ess",
+      "lessons": [
+        {
+          "title": "Introduction to simulation-based learning",
+          "slug": "x87d03b443efbea0a:introduction-to-simulation-based-learning",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Explore climate change through simulations",
+          "slug": "x87d03b443efbea0a:explore-climate-change-through-simulations",
+          "videos": [],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Teacher resources",
+      "slug": "x87d03b443efbea0a:teacher-resources",
+      "relative_url": "/science/middle-school-earth-and-space-science/x87d03b443efbea0a:teacher-resources",
+      "lessons": [
+        {
+          "title": "Unit guides",
+          "slug": "x87d03b443efbea0a:unit-guides",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Hands-on Earth and space science activities",
+          "slug": "x87d03b443efbea0a:hands-on-earth-space-sci-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

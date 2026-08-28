@@ -1,0 +1,1780 @@
+{
+  "key": "macroeconomics",
+  "tier": "T3",
+  "subject": "social",
+  "slug": "macroeconomics",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Macroeconomics",
+  "course_slug": "macroeconomics",
+  "units": [
+    {
+      "title": "Basic economics concepts",
+      "slug": "macro-basic-economics-concepts",
+      "relative_url": "/economics-finance-domain/macroeconomics/macro-basic-economics-concepts",
+      "lessons": [
+        {
+          "title": "Introduction to macroeconomics",
+          "slug": "macro-scarcity",
+          "videos": [
+            {
+              "title": "Introduction to economics",
+              "slug": "v/introduction-to-economics",
+              "youtube_id": "8JYP_wU1JTU",
+              "youtube_url": "https://www.youtube.com/watch?v=8JYP_wU1JTU",
+              "duration_sec": 599,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/introduction-to-economics"
+            },
+            {
+              "title": "Scarcity",
+              "slug": "v/scarcity",
+              "youtube_id": "iy-fhpbTH9E",
+              "youtube_url": "https://www.youtube.com/watch?v=iy-fhpbTH9E",
+              "duration_sec": 344,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/scarcity"
+            },
+            {
+              "title": "Normative and positive statements",
+              "slug": "v/normative-and-positive-statements",
+              "youtube_id": "YtX6SGw7E3c",
+              "youtube_url": "https://www.youtube.com/watch?v=YtX6SGw7E3c",
+              "duration_sec": 301,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/normative-and-positive-statements"
+            },
+            {
+              "title": "Economic models",
+              "slug": "v/economic-models",
+              "youtube_id": "7n_Hf_UsW7I",
+              "youtube_url": "https://www.youtube.com/watch?v=7n_Hf_UsW7I",
+              "duration_sec": 410,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/economic-models"
+            },
+            {
+              "title": "Command and market economies",
+              "slug": "v/command-and-market-economies",
+              "youtube_id": "Ve6K10-Yx_M",
+              "youtube_url": "https://www.youtube.com/watch?v=Ve6K10-Yx_M",
+              "duration_sec": 584,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-basic-economics-concepts/macro-scarcity/v/command-and-market-economies"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Opportunity cost and the Production Possibilities Curve",
+          "slug": "macro-opportunity-cost-and-the-production-possibilities-curve",
+          "videos": [
+            {
+              "title": "Production possibilities curve",
+              "slug": "v/production-possibilities-frontier",
+              "youtube_id": "_7VHfuWV-Qg",
+              "youtube_url": "https://www.youtube.com/watch?v=_7VHfuWV-Qg",
+              "duration_sec": 659,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/production-possibilities-frontier"
+            },
+            {
+              "title": "Opportunity cost",
+              "slug": "v/opportunity-cost",
+              "youtube_id": "pkEiHZAtoro",
+              "youtube_url": "https://www.youtube.com/watch?v=pkEiHZAtoro",
+              "duration_sec": 348,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/opportunity-cost"
+            },
+            {
+              "title": "Increasing opportunity cost",
+              "slug": "v/increasing-opportunity-cost",
+              "youtube_id": "00fgAG6VrRQ",
+              "youtube_url": "https://www.youtube.com/watch?v=00fgAG6VrRQ",
+              "duration_sec": 386,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/increasing-opportunity-cost"
+            },
+            {
+              "title": "PPCs for increasing, decreasing and constant opportunity cost",
+              "slug": "v/ppcs-for-increasing-decreasing-and-constant-opportunity-cost",
+              "youtube_id": "-aVZtzD44vI",
+              "youtube_url": "https://www.youtube.com/watch?v=-aVZtzD44vI",
+              "duration_sec": 326,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/ppcs-for-increasing-decreasing-and-constant-opportunity-cost"
+            },
+            {
+              "title": "Production Possibilities Curve as a model of a country's economy",
+              "slug": "v/production-possibilities-curve",
+              "youtube_id": "9zZY6RfN6iA",
+              "youtube_url": "https://www.youtube.com/watch?v=9zZY6RfN6iA",
+              "duration_sec": 409,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro/v/production-possibilities-curve"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Comparative advantage and the gains from trade",
+          "slug": "macro-comparative-advantage-and-the-gains-from-trade",
+          "videos": [
+            {
+              "title": "Comparative advantage, specialization, and gains from trade",
+              "slug": "v/comparative-advantage-specialization-and-gains-from-trade",
+              "youtube_id": "xx9xNJlPOJo",
+              "youtube_url": "https://www.youtube.com/watch?v=xx9xNJlPOJo",
+              "duration_sec": 536,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/comparative-advantage-specialization-and-gains-from-trade"
+            },
+            {
+              "title": "Comparative advantage and absolute advantage",
+              "slug": "v/comparative-advantage-and-absolute-advantage",
+              "youtube_id": "xN3UV5FsBkU",
+              "youtube_url": "https://www.youtube.com/watch?v=xN3UV5FsBkU",
+              "duration_sec": 616,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/comparative-advantage-and-absolute-advantage"
+            },
+            {
+              "title": "Opportunity cost and comparative advantage using an output table",
+              "slug": "v/opportunity-cost-and-comparative-advantage-macroeconomics-khan-academy",
+              "youtube_id": "K8p0F92gVUM",
+              "youtube_url": "https://www.youtube.com/watch?v=K8p0F92gVUM",
+              "duration_sec": 595,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/opportunity-cost-and-comparative-advantage-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Terms of trade and the gains from trade",
+              "slug": "v/terms-of-trade-and-the-gains-from-trade-macroeconomics-khan-academy",
+              "youtube_id": "C-xLUS5JGIM",
+              "youtube_url": "https://www.youtube.com/watch?v=C-xLUS5JGIM",
+              "duration_sec": 596,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/terms-of-trade-and-the-gains-from-trade-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Input approach to determining comparative advantage ",
+              "slug": "v/input-approach-to-determining-comparative-advantage-macroeconomics-khan-academy",
+              "youtube_id": "Uqf5c6Xcjr4",
+              "youtube_url": "https://www.youtube.com/watch?v=Uqf5c6Xcjr4",
+              "duration_sec": 532,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/input-approach-to-determining-comparative-advantage-macroeconomics-khan-academy"
+            },
+            {
+              "title": "When there aren't gains from trade ",
+              "slug": "v/when-there-arent-gains-from-trade-macroeconomics-khan-academy",
+              "youtube_id": "TeAzW_tY6m4",
+              "youtube_url": "https://www.youtube.com/watch?v=TeAzW_tY6m4",
+              "duration_sec": 410,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/when-there-arent-gains-from-trade-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Comparative advantage worked example",
+              "slug": "v/comparative-advantage-worked-example",
+              "youtube_id": "jHp4fnrEA6w",
+              "youtube_url": "https://www.youtube.com/watch?v=jHp4fnrEA6w",
+              "duration_sec": 588,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/comparative-advantage-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Demand",
+          "slug": "macro-demand",
+          "videos": [
+            {
+              "title": "Law of demand",
+              "slug": "v/law-of-demand",
+              "youtube_id": "ShzPtU7IOXs",
+              "youtube_url": "https://www.youtube.com/watch?v=ShzPtU7IOXs",
+              "duration_sec": 496,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/law-of-demand"
+            },
+            {
+              "title": "Price of related products and demand",
+              "slug": "v/price-of-related-products-and-demand",
+              "youtube_id": "-oClpRv7msg",
+              "youtube_url": "https://www.youtube.com/watch?v=-oClpRv7msg",
+              "duration_sec": 348,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/price-of-related-products-and-demand"
+            },
+            {
+              "title": "Change in expected future prices and demand",
+              "slug": "v/change-in-expected-future-prices-and-demand",
+              "youtube_id": "7siSvYs84fg",
+              "youtube_url": "https://www.youtube.com/watch?v=7siSvYs84fg",
+              "duration_sec": 274,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/change-in-expected-future-prices-and-demand"
+            },
+            {
+              "title": "Changes in income, population, or preferences",
+              "slug": "v/changes-in-income-population-or-preferences",
+              "youtube_id": "do1HDIdfQkU",
+              "youtube_url": "https://www.youtube.com/watch?v=do1HDIdfQkU",
+              "duration_sec": 213,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/changes-in-income-population-or-preferences"
+            },
+            {
+              "title": "Normal and inferior goods",
+              "slug": "v/normal-and-inferior-goods",
+              "youtube_id": "wYuAwm-5-Bk",
+              "youtube_url": "https://www.youtube.com/watch?v=wYuAwm-5-Bk",
+              "duration_sec": 356,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/normal-and-inferior-goods"
+            },
+            {
+              "title": "Change in demand versus change in quantity demanded ",
+              "slug": "v/change-in-demand-versus-change-in-quantity-demanded-microeconomics-khan-academy",
+              "youtube_id": "iC9hkhbIimA",
+              "youtube_url": "https://www.youtube.com/watch?v=iC9hkhbIimA",
+              "duration_sec": 507,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/change-in-demand-versus-change-in-quantity-demanded-microeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Supply",
+          "slug": "macro-supply",
+          "videos": [
+            {
+              "title": "Law of supply",
+              "slug": "v/law-of-supply",
+              "youtube_id": "3xCzhdVtdMI",
+              "youtube_url": "https://www.youtube.com/watch?v=3xCzhdVtdMI",
+              "duration_sec": 504,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/supply/v/law-of-supply"
+            },
+            {
+              "title": "Factors affecting supply",
+              "slug": "v/factors-affecting-supply",
+              "youtube_id": "0isM0GF-rMI",
+              "youtube_url": "https://www.youtube.com/watch?v=0isM0GF-rMI",
+              "duration_sec": 418,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/supply/v/factors-affecting-supply"
+            },
+            {
+              "title": "Change in supply versus change in quantity supplied",
+              "slug": "v/change-in-supply-versus-change-in-quantity-supplied",
+              "youtube_id": "NrlF8mMHfLE",
+              "youtube_url": "https://www.youtube.com/watch?v=NrlF8mMHfLE",
+              "duration_sec": 375,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/supply/v/change-in-supply-versus-change-in-quantity-supplied"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Markets",
+          "slug": "macro-market-equilibrium-disequilibrium-and-changes-in-equilibrium",
+          "videos": [
+            {
+              "title": "Market equilibrium",
+              "slug": "v/market-equilibrium",
+              "youtube_id": "PEMkfgrifDw",
+              "youtube_url": "https://www.youtube.com/watch?v=PEMkfgrifDw",
+              "duration_sec": 617,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/market-equilibrium-disequilibrium-and-changes-in-equilibrium/v/market-equilibrium"
+            },
+            {
+              "title": "Changes in market equilibrium",
+              "slug": "v/changes-in-market-equilibrium",
+              "youtube_id": "NgPqyM3I_8o",
+              "youtube_url": "https://www.youtube.com/watch?v=NgPqyM3I_8o",
+              "duration_sec": 545,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/market-equilibrium-disequilibrium-and-changes-in-equilibrium/v/changes-in-market-equilibrium"
+            },
+            {
+              "title": "Changes in equilibrium price and quantity when supply and demand change",
+              "slug": "v/changes-in-equilibrium-price-and-quantity-when-supply-and-demand-change-khan-academy",
+              "youtube_id": "kl4n-EWwPyA",
+              "youtube_url": "https://www.youtube.com/watch?v=kl4n-EWwPyA",
+              "duration_sec": 376,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/market-equilibrium-disequilibrium-and-changes-in-equilibrium/v/changes-in-equilibrium-price-and-quantity-when-supply-and-demand-change-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Economic indicators and the business cycle",
+      "slug": "macro-economic-indicators-and-the-business-cycle",
+      "relative_url": "/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle",
+      "lessons": [
+        {
+          "title": "Gross Domestic Product",
+          "slug": "macro-the-circular-flow-and-gdp",
+          "videos": [
+            {
+              "title": "Circular flow of income and expenditures",
+              "slug": "v/circular-flow-of-income-and-expenditures",
+              "youtube_id": "Hfz1bwK5C4o",
+              "youtube_url": "https://www.youtube.com/watch?v=Hfz1bwK5C4o",
+              "duration_sec": 538,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21/v/circular-flow-of-income-and-expenditures"
+            },
+            {
+              "title": "Parsing gross domestic product",
+              "slug": "v/parsing-gross-domestic-product",
+              "youtube_id": "zh8XASZxo1Q",
+              "youtube_url": "https://www.youtube.com/watch?v=zh8XASZxo1Q",
+              "duration_sec": 719,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21/v/parsing-gross-domestic-product"
+            },
+            {
+              "title": "More on final and intermediate GDP contributions",
+              "slug": "v/more-on-final-and-intermediate-gdp-contributions",
+              "youtube_id": "C1pHvEAKmLA",
+              "youtube_url": "https://www.youtube.com/watch?v=C1pHvEAKmLA",
+              "duration_sec": 170,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21/v/more-on-final-and-intermediate-gdp-contributions"
+            },
+            {
+              "title": "Investment and consumption",
+              "slug": "v/investment-and-consumption",
+              "youtube_id": "N9VIsauE0RA",
+              "youtube_url": "https://www.youtube.com/watch?v=N9VIsauE0RA",
+              "duration_sec": 452,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21/v/investment-and-consumption"
+            },
+            {
+              "title": "Income and expenditure views of GDP",
+              "slug": "v/income-and-expenditure-views-of-gdp",
+              "youtube_id": "Z9b8nnvpim0",
+              "youtube_url": "https://www.youtube.com/watch?v=Z9b8nnvpim0",
+              "duration_sec": 289,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21/v/income-and-expenditure-views-of-gdp"
+            },
+            {
+              "title": "Value added approach to calculating GDP",
+              "slug": "v/value-added-approach-to-calculating-gdp-macroeconomics-khan-academy",
+              "youtube_id": "9G7ZWwlR_tQ",
+              "youtube_url": "https://www.youtube.com/watch?v=9G7ZWwlR_tQ",
+              "duration_sec": 316,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21/v/value-added-approach-to-calculating-gdp-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Components of GDP",
+              "slug": "v/components-of-gdp",
+              "youtube_id": "Rgr1vRjxzFg",
+              "youtube_url": "https://www.youtube.com/watch?v=Rgr1vRjxzFg",
+              "duration_sec": 298,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21/v/components-of-gdp"
+            },
+            {
+              "title": "Expenditure approach to calculating GDP examples",
+              "slug": "v/expenditure-approach-to-calculating-gdp-examples-ap-macroeconomics-khan-academy",
+              "youtube_id": "s4W7LKK22_Q",
+              "youtube_url": "https://www.youtube.com/watch?v=s4W7LKK22_Q",
+              "duration_sec": 486,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21/v/expenditure-approach-to-calculating-gdp-examples-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Examples of accounting for GDP",
+              "slug": "v/examples-of-accounting-for-gdp",
+              "youtube_id": "BMNj7-Okclk",
+              "youtube_url": "https://www.youtube.com/watch?v=BMNj7-Okclk",
+              "duration_sec": 357,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle/macro-the-circular-flow-and-gdp/v/examples-of-accounting-for-gdp"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Limitations of GDP",
+          "slug": "macro-limitations-of-gdp",
+          "videos": [
+            {
+              "title": "Limitations of GDP",
+              "slug": "v/limitations-of-gdp-ap-macroeconomics-khan-academy",
+              "youtube_id": "SXMhCO2vYcE",
+              "youtube_url": "https://www.youtube.com/watch?v=SXMhCO2vYcE",
+              "duration_sec": 474,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/limitations-of-gdp/v/limitations-of-gdp-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Unemployment",
+          "slug": "macro-unemployment",
+          "videos": [
+            {
+              "title": "Unemployment rate primer",
+              "slug": "v/unemployment-rate-primer-v2",
+              "youtube_id": "C9onjpQGpSg",
+              "youtube_url": "https://www.youtube.com/watch?v=C9onjpQGpSg",
+              "duration_sec": 587,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/unemployment/v/unemployment-rate-primer-v2"
+            },
+            {
+              "title": "Natural, cyclical, structural, and frictional unemployment rates",
+              "slug": "v/natural-cyclical-structural-and-frictional-unemployment-rates-khan-academy",
+              "youtube_id": "W9MuBVpEc78",
+              "youtube_url": "https://www.youtube.com/watch?v=W9MuBVpEc78",
+              "duration_sec": 339,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/unemployment/v/natural-cyclical-structural-and-frictional-unemployment-rates-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Inflation",
+          "slug": "macro-price-indices-and-inflation",
+          "videos": [
+            {
+              "title": "Introduction to inflation",
+              "slug": "v/introduction-to-inflation",
+              "youtube_id": "AaR1mPrdbTc",
+              "youtube_url": "https://www.youtube.com/watch?v=AaR1mPrdbTc",
+              "duration_sec": 452,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/price-indices-and-inflation/v/introduction-to-inflation"
+            },
+            {
+              "title": "Actual CPI-U basket of goods",
+              "slug": "v/actual-cpi-u-basket-of-goods",
+              "youtube_id": "-JTw7gNwT6Y",
+              "youtube_url": "https://www.youtube.com/watch?v=-JTw7gNwT6Y",
+              "duration_sec": 448,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle/macro-price-indices-and-inflation/v/actual-cpi-u-basket-of-goods"
+            },
+            {
+              "title": "Inflation data",
+              "slug": "v/inflation-data",
+              "youtube_id": "DK1lCc9b7bg",
+              "youtube_url": "https://www.youtube.com/watch?v=DK1lCc9b7bg",
+              "duration_sec": 210,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle/macro-price-indices-and-inflation/v/inflation-data"
+            },
+            {
+              "title": "Deflation",
+              "slug": "v/deflation",
+              "youtube_id": "FPh6EDv0Eew",
+              "youtube_url": "https://www.youtube.com/watch?v=FPh6EDv0Eew",
+              "duration_sec": 190,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/price-indices-and-inflation/v/deflation"
+            },
+            {
+              "title": "Example question calculating CPI and inflation",
+              "slug": "v/example-question-calculating-cpi-and-inflation-ap-macroeconomics-khan-academy",
+              "youtube_id": "_qpgzgkrB6A",
+              "youtube_url": "https://www.youtube.com/watch?v=_qpgzgkrB6A",
+              "duration_sec": 465,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/price-indices-and-inflation/v/example-question-calculating-cpi-and-inflation-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Stagflation",
+              "slug": "v/stagflation",
+              "youtube_id": "bTz_tx460EY",
+              "youtube_url": "https://www.youtube.com/watch?v=bTz_tx460EY",
+              "duration_sec": 176,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle/macro-price-indices-and-inflation/v/stagflation"
+            },
+            {
+              "title": "Deflationary spiral",
+              "slug": "v/deflationary-spiral",
+              "youtube_id": "snX4Wf7PGts",
+              "youtube_url": "https://www.youtube.com/watch?v=snX4Wf7PGts",
+              "duration_sec": 231,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle/macro-price-indices-and-inflation/v/deflationary-spiral"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Costs of Inflation",
+          "slug": "macro-costs-of-inflation",
+          "videos": [
+            {
+              "title": "Winners and losers from inflation and deflation ",
+              "slug": "v/winners-and-losers-from-inflation-and-deflation-ap-macroeconomics-khan-academy",
+              "youtube_id": "V41_kZuOE0w",
+              "youtube_url": "https://www.youtube.com/watch?v=V41_kZuOE0w",
+              "duration_sec": 374,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/costs-of-inflation/v/winners-and-losers-from-inflation-and-deflation-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Real vs. nominal GDP",
+          "slug": "macro-real-vs-nominal-gdp",
+          "videos": [
+            {
+              "title": "Real GDP and nominal GDP",
+              "slug": "v/real-gdp-and-nominal-gdp",
+              "youtube_id": "lBDT2w5Wl84",
+              "youtube_url": "https://www.youtube.com/watch?v=lBDT2w5Wl84",
+              "duration_sec": 484,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/real-vs-nominal-gdp/v/real-gdp-and-nominal-gdp"
+            },
+            {
+              "title": "GDP deflator",
+              "slug": "v/gdp-deflator",
+              "youtube_id": "L-0LuSw2bTM",
+              "youtube_url": "https://www.youtube.com/watch?v=L-0LuSw2bTM",
+              "duration_sec": 388,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/real-vs-nominal-gdp/v/gdp-deflator"
+            },
+            {
+              "title": "Example calculating real GDP with a deflator",
+              "slug": "v/example-calculating-real-gdp-with-a-deflator",
+              "youtube_id": "v5YT8GlSxoU",
+              "youtube_url": "https://www.youtube.com/watch?v=v5YT8GlSxoU",
+              "duration_sec": 339,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/real-vs-nominal-gdp/v/example-calculating-real-gdp-with-a-deflator"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Business cycles",
+          "slug": "macro-business-cycles",
+          "videos": [
+            {
+              "title": "The business cycle",
+              "slug": "v/the-business-cycle",
+              "youtube_id": "TXrOpjG4dUs",
+              "youtube_url": "https://www.youtube.com/watch?v=TXrOpjG4dUs",
+              "duration_sec": 676,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/business-cycles/v/the-business-cycle"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "National income and price determination",
+      "slug": "aggregate-supply-demand-topic",
+      "relative_url": "/economics-finance-domain/macroeconomics/aggregate-supply-demand-topic",
+      "lessons": [
+        {
+          "title": "Aggregate demand",
+          "slug": "macro-aggregate-demand",
+          "videos": [
+            {
+              "title": "Aggregate demand",
+              "slug": "v/aggregate-demand",
+              "youtube_id": "oLhohwfwf_U",
+              "youtube_url": "https://www.youtube.com/watch?v=oLhohwfwf_U",
+              "duration_sec": 833,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/aggregate-demand-ap/v/aggregate-demand"
+            },
+            {
+              "title": "Shifts in aggregate demand",
+              "slug": "v/shifts-in-aggregate-demand",
+              "youtube_id": "scN-1B6plos",
+              "youtube_url": "https://www.youtube.com/watch?v=scN-1B6plos",
+              "duration_sec": 318,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/aggregate-demand-ap/v/shifts-in-aggregate-demand"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multipliers",
+          "slug": "macro-multipliers",
+          "videos": [
+            {
+              "title": "MPC and multiplier",
+              "slug": "v/mpc-and-multiplier",
+              "youtube_id": "O_Oozju3RRI",
+              "youtube_url": "https://www.youtube.com/watch?v=O_Oozju3RRI",
+              "duration_sec": 593,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/multipliers-ap/v/mpc-and-multiplier"
+            },
+            {
+              "title": "Mathy version of MPC and multiplier (optional)",
+              "slug": "v/mathy-version-of-mpc-and-multiplier-optional",
+              "youtube_id": "czfJKPN-HEo",
+              "youtube_url": "https://www.youtube.com/watch?v=czfJKPN-HEo",
+              "duration_sec": 542,
+              "relative_url": "/economics-finance-domain/macroeconomics/aggregate-supply-demand-topic/macro-multipliers/v/mathy-version-of-mpc-and-multiplier-optional"
+            },
+            {
+              "title": "Tax multiplier, MPC, and MPS",
+              "slug": "v/tax-multiplier-mpc-and-mps-ap-macroeconomics-khan-academy",
+              "youtube_id": "UsJmBBtwzYY",
+              "youtube_url": "https://www.youtube.com/watch?v=UsJmBBtwzYY",
+              "duration_sec": 478,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/multipliers-ap/v/tax-multiplier-mpc-and-mps-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Short-run aggregate supply",
+          "slug": "macro-short-run-aggregate-supply",
+          "videos": [
+            {
+              "title": "Short run aggregate supply",
+              "slug": "v/short-run-aggregate-supply",
+              "youtube_id": "3nbalsyibKU",
+              "youtube_url": "https://www.youtube.com/watch?v=3nbalsyibKU",
+              "duration_sec": 735,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/short-run-aggregate-supply-ap/v/short-run-aggregate-supply"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Long-run aggregate supply",
+          "slug": "macro-long-run-aggregate-supply",
+          "videos": [
+            {
+              "title": "Long-run aggregate supply",
+              "slug": "v/long-run-aggregate-supply",
+              "youtube_id": "8W0iZk8Yxhs",
+              "youtube_url": "https://www.youtube.com/watch?v=8W0iZk8Yxhs",
+              "duration_sec": 275,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/long-run-aggregate-supply-ap/v/long-run-aggregate-supply"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Equilibrium in the AD-AS Model",
+          "slug": "macro-equilibrium-in-the-ad-as-model",
+          "videos": [
+            {
+              "title": "Short run and long run equilibrium and the business cycle",
+              "slug": "v/short-run-and-long-run-equilibrium-and-the-business-cycle-ap-macroeconomics-khan-academy",
+              "youtube_id": "dD_9KBz3pN0",
+              "youtube_url": "https://www.youtube.com/watch?v=dD_9KBz3pN0",
+              "duration_sec": 611,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/equilibrium-in-the-ad-as-model-ap/v/short-run-and-long-run-equilibrium-and-the-business-cycle-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Changes in the AD-AS model in the short run",
+          "slug": "macro-changes-in-the-ad-as-model-in-the-short-run",
+          "videos": [
+            {
+              "title": "Shifts in aggregate demand",
+              "slug": "v/shifts-in-aggregate-demand",
+              "youtube_id": "scN-1B6plos",
+              "youtube_url": "https://www.youtube.com/watch?v=scN-1B6plos",
+              "duration_sec": 318,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/aggregate-demand-ap/v/shifts-in-aggregate-demand"
+            },
+            {
+              "title": "Demand-pull inflation under Johnson",
+              "slug": "v/demand-pull-inflation-under-johnson",
+              "youtube_id": "HdqbCvqTb20",
+              "youtube_url": "https://www.youtube.com/watch?v=HdqbCvqTb20",
+              "duration_sec": 558,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/changes-in-the-ad-as-model-in-the-short-run-ap/v/demand-pull-inflation-under-johnson"
+            },
+            {
+              "title": "Real GDP driving price",
+              "slug": "v/real-gdp-driving-price",
+              "youtube_id": "XsD7mqFDJs0",
+              "youtube_url": "https://www.youtube.com/watch?v=XsD7mqFDJs0",
+              "duration_sec": 375,
+              "relative_url": "/economics-finance-domain/macroeconomics/aggregate-supply-demand-topic/macro-changes-in-the-ad-as-model-in-the-short-run/v/real-gdp-driving-price"
+            },
+            {
+              "title": "Cost-push inflation",
+              "slug": "v/cost-push-inflation",
+              "youtube_id": "3A-nAw2tY_4",
+              "youtube_url": "https://www.youtube.com/watch?v=3A-nAw2tY_4",
+              "duration_sec": 345,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/changes-in-the-ad-as-model-in-the-short-run-ap/v/cost-push-inflation"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Long run self-adjustment",
+          "slug": "macro-long-run-self-adjustment",
+          "videos": [
+            {
+              "title": "Long run self adjustment ",
+              "slug": "v/long-run-self-adjustment-ap-macroeconomics-khan-academy",
+              "youtube_id": "eic0CC-1d9E",
+              "youtube_url": "https://www.youtube.com/watch?v=eic0CC-1d9E",
+              "duration_sec": 284,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/long-run-self-adjustment-ap/v/long-run-self-adjustment-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Fiscal policy",
+          "slug": "macro-fiscal-policy",
+          "videos": [
+            {
+              "title": "Fiscal policy to address output gaps",
+              "slug": "v/fiscal-policy-to-address-output-gaps-ap-macroeconomics-khan-academy",
+              "youtube_id": "qgxapLrA_NM",
+              "youtube_url": "https://www.youtube.com/watch?v=qgxapLrA_NM",
+              "duration_sec": 416,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/fiscal-policy-ap/v/fiscal-policy-to-address-output-gaps-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Calculating change in spending or taxes to close output gaps",
+              "slug": "v/calculating-change-in-spending-or-taxes-to-close-output-gaps",
+              "youtube_id": "f5o5LpUcxVk",
+              "youtube_url": "https://www.youtube.com/watch?v=f5o5LpUcxVk",
+              "duration_sec": 414,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/fiscal-policy-ap/v/calculating-change-in-spending-or-taxes-to-close-output-gaps"
+            },
+            {
+              "title": "Tax lever of fiscal policy",
+              "slug": "v/tax-lever-of-fiscal-policy",
+              "youtube_id": "BRXBCxKjiK8",
+              "youtube_url": "https://www.youtube.com/watch?v=BRXBCxKjiK8",
+              "duration_sec": 160,
+              "relative_url": "/economics-finance-domain/macroeconomics/aggregate-supply-demand-topic/macro-fiscal-policy/v/tax-lever-of-fiscal-policy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Automatic stabilizers",
+          "slug": "macro-automatic-stabilizers",
+          "videos": [
+            {
+              "title": "Automatic stabilizers",
+              "slug": "v/automatic-stabilizers-ap-macroeconomics-khan-academy",
+              "youtube_id": "jAjU3cR99p0",
+              "youtube_url": "https://www.youtube.com/watch?v=jAjU3cR99p0",
+              "duration_sec": 316,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/automatic-stabilizers-ap/v/automatic-stabilizers-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Financial sector",
+      "slug": "monetary-system-topic",
+      "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic",
+      "lessons": [
+        {
+          "title": "Financial assets",
+          "slug": "macro-financial-assets",
+          "videos": [
+            {
+              "title": "Introduction to interest",
+              "slug": "v/introduction-to-interest",
+              "youtube_id": "GtaoP0skPWc",
+              "youtube_url": "https://www.youtube.com/watch?v=GtaoP0skPWc",
+              "duration_sec": 596,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/financial-assets-ap/v/introduction-to-interest"
+            },
+            {
+              "title": "Introduction to bonds",
+              "slug": "v/introduction-to-bonds",
+              "youtube_id": "Qh-M3_L4xYk",
+              "youtube_url": "https://www.youtube.com/watch?v=Qh-M3_L4xYk",
+              "duration_sec": 522,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/financial-assets-ap/v/introduction-to-bonds"
+            },
+            {
+              "title": "Relationship between bond prices and interest rates",
+              "slug": "v/relationship-between-bond-prices-and-interest-rates",
+              "youtube_id": "I7FDx4DPapw",
+              "youtube_url": "https://www.youtube.com/watch?v=I7FDx4DPapw",
+              "duration_sec": 796,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/financial-assets-ap/v/relationship-between-bond-prices-and-interest-rates"
+            },
+            {
+              "title": "What it means to buy a company's stock",
+              "slug": "v/what-it-means-to-buy-a-company-s-stock",
+              "youtube_id": "98qfFzqDKR8",
+              "youtube_url": "https://www.youtube.com/watch?v=98qfFzqDKR8",
+              "duration_sec": 827,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/financial-assets-ap/v/what-it-means-to-buy-a-company-s-stock"
+            },
+            {
+              "title": "Bonds vs. stocks",
+              "slug": "v/bonds-vs-stocks",
+              "youtube_id": "rs1md3e4aYU",
+              "youtube_url": "https://www.youtube.com/watch?v=rs1md3e4aYU",
+              "duration_sec": 561,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/financial-assets-ap/v/bonds-vs-stocks"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Nominal v. real interest rates",
+          "slug": "macro-nominal-v-real-interest-rates",
+          "videos": [
+            {
+              "title": "Real and nominal return",
+              "slug": "v/real-and-nominal-return",
+              "youtube_id": "cNm196bVE5A",
+              "youtube_url": "https://www.youtube.com/watch?v=cNm196bVE5A",
+              "duration_sec": 190,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/nominal-v-real-interest-rates-ap/v/real-and-nominal-return"
+            },
+            {
+              "title": "Calculating real return in last year dollars",
+              "slug": "v/calculating-real-return-in-last-year-dollars",
+              "youtube_id": "GiB9Mkgkrek",
+              "youtube_url": "https://www.youtube.com/watch?v=GiB9Mkgkrek",
+              "duration_sec": 170,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/nominal-v-real-interest-rates-ap/v/calculating-real-return-in-last-year-dollars"
+            },
+            {
+              "title": "Nominal interest, real interest, and inflation calculations",
+              "slug": "v/nominal-interest-real-interest-and-inflation-calculations-ap-macroeconomics-khan-academy2",
+              "youtube_id": "mFI58RRCDbs",
+              "youtube_url": "https://www.youtube.com/watch?v=mFI58RRCDbs",
+              "duration_sec": 214,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/nominal-v-real-interest-rates-ap/v/nominal-interest-real-interest-and-inflation-calculations-ap-macroeconomics-khan-academy2"
+            },
+            {
+              "title": "Relation between nominal and real returns and inflation",
+              "slug": "v/relation-between-nominal-and-real-returns-and-inflation",
+              "youtube_id": "6ycEasF48zI",
+              "youtube_url": "https://www.youtube.com/watch?v=6ycEasF48zI",
+              "duration_sec": 225,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-nominal-v-real-interest-rates/v/relation-between-nominal-and-real-returns-and-inflation"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Definition, measurement, and functions of money",
+          "slug": "macro-definition-measurement-and-functions-of-money",
+          "videos": [
+            {
+              "title": "Money supply: M0, M1, and M2",
+              "slug": "v/money-supply-m0-m1-and-m2",
+              "youtube_id": "_LPh72gx6GE",
+              "youtube_url": "https://www.youtube.com/watch?v=_LPh72gx6GE",
+              "duration_sec": 604,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/definition-measurement-and-functions-of-money-ap/v/money-supply-m0-m1-and-m2"
+            },
+            {
+              "title": "Functions of money",
+              "slug": "v/functions-of-money",
+              "youtube_id": "ok2vtKnSZzY",
+              "youtube_url": "https://www.youtube.com/watch?v=ok2vtKnSZzY",
+              "duration_sec": 370,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/definition-measurement-and-functions-of-money-ap/v/functions-of-money"
+            },
+            {
+              "title": "Standard of deferred payment and legal tender",
+              "slug": "v/standard-of-deferred-payment-and-legal-tender",
+              "youtube_id": "cIvcxHVUUi8",
+              "youtube_url": "https://www.youtube.com/watch?v=cIvcxHVUUi8",
+              "duration_sec": 334,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-definition-measurement-and-functions-of-money/v/standard-of-deferred-payment-and-legal-tender"
+            },
+            {
+              "title": "Commodity money vs. Fiat money",
+              "slug": "v/commodity-money-vs-fiat-money",
+              "youtube_id": "fs12fX407GU",
+              "youtube_url": "https://www.youtube.com/watch?v=fs12fX407GU",
+              "duration_sec": 498,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/definition-measurement-and-functions-of-money-ap/v/commodity-money-vs-fiat-money"
+            },
+            {
+              "title": "When the functions of money break down: Hyperinflation",
+              "slug": "v/when-the-functions-of-money-break-down-hyperinflation",
+              "youtube_id": "O2jO5AwTkT0",
+              "youtube_url": "https://www.youtube.com/watch?v=O2jO5AwTkT0",
+              "duration_sec": 703,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/definition-measurement-and-functions-of-money-ap/v/when-the-functions-of-money-break-down-hyperinflation"
+            },
+            {
+              "title": "Hyperinflation",
+              "slug": "v/hyperinflation",
+              "youtube_id": "AC_kjcuHpZw",
+              "youtube_url": "https://www.youtube.com/watch?v=AC_kjcuHpZw",
+              "duration_sec": 242,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-definition-measurement-and-functions-of-money/v/hyperinflation"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": " Banking and the expansion of the money supply",
+          "slug": "macro-banking-and-the-expansion-of-the-money-supply",
+          "videos": [
+            {
+              "title": "Overview of fractional reserve banking",
+              "slug": "v/overview-of-fractional-reserve-banking",
+              "youtube_id": "3mUi9IZb4T4",
+              "youtube_url": "https://www.youtube.com/watch?v=3mUi9IZb4T4",
+              "duration_sec": 508,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-banking-and-the-expansion-of-the-money-supply/v/overview-of-fractional-reserve-banking"
+            },
+            {
+              "title": "Money creation in a fractional reserve system",
+              "slug": "v/money-creation-in-a-fractional-reserve-system-ap-macroeconomics-khan-academy",
+              "youtube_id": "gd8B-zrMSYk",
+              "youtube_url": "https://www.youtube.com/watch?v=gd8B-zrMSYk",
+              "duration_sec": 489,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/banking-and-the-expansion-of-the-money-supply-ap/v/money-creation-in-a-fractional-reserve-system-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Weaknesses of fractional reserve lending",
+              "slug": "v/weaknesses-of-fractional-reserve-lending",
+              "youtube_id": "1HYSMxu-Dns",
+              "youtube_url": "https://www.youtube.com/watch?v=1HYSMxu-Dns",
+              "duration_sec": 454,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-banking-and-the-expansion-of-the-money-supply/v/weaknesses-of-fractional-reserve-lending"
+            },
+            {
+              "title": "Full reserve banking",
+              "slug": "v/full-reserve-banking",
+              "youtube_id": "RGMcswR8DnY",
+              "youtube_url": "https://www.youtube.com/watch?v=RGMcswR8DnY",
+              "duration_sec": 452,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-banking-and-the-expansion-of-the-money-supply/v/full-reserve-banking"
+            },
+            {
+              "title": "Simple fractional reserve accounting (part 1)",
+              "slug": "v/simple-fractional-reserve-accounting-part-1",
+              "youtube_id": "VJgVdzicv_I",
+              "youtube_url": "https://www.youtube.com/watch?v=VJgVdzicv_I",
+              "duration_sec": 541,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-banking-and-the-expansion-of-the-money-supply/v/simple-fractional-reserve-accounting-part-1"
+            },
+            {
+              "title": "Simple fractional reserve accounting (part 2)",
+              "slug": "v/simple-fractional-reserve-accounting-part-2",
+              "youtube_id": "PASajlCGBTw",
+              "youtube_url": "https://www.youtube.com/watch?v=PASajlCGBTw",
+              "duration_sec": 425,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-banking-and-the-expansion-of-the-money-supply/v/simple-fractional-reserve-accounting-part-2"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "The money market",
+          "slug": "macro-the-money-market",
+          "videos": [
+            {
+              "title": "Demand curve for money in the money market",
+              "slug": "v/demand-curve-for-money-in-the-money-market-ap-macroeconomics-khan-academy",
+              "youtube_id": "Zt1Esq-qOZM",
+              "youtube_url": "https://www.youtube.com/watch?v=Zt1Esq-qOZM",
+              "duration_sec": 495,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/the-money-market-apmacro/v/demand-curve-for-money-in-the-money-market-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Equilibrium nominal interest rates in the money market ",
+              "slug": "v/equilibrium-nominal-interest-rates-in-the-money-market-ap-macroeconomics-khan-academy",
+              "youtube_id": "NMb3bguJ7wY",
+              "youtube_url": "https://www.youtube.com/watch?v=NMb3bguJ7wY",
+              "duration_sec": 239,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/the-money-market-apmacro/v/equilibrium-nominal-interest-rates-in-the-money-market-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Money supply and demand impacting interest rates",
+              "slug": "v/money-supply-and-demand-impacting-interest-rates",
+              "youtube_id": "vItRHYu-A88",
+              "youtube_url": "https://www.youtube.com/watch?v=vItRHYu-A88",
+              "duration_sec": 454,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-the-money-market/v/money-supply-and-demand-impacting-interest-rates"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Monetary policy",
+          "slug": "macro-monetary-policy",
+          "videos": [
+            {
+              "title": "Monetary policy tools",
+              "slug": "v/monetary-policy-tools-ap-macroeconomics-khan-academy",
+              "youtube_id": "C8Eb4-Wz27A",
+              "youtube_url": "https://www.youtube.com/watch?v=C8Eb4-Wz27A",
+              "duration_sec": 568,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/monetary-policy-apmacro/v/monetary-policy-tools-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Monetary and fiscal policy",
+              "slug": "v/monetary-and-fiscal-policy",
+              "youtube_id": "ntxMOKXHlfo",
+              "youtube_url": "https://www.youtube.com/watch?v=ntxMOKXHlfo",
+              "duration_sec": 534,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macro-monetary-policy/v/monetary-and-fiscal-policy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "The market for loanable funds",
+          "slug": "macro-the-market-for-loanable-funds",
+          "videos": [
+            {
+              "title": "Loanable funds market ",
+              "slug": "v/loanable-funds-market-ap-macroeconomics-khan-academy",
+              "youtube_id": "iaGjqkRIUSk",
+              "youtube_url": "https://www.youtube.com/watch?v=iaGjqkRIUSk",
+              "duration_sec": 452,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/the-market-for-loanable-funds/v/loanable-funds-market-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "National savings and investment",
+              "slug": "v/national-savings-and-investment-ap-macroeconomics-khan-academy",
+              "youtube_id": "fToDs5nd_rE",
+              "youtube_url": "https://www.youtube.com/watch?v=fToDs5nd_rE",
+              "duration_sec": 206,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-financial-sector/the-market-for-loanable-funds/v/national-savings-and-investment-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Interest rates and the time value of money",
+          "slug": "macroeconomics-interest-rates-and-the-time-value-of-money",
+          "videos": [
+            {
+              "title": "Introduction to present value",
+              "slug": "v/introduction-to-present-value",
+              "youtube_id": "ks33lMoxst0",
+              "youtube_url": "https://www.youtube.com/watch?v=ks33lMoxst0",
+              "duration_sec": 619,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macroeconomics-interest-rates-and-the-time-value-of-money/v/introduction-to-present-value"
+            },
+            {
+              "title": "Present value 2",
+              "slug": "v/present-value-2",
+              "youtube_id": "4LSktB7Pk_c",
+              "youtube_url": "https://www.youtube.com/watch?v=4LSktB7Pk_c",
+              "duration_sec": 611,
+              "relative_url": "/economics-finance-domain/macroeconomics/monetary-system-topic/macroeconomics-interest-rates-and-the-time-value-of-money/v/present-value-2"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Long-run consequences of stabilization policies",
+      "slug": "macro-long-run-consequences-of-stabilization-policies",
+      "relative_url": "/economics-finance-domain/macroeconomics/macro-long-run-consequences-of-stabilization-policies",
+      "lessons": [
+        {
+          "title": "Fiscal and Monetary Policy Actions in the Short Run",
+          "slug": "macro-fiscal-and-monetary-policy-actions-in-the-short-run",
+          "videos": [
+            {
+              "title": "Fiscal and monetary policy in parallel",
+              "slug": "v/fiscal-and-monetary-policy-in-parallel",
+              "youtube_id": "sFFDgW5ublQ",
+              "youtube_url": "https://www.youtube.com/watch?v=sFFDgW5ublQ",
+              "duration_sec": 435,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/fiscal-and-monetary-policy-actions-in-the-short-run/v/fiscal-and-monetary-policy-in-parallel"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The Phillips curve",
+          "slug": "macro-the-phillips-curve",
+          "videos": [
+            {
+              "title": "Phillips curve",
+              "slug": "v/phillips-curve",
+              "youtube_id": "v7ZWTZ9NgU4",
+              "youtube_url": "https://www.youtube.com/watch?v=v7ZWTZ9NgU4",
+              "duration_sec": 527,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/the-phillips-curve/v/phillips-curve"
+            },
+            {
+              "title": "Changes in the AD-AS model and the Phillips curve",
+              "slug": "v/macroeconomics-the-long-run-phillips-curve-lrpc",
+              "youtube_id": "Sp322oNOQLA",
+              "youtube_url": "https://www.youtube.com/watch?v=Sp322oNOQLA",
+              "duration_sec": 399,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/the-phillips-curve/v/macroeconomics-the-long-run-phillips-curve-lrpc"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Money growth and inflation",
+          "slug": "macro-money-growth-and-inflation",
+          "videos": [
+            {
+              "title": "Quantity theory of money ",
+              "slug": "v/quantity-theory-of-money-ap-macroeconomics-khan-academy",
+              "youtube_id": "Ye5hH6ku1L8",
+              "youtube_url": "https://www.youtube.com/watch?v=Ye5hH6ku1L8",
+              "duration_sec": 492,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/money-growth-and-inflation/v/quantity-theory-of-money-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Velocity of money rather than quantity driving prices",
+              "slug": "v/velocity-of-money-rather-than-quantity-driving-prices",
+              "youtube_id": "stfSnPaaK04",
+              "youtube_url": "https://www.youtube.com/watch?v=stfSnPaaK04",
+              "duration_sec": 211,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-long-run-consequences-of-stabilization-policies/macro-money-growth-and-inflation/v/velocity-of-money-rather-than-quantity-driving-prices"
+            },
+            {
+              "title": "Deflation despite increases in money supply",
+              "slug": "v/deflation-despite-increases-in-money-supply",
+              "youtube_id": "t2AeULH_Ijw",
+              "youtube_url": "https://www.youtube.com/watch?v=t2AeULH_Ijw",
+              "duration_sec": 244,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-long-run-consequences-of-stabilization-policies/macro-money-growth-and-inflation/v/deflation-despite-increases-in-money-supply"
+            },
+            {
+              "title": "Moderate inflation in a good economy",
+              "slug": "v/moderate-inflation-in-a-good-economy",
+              "youtube_id": "Z_DcXewHHA8",
+              "youtube_url": "https://www.youtube.com/watch?v=Z_DcXewHHA8",
+              "duration_sec": 175,
+              "relative_url": "/economics-finance-domain/macroeconomics/macro-long-run-consequences-of-stabilization-policies/macro-money-growth-and-inflation/v/moderate-inflation-in-a-good-economy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Crowding out",
+          "slug": "macro-crowding-out",
+          "videos": [
+            {
+              "title": "Crowding out ",
+              "slug": "v/crowding-out-ap-macroeconomics-khan-academy",
+              "youtube_id": "4lBmOfNtYLE",
+              "youtube_url": "https://www.youtube.com/watch?v=4lBmOfNtYLE",
+              "duration_sec": 235,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/crowding-out/v/crowding-out-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Deficits and debts",
+          "slug": "macro-deficits-and-debts",
+          "videos": [
+            {
+              "title": "Deficits and debt  ",
+              "slug": "v/deficits-and-debt-ap-macroeconomics-khan-academy",
+              "youtube_id": "tpMsBi47k8Q",
+              "youtube_url": "https://www.youtube.com/watch?v=tpMsBi47k8Q",
+              "duration_sec": 461,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/deficits-and-debts/v/deficits-and-debt-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Economic growth",
+          "slug": "macro-economic-growth",
+          "videos": [
+            {
+              "title": "Understanding economic growth ",
+              "slug": "v/understanding-economic-growth-ap-macroeconomics-khan-academy",
+              "youtube_id": "khDAji7dXw0",
+              "youtube_url": "https://www.youtube.com/watch?v=khDAji7dXw0",
+              "duration_sec": 476,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/economic-growth/v/understanding-economic-growth-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Open economy: international trade and finance",
+      "slug": "forex-trade-topic",
+      "relative_url": "/economics-finance-domain/macroeconomics/forex-trade-topic",
+      "lessons": [
+        {
+          "title": "The balance of payments",
+          "slug": "macro-the-balance-of-payments",
+          "videos": [
+            {
+              "title": "Balance of payments: Current account",
+              "slug": "v/balance-of-payments-current-account",
+              "youtube_id": "dirBYVjDk7A",
+              "youtube_url": "https://www.youtube.com/watch?v=dirBYVjDk7A",
+              "duration_sec": 389,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/the-balance-of-payments/v/balance-of-payments-current-account"
+            },
+            {
+              "title": "Balance of payments: Capital account",
+              "slug": "v/balance-of-payments-capital-account",
+              "youtube_id": "AimYG1jYD0A",
+              "youtube_url": "https://www.youtube.com/watch?v=AimYG1jYD0A",
+              "duration_sec": 447,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/the-balance-of-payments/v/balance-of-payments-capital-account"
+            },
+            {
+              "title": "Data on Chinese US balance of payments",
+              "slug": "v/data-on-chinese-us-balance-of-payments",
+              "youtube_id": "iNemmT1hnzA",
+              "youtube_url": "https://www.youtube.com/watch?v=iNemmT1hnzA",
+              "duration_sec": 257,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/the-balance-of-payments/v/data-on-chinese-us-balance-of-payments"
+            },
+            {
+              "title": "Why current and capital accounts net out",
+              "slug": "v/why-current-and-capital-accounts-net-out",
+              "youtube_id": "tYmMEqro8D4",
+              "youtube_url": "https://www.youtube.com/watch?v=tYmMEqro8D4",
+              "duration_sec": 434,
+              "relative_url": "/economics-finance-domain/macroeconomics/forex-trade-topic/macro-the-balance-of-payments/v/why-current-and-capital-accounts-net-out"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Exchange rates",
+          "slug": "macro-exchange-rates",
+          "videos": [
+            {
+              "title": "Exchange rate primer",
+              "slug": "v/exchange-rate-primer-ap-macroeconomics-khan-academy",
+              "youtube_id": "-5x6j_P1OSI",
+              "youtube_url": "https://www.youtube.com/watch?v=-5x6j_P1OSI",
+              "duration_sec": 446,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/exchange-rates/v/exchange-rate-primer-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "The foreign exchange market",
+          "slug": "macro-the-foreign-exchange-market",
+          "videos": [
+            {
+              "title": "Currency exchange introduction",
+              "slug": "v/currency-exchange-introduction",
+              "youtube_id": "itoNb1lb5hY",
+              "youtube_url": "https://www.youtube.com/watch?v=itoNb1lb5hY",
+              "duration_sec": 724,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/the-foreign-exchange-market/v/currency-exchange-introduction"
+            },
+            {
+              "title": "Supply and demand curves in foreign exchange",
+              "slug": "v/supply-and-demand-curves-in-foreign-exchange-ap-macroeconomics-khan-academy",
+              "youtube_id": "EH4g3qbc_vo",
+              "youtube_url": "https://www.youtube.com/watch?v=EH4g3qbc_vo",
+              "duration_sec": 409,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/the-foreign-exchange-market/v/supply-and-demand-curves-in-foreign-exchange-ap-macroeconomics-khan-academy"
+            },
+            {
+              "title": "Accumulating foreign currency reserves",
+              "slug": "v/accumulating-foreign-currency-reserves",
+              "youtube_id": "HiphWQfB6J0",
+              "youtube_url": "https://www.youtube.com/watch?v=HiphWQfB6J0",
+              "duration_sec": 215,
+              "relative_url": "/economics-finance-domain/macroeconomics/forex-trade-topic/macro-the-foreign-exchange-market/v/accumulating-foreign-currency-reserves"
+            },
+            {
+              "title": "Using reserves to stabilize currency",
+              "slug": "v/using-reserves-to-stablize-currency",
+              "youtube_id": "TZ7d5kjAlQw",
+              "youtube_url": "https://www.youtube.com/watch?v=TZ7d5kjAlQw",
+              "duration_sec": 309,
+              "relative_url": "/economics-finance-domain/macroeconomics/forex-trade-topic/macro-the-foreign-exchange-market/v/using-reserves-to-stablize-currency"
+            },
+            {
+              "title": "Speculative attack on a currency",
+              "slug": "v/speculative-attack-on-a-currency",
+              "youtube_id": "P2IWGlR1SHs",
+              "youtube_url": "https://www.youtube.com/watch?v=P2IWGlR1SHs",
+              "duration_sec": 469,
+              "relative_url": "/economics-finance-domain/macroeconomics/forex-trade-topic/macro-the-foreign-exchange-market/v/speculative-attack-on-a-currency"
+            },
+            {
+              "title": "Financial crisis in Thailand caused by speculative attack",
+              "slug": "v/financial-crisis-in-thailand-caused-by-speculative-attack",
+              "youtube_id": "lA3sjWwu5-s",
+              "youtube_url": "https://www.youtube.com/watch?v=lA3sjWwu5-s",
+              "duration_sec": 393,
+              "relative_url": "/economics-finance-domain/macroeconomics/forex-trade-topic/macro-the-foreign-exchange-market/v/financial-crisis-in-thailand-caused-by-speculative-attack"
+            },
+            {
+              "title": "Math mechanics of Thai banking crisis",
+              "slug": "v/math-mechanics-of-thai-banking-crisis",
+              "youtube_id": "9p3HNMe-oAI",
+              "youtube_url": "https://www.youtube.com/watch?v=9p3HNMe-oAI",
+              "duration_sec": 461,
+              "relative_url": "/economics-finance-domain/macroeconomics/forex-trade-topic/macro-the-foreign-exchange-market/v/math-mechanics-of-thai-banking-crisis"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Effect of changes in policies and economic conditions on the foreign exchange market",
+          "slug": "macro-effect-of-changes-in-policies-and-economic-conditions-on-the-foreign-exchange-market",
+          "videos": [
+            {
+              "title": "Causes of shifts in currency supply and demand curves",
+              "slug": "v/causes-of-shifts-in-currency-supply-and-demand-curves-ap-macroeconomics-khan-academy",
+              "youtube_id": "uETL47DhlUo",
+              "youtube_url": "https://www.youtube.com/watch?v=uETL47DhlUo",
+              "duration_sec": 317,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/effect-of-changes-in-policies-and-economic-conditions-on-the-foreign-exchange-market/v/causes-of-shifts-in-currency-supply-and-demand-curves-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Real interest rates and international capital flows",
+          "slug": "macro-real-interest-rates-and-international-capital-flows",
+          "videos": [
+            {
+              "title": "Introduction to currency exchange and trade",
+              "slug": "v/introduction-to-currency-exchange-and-trade-ap-macroeconomics-khan-academy",
+              "youtube_id": "fxvsb373URw",
+              "youtube_url": "https://www.youtube.com/watch?v=fxvsb373URw",
+              "duration_sec": 500,
+              "relative_url": "/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/real-interest-rates-and-international-capital-flows/v/introduction-to-currency-exchange-and-trade-ap-macroeconomics-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Keynesian approaches and IS-LM",
+      "slug": "income-and-expenditure-topic",
+      "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic",
+      "lessons": [
+        {
+          "title": "The consumption function",
+          "slug": "macroeconomics-the-consumption-function",
+          "videos": [
+            {
+              "title": "Consumption function basics",
+              "slug": "v/consumption-function-basics",
+              "youtube_id": "o5iot_ZsoV0",
+              "youtube_url": "https://www.youtube.com/watch?v=o5iot_ZsoV0",
+              "duration_sec": 399,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-the-consumption-function/v/consumption-function-basics"
+            },
+            {
+              "title": "Generalized linear consumption function",
+              "slug": "v/generalized-linear-consumption-function",
+              "youtube_id": "N44RZtJ4jj4",
+              "youtube_url": "https://www.youtube.com/watch?v=N44RZtJ4jj4",
+              "duration_sec": 719,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-the-consumption-function/v/generalized-linear-consumption-function"
+            },
+            {
+              "title": "Consumption function with income dependent taxes",
+              "slug": "v/consumption-function-with-income-dependent-taxes",
+              "youtube_id": "wHPGFPIcILM",
+              "youtube_url": "https://www.youtube.com/watch?v=wHPGFPIcILM",
+              "duration_sec": 445,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-the-consumption-function/v/consumption-function-with-income-dependent-taxes"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "The Keynesian cross",
+          "slug": "macroeconomics-the-keynesian-cross",
+          "videos": [
+            {
+              "title": "Keynesian cross",
+              "slug": "v/keynesian-cross",
+              "youtube_id": "sTw0e-hwYAQ",
+              "youtube_url": "https://www.youtube.com/watch?v=sTw0e-hwYAQ",
+              "duration_sec": 560,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-the-keynesian-cross/v/keynesian-cross"
+            },
+            {
+              "title": "Details on shifting aggregate planned expenditures",
+              "slug": "v/details-on-shifting-aggregate-planned-expenditures",
+              "youtube_id": "xF_Z4QK0tsA",
+              "youtube_url": "https://www.youtube.com/watch?v=xF_Z4QK0tsA",
+              "duration_sec": 705,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-the-keynesian-cross/v/details-on-shifting-aggregate-planned-expenditures"
+            },
+            {
+              "title": "Keynesian cross and the multiplier",
+              "slug": "v/keynesian-cross-and-the-multiplier",
+              "youtube_id": "aSY8XPGChAU",
+              "youtube_url": "https://www.youtube.com/watch?v=aSY8XPGChAU",
+              "duration_sec": 627,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-the-keynesian-cross/v/keynesian-cross-and-the-multiplier"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "IS-LM",
+          "slug": "macroeconomics-is-lm",
+          "videos": [
+            {
+              "title": "Investment and real interest rates",
+              "slug": "v/investment-and-real-interest-rates",
+              "youtube_id": "72p6uw5y-Rw",
+              "youtube_url": "https://www.youtube.com/watch?v=72p6uw5y-Rw",
+              "duration_sec": 359,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-is-lm/v/investment-and-real-interest-rates"
+            },
+            {
+              "title": "Connecting the keynesian cross to the IS curve",
+              "slug": "v/connecting-the-keynesian-cross-to-the-is-curve",
+              "youtube_id": "AW3bPaErUWU",
+              "youtube_url": "https://www.youtube.com/watch?v=AW3bPaErUWU",
+              "duration_sec": 597,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-is-lm/v/connecting-the-keynesian-cross-to-the-is-curve"
+            },
+            {
+              "title": "Loanable funds interpretation of IS curve",
+              "slug": "v/loanable-funds-interpretation-of-is-curve",
+              "youtube_id": "blbR5f2dq_g",
+              "youtube_url": "https://www.youtube.com/watch?v=blbR5f2dq_g",
+              "duration_sec": 367,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-is-lm/v/loanable-funds-interpretation-of-is-curve"
+            },
+            {
+              "title": "LM part of the IS-LM model",
+              "slug": "v/lm-part-of-the-is-lm-model",
+              "youtube_id": "yro2jLBfyDQ",
+              "youtube_url": "https://www.youtube.com/watch?v=yro2jLBfyDQ",
+              "duration_sec": 469,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-is-lm/v/lm-part-of-the-is-lm-model"
+            },
+            {
+              "title": "Government spending and the IS-LM model",
+              "slug": "v/government-spending-and-the-is-lm-model",
+              "youtube_id": "pzQnc_0eZA8",
+              "youtube_url": "https://www.youtube.com/watch?v=pzQnc_0eZA8",
+              "duration_sec": 429,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-is-lm/v/government-spending-and-the-is-lm-model"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Keynesian economics and its critiques",
+          "slug": "macroeconomics-keynesian-economics-and-its-critiques",
+          "videos": [
+            {
+              "title": "Keynesian economics",
+              "slug": "v/keynesian-economics",
+              "youtube_id": "hPkh8kOldU4",
+              "youtube_url": "https://www.youtube.com/watch?v=hPkh8kOldU4",
+              "duration_sec": 725,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-keynesian-economics-and-its-critiques/v/keynesian-economics"
+            },
+            {
+              "title": "Risks of Keynesian thinking",
+              "slug": "v/risks-of-keynesian-thinking",
+              "youtube_id": "EVSkf7l7EuI",
+              "youtube_url": "https://www.youtube.com/watch?v=EVSkf7l7EuI",
+              "duration_sec": 494,
+              "relative_url": "/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-keynesian-economics-and-its-critiques/v/risks-of-keynesian-thinking"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Contemporary macroeconomic issues",
+      "slug": "macroeconomics-income-inequality",
+      "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality",
+      "lessons": [
+        {
+          "title": "Analysis of income inequality in the United States (in partnership with the New York Times)",
+          "slug": "xba99f16dd99e6fe4:analysis-of-income-inequality-in-the-united-states",
+          "videos": [
+            {
+              "title": "Introduction to series analyzing income and wealth trends in the US",
+              "slug": "v/introduction-to-series-analyzing-income-and-wealth-trends-in-the-us",
+              "youtube_id": "SMOJC8gBSqc",
+              "youtube_url": "https://www.youtube.com/watch?v=SMOJC8gBSqc",
+              "duration_sec": 73,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/xba99f16dd99e6fe4:analysis-of-income-inequality-in-the-united-states/v/introduction-to-series-analyzing-income-and-wealth-trends-in-the-us"
+            },
+            {
+              "title": "Looking at trends in inflation adjusted income since 1980",
+              "slug": "v/looking-at-trends-in-inflation-adjusted-income-since-1980",
+              "youtube_id": "LLBAHS1fd_I",
+              "youtube_url": "https://www.youtube.com/watch?v=LLBAHS1fd_I",
+              "duration_sec": 336,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/xba99f16dd99e6fe4:analysis-of-income-inequality-in-the-united-states/v/looking-at-trends-in-inflation-adjusted-income-since-1980"
+            },
+            {
+              "title": "Comparing income trends across countries",
+              "slug": "v/comparing-income-trends-across-countries",
+              "youtube_id": "PfcVXHf0m6k",
+              "youtube_url": "https://www.youtube.com/watch?v=PfcVXHf0m6k",
+              "duration_sec": 301,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/xba99f16dd99e6fe4:analysis-of-income-inequality-in-the-united-states/v/comparing-income-trends-across-countries"
+            },
+            {
+              "title": "Per capita GDP trends over past 70 years",
+              "slug": "v/per-capita-gdp-trends-over-past-70-years",
+              "youtube_id": "t6XIi-Qp-Rs",
+              "youtube_url": "https://www.youtube.com/watch?v=t6XIi-Qp-Rs",
+              "duration_sec": 313,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/xba99f16dd99e6fe4:analysis-of-income-inequality-in-the-united-states/v/per-capita-gdp-trends-over-past-70-years"
+            },
+            {
+              "title": "US taxation trends in the post war era",
+              "slug": "v/us-taxation-trends-in-post-war-era",
+              "youtube_id": "YPCPsZl6QNY",
+              "youtube_url": "https://www.youtube.com/watch?v=YPCPsZl6QNY",
+              "duration_sec": 246,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/xba99f16dd99e6fe4:analysis-of-income-inequality-in-the-united-states/v/us-taxation-trends-in-post-war-era"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "National income and inequality",
+          "slug": "piketty-capital",
+          "videos": [
+            {
+              "title": "Capital by Thomas Piketty",
+              "slug": "v/piketty-capital",
+              "youtube_id": "i78cyClvaeg",
+              "youtube_url": "https://www.youtube.com/watch?v=i78cyClvaeg",
+              "duration_sec": 232,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/piketty-capital"
+            },
+            {
+              "title": "Difference between wealth and income",
+              "slug": "v/wealth-vs-income",
+              "youtube_id": "o5-T52bh-eQ",
+              "youtube_url": "https://www.youtube.com/watch?v=o5-T52bh-eQ",
+              "duration_sec": 272,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/wealth-vs-income"
+            },
+            {
+              "title": "What is capital?",
+              "slug": "v/what-is-capital",
+              "youtube_id": "-epr8lPIZYE",
+              "youtube_url": "https://www.youtube.com/watch?v=-epr8lPIZYE",
+              "duration_sec": 570,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/what-is-capital"
+            },
+            {
+              "title": "Piketty's two drivers of divergence",
+              "slug": "v/two-forces-divergence",
+              "youtube_id": "ZmqK0X1psDA",
+              "youtube_url": "https://www.youtube.com/watch?v=ZmqK0X1psDA",
+              "duration_sec": 587,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/two-forces-divergence"
+            },
+            {
+              "title": "Is rising inequality necessarily bad?",
+              "slug": "v/inequality-good-or-bad",
+              "youtube_id": "r5L-riaIJjI",
+              "youtube_url": "https://www.youtube.com/watch?v=r5L-riaIJjI",
+              "duration_sec": 512,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/inequality-good-or-bad"
+            },
+            {
+              "title": "Convergence on macro scale",
+              "slug": "v/convergence-macro",
+              "youtube_id": "scgd0gh6BFs",
+              "youtube_url": "https://www.youtube.com/watch?v=scgd0gh6BFs",
+              "duration_sec": 205,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/convergence-macro"
+            },
+            {
+              "title": "Education as a force of convergence",
+              "slug": "v/education-equality",
+              "youtube_id": "Qu7aVEUc-2w",
+              "youtube_url": "https://www.youtube.com/watch?v=Qu7aVEUc-2w",
+              "duration_sec": 702,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/education-equality"
+            },
+            {
+              "title": "Gilded Age versus Silicon Valley",
+              "slug": "v/gilded-age-silicon-valley",
+              "youtube_id": "GQBRWjHdir0",
+              "youtube_url": "https://www.youtube.com/watch?v=GQBRWjHdir0",
+              "duration_sec": 431,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/gilded-age-silicon-valley"
+            },
+            {
+              "title": "Inverse relationship between capital price and returns",
+              "slug": "v/price-return-relationship",
+              "youtube_id": "gplD1LV-lAA",
+              "youtube_url": "https://www.youtube.com/watch?v=gplD1LV-lAA",
+              "duration_sec": 510,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/price-return-relationship"
+            },
+            {
+              "title": "Connecting income to capital growth and potential inequality",
+              "slug": "v/income-inequality",
+              "youtube_id": "iPROoc_o0p8",
+              "youtube_url": "https://www.youtube.com/watch?v=iPROoc_o0p8",
+              "duration_sec": 416,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/income-inequality"
+            },
+            {
+              "title": "r greater than g but less inequality",
+              "slug": "v/r-greater-than-g",
+              "youtube_id": "w6O2Rxub6VE",
+              "youtube_url": "https://www.youtube.com/watch?v=w6O2Rxub6VE",
+              "duration_sec": 497,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/r-greater-than-g"
+            },
+            {
+              "title": "Return on capital and economic growth",
+              "slug": "v/r-greater-but-less-inequality",
+              "youtube_id": "ir-ISPDjGno",
+              "youtube_url": "https://www.youtube.com/watch?v=ir-ISPDjGno",
+              "duration_sec": 548,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/r-greater-but-less-inequality"
+            },
+            {
+              "title": "Critically looking at data on ROC and economic growth over millenia",
+              "slug": "v/roc-and-economic-growth",
+              "youtube_id": "mkyPZjkdU2Q",
+              "youtube_url": "https://www.youtube.com/watch?v=mkyPZjkdU2Q",
+              "duration_sec": 346,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/roc-and-economic-growth"
+            },
+            {
+              "title": "Simple model to understand r and g relationship",
+              "slug": "v/piketty-spreadsheet-1",
+              "youtube_id": "--VYlmbkzNY",
+              "youtube_url": "https://www.youtube.com/watch?v=--VYlmbkzNY",
+              "duration_sec": 466,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/piketty-spreadsheet-1"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "The 2008 Financial Crisis",
+          "slug": "the-2008-financial-crisis",
+          "videos": [
+            {
+              "title": "CNN: Understanding the crisis",
+              "slug": "v/cnn-understanding-the-crisis",
+              "youtube_id": "_ZAlj2gu0eM",
+              "youtube_url": "https://www.youtube.com/watch?v=_ZAlj2gu0eM",
+              "duration_sec": 876,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/cnn-understanding-the-crisis"
+            },
+            {
+              "title": "Bailout 1: Liquidity vs. solvency",
+              "slug": "v/bailout-1-liquidity-vs-solvency",
+              "youtube_id": "ZUEjRYe7MRk",
+              "youtube_url": "https://www.youtube.com/watch?v=ZUEjRYe7MRk",
+              "duration_sec": 686,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-1-liquidity-vs-solvency"
+            },
+            {
+              "title": "Bailout 2: Book value",
+              "slug": "v/bailout-2-book-value",
+              "youtube_id": "YJBqGM29_64",
+              "youtube_url": "https://www.youtube.com/watch?v=YJBqGM29_64",
+              "duration_sec": 652,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-2-book-value"
+            },
+            {
+              "title": "Bailout 3: Book value vs. market value",
+              "slug": "v/bailout-3-book-value-vs-market-value",
+              "youtube_id": "TUOQZjotyAQ",
+              "youtube_url": "https://www.youtube.com/watch?v=TUOQZjotyAQ",
+              "duration_sec": 632,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-3-book-value-vs-market-value"
+            },
+            {
+              "title": "Bailout 4: Mark-to-model vs. mark-to-market",
+              "slug": "v/bailout-4-mark-to-model-vs-mark-to-market",
+              "youtube_id": "w_GZqhAR0I4",
+              "youtube_url": "https://www.youtube.com/watch?v=w_GZqhAR0I4",
+              "duration_sec": 684,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-4-mark-to-model-vs-mark-to-market"
+            },
+            {
+              "title": "Bailout 5: Paying off the debt",
+              "slug": "v/bailout-5-paying-off-the-debt",
+              "youtube_id": "I8BLj7cRM7c",
+              "youtube_url": "https://www.youtube.com/watch?v=I8BLj7cRM7c",
+              "duration_sec": 651,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-5-paying-off-the-debt"
+            },
+            {
+              "title": "Bailout 6: Getting an equity infusion",
+              "slug": "v/bailout-6-getting-an-equity-infusion",
+              "youtube_id": "jDNalKBb3aA",
+              "youtube_url": "https://www.youtube.com/watch?v=jDNalKBb3aA",
+              "duration_sec": 722,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-6-getting-an-equity-infusion"
+            },
+            {
+              "title": "Bailout 7: Bank goes into bankruptcy",
+              "slug": "v/bailout-7-bank-goes-into-bankruptcy",
+              "youtube_id": "MdIfefLcdoU",
+              "youtube_url": "https://www.youtube.com/watch?v=MdIfefLcdoU",
+              "duration_sec": 625,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-7-bank-goes-into-bankruptcy"
+            },
+            {
+              "title": "Bailout 8: Systemic risk",
+              "slug": "v/bailout-8-systemic-risk",
+              "youtube_id": "gX9aKDeAOz4",
+              "youtube_url": "https://www.youtube.com/watch?v=gX9aKDeAOz4",
+              "duration_sec": 712,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-8-systemic-risk"
+            },
+            {
+              "title": "Bailout 9: Paulson's plan",
+              "slug": "v/bailout-9-paulson-s-plan",
+              "youtube_id": "eBYbnYNl0rw",
+              "youtube_url": "https://www.youtube.com/watch?v=eBYbnYNl0rw",
+              "duration_sec": 665,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-9-paulson-s-plan"
+            },
+            {
+              "title": "Bailout 10: Moral hazard",
+              "slug": "v/bailout-10-moral-hazard",
+              "youtube_id": "roap32sTgPk",
+              "youtube_url": "https://www.youtube.com/watch?v=roap32sTgPk",
+              "duration_sec": 727,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-10-moral-hazard"
+            },
+            {
+              "title": "Bailout 11: Why these CDOs could be worth nothing",
+              "slug": "v/bailout-11-why-these-cdos-could-be-worth-nothing",
+              "youtube_id": "RkIM0Mbc8YQ",
+              "youtube_url": "https://www.youtube.com/watch?v=RkIM0Mbc8YQ",
+              "duration_sec": 644,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-11-why-these-cdos-could-be-worth-nothing"
+            },
+            {
+              "title": "Bailout 12: Lone Star transaction",
+              "slug": "v/bailout-12-lone-star-transaction",
+              "youtube_id": "eZZkhSl8lMA",
+              "youtube_url": "https://www.youtube.com/watch?v=eZZkhSl8lMA",
+              "duration_sec": 628,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-12-lone-star-transaction"
+            },
+            {
+              "title": "Bailout 13: Does the bailout have a chance of working?",
+              "slug": "v/bailout-13-does-the-bailout-have-a-chance-of-working",
+              "youtube_id": "R528WbVdC0I",
+              "youtube_url": "https://www.youtube.com/watch?v=R528WbVdC0I",
+              "duration_sec": 659,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-13-does-the-bailout-have-a-chance-of-working"
+            },
+            {
+              "title": "Bailout 14: Possible solution",
+              "slug": "v/bailout-14-possible-solution",
+              "youtube_id": "BdmI14oSe4g",
+              "youtube_url": "https://www.youtube.com/watch?v=BdmI14oSe4g",
+              "duration_sec": 742,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-14-possible-solution"
+            },
+            {
+              "title": "Bailout 15: More on the solution",
+              "slug": "v/bailout-15-more-on-the-solution",
+              "youtube_id": "-KrSxA9NCf0",
+              "youtube_url": "https://www.youtube.com/watch?v=-KrSxA9NCf0",
+              "duration_sec": 609,
+              "relative_url": "/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/the-2008-financial-crisis/v/bailout-15-more-on-the-solution"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

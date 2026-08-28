@@ -1,0 +1,3235 @@
+{
+  "key": "statistics-probability",
+  "tier": "T1",
+  "subject": "math",
+  "slug": "statistics-probability",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Statistics and probability",
+  "course_slug": "statistics-probability",
+  "units": [
+    {
+      "title": "Analyzing categorical data",
+      "slug": "analyzing-categorical-data",
+      "relative_url": "/math/statistics-probability/analyzing-categorical-data",
+      "lessons": [
+        {
+          "title": "Analyzing one categorical variable",
+          "slug": "one-categorical-variable",
+          "videos": [
+            {
+              "title": "Identifying individuals, variables and categorical variables in a data set",
+              "slug": "v/identifying-individuals-variables-and-categorical-variables-in-a-data-set",
+              "youtube_id": "EqeVXI4WNHM",
+              "youtube_url": "https://www.youtube.com/watch?v=EqeVXI4WNHM",
+              "duration_sec": 160,
+              "relative_url": "/math/ap-statistics/analyzing-categorical-ap/xfb5d8e68:language-variation-variables/v/identifying-individuals-variables-and-categorical-variables-in-a-data-set"
+            },
+            {
+              "title": "Reading pictographs",
+              "slug": "v/reading-pictographs",
+              "youtube_id": "qrVvpYt3Vl0",
+              "youtube_url": "https://www.youtube.com/watch?v=qrVvpYt3Vl0",
+              "duration_sec": 141,
+              "relative_url": "/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-pictographs"
+            },
+            {
+              "title": "Reading bar graphs",
+              "slug": "v/reading-bar-graphs",
+              "youtube_id": "kiQ6MUQZHSs",
+              "youtube_url": "https://www.youtube.com/watch?v=kiQ6MUQZHSs",
+              "duration_sec": 179,
+              "relative_url": "/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-graphs"
+            },
+            {
+              "title": "Reading bar graphs: Harry Potter",
+              "slug": "v/reading-bar-charts-1",
+              "youtube_id": "9YjXGLWMvCM",
+              "youtube_url": "https://www.youtube.com/watch?v=9YjXGLWMvCM",
+              "duration_sec": 52,
+              "relative_url": "/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-charts-1"
+            },
+            {
+              "title": "Creating a bar graph",
+              "slug": "v/creating-bar-charts-1",
+              "youtube_id": "woUQ9LLaees",
+              "youtube_url": "https://www.youtube.com/watch?v=woUQ9LLaees",
+              "duration_sec": 67,
+              "relative_url": "/math/cc-2nd-grade-math/x3184e0ec:data/cc-2nd-bar-graphs/v/creating-bar-charts-1"
+            },
+            {
+              "title": "Reading bar charts: comparing two sets of data",
+              "slug": "v/reading-bar-charts-2",
+              "youtube_id": "gnyHsgTFXIY",
+              "youtube_url": "https://www.youtube.com/watch?v=gnyHsgTFXIY",
+              "duration_sec": 90,
+              "relative_url": "/math/ap-statistics/analyzing-categorical-ap/xfb5d8e68:categorical-variable-graphs/v/reading-bar-charts-2"
+            },
+            {
+              "title": "Reading bar charts: putting it together with central tendency",
+              "slug": "v/reading-bar-charts-3",
+              "youtube_id": "DGZNaKnbQo0",
+              "youtube_url": "https://www.youtube.com/watch?v=DGZNaKnbQo0",
+              "duration_sec": 281,
+              "relative_url": "/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-charts-3"
+            },
+            {
+              "title": "Reading pie graphs (circle graphs)",
+              "slug": "v/reading-pie-graphs-circle-graphs",
+              "youtube_id": "4JqH55rLGKY",
+              "youtube_url": "https://www.youtube.com/watch?v=4JqH55rLGKY",
+              "duration_sec": 189,
+              "relative_url": "/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-pie-graphs-circle-graphs"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Two-way tables",
+          "slug": "two-way-tables-for-categorical-data",
+          "videos": [
+            {
+              "title": "Two-way frequency tables and Venn diagrams",
+              "slug": "v/two-way-frequency-tables-and-venn-diagrams",
+              "youtube_id": "l5MrtV7ZN88",
+              "youtube_url": "https://www.youtube.com/watch?v=l5MrtV7ZN88",
+              "duration_sec": 383,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/two-way-tables/v/two-way-frequency-tables-and-venn-diagrams"
+            },
+            {
+              "title": "Two-way relative frequency tables",
+              "slug": "v/two-way-relative-frequency-tables",
+              "youtube_id": "_ETPMszULXc",
+              "youtube_url": "https://www.youtube.com/watch?v=_ETPMszULXc",
+              "duration_sec": 268,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/two-way-tables/v/two-way-relative-frequency-tables"
+            },
+            {
+              "title": "Interpreting two-way tables",
+              "slug": "v/interpreting-two-way-tables",
+              "youtube_id": "MarqSlyz-lU",
+              "youtube_url": "https://www.youtube.com/watch?v=MarqSlyz-lU",
+              "duration_sec": 104,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/two-way-tables/v/interpreting-two-way-tables"
+            },
+            {
+              "title": "Categorical data example",
+              "slug": "v/video-games-and-violence-bivariate-data",
+              "youtube_id": "ahyWUV7AwKw",
+              "youtube_url": "https://www.youtube.com/watch?v=ahyWUV7AwKw",
+              "duration_sec": 201,
+              "relative_url": "/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/video-games-and-violence-bivariate-data"
+            },
+            {
+              "title": "Analyzing trends in categorical data",
+              "slug": "v/analyzing-trends-categorical-data",
+              "youtube_id": "TXGhMDbbnzQ",
+              "youtube_url": "https://www.youtube.com/watch?v=TXGhMDbbnzQ",
+              "duration_sec": 534,
+              "relative_url": "/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/analyzing-trends-categorical-data"
+            }
+          ],
+          "exercise_count": 6
+        },
+        {
+          "title": "Distributions in two-way tables",
+          "slug": "distributions-in-two-way-tables",
+          "videos": [
+            {
+              "title": "Marginal and conditional distributions",
+              "slug": "v/marginal-distribution-and-conditional-distribution",
+              "youtube_id": "Iw9fEYIpPMA",
+              "youtube_url": "https://www.youtube.com/watch?v=Iw9fEYIpPMA",
+              "duration_sec": 317,
+              "relative_url": "/math/ap-statistics/analyzing-categorical-ap/distributions-two-way-tables/v/marginal-distribution-and-conditional-distribution"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Displaying and comparing quantitative data",
+      "slug": "displaying-describing-data",
+      "relative_url": "/math/statistics-probability/displaying-describing-data",
+      "lessons": [
+        {
+          "title": "Displaying quantitative data with graphs",
+          "slug": "quantitative-data-graphs",
+          "videos": [
+            {
+              "title": "Representing data",
+              "slug": "v/ways-to-represent-data",
+              "youtube_id": "0ZKtsUkrgFQ",
+              "youtube_url": "https://www.youtube.com/watch?v=0ZKtsUkrgFQ",
+              "duration_sec": 498,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/dot-plot/v/ways-to-represent-data"
+            },
+            {
+              "title": "Frequency tables & dot plots",
+              "slug": "v/frequency-tables-and-dot-plots",
+              "youtube_id": "gdE46YSedvE",
+              "youtube_url": "https://www.youtube.com/watch?v=gdE46YSedvE",
+              "duration_sec": 439,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/dot-plot/v/frequency-tables-and-dot-plots"
+            },
+            {
+              "title": "Creating a histogram",
+              "slug": "v/histograms-intro",
+              "youtube_id": "gSEYtAjuZ-Y",
+              "youtube_url": "https://www.youtube.com/watch?v=gSEYtAjuZ-Y",
+              "duration_sec": 442,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/histograms/v/histograms-intro"
+            },
+            {
+              "title": "Histograms",
+              "slug": "v/histograms",
+              "youtube_id": "4eLJGG2Ad30",
+              "youtube_url": "https://www.youtube.com/watch?v=4eLJGG2Ad30",
+              "duration_sec": 368,
+              "relative_url": "/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/histograms"
+            },
+            {
+              "title": "Interpreting a histogram",
+              "slug": "v/interpreting-histograms",
+              "youtube_id": "c02vjunQsJM",
+              "youtube_url": "https://www.youtube.com/watch?v=c02vjunQsJM",
+              "duration_sec": 269,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/histograms/v/interpreting-histograms"
+            },
+            {
+              "title": "Stem-and-leaf plots",
+              "slug": "v/u08-l1-t2-we3-stem-and-leaf-plots",
+              "youtube_id": "LEFE1km5ROY",
+              "youtube_url": "https://www.youtube.com/watch?v=LEFE1km5ROY",
+              "duration_sec": 358,
+              "relative_url": "/math/ap-statistics/quantitative-data-ap/histograms-stem-leaf/v/u08-l1-t2-we3-stem-and-leaf-plots"
+            },
+            {
+              "title": "Reading stem and leaf plots",
+              "slug": "v/reading-stem-and-leaf-plots",
+              "youtube_id": "PXKHyT__B2k",
+              "youtube_url": "https://www.youtube.com/watch?v=PXKHyT__B2k",
+              "duration_sec": 188,
+              "relative_url": "/math/ap-statistics/quantitative-data-ap/histograms-stem-leaf/v/reading-stem-and-leaf-plots"
+            }
+          ],
+          "exercise_count": 6
+        },
+        {
+          "title": "Describing and comparing distributions",
+          "slug": "comparing-features-distributions",
+          "videos": [
+            {
+              "title": "Shapes of distributions",
+              "slug": "v/shapes-of-distributions",
+              "youtube_id": "2oJldeE4JcU",
+              "youtube_url": "https://www.youtube.com/watch?v=2oJldeE4JcU",
+              "duration_sec": 307,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-shape-of-data/v/shapes-of-distributions"
+            },
+            {
+              "title": "Clusters, gaps, peaks & outliers",
+              "slug": "v/examples-analyzing-clusters-gaps-peaks-and-outliers-for-distributions",
+              "youtube_id": "4PXkzcK-b4Y",
+              "youtube_url": "https://www.youtube.com/watch?v=4PXkzcK-b4Y",
+              "duration_sec": 392,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-shape-of-data/v/examples-analyzing-clusters-gaps-peaks-and-outliers-for-distributions"
+            },
+            {
+              "title": "Comparing distributions with dot plots (example problem)",
+              "slug": "v/comparing-swim-times-at-the-olympics",
+              "youtube_id": "KXDOOmquZag",
+              "youtube_url": "https://www.youtube.com/watch?v=KXDOOmquZag",
+              "duration_sec": 240,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-population-sampling/v/comparing-swim-times-at-the-olympics"
+            },
+            {
+              "title": "Comparing dot plots, histograms, and box plots",
+              "slug": "v/comparing-dot-plots-histograms-and-box-plots",
+              "youtube_id": "s_w3EJ2Jzw0",
+              "youtube_url": "https://www.youtube.com/watch?v=s_w3EJ2Jzw0",
+              "duration_sec": 326,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-7th-compare-data-displays/v/comparing-dot-plots-histograms-and-box-plots"
+            },
+            {
+              "title": "Example: Comparing distributions",
+              "slug": "v/comparing-distributions",
+              "youtube_id": "lT3LRjtSbJc",
+              "youtube_url": "https://www.youtube.com/watch?v=lT3LRjtSbJc",
+              "duration_sec": 438,
+              "relative_url": "/math/ap-statistics/quantitative-data-ap/xfb5d8e68:comparing-distributions-quant/v/comparing-distributions"
+            }
+          ],
+          "exercise_count": 6
+        },
+        {
+          "title": "More on data displays",
+          "slug": "more-on-data-displays",
+          "videos": [
+            {
+              "title": "Reading line graphs",
+              "slug": "v/u08-l1-t2-we2-reading-line-graphs",
+              "youtube_id": "36v2EXZRzUE",
+              "youtube_url": "https://www.youtube.com/watch?v=36v2EXZRzUE",
+              "duration_sec": 141,
+              "relative_url": "/math/statistics-probability/displaying-describing-data/more-on-data-displays/v/u08-l1-t2-we2-reading-line-graphs"
+            },
+            {
+              "title": "Misleading line graphs",
+              "slug": "v/misleading-line-graphs",
+              "youtube_id": "gs-OPF3KEGU",
+              "youtube_url": "https://www.youtube.com/watch?v=gs-OPF3KEGU",
+              "duration_sec": 293,
+              "relative_url": "/math/statistics-probability/displaying-describing-data/more-on-data-displays/v/misleading-line-graphs"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Summarizing quantitative data",
+      "slug": "summarizing-quantitative-data",
+      "relative_url": "/math/statistics-probability/summarizing-quantitative-data",
+      "lessons": [
+        {
+          "title": "Measuring center in quantitative data",
+          "slug": "mean-median-basics",
+          "videos": [
+            {
+              "title": "Statistics intro: Mean, median, & mode",
+              "slug": "v/statistics-intro-mean-median-and-mode",
+              "youtube_id": "h8EYEJ32oQ8",
+              "youtube_url": "https://www.youtube.com/watch?v=h8EYEJ32oQ8",
+              "duration_sec": 534,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode"
+            },
+            {
+              "title": "Mean, median, & mode example",
+              "slug": "v/mean-median-and-mode",
+              "youtube_id": "k3aKKasOmIw",
+              "youtube_url": "https://www.youtube.com/watch?v=k3aKKasOmIw",
+              "duration_sec": 235,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/mean-median-and-mode"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "More on mean and median",
+          "slug": "more-mean-median",
+          "videos": [
+            {
+              "title": "Comparing means of distributions",
+              "slug": "v/comparing-distribution-means",
+              "youtube_id": "pPnxPrhf6Ww",
+              "youtube_url": "https://www.youtube.com/watch?v=pPnxPrhf6Ww",
+              "duration_sec": 469,
+              "relative_url": "/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/comparing-distribution-means"
+            },
+            {
+              "title": "Means and medians of different distributions",
+              "slug": "v/comparing-means-and-medians",
+              "youtube_id": "eLyLbaXfJXo",
+              "youtube_url": "https://www.youtube.com/watch?v=eLyLbaXfJXo",
+              "duration_sec": 389,
+              "relative_url": "/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/comparing-means-and-medians"
+            },
+            {
+              "title": "Impact on median & mean: removing an outlier",
+              "slug": "v/impact-on-median-and-mean-when-removing-lowest-value-example",
+              "youtube_id": "-2OOBEBq9-4",
+              "youtube_url": "https://www.youtube.com/watch?v=-2OOBEBq9-4",
+              "duration_sec": 337,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-mean-median-challenge/v/impact-on-median-and-mean-when-removing-lowest-value-example"
+            },
+            {
+              "title": "Impact on median & mean: increasing an outlier",
+              "slug": "v/impact-on-median-and-mean-when-increasing-highest-value",
+              "youtube_id": "K1y6Tz_E7oA",
+              "youtube_url": "https://www.youtube.com/watch?v=K1y6Tz_E7oA",
+              "duration_sec": 256,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-mean-median-challenge/v/impact-on-median-and-mean-when-increasing-highest-value"
+            },
+            {
+              "title": "Missing value given the mean",
+              "slug": "v/using-mean-to-find-missing-value",
+              "youtube_id": "qpbaglogObM",
+              "youtube_url": "https://www.youtube.com/watch?v=qpbaglogObM",
+              "duration_sec": 303,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-mean-median-challenge/v/using-mean-to-find-missing-value"
+            },
+            {
+              "title": "Median & range puzzlers",
+              "slug": "v/median-and-range-puzzle",
+              "youtube_id": "0cHCpgQD_8k",
+              "youtube_url": "https://www.youtube.com/watch?v=0cHCpgQD_8k",
+              "duration_sec": 415,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th/v/median-and-range-puzzle"
+            }
+          ],
+          "exercise_count": 5
+        },
+        {
+          "title": "Interquartile range (IQR)",
+          "slug": "interquartile-range-iqr",
+          "videos": [
+            {
+              "title": "Interquartile range (IQR)",
+              "slug": "v/calculating-interquartile-range-iqr",
+              "youtube_id": "qLYYHWYr8xI",
+              "youtube_url": "https://www.youtube.com/watch?v=qLYYHWYr8xI",
+              "duration_sec": 372,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th/v/calculating-interquartile-range-iqr"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Variance and standard deviation of a population",
+          "slug": "variance-standard-deviation-population",
+          "videos": [
+            {
+              "title": "Measures of spread: range, variance & standard deviation",
+              "slug": "v/range-variance-and-standard-deviation-as-measures-of-dispersion",
+              "youtube_id": "E4HAYd0QnRc",
+              "youtube_url": "https://www.youtube.com/watch?v=E4HAYd0QnRc",
+              "duration_sec": 754,
+              "relative_url": "/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/range-variance-and-standard-deviation-as-measures-of-dispersion"
+            },
+            {
+              "title": "Variance of a population",
+              "slug": "v/variance-of-a-population",
+              "youtube_id": "dvoHB9djouc",
+              "youtube_url": "https://www.youtube.com/watch?v=dvoHB9djouc",
+              "duration_sec": 485,
+              "relative_url": "/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/variance-of-a-population"
+            },
+            {
+              "title": "Population standard deviation",
+              "slug": "v/population-standard-deviation",
+              "youtube_id": "PWiWkqHmum0",
+              "youtube_url": "https://www.youtube.com/watch?v=PWiWkqHmum0",
+              "duration_sec": 485,
+              "relative_url": "/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/population-standard-deviation"
+            },
+            {
+              "title": "Mean and standard deviation versus median and IQR",
+              "slug": "v/mean-and-standard-deviation-versus-median-and-iqr",
+              "youtube_id": "qNKOi08NxHs",
+              "youtube_url": "https://www.youtube.com/watch?v=qNKOi08NxHs",
+              "duration_sec": 479,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/measuring-spread-quantitative/v/mean-and-standard-deviation-versus-median-and-iqr"
+            },
+            {
+              "title": "Statistics: Alternate variance formulas",
+              "slug": "v/statistics-alternate-variance-formulas",
+              "youtube_id": "sRVGcYGjUk8",
+              "youtube_url": "https://www.youtube.com/watch?v=sRVGcYGjUk8",
+              "duration_sec": 737,
+              "relative_url": "/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/statistics-alternate-variance-formulas"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Variance and standard deviation of a sample",
+          "slug": "variance-standard-deviation-sample",
+          "videos": [
+            {
+              "title": "Sample variance",
+              "slug": "v/sample-variance",
+              "youtube_id": "iHXdzfF7UEs",
+              "youtube_url": "https://www.youtube.com/watch?v=iHXdzfF7UEs",
+              "duration_sec": 638,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/measuring-spread-quantitative/v/sample-variance"
+            },
+            {
+              "title": "Sample standard deviation and bias",
+              "slug": "v/sample-standard-deviation-and-bias",
+              "youtube_id": "DNAnQBhGpRw",
+              "youtube_url": "https://www.youtube.com/watch?v=DNAnQBhGpRw",
+              "duration_sec": 573,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/measuring-spread-quantitative/v/sample-standard-deviation-and-bias"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "More on standard deviation",
+          "slug": "more-on-standard-deviation",
+          "videos": [
+            {
+              "title": "Why we divide by n - 1 in variance ",
+              "slug": "v/another-simulation-giving-evidence-that-n-1-gives-us-an-unbiased-estimate-of-variance",
+              "youtube_id": "F2mfEldxsPI",
+              "youtube_url": "https://www.youtube.com/watch?v=F2mfEldxsPI",
+              "duration_sec": 286,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation/v/another-simulation-giving-evidence-that-n-1-gives-us-an-unbiased-estimate-of-variance"
+            },
+            {
+              "title": "Simulation showing bias in sample variance",
+              "slug": "v/simulation-showing-bias-in-sample-variance",
+              "youtube_id": "Cn0skMJ2F3c",
+              "youtube_url": "https://www.youtube.com/watch?v=Cn0skMJ2F3c",
+              "duration_sec": 384,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation/v/simulation-showing-bias-in-sample-variance"
+            },
+            {
+              "title": "Simulation providing evidence that (n-1) gives us unbiased estimate",
+              "slug": "v/simulation-providing-evidence-that-n-1-gives-us-unbiased-estimate",
+              "youtube_id": "0QS4VHPV4JA",
+              "youtube_url": "https://www.youtube.com/watch?v=0QS4VHPV4JA",
+              "duration_sec": 270,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation/v/simulation-providing-evidence-that-n-1-gives-us-unbiased-estimate"
+            },
+            {
+              "title": "Review and intuition why we divide by n-1 for the unbiased sample variance",
+              "slug": "v/review-and-intuition-why-we-divide-by-n-1-for-the-unbiased-sample-variance",
+              "youtube_id": "KkaU2ur3Ymw",
+              "youtube_url": "https://www.youtube.com/watch?v=KkaU2ur3Ymw",
+              "duration_sec": 584,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation/v/review-and-intuition-why-we-divide-by-n-1-for-the-unbiased-sample-variance"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Box and whisker plots",
+          "slug": "box-whisker-plots",
+          "videos": [
+            {
+              "title": "Worked example: Creating a box plot (odd number of data points)",
+              "slug": "v/box-and-whisker-plot-exercise-example",
+              "youtube_id": "m6xURMj2ztk",
+              "youtube_url": "https://www.youtube.com/watch?v=m6xURMj2ztk",
+              "duration_sec": 198,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-box-whisker-plots/v/box-and-whisker-plot-exercise-example"
+            },
+            {
+              "title": "Worked example: Creating a box plot (even number of data points)",
+              "slug": "v/another-example-constructing-box-plot",
+              "youtube_id": "oajrmwCALmc",
+              "youtube_url": "https://www.youtube.com/watch?v=oajrmwCALmc",
+              "duration_sec": 195,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-box-whisker-plots/v/another-example-constructing-box-plot"
+            },
+            {
+              "title": "Constructing a box plot",
+              "slug": "v/constructing-a-box-and-whisker-plot",
+              "youtube_id": "09Cx7xuIXig",
+              "youtube_url": "https://www.youtube.com/watch?v=09Cx7xuIXig",
+              "duration_sec": 498,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-box-whisker-plots/v/constructing-a-box-and-whisker-plot"
+            },
+            {
+              "title": "Reading box plots",
+              "slug": "v/reading-box-and-whisker-plots",
+              "youtube_id": "b2C9I8HuCe4",
+              "youtube_url": "https://www.youtube.com/watch?v=b2C9I8HuCe4",
+              "duration_sec": 198,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-box-whisker-plots/v/reading-box-and-whisker-plots"
+            },
+            {
+              "title": "Interpreting box plots",
+              "slug": "v/interpreting-box-plots",
+              "youtube_id": "oBREri10ZHk",
+              "youtube_url": "https://www.youtube.com/watch?v=oBREri10ZHk",
+              "duration_sec": 464,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-box-whisker-plots/v/interpreting-box-plots"
+            },
+            {
+              "title": "Judging outliers in a dataset",
+              "slug": "v/judging-outliers-in-a-dataset",
+              "youtube_id": "FRlTh5HQORA",
+              "youtube_url": "https://www.youtube.com/watch?v=FRlTh5HQORA",
+              "duration_sec": 501,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/stats-box-whisker-plots/v/judging-outliers-in-a-dataset"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Other measures of spread",
+          "slug": "other-measures-of-spread",
+          "videos": [
+            {
+              "title": "Range and mid-range",
+              "slug": "v/range-and-mid-range",
+              "youtube_id": "7DtWXEPB_AI",
+              "youtube_url": "https://www.youtube.com/watch?v=7DtWXEPB_AI",
+              "duration_sec": 123,
+              "relative_url": "/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/v/range-and-mid-range"
+            },
+            {
+              "title": "Mean absolute deviation (MAD)",
+              "slug": "v/mean-absolute-deviation",
+              "youtube_id": "GdIkEngwGNU",
+              "youtube_url": "https://www.youtube.com/watch?v=GdIkEngwGNU",
+              "duration_sec": 550,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-mad/v/mean-absolute-deviation"
+            },
+            {
+              "title": "Mean absolute deviation example",
+              "slug": "v/mean-absolute-deviation-example",
+              "youtube_id": "DPuK6ZgBGmE",
+              "youtube_url": "https://www.youtube.com/watch?v=DPuK6ZgBGmE",
+              "duration_sec": 382,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-mad/v/mean-absolute-deviation-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Modeling data distributions",
+      "slug": "modeling-distributions-of-data",
+      "relative_url": "/math/statistics-probability/modeling-distributions-of-data",
+      "lessons": [
+        {
+          "title": "Percentiles",
+          "slug": "percentiles",
+          "videos": [
+            {
+              "title": "Calculating percentile",
+              "slug": "v/calculating-percentile",
+              "youtube_id": "Ngyt8Q5tWkU",
+              "youtube_url": "https://www.youtube.com/watch?v=Ngyt8Q5tWkU",
+              "duration_sec": 218,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/percentiles-cumulative-relative-frequency/v/calculating-percentile"
+            },
+            {
+              "title": "Analyzing a cumulative relative frequency graph",
+              "slug": "v/analyzing-a-cumulative-relative-frequency-graph",
+              "youtube_id": "TwGYLQ-DNdc",
+              "youtube_url": "https://www.youtube.com/watch?v=TwGYLQ-DNdc",
+              "duration_sec": 355,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/percentiles-cumulative-relative-frequency/v/analyzing-a-cumulative-relative-frequency-graph"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Z-scores",
+          "slug": "z-scores",
+          "videos": [
+            {
+              "title": "Normal distribution problem: z-scores (from ck12.org)",
+              "slug": "v/ck12-org-normal-distribution-problems-z-score",
+              "youtube_id": "Wp2nVIzBsE8",
+              "youtube_url": "https://www.youtube.com/watch?v=Wp2nVIzBsE8",
+              "duration_sec": 468,
+              "relative_url": "/math/statistics-probability/modeling-distributions-of-data/z-scores/v/ck12-org-normal-distribution-problems-z-score"
+            },
+            {
+              "title": "Comparing with z-scores",
+              "slug": "v/comparing-with-z-scores",
+              "youtube_id": "_rtQGAX5wsQ",
+              "youtube_url": "https://www.youtube.com/watch?v=_rtQGAX5wsQ",
+              "duration_sec": 210,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/measuring-position/v/comparing-with-z-scores"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Effects of linear transformations",
+          "slug": "effects-of-linear-transformations",
+          "videos": [
+            {
+              "title": "How parameters change as data is shifted and scaled",
+              "slug": "v/how-parameters-change-as-data-is-shifted-and-scaled",
+              "youtube_id": "JFlI4Vxtzxo",
+              "youtube_url": "https://www.youtube.com/watch?v=JFlI4Vxtzxo",
+              "duration_sec": 438,
+              "relative_url": "/math/ap-statistics/summarizing-quantitative-data-ap/linear-transformations-data/v/how-parameters-change-as-data-is-shifted-and-scaled"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Density curves",
+          "slug": "density-curve",
+          "videos": [
+            {
+              "title": "Density Curves",
+              "slug": "v/density-curves",
+              "youtube_id": "PUvUQMQ7xQk",
+              "youtube_url": "https://www.youtube.com/watch?v=PUvUQMQ7xQk",
+              "duration_sec": 574,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/density-curves/v/density-curves"
+            },
+            {
+              "title": "Median, mean and skew from density curves",
+              "slug": "v/median-mean-and-skew-from-density-curves",
+              "youtube_id": "JFesFhraX2M",
+              "youtube_url": "https://www.youtube.com/watch?v=JFesFhraX2M",
+              "duration_sec": 365,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/density-curves/v/median-mean-and-skew-from-density-curves"
+            },
+            {
+              "title": "Density curve worked example",
+              "slug": "v/density-curve-worked-example",
+              "youtube_id": "P5y83-ZnQeo",
+              "youtube_url": "https://www.youtube.com/watch?v=P5y83-ZnQeo",
+              "duration_sec": 232,
+              "relative_url": "/math/statistics-probability/modeling-distributions-of-data/density-curve/v/density-curve-worked-example"
+            },
+            {
+              "title": "Worked example finding area under density curves",
+              "slug": "v/worked-example-finding-area-under-density-curves",
+              "youtube_id": "Tu3O9tC3Eh8",
+              "youtube_url": "https://www.youtube.com/watch?v=Tu3O9tC3Eh8",
+              "duration_sec": 280,
+              "relative_url": "/math/statistics-probability/modeling-distributions-of-data/density-curve/v/worked-example-finding-area-under-density-curves"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Normal distributions and the empirical rule",
+          "slug": "normal-distributions-library",
+          "videos": [
+            {
+              "title": "Qualitative sense of normal distributions",
+              "slug": "v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions",
+              "youtube_id": "79duxPXpyKQ",
+              "youtube_url": "https://www.youtube.com/watch?v=79duxPXpyKQ",
+              "duration_sec": 653,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/stats-normal-distributions/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions"
+            },
+            {
+              "title": "Normal distribution problems: Empirical rule",
+              "slug": "v/ck12-org-normal-distribution-problems-empirical-rule",
+              "youtube_id": "OhRr26AfFBU",
+              "youtube_url": "https://www.youtube.com/watch?v=OhRr26AfFBU",
+              "duration_sec": 625,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/stats-normal-distributions/v/ck12-org-normal-distribution-problems-empirical-rule"
+            },
+            {
+              "title": "Standard normal distribution and the empirical rule (from ck12.org)",
+              "slug": "v/ck12-org-exercise-standard-normal-distribution-and-the-empirical-rule",
+              "youtube_id": "2fzYE-Emar0",
+              "youtube_url": "https://www.youtube.com/watch?v=2fzYE-Emar0",
+              "duration_sec": 496,
+              "relative_url": "/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-exercise-standard-normal-distribution-and-the-empirical-rule"
+            },
+            {
+              "title": "More empirical rule and z-score practice (from ck12.org)",
+              "slug": "v/ck12-org-more-empirical-rule-and-z-score-practice",
+              "youtube_id": "itQEwESWDKg",
+              "youtube_url": "https://www.youtube.com/watch?v=itQEwESWDKg",
+              "duration_sec": 357,
+              "relative_url": "/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-more-empirical-rule-and-z-score-practice"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Normal distribution calculations",
+          "slug": "normal-distribution-calculation",
+          "videos": [
+            {
+              "title": "Standard normal table for proportion below",
+              "slug": "v/z-table-for-proportion-below",
+              "youtube_id": "Fo4kitkFB3I",
+              "youtube_url": "https://www.youtube.com/watch?v=Fo4kitkFB3I",
+              "duration_sec": 260,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/normal-distributions-calculations/v/z-table-for-proportion-below"
+            },
+            {
+              "title": "Standard normal table for proportion above",
+              "slug": "v/z-table-for-proportion-above",
+              "youtube_id": "i9FzFfv1rQg",
+              "youtube_url": "https://www.youtube.com/watch?v=i9FzFfv1rQg",
+              "duration_sec": 307,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/normal-distributions-calculations/v/z-table-for-proportion-above"
+            },
+            {
+              "title": "Standard normal table for proportion between values",
+              "slug": "v/z-table-for-proportion-between-values",
+              "youtube_id": "uwhV0TAPmWc",
+              "youtube_url": "https://www.youtube.com/watch?v=uwhV0TAPmWc",
+              "duration_sec": 430,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/normal-distributions-calculations/v/z-table-for-proportion-between-values"
+            },
+            {
+              "title": "Finding z-score for a percentile",
+              "slug": "v/finding-z-score-for-a-percentile",
+              "youtube_id": "S5_5KyCVjrU",
+              "youtube_url": "https://www.youtube.com/watch?v=S5_5KyCVjrU",
+              "duration_sec": 254,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/normal-distributions-calculations/v/finding-z-score-for-a-percentile"
+            },
+            {
+              "title": "Threshold for low percentile",
+              "slug": "v/threshold-for-low-percentile",
+              "youtube_id": "umYWWMfxUCI",
+              "youtube_url": "https://www.youtube.com/watch?v=umYWWMfxUCI",
+              "duration_sec": 360,
+              "relative_url": "/math/ap-statistics/density-curves-normal-distribution-ap/normal-distributions-calculations/v/threshold-for-low-percentile"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "More on normal distributions",
+          "slug": "more-on-normal-distributions",
+          "videos": [
+            {
+              "title": "Deep definition of the normal distribution",
+              "slug": "v/introduction-to-the-normal-distribution",
+              "youtube_id": "hgtMWR3TFnY",
+              "youtube_url": "https://www.youtube.com/watch?v=hgtMWR3TFnY",
+              "duration_sec": 1584,
+              "relative_url": "/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/introduction-to-the-normal-distribution"
+            },
+            {
+              "title": "Normal distribution excel exercise",
+              "slug": "v/normal-distribution-excel-exercise",
+              "youtube_id": "yTGEMoaWDCQ",
+              "youtube_url": "https://www.youtube.com/watch?v=yTGEMoaWDCQ",
+              "duration_sec": 1564,
+              "relative_url": "/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/normal-distribution-excel-exercise"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Exploring bivariate numerical data",
+      "slug": "describing-relationships-quantitative-data",
+      "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data",
+      "lessons": [
+        {
+          "title": "Introduction to scatterplots",
+          "slug": "introduction-to-scatterplots",
+          "videos": [
+            {
+              "title": "Constructing a scatter plot",
+              "slug": "v/constructing-scatter-plot",
+              "youtube_id": "sHbX58y5D4U",
+              "youtube_url": "https://www.youtube.com/watch?v=sHbX58y5D4U",
+              "duration_sec": 152,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/cc-8th-scatter-plots/v/constructing-scatter-plot"
+            },
+            {
+              "title": "Example of direction in scatterplots",
+              "slug": "v/scatter-plot-interpreting",
+              "youtube_id": "Jpbm5YgciqI",
+              "youtube_url": "https://www.youtube.com/watch?v=Jpbm5YgciqI",
+              "duration_sec": 146,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/cc-8th-interpreting-scatter-plots/v/scatter-plot-interpreting"
+            },
+            {
+              "title": "Scatter plot: smokers",
+              "slug": "v/trends-in-smoking-scatter-plot",
+              "youtube_id": "F5uiFXECnVY",
+              "youtube_url": "https://www.youtube.com/watch?v=F5uiFXECnVY",
+              "duration_sec": 155,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/cc-8th-interpreting-scatter-plots/v/trends-in-smoking-scatter-plot"
+            },
+            {
+              "title": "Bivariate relationship linearity, strength and direction",
+              "slug": "v/bivariate-relationship-linearity-strength-and-direction",
+              "youtube_id": "30LcZqRfPRY",
+              "youtube_url": "https://www.youtube.com/watch?v=30LcZqRfPRY",
+              "duration_sec": 493,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/scatterplots-correlation/v/bivariate-relationship-linearity-strength-and-direction"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Correlation coefficients",
+          "slug": "scatterplots-and-correlation",
+          "videos": [
+            {
+              "title": "Example: Correlation coefficient intuition",
+              "slug": "v/correlation-coefficient-intuition-examples",
+              "youtube_id": "-Y-M9aD_ccQ",
+              "youtube_url": "https://www.youtube.com/watch?v=-Y-M9aD_ccQ",
+              "duration_sec": 441,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/correlation-coefficient-r/v/correlation-coefficient-intuition-examples"
+            },
+            {
+              "title": "Calculating correlation coefficient r",
+              "slug": "v/calculating-correlation-coefficient-r",
+              "youtube_id": "u4ugaNo6v1Q",
+              "youtube_url": "https://www.youtube.com/watch?v=u4ugaNo6v1Q",
+              "duration_sec": 742,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/correlation-coefficient-r/v/calculating-correlation-coefficient-r"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Introduction to trend lines",
+          "slug": "introduction-to-trend-lines",
+          "videos": [
+            {
+              "title": "Fitting a line to data",
+              "slug": "v/fitting-a-line-to-data",
+              "youtube_id": "OhUkMQtBGmE",
+              "youtube_url": "https://www.youtube.com/watch?v=OhUkMQtBGmE",
+              "duration_sec": 468,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/v/fitting-a-line-to-data"
+            },
+            {
+              "title": "Estimating the line of best fit exercise",
+              "slug": "v/estimating-the-line-of-best-fit-exercise",
+              "youtube_id": "ioieTr41L24",
+              "youtube_url": "https://www.youtube.com/watch?v=ioieTr41L24",
+              "duration_sec": 77,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/cc-8th-line-of-best-fit/v/estimating-the-line-of-best-fit-exercise"
+            },
+            {
+              "title": "Estimating with linear regression (linear models)",
+              "slug": "v/example-estimating-from-regression-line",
+              "youtube_id": "TWkYalFn8lo",
+              "youtube_url": "https://www.youtube.com/watch?v=TWkYalFn8lo",
+              "duration_sec": 203,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/cc-8th-line-of-best-fit/v/example-estimating-from-regression-line"
+            },
+            {
+              "title": "Line of best fit: smoking in 1945",
+              "slug": "v/smoking-1945-extrapolation",
+              "youtube_id": "d4WE4SnhBDU",
+              "youtube_url": "https://www.youtube.com/watch?v=d4WE4SnhBDU",
+              "duration_sec": 287,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/cc-8th-line-of-best-fit/v/smoking-1945-extrapolation"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Least-squares regression equations",
+          "slug": "regression-library",
+          "videos": [
+            {
+              "title": "Introduction to residuals and least squares regression",
+              "slug": "v/introduction-to-residuals-and-least-squares-regression",
+              "youtube_id": "yMgFHbjbAW8",
+              "youtube_url": "https://www.youtube.com/watch?v=yMgFHbjbAW8",
+              "duration_sec": 460,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/introduction-to-residuals-and-least-squares-regression"
+            },
+            {
+              "title": "Calculating residual example",
+              "slug": "v/calculating-residual-example",
+              "youtube_id": "50ezMTE_BuA",
+              "youtube_url": "https://www.youtube.com/watch?v=50ezMTE_BuA",
+              "duration_sec": 292,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/xfb5d8e68:residuals/v/calculating-residual-example"
+            },
+            {
+              "title": "Calculating the equation of a regression line",
+              "slug": "v/calculating-the-equation-of-a-regression-line",
+              "youtube_id": "FGesqq22TCM",
+              "youtube_url": "https://www.youtube.com/watch?v=FGesqq22TCM",
+              "duration_sec": 491,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/least-squares-regression/v/calculating-the-equation-of-a-regression-line"
+            },
+            {
+              "title": "Interpreting slope of regression line",
+              "slug": "v/interpreting-slope-of-regression-line",
+              "youtube_id": "PplggM0KtJ8",
+              "youtube_url": "https://www.youtube.com/watch?v=PplggM0KtJ8",
+              "duration_sec": 178,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/least-squares-regression/v/interpreting-slope-of-regression-line"
+            },
+            {
+              "title": "Interpreting y-intercept in regression model",
+              "slug": "v/interpreting-y-intercept-in-regression-model",
+              "youtube_id": "00YVR5TSZqw",
+              "youtube_url": "https://www.youtube.com/watch?v=00YVR5TSZqw",
+              "duration_sec": 156,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/least-squares-regression/v/interpreting-y-intercept-in-regression-model"
+            },
+            {
+              "title": "Interpreting a trend line",
+              "slug": "v/interpreting-trend-line",
+              "youtube_id": "mfX_yUvwJho",
+              "youtube_url": "https://www.youtube.com/watch?v=mfX_yUvwJho",
+              "duration_sec": 208,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-data/cc-8th-line-of-best-fit/v/interpreting-trend-line"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Assessing the fit in least-squares regression",
+          "slug": "assessing-the-fit-in-least-squares-regression",
+          "videos": [
+            {
+              "title": "Residual plots",
+              "slug": "v/residual-plots",
+              "youtube_id": "VamMrPZ-8fc",
+              "youtube_url": "https://www.youtube.com/watch?v=VamMrPZ-8fc",
+              "duration_sec": 372,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/xfb5d8e68:residuals/v/residual-plots"
+            },
+            {
+              "title": "R-squared or coefficient of determination",
+              "slug": "v/r-squared-or-coefficient-of-determination",
+              "youtube_id": "lng4ZgConCM",
+              "youtube_url": "https://www.youtube.com/watch?v=lng4ZgConCM",
+              "duration_sec": 761,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/r-squared-or-coefficient-of-determination"
+            },
+            {
+              "title": "Standard deviation of residuals or Root-mean-square error (RMSD)",
+              "slug": "v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd",
+              "youtube_id": "zMFdb__sUpw",
+              "youtube_url": "https://www.youtube.com/watch?v=zMFdb__sUpw",
+              "duration_sec": 403,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd"
+            },
+            {
+              "title": "Interpreting computer regression data",
+              "slug": "v/interpreting-computer-regression-data",
+              "youtube_id": "sIJj7Q77SVI",
+              "youtube_url": "https://www.youtube.com/watch?v=sIJj7Q77SVI",
+              "duration_sec": 313,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/interpreting-computer-regression-data"
+            },
+            {
+              "title": "Impact of removing outliers on regression lines",
+              "slug": "v/impact-of-removing-outliers-on-regression-lines",
+              "youtube_id": "TbS7S7lb9Es",
+              "youtube_url": "https://www.youtube.com/watch?v=TbS7S7lb9Es",
+              "duration_sec": 344,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/impact-of-removing-outliers-on-regression-lines"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "More on regression",
+          "slug": "more-on-regression",
+          "videos": [
+            {
+              "title": "Squared error of regression line",
+              "slug": "v/squared-error-of-regression-line",
+              "youtube_id": "6OvhLPS7rj4",
+              "youtube_url": "https://www.youtube.com/watch?v=6OvhLPS7rj4",
+              "duration_sec": 407,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line"
+            },
+            {
+              "title": "Proof (part 1) minimizing squared error to regression line",
+              "slug": "v/proof-part-1-minimizing-squared-error-to-regression-line",
+              "youtube_id": "mIx2Oj5y9Q8",
+              "youtube_url": "https://www.youtube.com/watch?v=mIx2Oj5y9Q8",
+              "duration_sec": 635,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/proof-part-1-minimizing-squared-error-to-regression-line"
+            },
+            {
+              "title": "Proof (part 2) minimizing squared error to regression line",
+              "slug": "v/proof-part-2-minimizing-squared-error-to-line",
+              "youtube_id": "f6OnoxctvUk",
+              "youtube_url": "https://www.youtube.com/watch?v=f6OnoxctvUk",
+              "duration_sec": 594,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/proof-part-2-minimizing-squared-error-to-line"
+            },
+            {
+              "title": "Proof (part 3) minimizing squared error to regression line",
+              "slug": "v/proof-part-3-minimizing-squared-error-to-regression-line",
+              "youtube_id": "u1HhUB3NP8g",
+              "youtube_url": "https://www.youtube.com/watch?v=u1HhUB3NP8g",
+              "duration_sec": 654,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/proof-part-3-minimizing-squared-error-to-regression-line"
+            },
+            {
+              "title": "Proof (part 4) minimizing squared error to regression line",
+              "slug": "v/proof-part-4-minimizing-squared-error-to-regression-line",
+              "youtube_id": "8RSTQl0bQuw",
+              "youtube_url": "https://www.youtube.com/watch?v=8RSTQl0bQuw",
+              "duration_sec": 258,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/proof-part-4-minimizing-squared-error-to-regression-line"
+            },
+            {
+              "title": "Regression line example",
+              "slug": "v/regression-line-example",
+              "youtube_id": "GAmzwIkGFgE",
+              "youtube_url": "https://www.youtube.com/watch?v=GAmzwIkGFgE",
+              "duration_sec": 567,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/regression-line-example"
+            },
+            {
+              "title": "Second regression example",
+              "slug": "v/second-regression-example",
+              "youtube_id": "ww_yT9ckPWw",
+              "youtube_url": "https://www.youtube.com/watch?v=ww_yT9ckPWw",
+              "duration_sec": 555,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/second-regression-example"
+            },
+            {
+              "title": "Calculating R-squared",
+              "slug": "v/calculating-r-squared",
+              "youtube_id": "Fc5t_5r_7IU",
+              "youtube_url": "https://www.youtube.com/watch?v=Fc5t_5r_7IU",
+              "duration_sec": 585,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/calculating-r-squared"
+            },
+            {
+              "title": "Covariance and the regression line",
+              "slug": "v/covariance-and-the-regression-line",
+              "youtube_id": "ualmyZiPs9w",
+              "youtube_url": "https://www.youtube.com/watch?v=ualmyZiPs9w",
+              "duration_sec": 908,
+              "relative_url": "/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/covariance-and-the-regression-line"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Study design",
+      "slug": "designing-studies",
+      "relative_url": "/math/statistics-probability/designing-studies",
+      "lessons": [
+        {
+          "title": "Statistical questions",
+          "slug": "statistics-overview",
+          "videos": [
+            {
+              "title": "Statistical questions",
+              "slug": "v/understanding-statistical-questions",
+              "youtube_id": "OjzfQDFf7Uk",
+              "youtube_url": "https://www.youtube.com/watch?v=OjzfQDFf7Uk",
+              "duration_sec": 574,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-statistical-questions/v/understanding-statistical-questions"
+            },
+            {
+              "title": "Statistical and non statistical questions",
+              "slug": "v/statistical-questions",
+              "youtube_id": "qyYSQDcSNlY",
+              "youtube_url": "https://www.youtube.com/watch?v=qyYSQDcSNlY",
+              "duration_sec": 471,
+              "relative_url": "/math/statistics-probability/designing-studies/statistics-overview/v/statistical-questions"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Sampling and observational studies",
+          "slug": "sampling-and-surveys",
+          "videos": [
+            {
+              "title": "Reasonable samples",
+              "slug": "v/reasonable-samples",
+              "youtube_id": "aKAw-DyZa6g",
+              "youtube_url": "https://www.youtube.com/watch?v=aKAw-DyZa6g",
+              "duration_sec": 257,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-population-sampling/v/reasonable-samples"
+            },
+            {
+              "title": "Identifying a sample and population",
+              "slug": "v/identifying-a-sample-and-population",
+              "youtube_id": "VPM84_yfx5Q",
+              "youtube_url": "https://www.youtube.com/watch?v=VPM84_yfx5Q",
+              "duration_sec": 132,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/sampling-observational-studies/v/identifying-a-sample-and-population"
+            },
+            {
+              "title": "Examples of bias in surveys",
+              "slug": "v/examples-of-bias-in-surveys",
+              "youtube_id": "r1R00l8Z5lg",
+              "youtube_url": "https://www.youtube.com/watch?v=r1R00l8Z5lg",
+              "duration_sec": 342,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/xfb5d8e68:potential-problems-sampling/v/examples-of-bias-in-surveys"
+            },
+            {
+              "title": "Example of undercoverage introducing bias",
+              "slug": "v/example-of-under-coverage-introducing-bias",
+              "youtube_id": "D9f7dCMxu2Y",
+              "youtube_url": "https://www.youtube.com/watch?v=D9f7dCMxu2Y",
+              "duration_sec": 261,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/xfb5d8e68:potential-problems-sampling/v/example-of-under-coverage-introducing-bias"
+            },
+            {
+              "title": "Correlation and causality",
+              "slug": "v/correlation-and-causality",
+              "youtube_id": "ROpbdO-gRUo",
+              "youtube_url": "https://www.youtube.com/watch?v=ROpbdO-gRUo",
+              "duration_sec": 645,
+              "relative_url": "/math/probability/xa88397b6:scatterplots/estimating-trend-lines/v/correlation-and-causality"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Sampling methods",
+          "slug": "sampling-methods-stats",
+          "videos": [
+            {
+              "title": "Picking fairly",
+              "slug": "v/probability-decisions",
+              "youtube_id": "vst006REeTQ",
+              "youtube_url": "https://www.youtube.com/watch?v=vst006REeTQ",
+              "duration_sec": 419,
+              "relative_url": "/math/statistics-probability/designing-studies/sampling-methods-stats/v/probability-decisions"
+            },
+            {
+              "title": "Techniques for generating a simple random sample",
+              "slug": "v/techniques-for-generating-a-simple-random-sample",
+              "youtube_id": "acfjqWTwee0",
+              "youtube_url": "https://www.youtube.com/watch?v=acfjqWTwee0",
+              "duration_sec": 386,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/sampling-methods/v/techniques-for-generating-a-simple-random-sample"
+            },
+            {
+              "title": "Techniques for random sampling and avoiding bias",
+              "slug": "v/techniques-for-random-sampling-and-avoiding-bias",
+              "youtube_id": "PdXDLNNXPik",
+              "youtube_url": "https://www.youtube.com/watch?v=PdXDLNNXPik",
+              "duration_sec": 553,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/sampling-methods/v/techniques-for-random-sampling-and-avoiding-bias"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Types of studies (experimental vs. observational)",
+          "slug": "types-studies-experimental-observational",
+          "videos": [
+            {
+              "title": "Types of statistical studies",
+              "slug": "v/types-of-statistical-studies",
+              "youtube_id": "SaP1O0i1bdc",
+              "youtube_url": "https://www.youtube.com/watch?v=SaP1O0i1bdc",
+              "duration_sec": 632,
+              "relative_url": "/math/statistics-probability/designing-studies/types-studies-experimental-observational/v/types-of-statistical-studies"
+            },
+            {
+              "title": "Worked example identifying experiment",
+              "slug": "v/worked-example-identifying-experiment",
+              "youtube_id": "28lzQ_OhBHY",
+              "youtube_url": "https://www.youtube.com/watch?v=28lzQ_OhBHY",
+              "duration_sec": 276,
+              "relative_url": "/math/statistics-probability/designing-studies/types-studies-experimental-observational/v/worked-example-identifying-experiment"
+            },
+            {
+              "title": "Worked example identifying observational study",
+              "slug": "v/worked-example-identifying-observational-study",
+              "youtube_id": "tHFyaoIrV14",
+              "youtube_url": "https://www.youtube.com/watch?v=tHFyaoIrV14",
+              "duration_sec": 404,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/sampling-observational-studies/v/worked-example-identifying-observational-study"
+            },
+            {
+              "title": "Worked example identifying sample study",
+              "slug": "v/worked-example-identifying-sample-study",
+              "youtube_id": "QSHMOWQUZ54",
+              "youtube_url": "https://www.youtube.com/watch?v=QSHMOWQUZ54",
+              "duration_sec": 181,
+              "relative_url": "/math/statistics-probability/designing-studies/types-studies-experimental-observational/v/worked-example-identifying-sample-study"
+            },
+            {
+              "title": "Appropriate statistical study example",
+              "slug": "v/analyzing-statistical-study",
+              "youtube_id": "RQPC_rUvHas",
+              "youtube_url": "https://www.youtube.com/watch?v=RQPC_rUvHas",
+              "duration_sec": 319,
+              "relative_url": "/math/statistics-probability/designing-studies/types-studies-experimental-observational/v/analyzing-statistical-study"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Experiments",
+          "slug": "experiments-stats-library",
+          "videos": [
+            {
+              "title": "Introduction to experiment design",
+              "slug": "v/introduction-to-experiment-design",
+              "youtube_id": "DaBq0naj0YY",
+              "youtube_url": "https://www.youtube.com/watch?v=DaBq0naj0YY",
+              "duration_sec": 628,
+              "relative_url": "/math/statistics-probability/designing-studies/experiments-stats-library/v/introduction-to-experiment-design"
+            },
+            {
+              "title": "Matched pairs experiment design",
+              "slug": "v/matched-pairs-experiment-design",
+              "youtube_id": "UEFBGewP2ik",
+              "youtube_url": "https://www.youtube.com/watch?v=UEFBGewP2ik",
+              "duration_sec": 337,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Probability",
+      "slug": "probability-library",
+      "relative_url": "/math/statistics-probability/probability-library",
+      "lessons": [
+        {
+          "title": "Basic theoretical probability",
+          "slug": "basic-theoretical-probability",
+          "videos": [
+            {
+              "title": "Intro to theoretical probability",
+              "slug": "v/basic-probability",
+              "youtube_id": "uzkc-qNVoOk",
+              "youtube_url": "https://www.youtube.com/watch?v=uzkc-qNVoOk",
+              "duration_sec": 498,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob/v/basic-probability"
+            },
+            {
+              "title": "Simple probability: yellow marble",
+              "slug": "v/simple-probability",
+              "youtube_id": "yUaI0JriZtY",
+              "youtube_url": "https://www.youtube.com/watch?v=yUaI0JriZtY",
+              "duration_sec": 176,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob/v/simple-probability"
+            },
+            {
+              "title": "Simple probability: non-blue marble",
+              "slug": "v/probability-1-module-examples",
+              "youtube_id": "mLE-SlOZToc",
+              "youtube_url": "https://www.youtube.com/watch?v=mLE-SlOZToc",
+              "duration_sec": 596,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob/v/probability-1-module-examples"
+            },
+            {
+              "title": "Intuitive sense of probabilities",
+              "slug": "v/intuitive-sense-of-probabilities",
+              "youtube_id": "KFgvOQtH0Z0",
+              "youtube_url": "https://www.youtube.com/watch?v=KFgvOQtH0Z0",
+              "duration_sec": 531,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob/v/intuitive-sense-of-probabilities"
+            },
+            {
+              "title": "The Monty Hall problem",
+              "slug": "v/monty-hall-problem",
+              "youtube_id": "Xp6V_lO1ZKA",
+              "youtube_url": "https://www.youtube.com/watch?v=Xp6V_lO1ZKA",
+              "duration_sec": 443,
+              "relative_url": "/math/statistics-probability/probability-library/basic-theoretical-probability/v/monty-hall-problem"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Probability using sample spaces",
+          "slug": "probability-sample-spaces",
+          "videos": [
+            {
+              "title": "Example: All the ways you can flip a coin",
+              "slug": "v/coin-flipping-example",
+              "youtube_id": "3UlE8gyKbkU",
+              "youtube_url": "https://www.youtube.com/watch?v=3UlE8gyKbkU",
+              "duration_sec": 134,
+              "relative_url": "/math/statistics-probability/probability-library/probability-sample-spaces/v/coin-flipping-example"
+            },
+            {
+              "title": "Die rolling probability",
+              "slug": "v/events-and-outcomes-2",
+              "youtube_id": "O4Qnsubo2tg",
+              "youtube_url": "https://www.youtube.com/watch?v=O4Qnsubo2tg",
+              "duration_sec": 315,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events/v/events-and-outcomes-2"
+            },
+            {
+              "title": "Subsets of sample spaces",
+              "slug": "v/describing-subsets-of-sample-spaces-exercise",
+              "youtube_id": "0uHhk7P9SNo",
+              "youtube_url": "https://www.youtube.com/watch?v=0uHhk7P9SNo",
+              "duration_sec": 344,
+              "relative_url": "/math/statistics-probability/probability-library/probability-sample-spaces/v/describing-subsets-of-sample-spaces-exercise"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Basic set operations",
+          "slug": "basic-set-ops",
+          "videos": [
+            {
+              "title": "Intersection and union of sets",
+              "slug": "v/intersection-and-union-of-sets",
+              "youtube_id": "jAfNg3ylZAI",
+              "youtube_url": "https://www.youtube.com/watch?v=jAfNg3ylZAI",
+              "duration_sec": 464,
+              "relative_url": "/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets"
+            },
+            {
+              "title": "Relative complement or difference between sets",
+              "slug": "v/relative-complement-or-difference-between-sets",
+              "youtube_id": "2B4EBvVvf9w",
+              "youtube_url": "https://www.youtube.com/watch?v=2B4EBvVvf9w",
+              "duration_sec": 375,
+              "relative_url": "/math/statistics-probability/probability-library/basic-set-ops/v/relative-complement-or-difference-between-sets"
+            },
+            {
+              "title": "Universal set and absolute complement",
+              "slug": "v/universal-set-and-absolute-complement",
+              "youtube_id": "GVZUpOm3XUg",
+              "youtube_url": "https://www.youtube.com/watch?v=GVZUpOm3XUg",
+              "duration_sec": 386,
+              "relative_url": "/math/statistics-probability/probability-library/basic-set-ops/v/universal-set-and-absolute-complement"
+            },
+            {
+              "title": "Subset, strict subset, and superset",
+              "slug": "v/subset-strict-subset-and-superset",
+              "youtube_id": "1wsF9GpGd00",
+              "youtube_url": "https://www.youtube.com/watch?v=1wsF9GpGd00",
+              "duration_sec": 272,
+              "relative_url": "/math/statistics-probability/probability-library/basic-set-ops/v/subset-strict-subset-and-superset"
+            },
+            {
+              "title": "Bringing the set operations together",
+              "slug": "v/bringing-the-set-operations-together",
+              "youtube_id": "OCNXS_m1HWU",
+              "youtube_url": "https://www.youtube.com/watch?v=OCNXS_m1HWU",
+              "duration_sec": 388,
+              "relative_url": "/math/statistics-probability/probability-library/basic-set-ops/v/bringing-the-set-operations-together"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Experimental probability",
+          "slug": "experimental-probability-lib",
+          "videos": [
+            {
+              "title": "Experimental probability",
+              "slug": "v/experimental-probability",
+              "youtube_id": "RdehfQJ8i_0",
+              "youtube_url": "https://www.youtube.com/watch?v=RdehfQJ8i_0",
+              "duration_sec": 415,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob/v/experimental-probability"
+            },
+            {
+              "title": "Theoretical and experimental probabilities",
+              "slug": "v/comparing-theoretical-to-experimental-probabilites",
+              "youtube_id": "tXlcE_K_C-Y",
+              "youtube_url": "https://www.youtube.com/watch?v=tXlcE_K_C-Y",
+              "duration_sec": 422,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/comparing-theoretical-to-experimental-probabilites"
+            },
+            {
+              "title": "Making predictions with probability ",
+              "slug": "v/making-predictions-with-probability",
+              "youtube_id": "8bK-xfh8-rY",
+              "youtube_url": "https://www.youtube.com/watch?v=8bK-xfh8-rY",
+              "duration_sec": 305,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/making-predictions-with-probability"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Randomness, probability, and simulation",
+          "slug": "randomness-probability-and-simulation",
+          "videos": [
+            {
+              "title": "Experimental versus theoretical probability simulation",
+              "slug": "v/experimental-versus-theoretical-probability-simulation",
+              "youtube_id": "Nos-xOCpQqg",
+              "youtube_url": "https://www.youtube.com/watch?v=Nos-xOCpQqg",
+              "duration_sec": 297,
+              "relative_url": "/math/ap-statistics/probability-ap/randomness-probability-simulation/v/experimental-versus-theoretical-probability-simulation"
+            },
+            {
+              "title": "Random number list to run experiment",
+              "slug": "v/random-number-list-to-run-experiment",
+              "youtube_id": "2AVLfSRpmfg",
+              "youtube_url": "https://www.youtube.com/watch?v=2AVLfSRpmfg",
+              "duration_sec": 451,
+              "relative_url": "/math/ap-statistics/probability-ap/randomness-probability-simulation/v/random-number-list-to-run-experiment"
+            },
+            {
+              "title": "Random numbers for experimental probability",
+              "slug": "v/random-numbers-for-experimental-probability",
+              "youtube_id": "vjGINFbV8Cs",
+              "youtube_url": "https://www.youtube.com/watch?v=vjGINFbV8Cs",
+              "duration_sec": 449,
+              "relative_url": "/math/ap-statistics/probability-ap/randomness-probability-simulation/v/random-numbers-for-experimental-probability"
+            },
+            {
+              "title": "Statistical significance of experiment",
+              "slug": "v/statistical-significance-experiment",
+              "youtube_id": "jLFeqQxGtOc",
+              "youtube_url": "https://www.youtube.com/watch?v=jLFeqQxGtOc",
+              "duration_sec": 484,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/xfb5d8e68:inference-experiments/v/statistical-significance-experiment"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Addition rule",
+          "slug": "addition-rule-lib",
+          "videos": [
+            {
+              "title": "Probability with Venn diagrams",
+              "slug": "v/probability-with-playing-cards-and-venn-diagrams",
+              "youtube_id": "obZzOq_wSCg",
+              "youtube_url": "https://www.youtube.com/watch?v=obZzOq_wSCg",
+              "duration_sec": 602,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:addition-rule-prob-precalc/v/probability-with-playing-cards-and-venn-diagrams"
+            },
+            {
+              "title": "Addition rule for probability",
+              "slug": "v/addition-rule-for-probability",
+              "youtube_id": "QE2uR6Z-NcU",
+              "youtube_url": "https://www.youtube.com/watch?v=QE2uR6Z-NcU",
+              "duration_sec": 643,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:addition-rule-prob-precalc/v/addition-rule-for-probability"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiplication rule for independent events",
+          "slug": "multiplication-rule-independent",
+          "videos": [
+            {
+              "title": "Sample spaces for compound events",
+              "slug": "v/compound-sample-spaces",
+              "youtube_id": "PR-A3UAO7_0",
+              "youtube_url": "https://www.youtube.com/watch?v=PR-A3UAO7_0",
+              "duration_sec": 550,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events/v/compound-sample-spaces"
+            },
+            {
+              "title": "Compound probability of independent events",
+              "slug": "v/compound-probability-of-independent-events",
+              "youtube_id": "xSc4oLA9e8o",
+              "youtube_url": "https://www.youtube.com/watch?v=xSc4oLA9e8o",
+              "duration_sec": 360,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:compound-probability-of-ind-events-using-mult-rule/v/compound-probability-of-independent-events"
+            },
+            {
+              "title": "Probability of a compound event",
+              "slug": "v/probability-from-compound-sample-space",
+              "youtube_id": "6zWPgvEMVlE",
+              "youtube_url": "https://www.youtube.com/watch?v=6zWPgvEMVlE",
+              "duration_sec": 303,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events/v/probability-from-compound-sample-space"
+            },
+            {
+              "title": "\"At least one\" probability with coin flipping",
+              "slug": "v/getting-at-least-one-heads",
+              "youtube_id": "mkyZ45KQYi4",
+              "youtube_url": "https://www.youtube.com/watch?v=mkyZ45KQYi4",
+              "duration_sec": 560,
+              "relative_url": "/math/ap-statistics/probability-ap/probability-multiplication-rule/v/getting-at-least-one-heads"
+            },
+            {
+              "title": "Free-throw probability",
+              "slug": "v/lebron-asks-about-the-chances-of-making-10-free-throws",
+              "youtube_id": "iMqCSgqzmiQ",
+              "youtube_url": "https://www.youtube.com/watch?v=iMqCSgqzmiQ",
+              "duration_sec": 425,
+              "relative_url": "/math/statistics-probability/probability-library/multiplication-rule-independent/v/lebron-asks-about-the-chances-of-making-10-free-throws"
+            },
+            {
+              "title": "Three-pointer vs free-throw probability",
+              "slug": "v/lebron-asks-about-free-throws-versus-three-pointers",
+              "youtube_id": "PddbEVNMgTY",
+              "youtube_url": "https://www.youtube.com/watch?v=PddbEVNMgTY",
+              "duration_sec": 347,
+              "relative_url": "/math/statistics-probability/probability-library/multiplication-rule-independent/v/lebron-asks-about-free-throws-versus-three-pointers"
+            },
+            {
+              "title": "Probability without equally likely events",
+              "slug": "v/frequency-probability-and-unfair-coins",
+              "youtube_id": "RI874OSJp1U",
+              "youtube_url": "https://www.youtube.com/watch?v=RI874OSJp1U",
+              "duration_sec": 538,
+              "relative_url": "/math/statistics-probability/probability-library/multiplication-rule-independent/v/frequency-probability-and-unfair-coins"
+            },
+            {
+              "title": "Independent events example: test taking",
+              "slug": "v/independent-events-2",
+              "youtube_id": "VWAfEbgf1Po",
+              "youtube_url": "https://www.youtube.com/watch?v=VWAfEbgf1Po",
+              "duration_sec": 284,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:compound-probability-of-ind-events-using-mult-rule/v/independent-events-2"
+            },
+            {
+              "title": "Die rolling probability with independent events",
+              "slug": "v/independent-events-3",
+              "youtube_id": "2MYA8Ba2PvM",
+              "youtube_url": "https://www.youtube.com/watch?v=2MYA8Ba2PvM",
+              "duration_sec": 148,
+              "relative_url": "/math/statistics-probability/probability-library/multiplication-rule-independent/v/independent-events-3"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Multiplication rule for dependent events",
+          "slug": "multiplication-rule-dependent",
+          "videos": [
+            {
+              "title": "Dependent probability introduction",
+              "slug": "v/introduction-to-dependent-probability",
+              "youtube_id": "VjLEoo3hIoM",
+              "youtube_url": "https://www.youtube.com/watch?v=VjLEoo3hIoM",
+              "duration_sec": 398,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:compound-probability-of-ind-events-using-mult-rule/v/introduction-to-dependent-probability"
+            },
+            {
+              "title": "Dependent probability: coins",
+              "slug": "v/dependent-probability-example-1",
+              "youtube_id": "xPUm5SUVzTE",
+              "youtube_url": "https://www.youtube.com/watch?v=xPUm5SUVzTE",
+              "duration_sec": 541,
+              "relative_url": "/math/statistics-probability/probability-library/multiplication-rule-dependent/v/dependent-probability-example-1"
+            },
+            {
+              "title": "Dependent probability example",
+              "slug": "v/dependent-probability-example-2",
+              "youtube_id": "7BkcNLOf56w",
+              "youtube_url": "https://www.youtube.com/watch?v=7BkcNLOf56w",
+              "duration_sec": 394,
+              "relative_url": "/math/statistics-probability/probability-library/multiplication-rule-dependent/v/dependent-probability-example-2"
+            },
+            {
+              "title": "Independent & dependent probability",
+              "slug": "v/independent-events-1",
+              "youtube_id": "Za7G_eWKiF4",
+              "youtube_url": "https://www.youtube.com/watch?v=Za7G_eWKiF4",
+              "duration_sec": 159,
+              "relative_url": "/math/statistics-probability/probability-library/multiplication-rule-dependent/v/independent-events-1"
+            },
+            {
+              "title": "Dependent probability",
+              "slug": "v/analyzing-dependent-probability",
+              "youtube_id": "8iKsY8C5VW8",
+              "youtube_url": "https://www.youtube.com/watch?v=8iKsY8C5VW8",
+              "duration_sec": 570,
+              "relative_url": "/math/statistics-probability/probability-library/multiplication-rule-dependent/v/analyzing-dependent-probability"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Conditional probability and independence",
+          "slug": "conditional-probability-independence",
+          "videos": [
+            {
+              "title": "Calculating conditional probability",
+              "slug": "v/calculating-conditional-probability",
+              "youtube_id": "6xPkG2pA-TU",
+              "youtube_url": "https://www.youtube.com/watch?v=6xPkG2pA-TU",
+              "duration_sec": 403,
+              "relative_url": "/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability"
+            },
+            {
+              "title": "Conditional probability explained visually",
+              "slug": "v/conditional-probability2",
+              "youtube_id": "KqCKZwh5WY8",
+              "youtube_url": "https://www.youtube.com/watch?v=KqCKZwh5WY8",
+              "duration_sec": 306,
+              "relative_url": "/math/statistics-probability/probability-library/conditional-probability-independence/v/conditional-probability2"
+            },
+            {
+              "title": "Conditional probability tree diagram example",
+              "slug": "v/conditional-probability-tree-diagram-example",
+              "youtube_id": "hxEdXUB_IdQ",
+              "youtube_url": "https://www.youtube.com/watch?v=hxEdXUB_IdQ",
+              "duration_sec": 644,
+              "relative_url": "/math/ap-statistics/probability-ap/stats-conditional-probability/v/conditional-probability-tree-diagram-example"
+            },
+            {
+              "title": "Conditional probability and independence",
+              "slug": "v/testing-independence-from-experimental-data",
+              "youtube_id": "pIfpHdGVwLU",
+              "youtube_url": "https://www.youtube.com/watch?v=pIfpHdGVwLU",
+              "duration_sec": 247,
+              "relative_url": "/math/ap-statistics/probability-ap/stats-conditional-probability/v/testing-independence-from-experimental-data"
+            },
+            {
+              "title": "Analyzing event probability for independence",
+              "slug": "v/independent-dependent-probability",
+              "youtube_id": "R-NeYKSEqns",
+              "youtube_url": "https://www.youtube.com/watch?v=R-NeYKSEqns",
+              "duration_sec": 408,
+              "relative_url": "/math/statistics-probability/probability-library/conditional-probability-independence/v/independent-dependent-probability"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Counting, permutations, and combinations",
+      "slug": "counting-permutations-and-combinations",
+      "relative_url": "/math/statistics-probability/counting-permutations-and-combinations",
+      "lessons": [
+        {
+          "title": "Counting principle and factorial",
+          "slug": "counting-principle-factorial",
+          "videos": [
+            {
+              "title": "Count outcomes using tree diagram",
+              "slug": "v/tree-diagram-to-count-outcomes",
+              "youtube_id": "Zxvc6iPKdec",
+              "youtube_url": "https://www.youtube.com/watch?v=Zxvc6iPKdec",
+              "duration_sec": 271,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events/v/tree-diagram-to-count-outcomes"
+            },
+            {
+              "title": "Counting outcomes: flower pots",
+              "slug": "v/counting-pot-and-flower-scenarios",
+              "youtube_id": "B_vAlneziHo",
+              "youtube_url": "https://www.youtube.com/watch?v=B_vAlneziHo",
+              "duration_sec": 155,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events/v/counting-pot-and-flower-scenarios"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Permutations",
+          "slug": "permutation-lib",
+          "videos": [
+            {
+              "title": "Permutation formula",
+              "slug": "v/permutation-formula",
+              "youtube_id": "DROZVHObeko",
+              "youtube_url": "https://www.youtube.com/watch?v=DROZVHObeko",
+              "duration_sec": 455,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/permutation-formula"
+            },
+            {
+              "title": "Zero factorial or  0!",
+              "slug": "v/zero-factorial-or-0",
+              "youtube_id": "HGoZfzz6dU0",
+              "youtube_url": "https://www.youtube.com/watch?v=HGoZfzz6dU0",
+              "duration_sec": 290,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/zero-factorial-or-0"
+            },
+            {
+              "title": "Factorial and counting seat arrangements",
+              "slug": "v/factorial-and-counting-seat-arrangements",
+              "youtube_id": "eoxbgUIYhHo",
+              "youtube_url": "https://www.youtube.com/watch?v=eoxbgUIYhHo",
+              "duration_sec": 333,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/factorial-and-counting-seat-arrangements"
+            },
+            {
+              "title": "Possible three letter words",
+              "slug": "v/possible-three-letter-words",
+              "youtube_id": "VYbqG2NuOo8",
+              "youtube_url": "https://www.youtube.com/watch?v=VYbqG2NuOo8",
+              "duration_sec": 339,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/possible-three-letter-words"
+            },
+            {
+              "title": "Ways to arrange colors",
+              "slug": "v/permutations-and-combinations-1",
+              "youtube_id": "oQpKtm5TtxU",
+              "youtube_url": "https://www.youtube.com/watch?v=oQpKtm5TtxU",
+              "duration_sec": 225,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/permutations-and-combinations-1"
+            },
+            {
+              "title": "Ways to pick officers",
+              "slug": "v/permutations-and-combinations-2",
+              "youtube_id": "v9NLtiVt3XY",
+              "youtube_url": "https://www.youtube.com/watch?v=v9NLtiVt3XY",
+              "duration_sec": 139,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/permutations-and-combinations-2"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Combinations",
+          "slug": "combinations-lib",
+          "videos": [
+            {
+              "title": "Intro to combinations",
+              "slug": "v/introduction-to-combinations",
+              "youtube_id": "iKy-d5_erhI",
+              "youtube_url": "https://www.youtube.com/watch?v=iKy-d5_erhI",
+              "duration_sec": 378,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinations/v/introduction-to-combinations"
+            },
+            {
+              "title": "Combination formula",
+              "slug": "v/combination-formula",
+              "youtube_id": "p8vIcmr_Pqo",
+              "youtube_url": "https://www.youtube.com/watch?v=p8vIcmr_Pqo",
+              "duration_sec": 677,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinations/v/combination-formula"
+            },
+            {
+              "title": "Handshaking combinations",
+              "slug": "v/handshaking-combinations",
+              "youtube_id": "boH4l1SgJbM",
+              "youtube_url": "https://www.youtube.com/watch?v=boH4l1SgJbM",
+              "duration_sec": 449,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinations/v/handshaking-combinations"
+            },
+            {
+              "title": "Combination example: 9 card hands",
+              "slug": "v/permutations-and-combinations-3",
+              "youtube_id": "SbpoyXTpC84",
+              "youtube_url": "https://www.youtube.com/watch?v=SbpoyXTpC84",
+              "duration_sec": 462,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinations/v/permutations-and-combinations-3"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Combinatorics and probability",
+          "slug": "combinatorics-probability",
+          "videos": [
+            {
+              "title": "Probability using combinations",
+              "slug": "v/probability-using-combinations",
+              "youtube_id": "Xqfcy1rqMbI",
+              "youtube_url": "https://www.youtube.com/watch?v=Xqfcy1rqMbI",
+              "duration_sec": 550,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:prob-combinatorics-precalc/v/probability-using-combinations"
+            },
+            {
+              "title": "Probability & combinations (2 of 2)",
+              "slug": "v/probability-and-combinations-part-2",
+              "youtube_id": "W7DmsJKLoxc",
+              "youtube_url": "https://www.youtube.com/watch?v=W7DmsJKLoxc",
+              "duration_sec": 636,
+              "relative_url": "/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/probability-and-combinations-part-2"
+            },
+            {
+              "title": "Example:  Different ways to pick officers",
+              "slug": "v/probability-of-dependent-events",
+              "youtube_id": "l9ft9jpriNA",
+              "youtube_url": "https://www.youtube.com/watch?v=l9ft9jpriNA",
+              "duration_sec": 143,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:prob-combinatorics-precalc/v/probability-of-dependent-events"
+            },
+            {
+              "title": "Example: Combinatorics and probability",
+              "slug": "v/probability-of-dependent-events-2",
+              "youtube_id": "ccrYD6iX_SY",
+              "youtube_url": "https://www.youtube.com/watch?v=ccrYD6iX_SY",
+              "duration_sec": 651,
+              "relative_url": "/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/probability-of-dependent-events-2"
+            },
+            {
+              "title": "Getting exactly two heads (combinatorics)",
+              "slug": "v/getting-exactly-two-heads-combinatorics",
+              "youtube_id": "8TIben0bJpU",
+              "youtube_url": "https://www.youtube.com/watch?v=8TIben0bJpU",
+              "duration_sec": 600,
+              "relative_url": "/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/getting-exactly-two-heads-combinatorics"
+            },
+            {
+              "title": "Exactly three heads in five flips",
+              "slug": "v/exactly-three-heads-in-five-flips",
+              "youtube_id": "udG9KhNMKJw",
+              "youtube_url": "https://www.youtube.com/watch?v=udG9KhNMKJw",
+              "duration_sec": 411,
+              "relative_url": "/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/exactly-three-heads-in-five-flips"
+            },
+            {
+              "title": "Generalizing with binomial coefficients (bit advanced)",
+              "slug": "v/generalizing-with-binomial-coefficients-bit-advanced",
+              "youtube_id": "AOsWph2FNLw",
+              "youtube_url": "https://www.youtube.com/watch?v=AOsWph2FNLw",
+              "duration_sec": 700,
+              "relative_url": "/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/generalizing-with-binomial-coefficients-bit-advanced"
+            },
+            {
+              "title": "Example:  Lottery probability",
+              "slug": "v/permutations-and-combinations-4",
+              "youtube_id": "DIjlllgq3dc",
+              "youtube_url": "https://www.youtube.com/watch?v=DIjlllgq3dc",
+              "duration_sec": 310,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:prob-combinatorics-precalc/v/permutations-and-combinations-4"
+            },
+            {
+              "title": "Conditional probability and combinations",
+              "slug": "v/conditional-probability-and-combinations",
+              "youtube_id": "xw6utjoyMi4",
+              "youtube_url": "https://www.youtube.com/watch?v=xw6utjoyMi4",
+              "duration_sec": 1012,
+              "relative_url": "/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/conditional-probability-and-combinations"
+            },
+            {
+              "title": "Mega millions jackpot probability",
+              "slug": "v/mega-millions-jackpot-probability",
+              "youtube_id": "gyqodNhM3EU",
+              "youtube_url": "https://www.youtube.com/watch?v=gyqodNhM3EU",
+              "duration_sec": 330,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:prob-combinatorics-precalc/v/mega-millions-jackpot-probability"
+            },
+            {
+              "title": "Birthday probability problem",
+              "slug": "v/birthday-probability-problem",
+              "youtube_id": "9G0w61pZPig",
+              "youtube_url": "https://www.youtube.com/watch?v=9G0w61pZPig",
+              "duration_sec": 796,
+              "relative_url": "/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/birthday-probability-problem"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Random variables",
+      "slug": "random-variables-stats-library",
+      "relative_url": "/math/statistics-probability/random-variables-stats-library",
+      "lessons": [
+        {
+          "title": "Discrete random variables",
+          "slug": "random-variables-discrete",
+          "videos": [
+            {
+              "title": "Random variables",
+              "slug": "v/random-variables",
+              "youtube_id": "3v9w79NhsfI",
+              "youtube_url": "https://www.youtube.com/watch?v=3v9w79NhsfI",
+              "duration_sec": 332,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables"
+            },
+            {
+              "title": "Discrete and continuous random variables",
+              "slug": "v/discrete-and-continuous-random-variables",
+              "youtube_id": "dOr0NKyD31Q",
+              "youtube_url": "https://www.youtube.com/watch?v=dOr0NKyD31Q",
+              "duration_sec": 717,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/discrete-and-continuous-random-variables"
+            },
+            {
+              "title": "Constructing a probability distribution for random variable",
+              "slug": "v/discrete-probability-distribution",
+              "youtube_id": "cqK3uRoPtk0",
+              "youtube_url": "https://www.youtube.com/watch?v=cqK3uRoPtk0",
+              "duration_sec": 408,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:probability-distributions-introduction/v/discrete-probability-distribution"
+            },
+            {
+              "title": "Probability models example: frozen yogurt",
+              "slug": "v/constructing-probability-model-from-observations",
+              "youtube_id": "BIpsQIJUCC8",
+              "youtube_url": "https://www.youtube.com/watch?v=BIpsQIJUCC8",
+              "duration_sec": 445,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/constructing-probability-model-from-observations"
+            },
+            {
+              "title": "Valid discrete probability distribution examples",
+              "slug": "v/valid-discrete-probability-distribution-examples",
+              "youtube_id": "uXtxKxYl1Iw",
+              "youtube_url": "https://www.youtube.com/watch?v=uXtxKxYl1Iw",
+              "duration_sec": 240,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:probability-distributions-introduction/v/valid-discrete-probability-distribution-examples"
+            },
+            {
+              "title": "Probability with discrete random variable example",
+              "slug": "v/example-analyzing-discrete-probability-distribution",
+              "youtube_id": "d2STHFVHGAg",
+              "youtube_url": "https://www.youtube.com/watch?v=d2STHFVHGAg",
+              "duration_sec": 230,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:probability-distributions-introduction/v/example-analyzing-discrete-probability-distribution"
+            },
+            {
+              "title": "Mean (expected value) of a discrete random variable",
+              "slug": "v/expected-value-of-a-discrete-random-variable",
+              "youtube_id": "qafPcWNUiM8",
+              "youtube_url": "https://www.youtube.com/watch?v=qafPcWNUiM8",
+              "duration_sec": 272,
+              "relative_url": "/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:expected-value/v/expected-value-of-a-discrete-random-variable"
+            },
+            {
+              "title": "Variance and standard deviation of a discrete random variable",
+              "slug": "v/variance-and-standard-deviation-of-a-discrete-random-variable",
+              "youtube_id": "2egl_5c8i-g",
+              "youtube_url": "https://www.youtube.com/watch?v=2egl_5c8i-g",
+              "duration_sec": 386,
+              "relative_url": "/math/ap-statistics/random-variables-ap/xfb5d8e68:mean-standard-deviation-random-variables/v/variance-and-standard-deviation-of-a-discrete-random-variable"
+            }
+          ],
+          "exercise_count": 6
+        },
+        {
+          "title": "Continuous random variables",
+          "slug": "random-variables-continuous",
+          "videos": [
+            {
+              "title": "Probability density functions",
+              "slug": "v/probability-density-functions",
+              "youtube_id": "Fvi9A_tEmXQ",
+              "youtube_url": "https://www.youtube.com/watch?v=Fvi9A_tEmXQ",
+              "duration_sec": 602,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions"
+            },
+            {
+              "title": "Probabilities from density curves",
+              "slug": "v/probabilities-from-density-curves",
+              "youtube_id": "3E8BO7VRMEA",
+              "youtube_url": "https://www.youtube.com/watch?v=3E8BO7VRMEA",
+              "duration_sec": 293,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/xfb5d8e68:the-normal-distribution-revisited/v/probabilities-from-density-curves"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Transforming random variables",
+          "slug": "transforming-random-variable",
+          "videos": [
+            {
+              "title": "Impact of transforming (scaling and shifting) random variables",
+              "slug": "v/impact-of-scaling-and-shifting-random-variables",
+              "youtube_id": "fx3TtExi9e8",
+              "youtube_url": "https://www.youtube.com/watch?v=fx3TtExi9e8",
+              "duration_sec": 386,
+              "relative_url": "/math/ap-statistics/random-variables-ap/transforming-random-variables/v/impact-of-scaling-and-shifting-random-variables"
+            },
+            {
+              "title": "Example: Transforming a discrete random variable",
+              "slug": "v/example-transforming-a-discrete-random-variable",
+              "youtube_id": "nb3m_Q7rfT4",
+              "youtube_url": "https://www.youtube.com/watch?v=nb3m_Q7rfT4",
+              "duration_sec": 250,
+              "relative_url": "/math/ap-statistics/random-variables-ap/transforming-random-variables/v/example-transforming-a-discrete-random-variable"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Combining random variables",
+          "slug": "combine-random-variables",
+          "videos": [
+            {
+              "title": "Mean of sum and difference of random variables",
+              "slug": "v/mean-of-sum-and-difference-of-random-variables",
+              "youtube_id": "RYSN1CARHtE",
+              "youtube_url": "https://www.youtube.com/watch?v=RYSN1CARHtE",
+              "duration_sec": 202,
+              "relative_url": "/math/ap-statistics/random-variables-ap/combining-random-variables/v/mean-of-sum-and-difference-of-random-variables"
+            },
+            {
+              "title": "Variance of sum and difference of random variables",
+              "slug": "v/variance-of-sum-and-difference-of-random-variables",
+              "youtube_id": "3VXhi_0Mclg",
+              "youtube_url": "https://www.youtube.com/watch?v=3VXhi_0Mclg",
+              "duration_sec": 487,
+              "relative_url": "/math/ap-statistics/random-variables-ap/combining-random-variables/v/variance-of-sum-and-difference-of-random-variables"
+            },
+            {
+              "title": "Intuition for why independence matters for variance of sum",
+              "slug": "v/intuition-for-why-independence-matters-for-variance-of-sum",
+              "youtube_id": "UAOJgqdsK9w",
+              "youtube_url": "https://www.youtube.com/watch?v=UAOJgqdsK9w",
+              "duration_sec": 263,
+              "relative_url": "/math/ap-statistics/random-variables-ap/combining-random-variables/v/intuition-for-why-independence-matters-for-variance-of-sum"
+            },
+            {
+              "title": "Deriving the variance of the difference of random variables",
+              "slug": "v/variance-of-differences-of-random-variables",
+              "youtube_id": "rLdoKZ7w0xI",
+              "youtube_url": "https://www.youtube.com/watch?v=rLdoKZ7w0xI",
+              "duration_sec": 647,
+              "relative_url": "/math/ap-statistics/random-variables-ap/combining-random-variables/v/variance-of-differences-of-random-variables"
+            },
+            {
+              "title": "Example: Analyzing distribution of sum of two normally distributed random variables",
+              "slug": "v/analyzing-distribution-of-sum-of-two-normally-distributed-random-variables",
+              "youtube_id": "Z6vANdo1L68",
+              "youtube_url": "https://www.youtube.com/watch?v=Z6vANdo1L68",
+              "duration_sec": 351,
+              "relative_url": "/math/ap-statistics/random-variables-ap/combining-random-variables/v/analyzing-distribution-of-sum-of-two-normally-distributed-random-variables"
+            },
+            {
+              "title": "Example: Analyzing the difference in distributions",
+              "slug": "v/analyzing-the-difference-in-distributions",
+              "youtube_id": "_Pq547nYFaE",
+              "youtube_url": "https://www.youtube.com/watch?v=_Pq547nYFaE",
+              "duration_sec": 585,
+              "relative_url": "/math/ap-statistics/random-variables-ap/combining-random-variables/v/analyzing-the-difference-in-distributions"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Binomial random variables",
+          "slug": "binomial-random-variables",
+          "videos": [
+            {
+              "title": "Binomial variables",
+              "slug": "v/binomial-variables",
+              "youtube_id": "yUDFir8oYl8",
+              "youtube_url": "https://www.youtube.com/watch?v=yUDFir8oYl8",
+              "duration_sec": 451,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-random-variable/v/binomial-variables"
+            },
+            {
+              "title": "Recognizing binomial variables",
+              "slug": "v/recognizing-binomial-variables",
+              "youtube_id": "ITtFw5PH-hs",
+              "youtube_url": "https://www.youtube.com/watch?v=ITtFw5PH-hs",
+              "duration_sec": 402,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-random-variable/v/recognizing-binomial-variables"
+            },
+            {
+              "title": "10% Rule of assuming \"independence\" between trials",
+              "slug": "v/10-percent-rule-independence",
+              "youtube_id": "elcLysy7exM",
+              "youtube_url": "https://www.youtube.com/watch?v=elcLysy7exM",
+              "duration_sec": 403,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-random-variable/v/10-percent-rule-independence"
+            },
+            {
+              "title": "Binomial distribution",
+              "slug": "v/binomial-distribution",
+              "youtube_id": "WWv0RUxDfbs",
+              "youtube_url": "https://www.youtube.com/watch?v=WWv0RUxDfbs",
+              "duration_sec": 712,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/binomial-random-variables/v/binomial-distribution"
+            },
+            {
+              "title": "Visualizing a binomial distribution",
+              "slug": "v/visualizing-a-binomial-distribution",
+              "youtube_id": "NF0lrkqXIkQ",
+              "youtube_url": "https://www.youtube.com/watch?v=NF0lrkqXIkQ",
+              "duration_sec": 567,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/binomial-random-variables/v/visualizing-a-binomial-distribution"
+            },
+            {
+              "title": "Binomial probability example",
+              "slug": "v/probability-of-making-2-shots-in-6-attempts",
+              "youtube_id": "Ctytn4a6zjw",
+              "youtube_url": "https://www.youtube.com/watch?v=Ctytn4a6zjw",
+              "duration_sec": 624,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-random-variable/v/probability-of-making-2-shots-in-6-attempts"
+            },
+            {
+              "title": "Generalizing k scores in n attempts",
+              "slug": "v/generalizing-k-scores-in-n-attempts",
+              "youtube_id": "efE8xuvUjAo",
+              "youtube_url": "https://www.youtube.com/watch?v=efE8xuvUjAo",
+              "duration_sec": 253,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-random-variable/v/generalizing-k-scores-in-n-attempts"
+            },
+            {
+              "title": "Free throw binomial probability distribution",
+              "slug": "v/free-throw-binomial-probability-distribution",
+              "youtube_id": "eL965_Lscb8",
+              "youtube_url": "https://www.youtube.com/watch?v=eL965_Lscb8",
+              "duration_sec": 519,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-random-variable/v/free-throw-binomial-probability-distribution"
+            },
+            {
+              "title": "Graphing basketball binomial distribution",
+              "slug": "v/graphing-basketball-binomial-distribution",
+              "youtube_id": "y2G03Lumhe0",
+              "youtube_url": "https://www.youtube.com/watch?v=y2G03Lumhe0",
+              "duration_sec": 262,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-random-variable/v/graphing-basketball-binomial-distribution"
+            },
+            {
+              "title": "Binompdf and binomcdf functions",
+              "slug": "v/ti-84-binompdf-and-binomcdf-functions",
+              "youtube_id": "IngLJs6T1Qw",
+              "youtube_url": "https://www.youtube.com/watch?v=IngLJs6T1Qw",
+              "duration_sec": 327,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-random-variable/v/ti-84-binompdf-and-binomcdf-functions"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Binomial mean and standard deviation formulas",
+          "slug": "binomial-mean-standard-dev-formulas",
+          "videos": [
+            {
+              "title": "Mean and variance of Bernoulli distribution example",
+              "slug": "v/mean-and-variance-of-bernoulli-distribution-example",
+              "youtube_id": "O8vB1eInP_8",
+              "youtube_url": "https://www.youtube.com/watch?v=O8vB1eInP_8",
+              "duration_sec": 500,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/binomial-mean-standard-dev-formulas/v/mean-and-variance-of-bernoulli-distribution-example"
+            },
+            {
+              "title": "Bernoulli distribution mean and variance formulas",
+              "slug": "v/bernoulli-distribution-mean-and-variance-formulas",
+              "youtube_id": "ry81_iSHt6E",
+              "youtube_url": "https://www.youtube.com/watch?v=ry81_iSHt6E",
+              "duration_sec": 419,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/binomial-mean-standard-dev-formulas/v/bernoulli-distribution-mean-and-variance-formulas"
+            },
+            {
+              "title": "Expected value of a binomial variable",
+              "slug": "v/expected-value-of-binomial-variable",
+              "youtube_id": "fjjhAm5trSM",
+              "youtube_url": "https://www.youtube.com/watch?v=fjjhAm5trSM",
+              "duration_sec": 393,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-mean-standard-deviation/v/expected-value-of-binomial-variable"
+            },
+            {
+              "title": "Variance of a binomial variable",
+              "slug": "v/variance-of-binomial-variable",
+              "youtube_id": "uudB5XiAYOw",
+              "youtube_url": "https://www.youtube.com/watch?v=uudB5XiAYOw",
+              "duration_sec": 411,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-mean-standard-deviation/v/variance-of-binomial-variable"
+            },
+            {
+              "title": "Finding the mean and standard deviation of a binomial random variable",
+              "slug": "v/finding-the-mean-and-standard-deviation-of-a-binomial-random-variable",
+              "youtube_id": "gro5b3PZ-Bw",
+              "youtube_url": "https://www.youtube.com/watch?v=gro5b3PZ-Bw",
+              "duration_sec": 302,
+              "relative_url": "/math/ap-statistics/random-variables-ap/binomial-mean-standard-deviation/v/finding-the-mean-and-standard-deviation-of-a-binomial-random-variable"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Geometric random variables",
+          "slug": "random-variables-geometric",
+          "videos": [
+            {
+              "title": "Geometric random variables introduction",
+              "slug": "v/geometric-random-variables-introduction",
+              "youtube_id": "IVlzp8g1McE",
+              "youtube_url": "https://www.youtube.com/watch?v=IVlzp8g1McE",
+              "duration_sec": 375,
+              "relative_url": "/math/ap-statistics/random-variables-ap/geometric-random-variable/v/geometric-random-variables-introduction"
+            },
+            {
+              "title": "Probability for a geometric random variable",
+              "slug": "v/probability-for-a-geometric-random-variable",
+              "youtube_id": "jKlgEvRFItE",
+              "youtube_url": "https://www.youtube.com/watch?v=jKlgEvRFItE",
+              "duration_sec": 171,
+              "relative_url": "/math/ap-statistics/random-variables-ap/geometric-random-variable/v/probability-for-a-geometric-random-variable"
+            },
+            {
+              "title": "Cumulative geometric probability (greater than a value)",
+              "slug": "v/cumulative-geometric-probability-greater-than-a-value",
+              "youtube_id": "7TYMKKQK8s8",
+              "youtube_url": "https://www.youtube.com/watch?v=7TYMKKQK8s8",
+              "duration_sec": 303,
+              "relative_url": "/math/ap-statistics/random-variables-ap/geometric-random-variable/v/cumulative-geometric-probability-greater-than-a-value"
+            },
+            {
+              "title": "Cumulative geometric probability (less than a value)",
+              "slug": "v/cumulative-geometric-probability-less-than-a-value",
+              "youtube_id": "nxUP4lJ_hbU",
+              "youtube_url": "https://www.youtube.com/watch?v=nxUP4lJ_hbU",
+              "duration_sec": 247,
+              "relative_url": "/math/ap-statistics/random-variables-ap/geometric-random-variable/v/cumulative-geometric-probability-less-than-a-value"
+            },
+            {
+              "title": "TI-84 geometpdf and geometcdf functions",
+              "slug": "v/ti-84-geometpdf-and-geometcdf-functions",
+              "youtube_id": "RMf0F72I7dY",
+              "youtube_url": "https://www.youtube.com/watch?v=RMf0F72I7dY",
+              "duration_sec": 348,
+              "relative_url": "/math/ap-statistics/random-variables-ap/geometric-random-variable/v/ti-84-geometpdf-and-geometcdf-functions"
+            },
+            {
+              "title": "Proof of expected value of geometric random variable",
+              "slug": "v/proof-of-expected-value-of-geometric-random-variable",
+              "youtube_id": "7br_-emGNec",
+              "youtube_url": "https://www.youtube.com/watch?v=7br_-emGNec",
+              "duration_sec": 439,
+              "relative_url": "/math/ap-statistics/random-variables-ap/geometric-random-variable/v/proof-of-expected-value-of-geometric-random-variable"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "More on expected value",
+          "slug": "expected-value-lib",
+          "videos": [
+            {
+              "title": "Term life insurance and death probability",
+              "slug": "v/term-life-insurance-and-death-probability",
+              "youtube_id": "NSSoMafbBqQ",
+              "youtube_url": "https://www.youtube.com/watch?v=NSSoMafbBqQ",
+              "duration_sec": 262,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/term-life-insurance-and-death-probability"
+            },
+            {
+              "title": "Getting data from expected value",
+              "slug": "v/empirical-data-expected-value",
+              "youtube_id": "gHpl5UcgRkI",
+              "youtube_url": "https://www.youtube.com/watch?v=gHpl5UcgRkI",
+              "duration_sec": 592,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/empirical-data-expected-value"
+            },
+            {
+              "title": "Expected profit from lottery ticket",
+              "slug": "v/expected-value-profit-lottery-ticket",
+              "youtube_id": "6vlBOHckmzU",
+              "youtube_url": "https://www.youtube.com/watch?v=6vlBOHckmzU",
+              "duration_sec": 558,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/expected-value-profit-lottery-ticket"
+            },
+            {
+              "title": "Expected value while fishing",
+              "slug": "v/expected-value-wager",
+              "youtube_id": "86nb02Bx_5w",
+              "youtube_url": "https://www.youtube.com/watch?v=86nb02Bx_5w",
+              "duration_sec": 504,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/expected-value-wager"
+            },
+            {
+              "title": "Comparing insurance with expected value",
+              "slug": "v/expected-value-insurance",
+              "youtube_id": "BveA7JiRGS8",
+              "youtube_url": "https://www.youtube.com/watch?v=BveA7JiRGS8",
+              "duration_sec": 556,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/expected-value-insurance"
+            },
+            {
+              "title": "Law of large numbers",
+              "slug": "v/law-of-large-numbers",
+              "youtube_id": "VpuN8vCQ--M",
+              "youtube_url": "https://www.youtube.com/watch?v=VpuN8vCQ--M",
+              "duration_sec": 539,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/law-of-large-numbers"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Poisson distribution",
+          "slug": "poisson-distribution",
+          "videos": [
+            {
+              "title": "Poisson process 1",
+              "slug": "v/poisson-process-1",
+              "youtube_id": "3z-M6sbGIZ0",
+              "youtube_url": "https://www.youtube.com/watch?v=3z-M6sbGIZ0",
+              "duration_sec": 661,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/poisson-distribution/v/poisson-process-1"
+            },
+            {
+              "title": "Poisson process 2",
+              "slug": "v/poisson-process-2",
+              "youtube_id": "Jkr4FSrNEVY",
+              "youtube_url": "https://www.youtube.com/watch?v=Jkr4FSrNEVY",
+              "duration_sec": 761,
+              "relative_url": "/math/statistics-probability/random-variables-stats-library/poisson-distribution/v/poisson-process-2"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Sampling distributions",
+      "slug": "sampling-distributions-library",
+      "relative_url": "/math/statistics-probability/sampling-distributions-library",
+      "lessons": [
+        {
+          "title": "What is a sampling distribution?",
+          "slug": "what-is-a-sampling-distribution",
+          "videos": [
+            {
+              "title": "Introduction to sampling distributions",
+              "slug": "v/introduction-to-sampling-distributions",
+              "youtube_id": "z0Ry_3_qhDw",
+              "youtube_url": "https://www.youtube.com/watch?v=z0Ry_3_qhDw",
+              "duration_sec": 438,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/introduction-to-sampling-distributions"
+            },
+            {
+              "title": "Sample statistic bias worked example",
+              "slug": "v/sample-statistic-bias-worked-example",
+              "youtube_id": "SRwMfEmKx3A",
+              "youtube_url": "https://www.youtube.com/watch?v=SRwMfEmKx3A",
+              "duration_sec": 171,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/xfb5d8e68:biased-and-unbiased-point-estimates/v/sample-statistic-bias-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Sampling distribution of a sample proportion",
+          "slug": "sample-proportions",
+          "videos": [
+            {
+              "title": "Sampling distribution of sample proportion part 1",
+              "slug": "v/sampling-distribution-of-sample-proportion-part-1",
+              "youtube_id": "Br067hrasc8",
+              "youtube_url": "https://www.youtube.com/watch?v=Br067hrasc8",
+              "duration_sec": 597,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/sampling-distribution-proportion/v/sampling-distribution-of-sample-proportion-part-1"
+            },
+            {
+              "title": "Sampling distribution of sample proportion part 2",
+              "slug": "v/sampling-distribution-of-sample-proportion-part-2",
+              "youtube_id": "ftYKMNfFcI8",
+              "youtube_url": "https://www.youtube.com/watch?v=ftYKMNfFcI8",
+              "duration_sec": 274,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/sampling-distribution-proportion/v/sampling-distribution-of-sample-proportion-part-2"
+            },
+            {
+              "title": "Normal conditions for sampling distributions of sample proportions",
+              "slug": "v/normal-conditions-for-sampling-distributions-of-sample-proportions",
+              "youtube_id": "L7AX2RcbqCg",
+              "youtube_url": "https://www.youtube.com/watch?v=L7AX2RcbqCg",
+              "duration_sec": 377,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/sampling-distribution-proportion/v/normal-conditions-for-sampling-distributions-of-sample-proportions"
+            },
+            {
+              "title": "Probability of sample proportions example",
+              "slug": "v/probability-of-sample-proportions-example",
+              "youtube_id": "BkRJJsHoRdw",
+              "youtube_url": "https://www.youtube.com/watch?v=BkRJJsHoRdw",
+              "duration_sec": 455,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/sampling-distribution-proportion/v/probability-of-sample-proportions-example"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Sampling distribution of a sample mean",
+          "slug": "sample-means",
+          "videos": [
+            {
+              "title": "Inferring population mean from sample mean",
+              "slug": "v/statistics-sample-vs-population-mean",
+              "youtube_id": "k5EbijWu-Ss",
+              "youtube_url": "https://www.youtube.com/watch?v=k5EbijWu-Ss",
+              "duration_sec": 603,
+              "relative_url": "/math/statistics-probability/sampling-distributions-library/sample-means/v/statistics-sample-vs-population-mean"
+            },
+            {
+              "title": "Central limit theorem",
+              "slug": "v/central-limit-theorem",
+              "youtube_id": "JNm3M9cqWyc",
+              "youtube_url": "https://www.youtube.com/watch?v=JNm3M9cqWyc",
+              "duration_sec": 589,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/central-limit-theorem"
+            },
+            {
+              "title": "Sampling distribution of the sample mean",
+              "slug": "v/sampling-distribution-of-the-sample-mean",
+              "youtube_id": "FXZ2O1Lv-KE",
+              "youtube_url": "https://www.youtube.com/watch?v=FXZ2O1Lv-KE",
+              "duration_sec": 652,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/sampling-distribution-of-the-sample-mean"
+            },
+            {
+              "title": "Sampling distribution of the sample mean (part 2)",
+              "slug": "v/sampling-distribution-of-the-sample-mean-2",
+              "youtube_id": "NYd6wzYkQIM",
+              "youtube_url": "https://www.youtube.com/watch?v=NYd6wzYkQIM",
+              "duration_sec": 800,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/sampling-distribution-of-the-sample-mean-2"
+            },
+            {
+              "title": "Standard error of the mean",
+              "slug": "v/standard-error-of-the-mean",
+              "youtube_id": "J1twbrHel3o",
+              "youtube_url": "https://www.youtube.com/watch?v=J1twbrHel3o",
+              "duration_sec": 915,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/sampling-distribution-mean/v/standard-error-of-the-mean"
+            },
+            {
+              "title": "Example: Probability of sample mean exceeding a value",
+              "slug": "v/sampling-distribution-example-problem",
+              "youtube_id": "0ZstEh_8bYc",
+              "youtube_url": "https://www.youtube.com/watch?v=0ZstEh_8bYc",
+              "duration_sec": 868,
+              "relative_url": "/math/ap-statistics/sampling-distribution-ap/sampling-distribution-mean/v/sampling-distribution-example-problem"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Confidence intervals",
+      "slug": "confidence-intervals-one-sample",
+      "relative_url": "/math/statistics-probability/confidence-intervals-one-sample",
+      "lessons": [
+        {
+          "title": "Introduction to confidence intervals",
+          "slug": "introduction-to-confidence-intervals",
+          "videos": [
+            {
+              "title": "Confidence intervals and margin of error",
+              "slug": "v/confidence-intervals-and-margin-of-error",
+              "youtube_id": "hlM7zdf7zwU",
+              "youtube_url": "https://www.youtube.com/watch?v=hlM7zdf7zwU",
+              "duration_sec": 705,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/introduction-confidence-intervals/v/confidence-intervals-and-margin-of-error"
+            },
+            {
+              "title": "Confidence interval simulation",
+              "slug": "v/confidence-interval-simulation",
+              "youtube_id": "bGALoCckICI",
+              "youtube_url": "https://www.youtube.com/watch?v=bGALoCckICI",
+              "duration_sec": 265,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/introduction-confidence-intervals/v/confidence-interval-simulation"
+            },
+            {
+              "title": "Interpreting confidence level example",
+              "slug": "v/interpreting-confidence-intervals-example",
+              "youtube_id": "XZAGtQt-lQo",
+              "youtube_url": "https://www.youtube.com/watch?v=XZAGtQt-lQo",
+              "duration_sec": 300,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/introduction-confidence-intervals/v/interpreting-confidence-intervals-example"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Estimating a population proportion",
+          "slug": "estimating-population-proportion",
+          "videos": [
+            {
+              "title": "Confidence interval example",
+              "slug": "v/confidence-interval-example",
+              "youtube_id": "SeQeYVJZ2gE",
+              "youtube_url": "https://www.youtube.com/watch?v=SeQeYVJZ2gE",
+              "duration_sec": 1116,
+              "relative_url": "/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion/v/confidence-interval-example"
+            },
+            {
+              "title": "Margin of error 1",
+              "slug": "v/margin-of-error-1",
+              "youtube_id": "OwPSuHXmiPw",
+              "youtube_url": "https://www.youtube.com/watch?v=OwPSuHXmiPw",
+              "duration_sec": 902,
+              "relative_url": "/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion/v/margin-of-error-1"
+            },
+            {
+              "title": "Margin of error 2",
+              "slug": "v/margin-of-error-2",
+              "youtube_id": "YclQE2XtaLw",
+              "youtube_url": "https://www.youtube.com/watch?v=YclQE2XtaLw",
+              "duration_sec": 605,
+              "relative_url": "/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion/v/margin-of-error-2"
+            },
+            {
+              "title": "Conditions for valid confidence intervals for a proportion",
+              "slug": "v/conditions-for-valid-confidence-intervals",
+              "youtube_id": "8E8YQY5qE3s",
+              "youtube_url": "https://www.youtube.com/watch?v=8E8YQY5qE3s",
+              "duration_sec": 404,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/one-sample-z-interval-proportion/v/conditions-for-valid-confidence-intervals"
+            },
+            {
+              "title": "Conditions for confidence interval for a proportion worked examples",
+              "slug": "v/conditions-for-confidence-intervals-worked-examples",
+              "youtube_id": "PwMqupyG4D0",
+              "youtube_url": "https://www.youtube.com/watch?v=PwMqupyG4D0",
+              "duration_sec": 294,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/one-sample-z-interval-proportion/v/conditions-for-confidence-intervals-worked-examples"
+            },
+            {
+              "title": "Critical value (z*) for a given confidence level",
+              "slug": "v/critical-value-for-a-given-confidence-level",
+              "youtube_id": "VILsYH84HJE",
+              "youtube_url": "https://www.youtube.com/watch?v=VILsYH84HJE",
+              "duration_sec": 382,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/one-sample-z-interval-proportion/v/critical-value-for-a-given-confidence-level"
+            },
+            {
+              "title": "Example constructing and interpreting a confidence interval for p",
+              "slug": "v/example-calculating-confidence-interval",
+              "youtube_id": "sjG9Ns_8x6c",
+              "youtube_url": "https://www.youtube.com/watch?v=sjG9Ns_8x6c",
+              "duration_sec": 395,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/one-sample-z-interval-proportion/v/example-calculating-confidence-interval"
+            },
+            {
+              "title": "Determining sample size based on confidence and margin of error",
+              "slug": "v/determining-sample-size-based-on-confidence-and-margin-of-error",
+              "youtube_id": "VyFs7fsWE6w",
+              "youtube_url": "https://www.youtube.com/watch?v=VyFs7fsWE6w",
+              "duration_sec": 481,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/one-sample-z-interval-proportion/v/determining-sample-size-based-on-confidence-and-margin-of-error"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Estimating a population mean",
+          "slug": "estimating-population-mean",
+          "videos": [
+            {
+              "title": "Introduction to t statistics",
+              "slug": "v/introduction-to-t-statistics",
+              "youtube_id": "a2rd4Qy8yNI",
+              "youtube_url": "https://www.youtube.com/watch?v=a2rd4Qy8yNI",
+              "duration_sec": 266,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/one-sample-t-interval-mean/v/introduction-to-t-statistics"
+            },
+            {
+              "title": "Simulation showing value of t statistic",
+              "slug": "v/simulation-showing-value-of-t-statistic",
+              "youtube_id": "gLE6y_NwmhQ",
+              "youtube_url": "https://www.youtube.com/watch?v=gLE6y_NwmhQ",
+              "duration_sec": 194,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/one-sample-t-interval-mean/v/simulation-showing-value-of-t-statistic"
+            },
+            {
+              "title": "Conditions for valid t intervals",
+              "slug": "v/conditions-for-valid-t-intervals",
+              "youtube_id": "WPxnNjD_yoU",
+              "youtube_url": "https://www.youtube.com/watch?v=WPxnNjD_yoU",
+              "duration_sec": 294,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/one-sample-t-interval-mean/v/conditions-for-valid-t-intervals"
+            },
+            {
+              "title": "Example finding critical t value",
+              "slug": "v/example-finding-critical-t-value",
+              "youtube_id": "mLh_FPwMdcY",
+              "youtube_url": "https://www.youtube.com/watch?v=mLh_FPwMdcY",
+              "duration_sec": 239,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/one-sample-t-interval-mean/v/example-finding-critical-t-value"
+            },
+            {
+              "title": "Example constructing a t interval for a mean",
+              "slug": "v/calculating-a-one-sample-t-interval-for-a-mean",
+              "youtube_id": "6G3jMjAqNqM",
+              "youtube_url": "https://www.youtube.com/watch?v=6G3jMjAqNqM",
+              "duration_sec": 358,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/one-sample-t-interval-mean/v/calculating-a-one-sample-t-interval-for-a-mean"
+            },
+            {
+              "title": "Confidence interval for a mean with paired data",
+              "slug": "v/confidence-interval-for-a-mean-difference",
+              "youtube_id": "gWaA8mVBZQk",
+              "youtube_url": "https://www.youtube.com/watch?v=gWaA8mVBZQk",
+              "duration_sec": 586,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/one-sample-t-interval-mean/v/confidence-interval-for-a-mean-difference"
+            },
+            {
+              "title": "Sample size for a given margin of error for a mean",
+              "slug": "v/sample-size-for-a-given-margin-of-error-for-a-mean",
+              "youtube_id": "FSVDJoHZ3rM",
+              "youtube_url": "https://www.youtube.com/watch?v=FSVDJoHZ3rM",
+              "duration_sec": 462,
+              "relative_url": "/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/sample-size-for-a-given-margin-of-error-for-a-mean"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "More confidence interval videos",
+          "slug": "old-confidence-interval-videos",
+          "videos": [
+            {
+              "title": "T-statistic confidence interval",
+              "slug": "v/t-statistic-confidence-interval",
+              "youtube_id": "hV4pdjHCKuA",
+              "youtube_url": "https://www.youtube.com/watch?v=hV4pdjHCKuA",
+              "duration_sec": 707,
+              "relative_url": "/math/statistics-probability/confidence-intervals-one-sample/old-confidence-interval-videos/v/t-statistic-confidence-interval"
+            },
+            {
+              "title": "Small sample size confidence intervals",
+              "slug": "v/small-sample-size-confidence-intervals",
+              "youtube_id": "K4KDLWENXm0",
+              "youtube_url": "https://www.youtube.com/watch?v=K4KDLWENXm0",
+              "duration_sec": 671,
+              "relative_url": "/math/statistics-probability/confidence-intervals-one-sample/old-confidence-interval-videos/v/small-sample-size-confidence-intervals"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Significance tests (hypothesis testing)",
+      "slug": "significance-tests-one-sample",
+      "relative_url": "/math/statistics-probability/significance-tests-one-sample",
+      "lessons": [
+        {
+          "title": "The idea of significance tests",
+          "slug": "idea-of-significance-tests",
+          "videos": [
+            {
+              "title": "Simple hypothesis testing",
+              "slug": "v/simple-hypothesis-testing",
+              "youtube_id": "5D1gV37bKXY",
+              "youtube_url": "https://www.youtube.com/watch?v=5D1gV37bKXY",
+              "duration_sec": 385,
+              "relative_url": "/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/simple-hypothesis-testing"
+            },
+            {
+              "title": "Idea behind hypothesis testing",
+              "slug": "v/idea-behind-hypothesis-testing",
+              "youtube_id": "dpGmVV0-4jc",
+              "youtube_url": "https://www.youtube.com/watch?v=dpGmVV0-4jc",
+              "duration_sec": 469,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/idea-significance-tests/v/idea-behind-hypothesis-testing"
+            },
+            {
+              "title": "Examples of null and alternative hypotheses",
+              "slug": "v/examples-of-null-and-alternative-hypotheses",
+              "youtube_id": "_3_6wjycJdk",
+              "youtube_url": "https://www.youtube.com/watch?v=_3_6wjycJdk",
+              "duration_sec": 342,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/idea-significance-tests/v/examples-of-null-and-alternative-hypotheses"
+            },
+            {
+              "title": "P-values and significance tests",
+              "slug": "v/p-values-and-significance-tests",
+              "youtube_id": "KS6KEWaoOOE",
+              "youtube_url": "https://www.youtube.com/watch?v=KS6KEWaoOOE",
+              "duration_sec": 478,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/idea-significance-tests/v/p-values-and-significance-tests"
+            },
+            {
+              "title": "Comparing P-values to different significance levels",
+              "slug": "v/comparing-p-value-diff-significance-levels",
+              "youtube_id": "DQCF4kTXf9Q",
+              "youtube_url": "https://www.youtube.com/watch?v=DQCF4kTXf9Q",
+              "duration_sec": 281,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/idea-significance-tests/v/comparing-p-value-diff-significance-levels"
+            },
+            {
+              "title": "Estimating a P-value from a simulation",
+              "slug": "v/estimating-p-value-from-simulation",
+              "youtube_id": "hNDlqAYRDyg",
+              "youtube_url": "https://www.youtube.com/watch?v=hNDlqAYRDyg",
+              "duration_sec": 285,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/idea-significance-tests/v/estimating-p-value-from-simulation"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Error probabilities and power",
+          "slug": "error-probabilities-and-power",
+          "videos": [
+            {
+              "title": "Introduction to Type I and Type II errors",
+              "slug": "v/introduction-to-type-i-and-type-ii-errors",
+              "youtube_id": "Hdbbx7DIweQ",
+              "youtube_url": "https://www.youtube.com/watch?v=Hdbbx7DIweQ",
+              "duration_sec": 303,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/error-probabilities-power/v/introduction-to-type-i-and-type-ii-errors"
+            },
+            {
+              "title": "Type 1 errors",
+              "slug": "v/type-1-errors",
+              "youtube_id": "EowIec7Y8HM",
+              "youtube_url": "https://www.youtube.com/watch?v=EowIec7Y8HM",
+              "duration_sec": 204,
+              "relative_url": "/math/statistics-probability/significance-tests-one-sample/error-probabilities-and-power/v/type-1-errors"
+            },
+            {
+              "title": "Examples identifying Type I and Type II errors",
+              "slug": "v/examples-identifying-type-i-and-type-ii-errors",
+              "youtube_id": "JNOWWJeZBTc",
+              "youtube_url": "https://www.youtube.com/watch?v=JNOWWJeZBTc",
+              "duration_sec": 344,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/error-probabilities-power/v/examples-identifying-type-i-and-type-ii-errors"
+            },
+            {
+              "title": "Introduction to power in significance tests",
+              "slug": "v/introduction-to-power-in-significance-tests",
+              "youtube_id": "6_Cuz0QqRWc",
+              "youtube_url": "https://www.youtube.com/watch?v=6_Cuz0QqRWc",
+              "duration_sec": 585,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/error-probabilities-power/v/introduction-to-power-in-significance-tests"
+            },
+            {
+              "title": "Examples thinking about power in significance tests",
+              "slug": "v/examples-thinking-about-power-in-significance-tests",
+              "youtube_id": "XnYUFgfbvm4",
+              "youtube_url": "https://www.youtube.com/watch?v=XnYUFgfbvm4",
+              "duration_sec": 262,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/error-probabilities-power/v/examples-thinking-about-power-in-significance-tests"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Tests about a population proportion",
+          "slug": "tests-about-population-proportion",
+          "videos": [
+            {
+              "title": "Constructing hypotheses for a significance test about a proportion",
+              "slug": "v/constructing-hypotheses-for-a-significance-test",
+              "youtube_id": "8MJvK26PwSo",
+              "youtube_url": "https://www.youtube.com/watch?v=8MJvK26PwSo",
+              "duration_sec": 256,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/one-sample-z-test-proportion/v/constructing-hypotheses-for-a-significance-test"
+            },
+            {
+              "title": "Conditions for a z test about a proportion",
+              "slug": "v/conditions-for-a-z-test-about-a-proportion",
+              "youtube_id": "5JlJ4Qfk8g4",
+              "youtube_url": "https://www.youtube.com/watch?v=5JlJ4Qfk8g4",
+              "duration_sec": 333,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/one-sample-z-test-proportion/v/conditions-for-a-z-test-about-a-proportion"
+            },
+            {
+              "title": "Calculating a z statistic in a test about a proportion",
+              "slug": "v/calculating-a-z-statistic-in-a-significance-test",
+              "youtube_id": "DfpFfIdwcIo",
+              "youtube_url": "https://www.youtube.com/watch?v=DfpFfIdwcIo",
+              "duration_sec": 291,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/xfb5d8e68:carrying-out-test-proportion/v/calculating-a-z-statistic-in-a-significance-test"
+            },
+            {
+              "title": "Calculating a P-value given a z statistic",
+              "slug": "v/calculating-p-value-from-z-table",
+              "youtube_id": "NNpv-n_Hbvc",
+              "youtube_url": "https://www.youtube.com/watch?v=NNpv-n_Hbvc",
+              "duration_sec": 327,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/xfb5d8e68:carrying-out-test-proportion/v/calculating-p-value-from-z-table"
+            },
+            {
+              "title": "Making conclusions in a test about a proportion",
+              "slug": "v/comparing-p-value-to-significance-level-example",
+              "youtube_id": "RcjZwZJO5qo",
+              "youtube_url": "https://www.youtube.com/watch?v=RcjZwZJO5qo",
+              "duration_sec": 314,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/xfb5d8e68:concluding-test-proportion/v/comparing-p-value-to-significance-level-example"
+            }
+          ],
+          "exercise_count": 5
+        },
+        {
+          "title": "Tests about a population mean",
+          "slug": "tests-about-population-mean",
+          "videos": [
+            {
+              "title": "Writing hypotheses for a significance test about a mean",
+              "slug": "v/writing-hypotheses-for-significance-test-about-means",
+              "youtube_id": "89Dp9Xq4eaA",
+              "youtube_url": "https://www.youtube.com/watch?v=89Dp9Xq4eaA",
+              "duration_sec": 154,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/one-sample-t-test-mean/v/writing-hypotheses-for-significance-test-about-means"
+            },
+            {
+              "title": "Conditions for a t test about a mean",
+              "slug": "v/conditions-t-test-mean",
+              "youtube_id": "GtokpL4f32s",
+              "youtube_url": "https://www.youtube.com/watch?v=GtokpL4f32s",
+              "duration_sec": 348,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/one-sample-t-test-mean/v/conditions-t-test-mean"
+            },
+            {
+              "title": "When to use z or t statistics in significance tests",
+              "slug": "v/when-to-use-z-or-t-statistics-in-significance-tests",
+              "youtube_id": "-bhfcBvyWoc",
+              "youtube_url": "https://www.youtube.com/watch?v=-bhfcBvyWoc",
+              "duration_sec": 291,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/xfb5d8e68:carrying-out-test-mean/v/when-to-use-z-or-t-statistics-in-significance-tests"
+            },
+            {
+              "title": "Example calculating t statistic for a test about a mean",
+              "slug": "v/example-calculating-t-statistic-for-signficance-test",
+              "youtube_id": "BJl9WA787-Q",
+              "youtube_url": "https://www.youtube.com/watch?v=BJl9WA787-Q",
+              "duration_sec": 302,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/xfb5d8e68:carrying-out-test-mean/v/example-calculating-t-statistic-for-signficance-test"
+            },
+            {
+              "title": "Using TI calculator for P-value from t statistic",
+              "slug": "v/using-ti-calculator-for-p-value-from-t-statistic",
+              "youtube_id": "M2P96TJMEaM",
+              "youtube_url": "https://www.youtube.com/watch?v=M2P96TJMEaM",
+              "duration_sec": 199,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/xfb5d8e68:carrying-out-test-mean/v/using-ti-calculator-for-p-value-from-t-statistic"
+            },
+            {
+              "title": "Using a table to estimate P-value from t statistic",
+              "slug": "v/calculating-p-value-from-t-statistic",
+              "youtube_id": "z-HSsVARNnk",
+              "youtube_url": "https://www.youtube.com/watch?v=z-HSsVARNnk",
+              "duration_sec": 293,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/xfb5d8e68:carrying-out-test-mean/v/calculating-p-value-from-t-statistic"
+            },
+            {
+              "title": "Comparing P-value from t statistic to significance level",
+              "slug": "v/comparing-p-value-from-t-statistic-to-significance-level",
+              "youtube_id": "I5WSC_iRtwE",
+              "youtube_url": "https://www.youtube.com/watch?v=I5WSC_iRtwE",
+              "duration_sec": 219,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:inference-quantitative-means/xfb5d8e68:carrying-out-test-mean/v/comparing-p-value-from-t-statistic-to-significance-level"
+            },
+            {
+              "title": "Free response example: Significance test for a mean",
+              "slug": "v/ap-statistics-free-response-on-significance-test-for-mean",
+              "youtube_id": "8nCsnsD8Fnw",
+              "youtube_url": "https://www.youtube.com/watch?v=8nCsnsD8Fnw",
+              "duration_sec": 713,
+              "relative_url": "/math/ap-statistics/xfb5d8e68:prepare-for-the-2022-ap-statistics-exam/prepare-for-ap-stats-exam/v/ap-statistics-free-response-on-significance-test-for-mean"
+            }
+          ],
+          "exercise_count": 5
+        },
+        {
+          "title": "More significance testing videos",
+          "slug": "more-significance-testing-videos",
+          "videos": [
+            {
+              "title": "Hypothesis testing and p-values",
+              "slug": "v/hypothesis-testing-and-p-values",
+              "youtube_id": "-FtlH4svqx4",
+              "youtube_url": "https://www.youtube.com/watch?v=-FtlH4svqx4",
+              "duration_sec": 686,
+              "relative_url": "/math/statistics-probability/significance-tests-one-sample/more-significance-testing-videos/v/hypothesis-testing-and-p-values"
+            },
+            {
+              "title": "One-tailed and two-tailed tests",
+              "slug": "v/one-tailed-and-two-tailed-tests",
+              "youtube_id": "mvye6X_0upA",
+              "youtube_url": "https://www.youtube.com/watch?v=mvye6X_0upA",
+              "duration_sec": 394,
+              "relative_url": "/math/statistics-probability/significance-tests-one-sample/more-significance-testing-videos/v/one-tailed-and-two-tailed-tests"
+            },
+            {
+              "title": "Z-statistics vs. T-statistics",
+              "slug": "v/z-statistics-vs-t-statistics",
+              "youtube_id": "5ABpqVSx33I",
+              "youtube_url": "https://www.youtube.com/watch?v=5ABpqVSx33I",
+              "duration_sec": 399,
+              "relative_url": "/math/statistics-probability/significance-tests-one-sample/more-significance-testing-videos/v/z-statistics-vs-t-statistics"
+            },
+            {
+              "title": "Small sample hypothesis test",
+              "slug": "v/small-sample-hypothesis-test",
+              "youtube_id": "D2sMsmL0ScQ",
+              "youtube_url": "https://www.youtube.com/watch?v=D2sMsmL0ScQ",
+              "duration_sec": 544,
+              "relative_url": "/math/statistics-probability/significance-tests-one-sample/more-significance-testing-videos/v/small-sample-hypothesis-test"
+            },
+            {
+              "title": "Large sample proportion hypothesis testing",
+              "slug": "v/large-sample-proportion-hypothesis-testing",
+              "youtube_id": "1JT9oODsClE",
+              "youtube_url": "https://www.youtube.com/watch?v=1JT9oODsClE",
+              "duration_sec": 870,
+              "relative_url": "/math/statistics-probability/significance-tests-one-sample/more-significance-testing-videos/v/large-sample-proportion-hypothesis-testing"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Two-sample inference for the difference between groups",
+      "slug": "significance-tests-confidence-intervals-two-samples",
+      "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples",
+      "lessons": [
+        {
+          "title": "Comparing two proportions",
+          "slug": "comparing-two-proportions",
+          "videos": [
+            {
+              "title": "Comparing population proportions 1",
+              "slug": "v/comparing-population-proportions-1",
+              "youtube_id": "a1Ye5RcWOqg",
+              "youtube_url": "https://www.youtube.com/watch?v=a1Ye5RcWOqg",
+              "duration_sec": 647,
+              "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-proportions/v/comparing-population-proportions-1"
+            },
+            {
+              "title": "Comparing population proportions 2",
+              "slug": "v/comparing-population-proportions-2",
+              "youtube_id": "MNbat1lrJW4",
+              "youtube_url": "https://www.youtube.com/watch?v=MNbat1lrJW4",
+              "duration_sec": 600,
+              "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-proportions/v/comparing-population-proportions-2"
+            },
+            {
+              "title": "Hypothesis test comparing population proportions",
+              "slug": "v/hypothesis-test-comparing-population-proportions",
+              "youtube_id": "dvSa_tx04hw",
+              "youtube_url": "https://www.youtube.com/watch?v=dvSa_tx04hw",
+              "duration_sec": 973,
+              "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-proportions/v/hypothesis-test-comparing-population-proportions"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Comparing two means",
+          "slug": "comparing-two-means",
+          "videos": [
+            {
+              "title": "Statistical significance of experiment",
+              "slug": "v/statistical-significance-experiment",
+              "youtube_id": "jLFeqQxGtOc",
+              "youtube_url": "https://www.youtube.com/watch?v=jLFeqQxGtOc",
+              "duration_sec": 484,
+              "relative_url": "/math/ap-statistics/gathering-data-ap/xfb5d8e68:inference-experiments/v/statistical-significance-experiment"
+            },
+            {
+              "title": "Statistical significance on bus speeds",
+              "slug": "v/statistical-significance-on-bus-speeds",
+              "youtube_id": "W3C07uH-b9o",
+              "youtube_url": "https://www.youtube.com/watch?v=W3C07uH-b9o",
+              "duration_sec": 696,
+              "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means/v/statistical-significance-on-bus-speeds"
+            },
+            {
+              "title": "Difference of sample means distribution",
+              "slug": "v/difference-of-sample-means-distribution",
+              "youtube_id": "TcIDXqmt74A",
+              "youtube_url": "https://www.youtube.com/watch?v=TcIDXqmt74A",
+              "duration_sec": 738,
+              "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means/v/difference-of-sample-means-distribution"
+            },
+            {
+              "title": "Confidence interval of difference of means",
+              "slug": "v/confidence-interval-of-difference-of-means",
+              "youtube_id": "hxZ6uooEJOk",
+              "youtube_url": "https://www.youtube.com/watch?v=hxZ6uooEJOk",
+              "duration_sec": 949,
+              "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means/v/confidence-interval-of-difference-of-means"
+            },
+            {
+              "title": "Clarification of confidence interval of difference of means",
+              "slug": "v/clarification-of-confidence-interval-of-difference-of-means",
+              "youtube_id": "yQsCMnz9wO8",
+              "youtube_url": "https://www.youtube.com/watch?v=yQsCMnz9wO8",
+              "duration_sec": 161,
+              "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means/v/clarification-of-confidence-interval-of-difference-of-means"
+            },
+            {
+              "title": "Hypothesis test for difference of means",
+              "slug": "v/hypothesis-test-for-difference-of-means",
+              "youtube_id": "N984XGLjQfs",
+              "youtube_url": "https://www.youtube.com/watch?v=N984XGLjQfs",
+              "duration_sec": 606,
+              "relative_url": "/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means/v/hypothesis-test-for-difference-of-means"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Inference for categorical data (chi-square tests)",
+      "slug": "inference-categorical-data-chi-square-tests",
+      "relative_url": "/math/statistics-probability/inference-categorical-data-chi-square-tests",
+      "lessons": [
+        {
+          "title": "Chi-square goodness-of-fit tests",
+          "slug": "chi-square-goodness-of-fit-tests",
+          "videos": [
+            {
+              "title": "Chi-square distribution introduction",
+              "slug": "v/chi-square-distribution-introduction",
+              "youtube_id": "dXB3cUGnaxQ",
+              "youtube_url": "https://www.youtube.com/watch?v=dXB3cUGnaxQ",
+              "duration_sec": 623,
+              "relative_url": "/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-goodness-of-fit-tests/v/chi-square-distribution-introduction"
+            },
+            {
+              "title": "Pearson's chi square test (goodness of fit)",
+              "slug": "v/pearson-s-chi-square-test-goodness-of-fit",
+              "youtube_id": "2QeDRsxSF9M",
+              "youtube_url": "https://www.youtube.com/watch?v=2QeDRsxSF9M",
+              "duration_sec": 708,
+              "relative_url": "/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-goodness-of-fit-tests/v/pearson-s-chi-square-test-goodness-of-fit"
+            },
+            {
+              "title": "Chi-square statistic for hypothesis testing",
+              "slug": "v/chi-square-statistic",
+              "youtube_id": "jABsbNBPXIk",
+              "youtube_url": "https://www.youtube.com/watch?v=jABsbNBPXIk",
+              "duration_sec": 506,
+              "relative_url": "/math/ap-statistics/chi-square-tests/chi-square-goodness-fit/v/chi-square-statistic"
+            },
+            {
+              "title": "Chi-square goodness-of-fit example",
+              "slug": "v/goodness-of-fit-example",
+              "youtube_id": "VjO9hWVlOBo",
+              "youtube_url": "https://www.youtube.com/watch?v=VjO9hWVlOBo",
+              "duration_sec": 409,
+              "relative_url": "/math/ap-statistics/chi-square-tests/chi-square-goodness-fit/v/goodness-of-fit-example"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Chi-square tests for relationships",
+          "slug": "chi-square-tests-for-homogeneity-and-association-independence",
+          "videos": [
+            {
+              "title": "Filling out frequency table for independent events",
+              "slug": "v/frequency-table-independent-events",
+              "youtube_id": "TQJQeTpH_lw",
+              "youtube_url": "https://www.youtube.com/watch?v=TQJQeTpH_lw",
+              "duration_sec": 296,
+              "relative_url": "/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-tests-for-homogeneity-and-association-independence/v/frequency-table-independent-events"
+            },
+            {
+              "title": "Contingency table chi-square test",
+              "slug": "v/contingency-table-chi-square-test",
+              "youtube_id": "hpWdDmgsIRE",
+              "youtube_url": "https://www.youtube.com/watch?v=hpWdDmgsIRE",
+              "duration_sec": 1057,
+              "relative_url": "/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-tests-for-homogeneity-and-association-independence/v/contingency-table-chi-square-test"
+            },
+            {
+              "title": "Introduction to the chi-square test for homogeneity",
+              "slug": "v/chi-square-test-homogeneity",
+              "youtube_id": "t_jfTOE44YQ",
+              "youtube_url": "https://www.youtube.com/watch?v=t_jfTOE44YQ",
+              "duration_sec": 476,
+              "relative_url": "/math/ap-statistics/chi-square-tests/chi-square-tests-two-way-tables/v/chi-square-test-homogeneity"
+            },
+            {
+              "title": "Chi-square test for association (independence)",
+              "slug": "v/chi-square-test-association-independence",
+              "youtube_id": "zOvUQWOzTlc",
+              "youtube_url": "https://www.youtube.com/watch?v=zOvUQWOzTlc",
+              "duration_sec": 628,
+              "relative_url": "/math/ap-statistics/chi-square-tests/chi-square-tests-two-way-tables/v/chi-square-test-association-independence"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Advanced regression (inference and transforming)",
+      "slug": "advanced-regression-inference-transforming",
+      "relative_url": "/math/statistics-probability/advanced-regression-inference-transforming",
+      "lessons": [
+        {
+          "title": "Inference about slope",
+          "slug": "inference-on-slope",
+          "videos": [
+            {
+              "title": "Introduction to inference about slope in linear regression",
+              "slug": "v/intro-inference-slope",
+              "youtube_id": "Pzglbt9_xCI",
+              "youtube_url": "https://www.youtube.com/watch?v=Pzglbt9_xCI",
+              "duration_sec": 432,
+              "relative_url": "/math/ap-statistics/inference-slope-linear-regression/inference-slope/v/intro-inference-slope"
+            },
+            {
+              "title": "Conditions for inference on slope",
+              "slug": "v/conditions-inference-slope",
+              "youtube_id": "kOQx3LtWHEQ",
+              "youtube_url": "https://www.youtube.com/watch?v=kOQx3LtWHEQ",
+              "duration_sec": 291,
+              "relative_url": "/math/ap-statistics/inference-slope-linear-regression/inference-slope/v/conditions-inference-slope"
+            },
+            {
+              "title": "Confidence interval for the slope of a regression line",
+              "slug": "v/confidence-interval-slope",
+              "youtube_id": "8w6EPyEqE9M",
+              "youtube_url": "https://www.youtube.com/watch?v=8w6EPyEqE9M",
+              "duration_sec": 415,
+              "relative_url": "/math/ap-statistics/inference-slope-linear-regression/inference-slope/v/confidence-interval-slope"
+            },
+            {
+              "title": "Calculating t statistic for slope of regression line",
+              "slug": "v/t-statistic-slope",
+              "youtube_id": "7MAuojBTF-g",
+              "youtube_url": "https://www.youtube.com/watch?v=7MAuojBTF-g",
+              "duration_sec": 436,
+              "relative_url": "/math/ap-statistics/inference-slope-linear-regression/xfb5d8e68:test-slope-regression/v/t-statistic-slope"
+            },
+            {
+              "title": "Using a P-value to make conclusions in a test about slope",
+              "slug": "v/making-conclusions-for-regression-slope-hypothesis-test",
+              "youtube_id": "Mpd83AuDTrU",
+              "youtube_url": "https://www.youtube.com/watch?v=Mpd83AuDTrU",
+              "duration_sec": 385,
+              "relative_url": "/math/ap-statistics/inference-slope-linear-regression/xfb5d8e68:test-slope-regression/v/making-conclusions-for-regression-slope-hypothesis-test"
+            },
+            {
+              "title": "Using a confidence interval to test slope",
+              "slug": "v/interval-test-slope",
+              "youtube_id": "rL9MPL3wqsk",
+              "youtube_url": "https://www.youtube.com/watch?v=rL9MPL3wqsk",
+              "duration_sec": 234,
+              "relative_url": "/math/ap-statistics/inference-slope-linear-regression/xfb5d8e68:test-slope-regression/v/interval-test-slope"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Nonlinear regression",
+          "slug": "nonlinear-regression",
+          "videos": [
+            {
+              "title": "Comparing models to fit data example",
+              "slug": "v/comparing-models-to-fit-data",
+              "youtube_id": "2EwTHdg-xgw",
+              "youtube_url": "https://www.youtube.com/watch?v=2EwTHdg-xgw",
+              "duration_sec": 245,
+              "relative_url": "/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression/v/comparing-models-to-fit-data"
+            },
+            {
+              "title": "Transforming nonlinear data",
+              "slug": "v/transforming-nonlinear-data",
+              "youtube_id": "A1H4j97paI4",
+              "youtube_url": "https://www.youtube.com/watch?v=A1H4j97paI4",
+              "duration_sec": 175,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/transforming-nonlinear-data"
+            },
+            {
+              "title": "Worked example of linear regression using transformed data",
+              "slug": "v/transformed-linear-regression-example",
+              "youtube_id": "dEVGfxHF1yo",
+              "youtube_url": "https://www.youtube.com/watch?v=dEVGfxHF1yo",
+              "duration_sec": 460,
+              "relative_url": "/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/transformed-linear-regression-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Analysis of variance (ANOVA)",
+      "slug": "analysis-of-variance-anova-library",
+      "relative_url": "/math/statistics-probability/analysis-of-variance-anova-library",
+      "lessons": [
+        {
+          "title": "Analysis of variance (ANOVA)",
+          "slug": "analysis-of-variance-anova",
+          "videos": [
+            {
+              "title": "ANOVA 1: Calculating SST (total sum of squares)",
+              "slug": "v/anova-1-calculating-sst-total-sum-of-squares",
+              "youtube_id": "EFdlFoHI_0I",
+              "youtube_url": "https://www.youtube.com/watch?v=EFdlFoHI_0I",
+              "duration_sec": 459,
+              "relative_url": "/math/statistics-probability/analysis-of-variance-anova-library/analysis-of-variance-anova/v/anova-1-calculating-sst-total-sum-of-squares"
+            },
+            {
+              "title": "ANOVA 2: Calculating SSW and SSB (total sum of squares within and between)",
+              "slug": "v/anova-2-calculating-ssw-and-ssb-total-sum-of-squares-within-and-between-avi",
+              "youtube_id": "j9ZPMlVHJVs",
+              "youtube_url": "https://www.youtube.com/watch?v=j9ZPMlVHJVs",
+              "duration_sec": 800,
+              "relative_url": "/math/statistics-probability/analysis-of-variance-anova-library/analysis-of-variance-anova/v/anova-2-calculating-ssw-and-ssb-total-sum-of-squares-within-and-between-avi"
+            },
+            {
+              "title": "ANOVA 3: Hypothesis test with F-statistic",
+              "slug": "v/anova-3-hypothesis-test-with-f-statistic",
+              "youtube_id": "Xg8_iSkJpAE",
+              "youtube_url": "https://www.youtube.com/watch?v=Xg8_iSkJpAE",
+              "duration_sec": 614,
+              "relative_url": "/math/statistics-probability/analysis-of-variance-anova-library/analysis-of-variance-anova/v/anova-3-hypothesis-test-with-f-statistic"
+            }
+          ],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

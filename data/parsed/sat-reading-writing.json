@@ -1,0 +1,424 @@
+{
+  "key": "sat-reading-writing",
+  "tier": "T1",
+  "subject": "rla",
+  "slug": "get-ready-for-sat-prep-reading-and-writing",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Get ready for SAT prep: Reading and Writing",
+  "course_slug": "get-ready-for-sat-prep-reading-and-writing",
+  "units": [
+    {
+      "title": "About the SAT suite of assessments and how to use this course",
+      "slug": "x07a01ed1f1ffc4bd:about-the-sat-suite-of-assessments-and-how-to-use-this-course",
+      "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:about-the-sat-suite-of-assessments-and-how-to-use-this-course",
+      "lessons": [
+        {
+          "title": "About the SAT suite of assessments",
+          "slug": "x07a01ed1f1ffc4bd:about-the-sat-suite-of-assessments",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Preparing for the SAT suite of assessments",
+          "slug": "x07a01ed1f1ffc4bd:preparing-for-the-sat-suite-of-assessments",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Get Ready: Information and Ideas",
+      "slug": "x07a01ed1f1ffc4bd:get-ready-information-and-ideas",
+      "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas",
+      "lessons": [
+        {
+          "title": "Command of Evidence: Textual",
+          "slug": "x07a01ed1f1ffc4bd:command-of-evidence-textual",
+          "videos": [
+            {
+              "title": "Command of evidence: Textual (literary) | Worked example",
+              "slug": "v/v2-sat-command-of-evidence-textual-video",
+              "youtube_id": "cuZw0a4-ct8",
+              "youtube_url": "https://www.youtube.com/watch?v=cuZw0a4-ct8",
+              "duration_sec": 327,
+              "relative_url": "/ela/9th-grade-english-matatag/x42eb55e74028e61e:2nd-quarter/x42eb55e74028e61e:differentiating-facts-and-claims/v/v2-sat-command-of-evidence-textual-video"
+            },
+            {
+              "title": "Command of evidence: Textual (scientific) | Worked example",
+              "slug": "v/command-of-evidence-scientific-worked-example",
+              "youtube_id": "JsVB9a7bBPs",
+              "youtube_url": "https://www.youtube.com/watch?v=JsVB9a7bBPs",
+              "duration_sec": 317,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas/x07a01ed1f1ffc4bd:command-of-evidence-textual/v/command-of-evidence-scientific-worked-example"
+            },
+            {
+              "title": "Command of evidence: Textual | Quick example",
+              "slug": "v/command-of-evidence-quick-example",
+              "youtube_id": "85Xhdt1Ipms",
+              "youtube_url": "https://www.youtube.com/watch?v=85Xhdt1Ipms",
+              "duration_sec": 217,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas/x07a01ed1f1ffc4bd:command-of-evidence-textual/v/command-of-evidence-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Command of Evidence: Quantitative",
+          "slug": "x07a01ed1f1ffc4bd:command-of-evidence-quantitative",
+          "videos": [
+            {
+              "title": "Command of evidence: Quantitative | Worked example",
+              "slug": "v/command-of-quantitative-evidence-reading-and-writing-test-sat-khan-academy",
+              "youtube_id": "chpIHzpWxW0",
+              "youtube_url": "https://www.youtube.com/watch?v=chpIHzpWxW0",
+              "duration_sec": 390,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas/x07a01ed1f1ffc4bd:command-of-evidence-quantitative/v/command-of-quantitative-evidence-reading-and-writing-test-sat-khan-academy"
+            },
+            {
+              "title": "Command of evidence: Quantitative | Quick example",
+              "slug": "v/command-of-evidence-quantitative-quick-example",
+              "youtube_id": "4e_ceqc8AdM",
+              "youtube_url": "https://www.youtube.com/watch?v=4e_ceqc8AdM",
+              "duration_sec": 169,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas/x07a01ed1f1ffc4bd:command-of-evidence-quantitative/v/command-of-evidence-quantitative-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Central Ideas and Details",
+          "slug": "x07a01ed1f1ffc4bd:central-ideas-and-details",
+          "videos": [
+            {
+              "title": "Central ideas and details | Worked example",
+              "slug": "v/central-ideas-and-details-worked-example",
+              "youtube_id": "5G2LYyXSAn8",
+              "youtube_url": "https://www.youtube.com/watch?v=5G2LYyXSAn8",
+              "duration_sec": 321,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas/x07a01ed1f1ffc4bd:central-ideas-and-details/v/central-ideas-and-details-worked-example"
+            },
+            {
+              "title": "Central ideas and details | Quick example",
+              "slug": "v/central-ideas-and-details-quick-example",
+              "youtube_id": "ouKsrpbLVI0",
+              "youtube_url": "https://www.youtube.com/watch?v=ouKsrpbLVI0",
+              "duration_sec": 186,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas/x07a01ed1f1ffc4bd:central-ideas-and-details/v/central-ideas-and-details-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Inferences",
+          "slug": "x07a01ed1f1ffc4bd:inferences",
+          "videos": [
+            {
+              "title": "Inferences | Worked example",
+              "slug": "v/inferences-worked-example",
+              "youtube_id": "mDJuTM4mqhs",
+              "youtube_url": "https://www.youtube.com/watch?v=mDJuTM4mqhs",
+              "duration_sec": 362,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas/x07a01ed1f1ffc4bd:inferences/v/inferences-worked-example"
+            },
+            {
+              "title": "Inferences | Quick example",
+              "slug": "v/inferences-quick-example",
+              "youtube_id": "Qzevsh2Befo",
+              "youtube_url": "https://www.youtube.com/watch?v=Qzevsh2Befo",
+              "duration_sec": 140,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-information-and-ideas/x07a01ed1f1ffc4bd:inferences/v/inferences-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Get Ready: Craft and Structure",
+      "slug": "x07a01ed1f1ffc4bd:get-ready-craft-and-structure",
+      "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-craft-and-structure",
+      "lessons": [
+        {
+          "title": "Words in Context",
+          "slug": "x07a01ed1f1ffc4bd:words-in-context",
+          "videos": [
+            {
+              "title": "Words in context | Worked example",
+              "slug": "v/words-in-context-worked-example",
+              "youtube_id": "uKid6-WPRe8",
+              "youtube_url": "https://www.youtube.com/watch?v=uKid6-WPRe8",
+              "duration_sec": 359,
+              "relative_url": "/ela/5th-grade-english-foundations/xc1f7df3d387fd7d1:summary-of-an-informational-text/xc1f7df3d387fd7d1:context-clues/v/words-in-context-worked-example"
+            },
+            {
+              "title": "Words in context | Quick example",
+              "slug": "v/words-in-context-quick-example",
+              "youtube_id": "wN3c73QdjFg",
+              "youtube_url": "https://www.youtube.com/watch?v=wN3c73QdjFg",
+              "duration_sec": 130,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-craft-and-structure/x07a01ed1f1ffc4bd:words-in-context/v/words-in-context-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Text Structure and Purpose",
+          "slug": "x07a01ed1f1ffc4bd:text-structure-and-purpose",
+          "videos": [
+            {
+              "title": "Text structure and purpose | Worked example",
+              "slug": "v/text-structure-and-purpose-video",
+              "youtube_id": "lbZjD48fWd8",
+              "youtube_url": "https://www.youtube.com/watch?v=lbZjD48fWd8",
+              "duration_sec": 366,
+              "relative_url": "/ela/7th-grade-english-matatag/xffd572ebe98884db:2nd-quarter/xffd572ebe98884db:analyzing-argumentative-texts/v/text-structure-and-purpose-video"
+            },
+            {
+              "title": "Text structure and purpose | Quick example ",
+              "slug": "v/text-structure-and-purpose-quick-example-2",
+              "youtube_id": "mMpDeV_dOyU",
+              "youtube_url": "https://www.youtube.com/watch?v=mMpDeV_dOyU",
+              "duration_sec": 232,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-craft-and-structure/x07a01ed1f1ffc4bd:text-structure-and-purpose/v/text-structure-and-purpose-quick-example-2"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Cross-Text Connections",
+          "slug": "x07a01ed1f1ffc4bd:cross-text-connections",
+          "videos": [
+            {
+              "title": "Cross-text connections | Worked example",
+              "slug": "v/cross-text-connections-video",
+              "youtube_id": "ZP4_thuNHr0",
+              "youtube_url": "https://www.youtube.com/watch?v=ZP4_thuNHr0",
+              "duration_sec": 467,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-craft-and-structure/x07a01ed1f1ffc4bd:cross-text-connections/v/cross-text-connections-video"
+            },
+            {
+              "title": "Cross-text connections | Quick example",
+              "slug": "v/cross-text-connections-quick-example",
+              "youtube_id": "mJ-yhHw5DH8",
+              "youtube_url": "https://www.youtube.com/watch?v=mJ-yhHw5DH8",
+              "duration_sec": 281,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-craft-and-structure/x07a01ed1f1ffc4bd:cross-text-connections/v/cross-text-connections-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Get Ready: Expression of Ideas + Standard English Conventions",
+      "slug": "x07a01ed1f1ffc4bd:get-ready-expression-of-ideas-standard-english-conventions",
+      "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-expression-of-ideas-standard-english-conventions",
+      "lessons": [
+        {
+          "title": "Transitions",
+          "slug": "x07a01ed1f1ffc4bd:transitions",
+          "videos": [
+            {
+              "title": "Transitions | Worked example",
+              "slug": "v/transitions-worked-example",
+              "youtube_id": "jaex5w0-2GQ",
+              "youtube_url": "https://www.youtube.com/watch?v=jaex5w0-2GQ",
+              "duration_sec": 335,
+              "relative_url": "/ela/7th-grade-english-matatag/xffd572ebe98884db:2nd-quarter/xffd572ebe98884db:analyzing-informational-text/v/transitions-worked-example"
+            },
+            {
+              "title": "Transitions | Quick example",
+              "slug": "v/transitions-quick-example",
+              "youtube_id": "4OtZktsyqLA",
+              "youtube_url": "https://www.youtube.com/watch?v=4OtZktsyqLA",
+              "duration_sec": 137,
+              "relative_url": "/ela/7th-grade-english-matatag/xffd572ebe98884db:2nd-quarter/xffd572ebe98884db:analyzing-informational-text/v/transitions-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Rhetorical Synthesis",
+          "slug": "x07a01ed1f1ffc4bd:rhetorical-synthesis",
+          "videos": [
+            {
+              "title": "Rhetorical synthesis | Worked example",
+              "slug": "v/rhetorical-synthesis-worked-example",
+              "youtube_id": "FJnzYoKM_tk",
+              "youtube_url": "https://www.youtube.com/watch?v=FJnzYoKM_tk",
+              "duration_sec": 311,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-expression-of-ideas-standard-english-conventions/x07a01ed1f1ffc4bd:rhetorical-synthesis/v/rhetorical-synthesis-worked-example"
+            },
+            {
+              "title": "Rhetorical synthesis | Quick example",
+              "slug": "v/rhetorical-synthesis-quick-example",
+              "youtube_id": "r2XfkWXYU44",
+              "youtube_url": "https://www.youtube.com/watch?v=r2XfkWXYU44",
+              "duration_sec": 153,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-expression-of-ideas-standard-english-conventions/x07a01ed1f1ffc4bd:rhetorical-synthesis/v/rhetorical-synthesis-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Form, Structure, and Sense",
+          "slug": "x07a01ed1f1ffc4bd:form-structure-and-sense",
+          "videos": [
+            {
+              "title": "Form, structure, and sense | Quick example",
+              "slug": "v/form-structure-and-sense-quick-example",
+              "youtube_id": "dAUFviUBnLc",
+              "youtube_url": "https://www.youtube.com/watch?v=dAUFviUBnLc",
+              "duration_sec": 411,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-expression-of-ideas-standard-english-conventions/x07a01ed1f1ffc4bd:form-structure-and-sense/v/form-structure-and-sense-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Boundaries",
+          "slug": "x07a01ed1f1ffc4bd:boundaries",
+          "videos": [
+            {
+              "title": "Boundaries | Quick example",
+              "slug": "v/boundaries-quick-example",
+              "youtube_id": "xkqNB-z0l4Q",
+              "youtube_url": "https://www.youtube.com/watch?v=xkqNB-z0l4Q",
+              "duration_sec": 141,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-expression-of-ideas-standard-english-conventions/x07a01ed1f1ffc4bd:boundaries/v/boundaries-quick-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": " SAT Grammar practice",
+      "slug": "x07a01ed1f1ffc4bd:digital-sat-grammar-practice",
+      "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:digital-sat-grammar-practice",
+      "lessons": [
+        {
+          "title": "FSS: Subject-verb agreement",
+          "slug": "x07a01ed1f1ffc4bd:fss-sva",
+          "videos": [
+            {
+              "title": "Subject-verb agreement | Worked example",
+              "slug": "v/subject-verb-agreement-worked-example",
+              "youtube_id": "06A5X87nA_M",
+              "youtube_url": "https://www.youtube.com/watch?v=06A5X87nA_M",
+              "duration_sec": 236,
+              "relative_url": "/humanities/class-8-english-grammar/x9f22d044ef115ad8:glimpses-of-the-past/x9f22d044ef115ad8:subject-verb-agreement/v/subject-verb-agreement-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "FSS: Pronoun-antecedent agreement",
+          "slug": "x07a01ed1f1ffc4bd:fss-pronoun-antecedent-agreement",
+          "videos": [
+            {
+              "title": "Pronoun-antecedent agreement | Worked example",
+              "slug": "v/pronoun-antecedent-agreement-video",
+              "youtube_id": "SeVlVEoMQag",
+              "youtube_url": "https://www.youtube.com/watch?v=SeVlVEoMQag",
+              "duration_sec": 302,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:digital-sat-grammar-practice/x07a01ed1f1ffc4bd:fss-pronoun-antecedent-agreement/v/pronoun-antecedent-agreement-video"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "FSS: Plurals and possessives",
+          "slug": "x07a01ed1f1ffc4bd:fss-plurals-and-possessives",
+          "videos": [
+            {
+              "title": "Plurals and possessives | Worked example",
+              "slug": "v/plural-possession-worked-example",
+              "youtube_id": "DzrWvi5ChRE",
+              "youtube_url": "https://www.youtube.com/watch?v=DzrWvi5ChRE",
+              "duration_sec": 344,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:digital-sat-grammar-practice/x07a01ed1f1ffc4bd:fss-plurals-and-possessives/v/plural-possession-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "FSS: Verb forms",
+          "slug": "x07a01ed1f1ffc4bd:fss-verb-forms",
+          "videos": [
+            {
+              "title": "Verb forms | Worked example",
+              "slug": "v/verb-form-worked-example",
+              "youtube_id": "Yzuf-m2M98E",
+              "youtube_url": "https://www.youtube.com/watch?v=Yzuf-m2M98E",
+              "duration_sec": 269,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:digital-sat-grammar-practice/x07a01ed1f1ffc4bd:fss-verb-forms/v/verb-form-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "FSS: Subject-modifier placement",
+          "slug": "x07a01ed1f1ffc4bd:fss-subject-modifier-placement",
+          "videos": [
+            {
+              "title": "Subject-modifier placement | Worked example",
+              "slug": "v/subject-modifier-placement-worked-example",
+              "youtube_id": "DqJZ1nJ9CXo",
+              "youtube_url": "https://www.youtube.com/watch?v=DqJZ1nJ9CXo",
+              "duration_sec": 305,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:digital-sat-grammar-practice/x07a01ed1f1ffc4bd:fss-subject-modifier-placement/v/subject-modifier-placement-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Boundaries: Linking Clauses",
+          "slug": "x07a01ed1f1ffc4bd:boundaries-linking-clauses",
+          "videos": [
+            {
+              "title": "Linking clauses | Worked example",
+              "slug": "v/linking-clauses-video",
+              "youtube_id": "l98aa1ShJWs",
+              "youtube_url": "https://www.youtube.com/watch?v=l98aa1ShJWs",
+              "duration_sec": 442,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:digital-sat-grammar-practice/x07a01ed1f1ffc4bd:boundaries-linking-clauses/v/linking-clauses-video"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Boundaries: Supplements",
+          "slug": "x07a01ed1f1ffc4bd:boundaries-supplements",
+          "videos": [
+            {
+              "title": "Supplements | Worked example",
+              "slug": "v/boundaries-supplements-worked-example",
+              "youtube_id": "PZRUVNqXhhY",
+              "youtube_url": "https://www.youtube.com/watch?v=PZRUVNqXhhY",
+              "duration_sec": 441,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:digital-sat-grammar-practice/x07a01ed1f1ffc4bd:boundaries-supplements/v/boundaries-supplements-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Boundaries: Punctuation",
+          "slug": "x07a01ed1f1ffc4bd:boundaries-punctuation",
+          "videos": [
+            {
+              "title": "Punctuation | Worked example",
+              "slug": "v/boundaries-punctuation-worked-example",
+              "youtube_id": "qrmwZdWzfvs",
+              "youtube_url": "https://www.youtube.com/watch?v=qrmwZdWzfvs",
+              "duration_sec": 398,
+              "relative_url": "/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:digital-sat-grammar-practice/x07a01ed1f1ffc4bd:boundaries-punctuation/v/boundaries-punctuation-worked-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    }
+  ]
+}

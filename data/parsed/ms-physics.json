@@ -1,0 +1,339 @@
+{
+  "key": "ms-physics",
+  "tier": "T0",
+  "subject": "science",
+  "slug": "ms-physics",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Middle school physics",
+  "course_slug": "ms-physics",
+  "units": [
+    {
+      "title": "Motion and forces",
+      "slug": "x1baed5db7c1bb50b:motion-and-forces",
+      "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:motion-and-forces",
+      "lessons": [
+        {
+          "title": "Motion",
+          "slug": "x1baed5db7c1bb50b:motion",
+          "videos": [
+            {
+              "title": "Introduction to middle school physics",
+              "slug": "v/intro-to-middle-school-physics",
+              "youtube_id": "79FTQY9LoQU",
+              "youtube_url": "https://www.youtube.com/watch?v=79FTQY9LoQU",
+              "duration_sec": 145,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:motion-and-forces/x1baed5db7c1bb50b:motion/v/intro-to-middle-school-physics"
+            },
+            {
+              "title": "Speed and velocity",
+              "slug": "v/speed-and-velocity",
+              "youtube_id": "W6Ar0ls6tVA",
+              "youtube_url": "https://www.youtube.com/watch?v=W6Ar0ls6tVA",
+              "duration_sec": 471,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:kinematics/x0e04e0cb682fb793:speed-and-velocity/v/speed-and-velocity"
+            },
+            {
+              "title": "Acceleration",
+              "slug": "v/ms-acceleration",
+              "youtube_id": "gWaI-mzn69c",
+              "youtube_url": "https://www.youtube.com/watch?v=gWaI-mzn69c",
+              "duration_sec": 453,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:kinematics/x0e04e0cb682fb793:acceleration/v/ms-acceleration"
+            },
+            {
+              "title": "Reference frames",
+              "slug": "v/reference-frames",
+              "youtube_id": "dAUdeFIOriY",
+              "youtube_url": "https://www.youtube.com/watch?v=dAUdeFIOriY",
+              "duration_sec": 340,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:motion-and-forces/x1baed5db7c1bb50b:motion/v/reference-frames"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Forces",
+          "slug": "x1baed5db7c1bb50b:forces",
+          "videos": [
+            {
+              "title": "Forces",
+              "slug": "v/forces",
+              "youtube_id": "emZftp_UBKs",
+              "youtube_url": "https://www.youtube.com/watch?v=emZftp_UBKs",
+              "duration_sec": 434,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:motion-and-forces/x1baed5db7c1bb50b:forces/v/forces"
+            },
+            {
+              "title": "Newton's third law",
+              "slug": "v/newtons-third-law",
+              "youtube_id": "9ViLDdSTrMU",
+              "youtube_url": "https://www.youtube.com/watch?v=9ViLDdSTrMU",
+              "duration_sec": 398,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:forces/x0e04e0cb682fb793:action-and-reaction-force/v/newtons-third-law"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Connecting motion and forces",
+          "slug": "x1baed5db7c1bb50b:connecting-motion-and-forces",
+          "videos": [
+            {
+              "title": "Newton's first law",
+              "slug": "v/newtons-first-law",
+              "youtube_id": "Q0T2zjmvvA0",
+              "youtube_url": "https://www.youtube.com/watch?v=Q0T2zjmvvA0",
+              "duration_sec": 366,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:forces/x0e04e0cb682fb793:untitled-lesson-144newton-s-first-law-of-motion/v/newtons-first-law"
+            },
+            {
+              "title": "Newton's second law",
+              "slug": "v/newtons-second-law",
+              "youtube_id": "l_rw0RfS5x4",
+              "youtube_url": "https://www.youtube.com/watch?v=l_rw0RfS5x4",
+              "duration_sec": 557,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:forces/x0e04e0cb682fb793:newton-s-nd-law-of-motion/v/newtons-second-law"
+            }
+          ],
+          "exercise_count": 4
+        }
+      ]
+    },
+    {
+      "title": "Non-contact interactions",
+      "slug": "x1baed5db7c1bb50b:non-contact-interactions",
+      "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:non-contact-interactions",
+      "lessons": [
+        {
+          "title": "Gravitational force",
+          "slug": "x1baed5db7c1bb50b:gravitational-force",
+          "videos": [
+            {
+              "title": "Gravitational force",
+              "slug": "v/gravitational-force",
+              "youtube_id": "R0XFqHBZfHc",
+              "youtube_url": "https://www.youtube.com/watch?v=R0XFqHBZfHc",
+              "duration_sec": 489,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:mass-weight-and-density/x0e04e0cb682fb793:gravitational-field/v/gravitational-force"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How can a skydiver fall safely?",
+          "slug": "x1baed5db7c1bb50b:unit-2-phenomenon-based-activities",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Electric and magnetic forces",
+          "slug": "x1baed5db7c1bb50b:electric-and-magnetic-forces",
+          "videos": [
+            {
+              "title": "Electric force",
+              "slug": "v/electric-force",
+              "youtube_id": "nIGEp5x0Ab4",
+              "youtube_url": "https://www.youtube.com/watch?v=nIGEp5x0Ab4",
+              "duration_sec": 452,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:non-contact-interactions/x1baed5db7c1bb50b:electric-and-magnetic-forces/v/electric-force"
+            },
+            {
+              "title": "Magnetic force",
+              "slug": "v/magnetic-force",
+              "youtube_id": "u-3cEw0uDC0",
+              "youtube_url": "https://www.youtube.com/watch?v=u-3cEw0uDC0",
+              "duration_sec": 424,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:magnetism/x0e04e0cb682fb793:magnetic-fiels/v/magnetic-force"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How do bees pick up pollen in flowers?",
+          "slug": "x1baed5db7c1bb50b:activity-how-do-bees-pick-up-pollen-in-flowers",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Energy",
+      "slug": "x1baed5db7c1bb50b:energy",
+      "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:energy",
+      "lessons": [
+        {
+          "title": "Kinetic energy",
+          "slug": "x1baed5db7c1bb50b:kinetic-energy",
+          "videos": [
+            {
+              "title": "Kinetic energy",
+              "slug": "v/ms-kinetic-energy",
+              "youtube_id": "FtymZWAOeC0",
+              "youtube_url": "https://www.youtube.com/watch?v=FtymZWAOeC0",
+              "duration_sec": 413,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:energy/x1baed5db7c1bb50b:kinetic-energy/v/ms-kinetic-energy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Potential energy",
+          "slug": "x1baed5db7c1bb50b:potential-energy",
+          "videos": [
+            {
+              "title": "Potential energy",
+              "slug": "v/ms-potential-energy",
+              "youtube_id": "5VVY0MSkrd0",
+              "youtube_url": "https://www.youtube.com/watch?v=5VVY0MSkrd0",
+              "duration_sec": 514,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:energy/x1baed5db7c1bb50b:potential-energy/v/ms-potential-energy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Conservation of energy",
+          "slug": "x1baed5db7c1bb50b:conservation-of-energy",
+          "videos": [
+            {
+              "title": "Conservation of energy",
+              "slug": "v/ms-conservation-of-energy",
+              "youtube_id": "Tf4A93763Bw",
+              "youtube_url": "https://www.youtube.com/watch?v=Tf4A93763Bw",
+              "duration_sec": 429,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:energy/x1baed5db7c1bb50b:conservation-of-energy/v/ms-conservation-of-energy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: Why doesn't a basketball bounce forever?",
+          "slug": "x1baed5db7c1bb50b:unit-3-phenomenon-based-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Waves",
+      "slug": "x1baed5db7c1bb50b:waves",
+      "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:waves",
+      "lessons": [
+        {
+          "title": "Wave properties",
+          "slug": "x1baed5db7c1bb50b:wave-properties",
+          "videos": [
+            {
+              "title": "Wave properties",
+              "slug": "v/wave-properties",
+              "youtube_id": "t27NSviEsX8",
+              "youtube_url": "https://www.youtube.com/watch?v=t27NSviEsX8",
+              "duration_sec": 476,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:general-properties-of-waves/x0e04e0cb682fb793:characteristics-of-waves/v/wave-properties"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Sound waves",
+          "slug": "x1baed5db7c1bb50b:sound-waves",
+          "videos": [
+            {
+              "title": "Sound waves",
+              "slug": "v/sound-waves",
+              "youtube_id": "9u1PjsBfrmg",
+              "youtube_url": "https://www.youtube.com/watch?v=9u1PjsBfrmg",
+              "duration_sec": 513,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:sound-waves/x0e04e0cb682fb793:production-of-sound-waves/v/sound-waves"
+            },
+            {
+              "title": "Human ear",
+              "slug": "v/human-ear-structure-working",
+              "youtube_id": "98-6WfdumZY",
+              "youtube_url": "https://www.youtube.com/watch?v=98-6WfdumZY",
+              "duration_sec": 456,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:waves/x1baed5db7c1bb50b:sound-waves/v/human-ear-structure-working"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Electromagnetic waves",
+          "slug": "x1baed5db7c1bb50b:electromagnetic-waves",
+          "videos": [
+            {
+              "title": "The electromagnetic spectrum",
+              "slug": "v/the-electromagnetic-spectrum",
+              "youtube_id": "iVbuCROYAz4",
+              "youtube_url": "https://www.youtube.com/watch?v=iVbuCROYAz4",
+              "duration_sec": 523,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:waves/x1baed5db7c1bb50b:electromagnetic-waves/v/the-electromagnetic-spectrum"
+            },
+            {
+              "title": "Electromagnetic waves and matter",
+              "slug": "v/electromagnetic-waves-and-matter",
+              "youtube_id": "nXuPL8KD2SU",
+              "youtube_url": "https://www.youtube.com/watch?v=nXuPL8KD2SU",
+              "duration_sec": 456,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:electromagnetic-spectrum/x0e04e0cb682fb793:untitled-526/v/electromagnetic-waves-and-matter"
+            },
+            {
+              "title": "Human eye",
+              "slug": "v/structure-of-human-eye",
+              "youtube_id": "7HGxjs_aYyg",
+              "youtube_url": "https://www.youtube.com/watch?v=7HGxjs_aYyg",
+              "duration_sec": 622,
+              "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:waves/x1baed5db7c1bb50b:electromagnetic-waves/v/structure-of-human-eye"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How can light interactions be used to create art?",
+          "slug": "x1baed5db7c1bb50b:activity-how-can-light-interactions-be-used-to-create-art",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Explore physics through simulations",
+      "slug": "x1baed5db7c1bb50b:explore-physics-through-simulations",
+      "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:explore-physics-through-simulations",
+      "lessons": [
+        {
+          "title": "Introduction to simulation-based learning",
+          "slug": "x1baed5db7c1bb50b:introduction-to-simulation-based-learning",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Explore conservation of energy through simulations",
+          "slug": "x1baed5db7c1bb50b:explore-conservation-of-energy-through-simulations",
+          "videos": [],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Teacher resources",
+      "slug": "x1baed5db7c1bb50b:teacher-resources",
+      "relative_url": "/science/ms-physics/x1baed5db7c1bb50b:teacher-resources",
+      "lessons": [
+        {
+          "title": "Unit guides",
+          "slug": "x1baed5db7c1bb50b:unit-guides",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Hands-on physics activities",
+          "slug": "x1baed5db7c1bb50b:hands-on-physics-activities",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,13 +1,17 @@
 {
   "_comment": [
-    "GED 출제 범위 필터. 유닛 제목 정규식(대소문자 무시)으로 매칭한다.",
+    "GED 출제 범위 필터. 유닛 제목 정규식(대소문자 무시)으로 매칭한다. 2026-08-28 TSV 익스포트의 실제 유닛 제목 기준.",
     "정책: default_action=include → exclude 목록에 걸리는 유닛만 제외.",
-    "optional 목록은 포함하되 priority=low 로 표시 (기간이 짧으면 자동 생성기가 뒤로 미루거나 축소).",
-    "근거: GED Mathematical Reasoning 블루프린트(대수 45%·양적추론 55%, 기하는 측정 중심),",
-    "GED Science(생명 40%·물상 40%·지구우주 20%, 지문분석 중심), GED Social Studies(공민정부 50%·미국사 20%·경제 15%·지리 15%).",
-    "주의: 유닛 제목은 스크래핑 후 실제 값과 대조해 확정할 것 (_verify_after_scrape=true)."
+    "optional 목록은 포함하되 priority=low 로 표시. 기간 용량 초과 시 생성기가 low부터 자동 제외.",
+    "global_exclude 는 모든 코스에 적용.",
+    "근거: GED Mathematical Reasoning(대수 45%·양적추론 55%), GED Science(생명 40%·물상 40%·지구우주 20%),",
+    "GED Social Studies(공민정부 50%·미국사 20%·경제 15%·지리 15%), GED RLA(지문분석·문법·작문)."
   ],
-  "_verify_after_scrape": true,
+  "global_exclude": [
+    { "match": "teacher resources", "reason": "교사용 자료 — 학생 커리큘럼 아님" },
+    { "match": "through simulations", "reason": "시뮬레이션 체험 유닛 — 임베드 대상 영상 아님" },
+    { "match": "standards mappings", "reason": "표준 매핑 문서 유닛 — 학습 콘텐츠 아님" }
+  ],
   "courses": {
     "arithmetic": { "default_action": "include", "exclude": [], "optional": [] },
 
@@ -15,17 +19,17 @@
       "default_action": "include",
       "exclude": [],
       "optional": [
-        { "match": "patterns", "reason": "GED 직접 출제 영역 아님. 함수 개념 준비용이라 시간 부족 시 축소 가능" }
+        { "match": "^patterns$", "reason": "GED 직접 출제 영역 아님. 함수 개념 준비용" }
       ]
     },
 
     "basic-geometry": {
       "default_action": "include",
       "exclude": [
-        { "match": "transformations", "reason": "도형 변환(평행이동·회전·반사)은 GED Math 블루프린트에 없음" }
+        { "match": "geometric transformations", "reason": "도형 변환은 GED Math 블루프린트에 없음" }
       ],
       "optional": [
-        { "match": "mass and volume|units of measurement", "reason": "기초 측정 단위. 진단 통과자 다수 예상, 마스터리 스킵 후보" }
+        { "match": "intro to mass and volume|units of measurement|measuring angles", "reason": "기초 측정. 진단 통과자 다수 예상 — 마스터리 스킵 후보" }
       ]
     },
 
@@ -33,7 +37,7 @@
       "default_action": "include",
       "exclude": [],
       "optional": [
-        { "match": "foundations", "reason": "Pre-algebra와 중복. 마스터리 스킵 후보" }
+        { "match": "^foundations$", "reason": "Pre-algebra와 중복 — 마스터리 스킵 후보" }
       ]
     },
 
@@ -43,13 +47,13 @@
         { "match": "analyzing categorical data", "tier_min": "T2", "reason": "GED 자료해석 기초" },
         { "match": "displaying and comparing quantitative data", "tier_min": "T1", "reason": "공통 모듈 Unit 2: 도표·그래프 해석 (사회·과학 공용)" },
         { "match": "summarizing quantitative data", "tier_min": "T1", "reason": "공통 모듈 Unit 3: 평균·중앙값·산포 (사회·과학 공용)" },
-        { "match": "modeling data distributions", "tier_min": "T2", "reason": "백분위 등 GED 데이터 문항" },
+        { "match": "modeling data distributions", "tier_min": "T2", "priority": "low", "reason": "백분위 등 GED 데이터 문항 (심화)" },
         { "match": "exploring bivariate", "tier_min": "T2", "reason": "공통 모듈 Unit 5: 산점도·상관 (사회·과학 공용)" },
         { "match": "study design", "tier_min": "T2", "reason": "GED Science 탐구설계 문항 대비" },
-        { "match": "^probability", "tier_min": "T2", "reason": "GED Math 확률 문항" },
-        { "match": "counting, permutations", "tier_min": "T2", "reason": "GED Math 경우의 수 (기초만)" }
+        { "match": "^probability$", "tier_min": "T2", "reason": "GED Math 확률 문항" },
+        { "match": "counting, permutations", "tier_min": "T2", "priority": "low", "reason": "GED Math 경우의 수 (기초만)" }
       ],
-      "exclude_reason_default": "추론통계(확률변수·표본분포·신뢰구간·유의성검정·회귀 심화)는 GED 범위 밖"
+      "exclude_reason_default": "추론통계(확률변수·표본분포·신뢰구간·유의성검정·카이제곱·회귀 심화·ANOVA)는 GED 범위 밖"
     },
 
     "grammar": { "default_action": "include", "exclude": [], "optional": [] },
@@ -57,7 +61,7 @@
     "sat-reading-writing": {
       "default_action": "include",
       "exclude": [
-        { "match": "about the digital sat|test-taking strategies|full-length", "reason": "SAT 시험 자체 안내·전략은 GED와 무관 (읽기·문법 스킬 유닛만 사용)" }
+        { "match": "about the sat suite", "reason": "SAT 시험 안내 유닛 — GED와 무관 (읽기·문법 스킬 유닛만 사용)" }
       ],
       "optional": []
     },
@@ -66,7 +70,11 @@
       "default_action": "include",
       "exclude": [],
       "optional": [
-        { "match": "resources and exam preparation", "reason": "AP 시험 안내 성격이면 제외 대상. 스크래핑 후 확인" }
+        { "match": "john dickerson", "reason": "인터뷰 시리즈 — 보조 자료" },
+        { "match": "national constitution center", "reason": "파트너 보조 콘텐츠" },
+        { "match": "primary documents", "reason": "원문 사료 — 심화 읽기 자료" },
+        { "match": "^american civics$", "reason": "구버전 개관 유닛 — 본 유닛들과 중복" },
+        { "match": "social movements|democracy today", "reason": "GED 출제 빈도 낮음 — 시간 부족 시 축소" }
       ]
     },
 
@@ -74,15 +82,18 @@
       "default_action": "include",
       "exclude": [],
       "optional": [
-        { "match": "molecular genetics|biotech", "reason": "GED는 개념 수준만 출제. 심화 분자생물학은 low priority" }
+        { "match": "gene expression|common ancestry", "reason": "GED는 개념 수준만 출제 — 심화 축소 가능" }
       ]
     },
 
     "us-history": {
       "default_action": "include",
-      "exclude": [],
+      "exclude": [
+        { "match": "surveys of history", "reason": "메타 개관 유닛 — 본 시대 유닛과 중복" }
+      ],
       "optional": [
-        { "match": "1491|worlds collide|precontact", "reason": "GED 미국사 비중 20%, 식민지 이전은 출제 빈도 낮음" }
+        { "match": "worlds collide", "reason": "GED 미국사 비중 20%, 식민 이전 출제 빈도 낮음" },
+        { "match": "primary documents", "reason": "원문 사료 — 심화 읽기 자료" }
       ]
     },
 
@@ -90,19 +101,21 @@
       "default_action": "exclude_unless_listed",
       "include": [
         { "match": "basic economic concepts", "reason": "GED 경제 15%: 희소성·기회비용·경제체제" },
-        { "match": "supply and demand|supply, demand", "reason": "GED 경제 핵심: 수요·공급·시장가격" },
-        { "match": "elasticity", "reason": "기초만. low priority", "priority": "low" },
-        { "match": "consumer and producer surplus|market interventions", "reason": "정부 개입·가격통제 개념", "priority": "low" },
-        { "match": "market structures|perfect competition|monopoly", "reason": "경쟁·독점 기초 개념", "priority": "low" }
+        { "match": "supply, demand", "reason": "GED 경제 핵심: 수요·공급·시장가격" },
+        { "match": "^elasticity$", "priority": "low", "reason": "기초 개념만" },
+        { "match": "consumer and producer surplus", "priority": "low", "reason": "정부 개입·가격통제 개념" },
+        { "match": "forms of competition", "priority": "low", "reason": "경쟁·독점 기초 개념" },
+        { "match": "market failure and the role of government", "reason": "GED: 정부의 경제 역할" }
       ],
-      "exclude_reason_default": "생산이론·요소시장·게임이론 등 AP 심화는 GED 범위 밖"
+      "exclude_reason_default": "소비자이론·생산이론·요소시장 등 AP 심화는 GED 범위 밖"
     },
 
     "hs-chemistry": {
       "default_action": "include",
       "exclude": [],
       "optional": [
-        { "match": "stoichiometry|mole", "reason": "GED는 화학 계산을 거의 요구하지 않음. 개념 위주로 축소" }
+        { "match": "stoichiometry and the mole", "reason": "GED는 화학 계산을 거의 요구하지 않음" },
+        { "match": "reaction rates and equilibrium|nuclear chemistry", "reason": "GED 출제 빈도 낮음 — 개념만" }
       ]
     },
 
@@ -110,7 +123,7 @@
       "default_action": "include",
       "exclude": [],
       "optional": [
-        { "match": "torque|rotational|magnetic flux|ap ", "reason": "GED 물리는 힘·운동·에너지·파동·전기 기초 수준" }
+        { "match": "electromagnetics$|nuclear physics", "reason": "GED 물리는 힘·운동·에너지·파동·전기 기초 수준" }
       ]
     },
 
@@ -122,17 +135,17 @@
     "algebra-1": {
       "default_action": "include",
       "exclude": [
-        { "match": "irrational numbers$|sequences", "reason": "수열·무리수 심화는 GED 고득점에도 출제 빈도 낮음 (T3 시간 확보용)" }
+        { "match": "^irrational numbers$|^sequences$|creativity in algebra", "reason": "GED 고득점에도 출제 빈도 낮음 (T3 시간 확보)" }
       ],
       "optional": [
-        { "match": "exponential growth|exponents & radicals", "reason": "고득점 대비. low priority" }
+        { "match": "exponential growth|exponents & radicals|absolute value & piecewise", "reason": "고득점 대비 심화" }
       ]
     },
 
     "ap-us-history": {
       "default_action": "include",
       "exclude": [
-        { "match": "exam skills|dbq|long essay|multiple choice", "reason": "AP 시험 기법 유닛은 GED와 무관" }
+        { "match": "exam skills and strategies", "reason": "AP 시험 기법 유닛 — GED와 무관" }
       ],
       "optional": []
     },
@@ -140,17 +153,17 @@
     "macroeconomics": {
       "default_action": "exclude_unless_listed",
       "include": [
-        { "match": "basic economics concepts|basic economic concepts", "reason": "GED 경제 개념 보강" },
-        { "match": "economic indicators|business cycle|gdp", "reason": "GED: GDP·실업·인플레이션 지표 해석" },
-        { "match": "national income|inflation|unemployment", "reason": "GED 경제지표 문항 대비" }
+        { "match": "basic economics concepts", "reason": "GED 경제 개념 보강" },
+        { "match": "economic indicators and the business cycle", "reason": "GED: GDP·실업·인플레이션 지표 해석" },
+        { "match": "national income and price determination", "priority": "low", "reason": "물가·총수요 기초" }
       ],
-      "exclude_reason_default": "AD-AS 모형·통화정책 심화 등 AP 전용 내용은 GED 범위 밖"
+      "exclude_reason_default": "금융부문·안정화정책·IS-LM 등 AP 전용 내용은 GED 범위 밖"
     },
 
     "sat-math": {
       "default_action": "include",
       "exclude": [
-        { "match": "about the digital sat|test-taking strategies|full-length", "reason": "SAT 시험 안내·전략 유닛 제외" }
+        { "match": "about the sat suite", "reason": "SAT 시험 안내 유닛 제외" }
       ],
       "optional": []
     }

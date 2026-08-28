@@ -1,0 +1,1975 @@
+{
+  "key": "basic-geometry",
+  "tier": "T1",
+  "subject": "math",
+  "slug": "basic-geo",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Basic geometry and measurement",
+  "course_slug": "basic-geo",
+  "units": [
+    {
+      "title": "Intro to area and perimeter",
+      "slug": "basic-geo-area-and-perimeter",
+      "relative_url": "/math/basic-geo/basic-geo-area-and-perimeter",
+      "lessons": [
+        {
+          "title": "Count unit squares to find area",
+          "slug": "x7fa91416:count-unit-squares-to-find-area",
+          "videos": [
+            {
+              "title": "Intro to area and unit squares",
+              "slug": "v/introduction-to-area-and-unit-squares",
+              "youtube_id": "A7zPgMV4eTM",
+              "youtube_url": "https://www.youtube.com/watch?v=A7zPgMV4eTM",
+              "duration_sec": 257,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-count-unit-squares-to-find-area/v/introduction-to-area-and-unit-squares"
+            },
+            {
+              "title": "Measuring rectangles with different unit squares",
+              "slug": "v/measuring-the-same-rectangle-with-different-unit-squares",
+              "youtube_id": "iNZZIb_-PA8",
+              "youtube_url": "https://www.youtube.com/watch?v=iNZZIb_-PA8",
+              "duration_sec": 184,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-count-unit-squares-to-find-area/v/measuring-the-same-rectangle-with-different-unit-squares"
+            },
+            {
+              "title": "Creating rectangles with a given area 1 ",
+              "slug": "v/creating-rectangles-with-a-given-area-1-math-3rd-grade-khan-academy",
+              "youtube_id": "JX_ZgrFf2j8",
+              "youtube_url": "https://www.youtube.com/watch?v=JX_ZgrFf2j8",
+              "duration_sec": 208,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-count-unit-squares-to-find-area/v/creating-rectangles-with-a-given-area-1-math-3rd-grade-khan-academy"
+            },
+            {
+              "title": "Creating rectangles with a given area 2",
+              "slug": "v/creating-rectangles-with-a-given-area-2-math-3rd-grade-khan-academy",
+              "youtube_id": "cYyfwJSvT-k",
+              "youtube_url": "https://www.youtube.com/watch?v=cYyfwJSvT-k",
+              "duration_sec": 167,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-count-unit-squares-to-find-area/v/creating-rectangles-with-a-given-area-2-math-3rd-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Area formula intuition",
+          "slug": "x7fa91416:area-formula-intuition",
+          "videos": [
+            {
+              "title": "Counting unit squares to find area formula",
+              "slug": "v/rectangle-area-as-product-of-dimensions-same-as-counting-unit-squares",
+              "youtube_id": "DRg2VCo8lP0",
+              "youtube_url": "https://www.youtube.com/watch?v=DRg2VCo8lP0",
+              "duration_sec": 320,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-area-formula-intuition/v/rectangle-area-as-product-of-dimensions-same-as-counting-unit-squares"
+            },
+            {
+              "title": "Transitioning from unit squares to area formula",
+              "slug": "v/transitioning-from-counting-to-multiplying-to-find-area-3rd-grade-khan-academy",
+              "youtube_id": "mu3HHCdYYtY",
+              "youtube_url": "https://www.youtube.com/watch?v=mu3HHCdYYtY",
+              "duration_sec": 202,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-area-formula-intuition/v/transitioning-from-counting-to-multiplying-to-find-area-3rd-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiply to find area",
+          "slug": "x7fa91416:multiply-to-find-area",
+          "videos": [
+            {
+              "title": "Counting unit squares to find area formula",
+              "slug": "v/rectangle-area-as-product-of-dimensions-same-as-counting-unit-squares",
+              "youtube_id": "DRg2VCo8lP0",
+              "youtube_url": "https://www.youtube.com/watch?v=DRg2VCo8lP0",
+              "duration_sec": 320,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-area-formula-intuition/v/rectangle-area-as-product-of-dimensions-same-as-counting-unit-squares"
+            },
+            {
+              "title": "Finding missing side when given area",
+              "slug": "v/finding-missing-side-when-given-area-math-3rd-grade-khan-academy",
+              "youtube_id": "_JdgDBzQ0Us",
+              "youtube_url": "https://www.youtube.com/watch?v=_JdgDBzQ0Us",
+              "duration_sec": 184,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-multiply-to-find-area/v/finding-missing-side-when-given-area-math-3rd-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Area and the distributive property",
+          "slug": "x7fa91416:area-and-the-distributive-property",
+          "videos": [
+            {
+              "title": "Area and the distributive property",
+              "slug": "v/area-of-rectangles-and-the-distributive-property",
+              "youtube_id": "Q3wfb0CPhIY",
+              "youtube_url": "https://www.youtube.com/watch?v=Q3wfb0CPhIY",
+              "duration_sec": 229,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-area-and-the-distributive-property/v/area-of-rectangles-and-the-distributive-property"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Decompose figures to find area",
+          "slug": "x7fa91416:decompose-figures-to-find-area",
+          "videos": [
+            {
+              "title": "Decomposing shapes to find area: grids ",
+              "slug": "v/decomposing-shapes-to-find-area-grids-math-3rd-grade-khan-academy",
+              "youtube_id": "oL9iF9Se6lc",
+              "youtube_url": "https://www.youtube.com/watch?v=oL9iF9Se6lc",
+              "duration_sec": 171,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-decompose-figures-to-find-area/v/decomposing-shapes-to-find-area-grids-math-3rd-grade-khan-academy"
+            },
+            {
+              "title": "Decomposing shapes to find area: add",
+              "slug": "v/decomposing-shapes-to-find-area-add-math-3rd-grade-khan-academy",
+              "youtube_id": "JTg8gyQ37pM",
+              "youtube_url": "https://www.youtube.com/watch?v=JTg8gyQ37pM",
+              "duration_sec": 216,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-decompose-figures-to-find-area/v/decomposing-shapes-to-find-area-add-math-3rd-grade-khan-academy"
+            },
+            {
+              "title": "Decomposing shapes to find area: subtract",
+              "slug": "v/decomposing-shapes-to-find-area-subtract-math-3rd-grade-khan-academy",
+              "youtube_id": "qS4stB9LfJA",
+              "youtube_url": "https://www.youtube.com/watch?v=qS4stB9LfJA",
+              "duration_sec": 192,
+              "relative_url": "/math/cc-third-grade-math/imp-geometry/imp-decompose-figures-to-find-area/v/decomposing-shapes-to-find-area-subtract-math-3rd-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Perimeter intro",
+          "slug": "x7fa91416:perimeter-intro",
+          "videos": [
+            {
+              "title": "Perimeter: introduction",
+              "slug": "v/introduction-to-perimeter",
+              "youtube_id": "9uwLgf84p5w",
+              "youtube_url": "https://www.youtube.com/watch?v=9uwLgf84p5w",
+              "duration_sec": 201,
+              "relative_url": "/math/cc-third-grade-math/3rd-perimeter/imp-perimeter/v/introduction-to-perimeter"
+            },
+            {
+              "title": "Perimeter of a shape",
+              "slug": "v/perimeter-of-a-shape",
+              "youtube_id": "sJmLjUj_h68",
+              "youtube_url": "https://www.youtube.com/watch?v=sJmLjUj_h68",
+              "duration_sec": 123,
+              "relative_url": "/math/cc-third-grade-math/3rd-perimeter/imp-perimeter/v/perimeter-of-a-shape"
+            },
+            {
+              "title": "Finding perimeter when a side length is missing ",
+              "slug": "v/finding-perimeter-when-a-side-length-is-missing-math-3rd-grade-khan-academy",
+              "youtube_id": "tmt5fXhU7Rs",
+              "youtube_url": "https://www.youtube.com/watch?v=tmt5fXhU7Rs",
+              "duration_sec": 211,
+              "relative_url": "/math/cc-third-grade-math/3rd-perimeter/perimeter-of-polygons-with-missing-side-lengths/v/finding-perimeter-when-a-side-length-is-missing-math-3rd-grade-khan-academy"
+            },
+            {
+              "title": "Finding missing side length when given perimeter",
+              "slug": "v/finding-missing-a-side-length-when-given-perimeter-math-3rd-grade-khan-academy",
+              "youtube_id": "_sQ3dqhLsIw",
+              "youtube_url": "https://www.youtube.com/watch?v=_sQ3dqhLsIw",
+              "duration_sec": 295,
+              "relative_url": "/math/cc-third-grade-math/3rd-perimeter/perimeter-of-polygons-with-missing-side-lengths/v/finding-missing-a-side-length-when-given-perimeter-math-3rd-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Perimeters of polygons with missing side lengths",
+          "slug": "x7fa91416:perimeters-of-polygons-with-missing-side-lengths",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "Perimeter word problems",
+          "slug": "x7fa91416:perimeter-word-problems",
+          "videos": [
+            {
+              "title": "Perimeter word problem: tables",
+              "slug": "v/perimeter-word-problem-tables-math-3rd-grade-khan-academy",
+              "youtube_id": "Wz8grvnFDHM",
+              "youtube_url": "https://www.youtube.com/watch?v=Wz8grvnFDHM",
+              "duration_sec": 240,
+              "relative_url": "/math/cc-third-grade-math/3rd-perimeter/imp-perimeter-word-problems/v/perimeter-word-problem-tables-math-3rd-grade-khan-academy"
+            },
+            {
+              "title": "Perimeter word problem: skating rink",
+              "slug": "v/perimeter-word-problem-skating-rink-math-3rd-grade-khan-academy",
+              "youtube_id": "dNBNepJ_Ut8",
+              "youtube_url": "https://www.youtube.com/watch?v=dNBNepJ_Ut8",
+              "duration_sec": 148,
+              "relative_url": "/math/cc-third-grade-math/3rd-perimeter/imp-perimeter-word-problems/v/perimeter-word-problem-skating-rink-math-3rd-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Comparing area and perimeter",
+          "slug": "x7fa91416:comparing-area-and-perimeter",
+          "videos": [
+            {
+              "title": "Comparing areas and perimeters of rectangles",
+              "slug": "v/comparing-area-and-perimeter",
+              "youtube_id": "nLY2bzRfQyo",
+              "youtube_url": "https://www.youtube.com/watch?v=nLY2bzRfQyo",
+              "duration_sec": 334,
+              "relative_url": "/math/cc-third-grade-math/3rd-perimeter/imp-comparing-area-and-perimeter/v/comparing-area-and-perimeter"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Area versus perimeter",
+          "slug": "x7fa91416:area-versus-perimeter",
+          "videos": [
+            {
+              "title": "Area & perimeter word problem: dog pen",
+              "slug": "v/width-from-perimeter",
+              "youtube_id": "AIb5x7fmtvE",
+              "youtube_url": "https://www.youtube.com/watch?v=AIb5x7fmtvE",
+              "duration_sec": 194,
+              "relative_url": "/math/cc-fourth-grade-math/area-perimeter/imp-area-and-perimeter/v/width-from-perimeter"
+            },
+            {
+              "title": "Area & perimeter word problem: table ",
+              "slug": "v/length-and-width-from-perimeter-and-area",
+              "youtube_id": "-J-6VGxld54",
+              "youtube_url": "https://www.youtube.com/watch?v=-J-6VGxld54",
+              "duration_sec": 286,
+              "relative_url": "/math/cc-fourth-grade-math/area-perimeter/imp-area-and-perimeter/v/length-and-width-from-perimeter-and-area"
+            },
+            {
+              "title": "Comparing areas word problem",
+              "slug": "v/comparing-area",
+              "youtube_id": "D2Ks5SKU6GM",
+              "youtube_url": "https://www.youtube.com/watch?v=D2Ks5SKU6GM",
+              "duration_sec": 141,
+              "relative_url": "/math/cc-fourth-grade-math/area-perimeter/imp-area-and-perimeter/v/comparing-area"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Intro to mass and volume",
+      "slug": "x7fa91416:intro-to-mass-and-volume",
+      "relative_url": "/math/basic-geo/x7fa91416:intro-to-mass-and-volume",
+      "lessons": [
+        {
+          "title": "Mass",
+          "slug": "x7fa91416:mass",
+          "videos": [
+            {
+              "title": "Understanding mass (grams and kilograms)",
+              "slug": "v/intuition-for-grams",
+              "youtube_id": "zqduFg0s5Q4",
+              "youtube_url": "https://www.youtube.com/watch?v=zqduFg0s5Q4",
+              "duration_sec": 435,
+              "relative_url": "/math/cc-third-grade-math/imp-measurement-and-data/imp-mass/v/intuition-for-grams"
+            },
+            {
+              "title": "Word problems with mass",
+              "slug": "v/mass-problems",
+              "youtube_id": "2-DvXDh1bn0",
+              "youtube_url": "https://www.youtube.com/watch?v=2-DvXDh1bn0",
+              "duration_sec": 241,
+              "relative_url": "/math/cc-third-grade-math/imp-measurement-and-data/imp-mass/v/mass-problems"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Volume",
+          "slug": "x7fa91416:volume",
+          "videos": [
+            {
+              "title": "Understanding volume (liters)",
+              "slug": "v/liter-intuition",
+              "youtube_id": "mLRYCaYVWFc",
+              "youtube_url": "https://www.youtube.com/watch?v=mLRYCaYVWFc",
+              "duration_sec": 288,
+              "relative_url": "/math/cc-third-grade-math/imp-measurement-and-data/imp-volume/v/liter-intuition"
+            },
+            {
+              "title": "Word problems with volume",
+              "slug": "v/arithmetic-word-problems-with-volume",
+              "youtube_id": "lf4BBZK1Vzs",
+              "youtube_url": "https://www.youtube.com/watch?v=lf4BBZK1Vzs",
+              "duration_sec": 219,
+              "relative_url": "/math/cc-third-grade-math/imp-measurement-and-data/imp-volume/v/arithmetic-word-problems-with-volume"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Measuring angles",
+      "slug": "basic-geo-angle",
+      "relative_url": "/math/basic-geo/basic-geo-angle",
+      "lessons": [
+        {
+          "title": "Parts of plane figures",
+          "slug": "x7fa91416:parts-of-plane-figures",
+          "videos": [
+            {
+              "title": "Terms & labels in geometry",
+              "slug": "v/language-and-notation-of-basic-geometry",
+              "youtube_id": "il0EJrY64qE",
+              "youtube_url": "https://www.youtube.com/watch?v=il0EJrY64qE",
+              "duration_sec": 778,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-intro-euclid/v/language-and-notation-of-basic-geometry"
+            },
+            {
+              "title": "Lines, line segments, & rays",
+              "slug": "v/lines-line-segments-and-rays",
+              "youtube_id": "JcqCf762y9w",
+              "youtube_url": "https://www.youtube.com/watch?v=JcqCf762y9w",
+              "duration_sec": 218,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-lines-line-segments-and-rays/v/lines-line-segments-and-rays"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Angle introduction",
+          "slug": "angle-intro",
+          "videos": [
+            {
+              "title": "Angles: introduction",
+              "slug": "v/angle-basics",
+              "youtube_id": "H-de6Tkxej8",
+              "youtube_url": "https://www.youtube.com/watch?v=H-de6Tkxej8",
+              "duration_sec": 409,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-angles/v/angle-basics"
+            },
+            {
+              "title": "Naming angles",
+              "slug": "v/naming-angles",
+              "youtube_id": "6vRgqB0PSXE",
+              "youtube_url": "https://www.youtube.com/watch?v=6vRgqB0PSXE",
+              "duration_sec": 71,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-angle-introduction/v/naming-angles"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Angle types",
+          "slug": "basic-geo-angle-types",
+          "videos": [
+            {
+              "title": "Identifying an angle",
+              "slug": "v/angle-sense-example",
+              "youtube_id": "2mzuFKCuDg4",
+              "youtube_url": "https://www.youtube.com/watch?v=2mzuFKCuDg4",
+              "duration_sec": 123,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-angle-introduction/v/angle-sense-example"
+            },
+            {
+              "title": "Acute, right, & obtuse angles",
+              "slug": "v/acute-right-and-obtuse-angles",
+              "youtube_id": "ALhv3Rlydig",
+              "youtube_url": "https://www.youtube.com/watch?v=ALhv3Rlydig",
+              "duration_sec": 332,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-angle-introduction/v/acute-right-and-obtuse-angles"
+            },
+            {
+              "title": "Recognizing angles",
+              "slug": "v/recognizing-angles-examples",
+              "youtube_id": "B0R3MJOrST0",
+              "youtube_url": "https://www.youtube.com/watch?v=B0R3MJOrST0",
+              "duration_sec": 135,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-angle-introduction/v/recognizing-angles-examples"
+            },
+            {
+              "title": "Drawing acute, right and obtuse angles",
+              "slug": "v/drawing-acute-right-and-obtuse-angles",
+              "youtube_id": "4ZyTVTGVPgE",
+              "youtube_url": "https://www.youtube.com/watch?v=4ZyTVTGVPgE",
+              "duration_sec": 160,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-angle-introduction/v/drawing-acute-right-and-obtuse-angles"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Understanding angle measurement",
+          "slug": "angles-in-circles",
+          "videos": [
+            {
+              "title": "Angle measurement & circle arcs",
+              "slug": "v/angle-measurement-and-circle-arcs",
+              "youtube_id": "D-EIh7NJvtQ",
+              "youtube_url": "https://www.youtube.com/watch?v=D-EIh7NJvtQ",
+              "duration_sec": 457,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-angles-in-circles/v/angle-measurement-and-circle-arcs"
+            },
+            {
+              "title": "Measuring angles with a circular protractor",
+              "slug": "v/measuring-angles-circular-protractor",
+              "youtube_id": "Ttji2_wBSEo",
+              "youtube_url": "https://www.youtube.com/watch?v=Ttji2_wBSEo",
+              "duration_sec": 109,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-angles-in-circles/v/measuring-angles-circular-protractor"
+            },
+            {
+              "title": "Angles in circles word problem ",
+              "slug": "v/angles-in-circles-word-problem",
+              "youtube_id": "_jRXtJz3CYc",
+              "youtube_url": "https://www.youtube.com/watch?v=_jRXtJz3CYc",
+              "duration_sec": 199,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-angles-in-circles/v/angles-in-circles-word-problem"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Measuring angles",
+          "slug": "measure-angles",
+          "videos": [
+            {
+              "title": "Measuring angles in degrees",
+              "slug": "v/measuring-angles-in-degrees",
+              "youtube_id": "92aLiyeQj0w",
+              "youtube_url": "https://www.youtube.com/watch?v=92aLiyeQj0w",
+              "duration_sec": 502,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-measuring-angles/v/measuring-angles-in-degrees"
+            },
+            {
+              "title": "Measuring angles using a protractor",
+              "slug": "v/using-a-protractor",
+              "youtube_id": "dw41PMWek6U",
+              "youtube_url": "https://www.youtube.com/watch?v=dw41PMWek6U",
+              "duration_sec": 205,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-measuring-angles/v/using-a-protractor"
+            },
+            {
+              "title": "Measuring angles using a protractor 2",
+              "slug": "v/measuring-angles",
+              "youtube_id": "wJ37GJyViU8",
+              "youtube_url": "https://www.youtube.com/watch?v=wJ37GJyViU8",
+              "duration_sec": 245,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-measuring-angles/v/measuring-angles"
+            },
+            {
+              "title": "Constructing angles",
+              "slug": "v/constructing-angles",
+              "youtube_id": "QmfoIvgIVlE",
+              "youtube_url": "https://www.youtube.com/watch?v=QmfoIvgIVlE",
+              "duration_sec": 161,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-measuring-angles/v/constructing-angles"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Decomposing angles",
+          "slug": "x7fa91416:decomposing-angles",
+          "videos": [
+            {
+              "title": "Decomposing an angle",
+              "slug": "v/decomposing-angles",
+              "youtube_id": "M7NVKImDqGg",
+              "youtube_url": "https://www.youtube.com/watch?v=M7NVKImDqGg",
+              "duration_sec": 103,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-decomposing-angles/v/decomposing-angles"
+            },
+            {
+              "title": "Decomposing angles",
+              "slug": "v/decomposing-angles-add",
+              "youtube_id": "uMj46crbLaw",
+              "youtube_url": "https://www.youtube.com/watch?v=uMj46crbLaw",
+              "duration_sec": 185,
+              "relative_url": "/math/cc-fourth-grade-math/imp-geometry-2/imp-decomposing-angles/v/decomposing-angles-add"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Plane figures",
+      "slug": "basic-geometry-shapes",
+      "relative_url": "/math/basic-geo/basic-geometry-shapes",
+      "lessons": [
+        {
+          "title": "Quadrilaterals introduction",
+          "slug": "x7fa91416:quadrilaterals-introduction",
+          "videos": [
+            {
+              "title": "Intro to quadrilaterals",
+              "slug": "v/introduction-to-types-of-quadrilaterals",
+              "youtube_id": "H-ykHosJW9c",
+              "youtube_url": "https://www.youtube.com/watch?v=H-ykHosJW9c",
+              "duration_sec": 487,
+              "relative_url": "/math/cc-third-grade-math/quadrilaterals-3rd/imp-quadrilaterals/v/introduction-to-types-of-quadrilaterals"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Classifying triangles",
+          "slug": "x7fa91416:classifying-triangles",
+          "videos": [
+            {
+              "title": "Classifying triangles ",
+              "slug": "v/scalene-isosceles-equilateral-acute-right-obtuse",
+              "youtube_id": "D5lZ3thuEeA",
+              "youtube_url": "https://www.youtube.com/watch?v=D5lZ3thuEeA",
+              "duration_sec": 360,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-classifying-triangles/v/scalene-isosceles-equilateral-acute-right-obtuse"
+            },
+            {
+              "title": "Classifying triangles by angles",
+              "slug": "v/scalene-isosceles-equilateral-from-angle",
+              "youtube_id": "sZMezOCZr40",
+              "youtube_url": "https://www.youtube.com/watch?v=sZMezOCZr40",
+              "duration_sec": 330,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-classifying-triangles/v/scalene-isosceles-equilateral-from-angle"
+            },
+            {
+              "title": "Worked example: Classifying triangles ",
+              "slug": "v/recog-triangles-example",
+              "youtube_id": "NRS2ZJVVzOI",
+              "youtube_url": "https://www.youtube.com/watch?v=NRS2ZJVVzOI",
+              "duration_sec": 143,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-classifying-triangles/v/recog-triangles-example"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Parallel and perpendicular",
+          "slug": "x7fa91416:parallel-and-perpendicular",
+          "videos": [
+            {
+              "title": "Parallel & perpendicular lines intro",
+              "slug": "v/parallel-and-perpendicular-lines-intro",
+              "youtube_id": "V0xounKGEXs",
+              "youtube_url": "https://www.youtube.com/watch?v=V0xounKGEXs",
+              "duration_sec": 128,
+              "relative_url": "/math/geometry/hs-geo-analytic-geometry/hs-geo-parallel-perpendicular-lines/v/parallel-and-perpendicular-lines-intro"
+            },
+            {
+              "title": "Parallel & perpendicular lines",
+              "slug": "v/identifying-parallel-and-perpendicular-lines",
+              "youtube_id": "aq_XL6FrmGs",
+              "youtube_url": "https://www.youtube.com/watch?v=aq_XL6FrmGs",
+              "duration_sec": 215,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-angles-between-lines/v/identifying-parallel-and-perpendicular-lines"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Classifying geometric shapes",
+          "slug": "x7fa91416:classifying-geometric-shapes",
+          "videos": [
+            {
+              "title": "Classifying shapes by line and angles types",
+              "slug": "v/classifying-shapes-examples",
+              "youtube_id": "PiQxA9O7Rd8",
+              "youtube_url": "https://www.youtube.com/watch?v=PiQxA9O7Rd8",
+              "duration_sec": 135,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-classifying-geometric-shapes/v/classifying-shapes-examples"
+            },
+            {
+              "title": "Quadrilateral properties",
+              "slug": "v/quadrilateral-properties",
+              "youtube_id": "5CeBlu260Rw",
+              "youtube_url": "https://www.youtube.com/watch?v=5CeBlu260Rw",
+              "duration_sec": 307,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-classifying-geometric-shapes/v/quadrilateral-properties"
+            },
+            {
+              "title": "Classifying shapes by lines and angles",
+              "slug": "v/classifying-shapes-by-lines-and-angles",
+              "youtube_id": "xO4n3LfmVag",
+              "youtube_url": "https://www.youtube.com/watch?v=xO4n3LfmVag",
+              "duration_sec": 217,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-classifying-geometric-shapes/v/classifying-shapes-by-lines-and-angles"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Lines of symmetry",
+          "slug": "x7fa91416:lines-of-symmetry",
+          "videos": [
+            {
+              "title": "Intro to reflective symmetry",
+              "slug": "v/axis-of-symmetry",
+              "youtube_id": "LrTn4cvsewk",
+              "youtube_url": "https://www.youtube.com/watch?v=LrTn4cvsewk",
+              "duration_sec": 167,
+              "relative_url": "/math/geometry/xff63fac4:hs-geo-transformation-properties-and-proofs/hs-geo-symmetry/v/axis-of-symmetry"
+            },
+            {
+              "title": "Identifying symmetrical figures",
+              "slug": "v/identifying-symmetrical-figures",
+              "youtube_id": "59s_CQjTD6w",
+              "youtube_url": "https://www.youtube.com/watch?v=59s_CQjTD6w",
+              "duration_sec": 333,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-line-of-symmetry/v/identifying-symmetrical-figures"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "More on quadrilaterals",
+          "slug": "x7fa91416:more-on-quadrilaterals",
+          "videos": [
+            {
+              "title": "Quadrilateral properties",
+              "slug": "v/quadrilateral-properties",
+              "youtube_id": "5CeBlu260Rw",
+              "youtube_url": "https://www.youtube.com/watch?v=5CeBlu260Rw",
+              "duration_sec": 307,
+              "relative_url": "/math/cc-fourth-grade-math/plane-figures/imp-classifying-geometric-shapes/v/quadrilateral-properties"
+            },
+            {
+              "title": "Kites as a geometric shape",
+              "slug": "v/kites-as-a-mathematical-shape",
+              "youtube_id": "inlMrf2d-k4",
+              "youtube_url": "https://www.youtube.com/watch?v=inlMrf2d-k4",
+              "duration_sec": 338,
+              "relative_url": "/math/cc-fifth-grade-math/properties-of-shapes/imp-quadrilaterals-2/v/kites-as-a-mathematical-shape"
+            },
+            {
+              "title": "Quadrilateral types",
+              "slug": "v/quadrilateral-types-exercise",
+              "youtube_id": "wPZIa3SjPF0",
+              "youtube_url": "https://www.youtube.com/watch?v=wPZIa3SjPF0",
+              "duration_sec": 169,
+              "relative_url": "/math/cc-fifth-grade-math/properties-of-shapes/imp-quadrilaterals-2/v/quadrilateral-types-exercise"
+            },
+            {
+              "title": "Classifying quadrilaterals",
+              "slug": "v/classifying-shapes",
+              "youtube_id": "1pHhMX0_4Bw",
+              "youtube_url": "https://www.youtube.com/watch?v=1pHhMX0_4Bw",
+              "duration_sec": 148,
+              "relative_url": "/math/cc-fifth-grade-math/properties-of-shapes/imp-quadrilaterals-2/v/classifying-shapes"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Properties of shapes",
+          "slug": "x7fa91416:properties-of-shapes",
+          "videos": [],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Units of measurement",
+      "slug": "x7fa91416:units-of-measurement",
+      "relative_url": "/math/basic-geo/x7fa91416:units-of-measurement",
+      "lessons": [
+        {
+          "title": "Estimating length",
+          "slug": "x7fa91416:estimating-length",
+          "videos": [
+            {
+              "title": "Metric system: units of distance",
+              "slug": "v/metric-distance",
+              "youtube_id": "I3kQJvR7ZIg",
+              "youtube_url": "https://www.youtube.com/watch?v=I3kQJvR7ZIg",
+              "duration_sec": 416,
+              "relative_url": "/math/cc-fourth-grade-math/imp-measurement-and-data-2/imp-estimating-length/v/metric-distance"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Converting units of mass",
+          "slug": "x7fa91416:converting-units-of-mass",
+          "videos": [
+            {
+              "title": "How to convert kg to mg and T to oz",
+              "slug": "v/converting-weight",
+              "youtube_id": "1oFv56vSvvA",
+              "youtube_url": "https://www.youtube.com/watch?v=1oFv56vSvvA",
+              "duration_sec": 264,
+              "relative_url": "/math/cc-fourth-grade-math/imp-measurement-and-data-2/imp-converting-units-of-mass/v/converting-weight"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Converting units of volume",
+          "slug": "x7fa91416:converting-units-of-volume",
+          "videos": [
+            {
+              "title": "Convert liters to milliliters",
+              "slug": "v/liters-to-milliliters-examples",
+              "youtube_id": "OfTTjQW0CBw",
+              "youtube_url": "https://www.youtube.com/watch?v=OfTTjQW0CBw",
+              "duration_sec": 127,
+              "relative_url": "/math/cc-fourth-grade-math/imp-measurement-and-data-2/imp-converting-units-of-volume/v/liters-to-milliliters-examples"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Converting units of length",
+          "slug": "x7fa91416:converting-units-of-length",
+          "videos": [
+            {
+              "title": "Converting metric units of length",
+              "slug": "v/converting-metric-distance",
+              "youtube_id": "9iulv2QvKwo",
+              "youtube_url": "https://www.youtube.com/watch?v=9iulv2QvKwo",
+              "duration_sec": 157,
+              "relative_url": "/math/cc-fourth-grade-math/imp-measurement-and-data-2/imp-converting-units-of-length/v/converting-metric-distance"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Conversion word problems (larger to smaller)",
+          "slug": "x7fa91416:conversion-word-problems-larger-to-smaller",
+          "videos": [
+            {
+              "title": "Multi-step unit conversion examples (metric)",
+              "slug": "v/metric-system-unit-conversion-examples",
+              "youtube_id": "ODJzxGj_zvU",
+              "youtube_url": "https://www.youtube.com/watch?v=ODJzxGj_zvU",
+              "duration_sec": 323,
+              "relative_url": "/math/cc-fourth-grade-math/imp-measurement-and-data-2/imp-conversion-word-problems/v/metric-system-unit-conversion-examples"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Converting to larger or smaller",
+          "slug": "x7fa91416:converting-to-larger-or-smaller",
+          "videos": [
+            {
+              "title": "Converting units: metric distance",
+              "slug": "v/ordering-metric-distances",
+              "youtube_id": "mI84WDfhuYA",
+              "youtube_url": "https://www.youtube.com/watch?v=mI84WDfhuYA",
+              "duration_sec": 242,
+              "relative_url": "/math/cc-fifth-grade-math/imp-measurement-and-data-3/imp-unit-conversion/v/ordering-metric-distances"
+            },
+            {
+              "title": "Converting units: centimeters to meters",
+              "slug": "v/cm-to-meters",
+              "youtube_id": "6bQ6HJsAv4A",
+              "youtube_url": "https://www.youtube.com/watch?v=6bQ6HJsAv4A",
+              "duration_sec": 184,
+              "relative_url": "/math/cc-fifth-grade-math/imp-measurement-and-data-3/imp-unit-conversion/v/cm-to-meters"
+            },
+            {
+              "title": "U.S. customary and metric units",
+              "slug": "v/u-s-customary-and-metric-units",
+              "youtube_id": "y2RHWA7t0WM",
+              "youtube_url": "https://www.youtube.com/watch?v=y2RHWA7t0WM",
+              "duration_sec": 310,
+              "relative_url": "/math/cc-fifth-grade-math/imp-measurement-and-data-3/imp-unit-conversion/v/u-s-customary-and-metric-units"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Converting metric units word problems",
+          "slug": "x7fa91416:converting-metric-units-word-problems",
+          "videos": [
+            {
+              "title": "Measurement word problem: tea party",
+              "slug": "v/unit-word-problem-example",
+              "youtube_id": "PdHSs5_kx24",
+              "youtube_url": "https://www.youtube.com/watch?v=PdHSs5_kx24",
+              "duration_sec": 245,
+              "relative_url": "/math/cc-fifth-grade-math/imp-measurement-and-data-3/converting-metric-units-word-problems/v/unit-word-problem-example"
+            },
+            {
+              "title": "Time word problem: Susan's break",
+              "slug": "v/time-word-problem",
+              "youtube_id": "UhMM68fq9FA",
+              "youtube_url": "https://www.youtube.com/watch?v=UhMM68fq9FA",
+              "duration_sec": 218,
+              "relative_url": "/math/cc-fourth-grade-math/imp-measurement-and-data-2/imp-converting-units-of-time/v/time-word-problem"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Volume",
+      "slug": "basic-geo-volume-sa",
+      "relative_url": "/math/basic-geo/basic-geo-volume-sa",
+      "lessons": [
+        {
+          "title": "Volume with unit cubes",
+          "slug": "x7fa91416:volume-with-unit-cubes",
+          "videos": [
+            {
+              "title": "Volume intro",
+              "slug": "v/how-we-measure-volume",
+              "youtube_id": "xMz9WFvox9g",
+              "youtube_url": "https://www.youtube.com/watch?v=xMz9WFvox9g",
+              "duration_sec": 471,
+              "relative_url": "/math/cc-fifth-grade-math/5th-volume/volume-with-unit-cubes/v/how-we-measure-volume"
+            },
+            {
+              "title": "Measuring volume with unit cubes",
+              "slug": "v/measuring-volume-with-unit-cubes",
+              "youtube_id": "7WloKabLhII",
+              "youtube_url": "https://www.youtube.com/watch?v=7WloKabLhII",
+              "duration_sec": 133,
+              "relative_url": "/math/cc-fifth-grade-math/5th-volume/volume-with-unit-cubes/v/measuring-volume-with-unit-cubes"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Volume of rectangular prisms",
+          "slug": "volume-rect-prism",
+          "videos": [
+            {
+              "title": "Measuring volume as area times length",
+              "slug": "v/measuring-volume-as-area-times-length",
+              "youtube_id": "daCT_24RnIY",
+              "youtube_url": "https://www.youtube.com/watch?v=daCT_24RnIY",
+              "duration_sec": 442,
+              "relative_url": "/math/cc-fifth-grade-math/5th-volume/imp-finding-volume/v/measuring-volume-as-area-times-length"
+            },
+            {
+              "title": "Volume of a rectangular prism ",
+              "slug": "v/volume-of-a-rectangular-prism-or-box-examples",
+              "youtube_id": "I9efKVtLCf4",
+              "youtube_url": "https://www.youtube.com/watch?v=I9efKVtLCf4",
+              "duration_sec": 119,
+              "relative_url": "/math/cc-fifth-grade-math/5th-volume/imp-finding-volume/v/volume-of-a-rectangular-prism-or-box-examples"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Decompose figures to find volumes",
+          "slug": "x7fa91416:decompose-figures-to-find-volumes",
+          "videos": [
+            {
+              "title": "Volume in unit cubes by decomposing shape",
+              "slug": "v/volume-in-unit-cubes-by-decomposing-shape",
+              "youtube_id": "gm87omItizk",
+              "youtube_url": "https://www.youtube.com/watch?v=gm87omItizk",
+              "duration_sec": 199,
+              "relative_url": "/math/cc-fifth-grade-math/5th-volume/decompose-figures-to-find-volume/v/volume-in-unit-cubes-by-decomposing-shape"
+            },
+            {
+              "title": "Volume through decomposition",
+              "slug": "v/volume-through-decomposition",
+              "youtube_id": "feNWZEln6Nc",
+              "youtube_url": "https://www.youtube.com/watch?v=feNWZEln6Nc",
+              "duration_sec": 229,
+              "relative_url": "/math/cc-fifth-grade-math/5th-volume/decompose-figures-to-find-volume/v/volume-through-decomposition"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Volume word problems",
+          "slug": "x7fa91416:volume-word-problems",
+          "videos": [
+            {
+              "title": "Volume word problem: water tank",
+              "slug": "v/volume-word-problem-example",
+              "youtube_id": "OanPzjf2EYY",
+              "youtube_url": "https://www.youtube.com/watch?v=OanPzjf2EYY",
+              "duration_sec": 280,
+              "relative_url": "/math/cc-fifth-grade-math/5th-volume/volume-word-problems/v/volume-word-problem-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Coordinate plane",
+      "slug": "basic-geo-coord-plane",
+      "relative_url": "/math/basic-geo/basic-geo-coord-plane",
+      "lessons": [
+        {
+          "title": "Intro to the coordinate plane",
+          "slug": "x7fa91416:intro-to-the-coordinate-plane",
+          "videos": [
+            {
+              "title": "Introduction to the coordinate plane",
+              "slug": "v/introduction-to-the-coordinate-plane",
+              "youtube_id": "pAlq9fFwtus",
+              "youtube_url": "https://www.youtube.com/watch?v=pAlq9fFwtus",
+              "duration_sec": 408,
+              "relative_url": "/math/cc-fifth-grade-math/imp-geometry-3/imp-intro-to-the-coordinate-plane/v/introduction-to-the-coordinate-plane"
+            },
+            {
+              "title": "Coordinate plane: graphing points",
+              "slug": "v/graphing-points-exercise",
+              "youtube_id": "4vNloi-zNjU",
+              "youtube_url": "https://www.youtube.com/watch?v=4vNloi-zNjU",
+              "duration_sec": 141,
+              "relative_url": "/math/cc-fifth-grade-math/imp-geometry-3/imp-intro-to-the-coordinate-plane/v/graphing-points-exercise"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Coordinate plane word problems",
+          "slug": "x7fa91416:coordinate-plane-word-problems",
+          "videos": [
+            {
+              "title": "Coordinate plane graphing word problem",
+              "slug": "v/coordinate-plane-word-problem-example",
+              "youtube_id": "_QKR8I5VE-w",
+              "youtube_url": "https://www.youtube.com/watch?v=_QKR8I5VE-w",
+              "duration_sec": 126,
+              "relative_url": "/math/cc-fifth-grade-math/imp-geometry-3/imp-coordinate-plane-word-problems/v/coordinate-plane-word-problem-example"
+            },
+            {
+              "title": "Interpreting plotted points",
+              "slug": "v/interpreting-plotted-points",
+              "youtube_id": "9EEJU4Ox-TE",
+              "youtube_url": "https://www.youtube.com/watch?v=9EEJU4Ox-TE",
+              "duration_sec": 156,
+              "relative_url": "/math/cc-fifth-grade-math/imp-geometry-3/imp-coordinate-plane-word-problems/v/interpreting-plotted-points"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Points in all four quadrants",
+          "slug": "x7fa91416:points-in-all-four-quadrants",
+          "videos": [
+            {
+              "title": "Points on the coordinate plane examples",
+              "slug": "v/the-coordinate-plane",
+              "youtube_id": "VhNkWdLGpmA",
+              "youtube_url": "https://www.youtube.com/watch?v=VhNkWdLGpmA",
+              "duration_sec": 410,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:coordinate-plane/cc-6th-coordinate-plane/v/the-coordinate-plane"
+            },
+            {
+              "title": "Plotting a point (ordered pair)",
+              "slug": "v/plot-ordered-pairs",
+              "youtube_id": "5ctsUsvIp8w",
+              "youtube_url": "https://www.youtube.com/watch?v=5ctsUsvIp8w",
+              "duration_sec": 128,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:coordinate-plane/cc-6th-coordinate-plane/v/plot-ordered-pairs"
+            },
+            {
+              "title": "Finding the point not graphed",
+              "slug": "v/points-on-the-coordinate-plane",
+              "youtube_id": "b9H22F0Qbgw",
+              "youtube_url": "https://www.youtube.com/watch?v=b9H22F0Qbgw",
+              "duration_sec": 63,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:coordinate-plane/cc-6th-coordinate-plane/v/points-on-the-coordinate-plane"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Problem solving in all quadrants",
+          "slug": "x7fa91416:problem-solving-in-all-quadrants",
+          "videos": [
+            {
+              "title": "Coordinate plane word problem examples",
+              "slug": "v/coordinate-plane-word-problems-exercise",
+              "youtube_id": "PC_FoyewoIs",
+              "youtube_url": "https://www.youtube.com/watch?v=PC_FoyewoIs",
+              "duration_sec": 287,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:coordinate-plane/x0267d782:cc-6th-distance/v/coordinate-plane-word-problems-exercise"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Decomposing to find area",
+      "slug": "x7fa91416:decomposing-to-find-area",
+      "relative_url": "/math/basic-geo/x7fa91416:decomposing-to-find-area",
+      "lessons": [
+        {
+          "title": "Area of parallelograms",
+          "slug": "x7fa91416:area-of-parallelograms",
+          "videos": [
+            {
+              "title": "Area of a parallelogram",
+              "slug": "v/intuition-for-area-of-a-parallelogram",
+              "youtube_id": "hm17lVaor0Q",
+              "youtube_url": "https://www.youtube.com/watch?v=hm17lVaor0Q",
+              "duration_sec": 177,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-parallelogram-area/v/intuition-for-area-of-a-parallelogram"
+            },
+            {
+              "title": "Finding height of a parallelogram",
+              "slug": "v/finding-height-of-a-parallelogram",
+              "youtube_id": "SKe3ItfdzTY",
+              "youtube_url": "https://www.youtube.com/watch?v=SKe3ItfdzTY",
+              "duration_sec": 102,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-parallelogram-area/v/finding-height-of-a-parallelogram"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Area of triangles",
+          "slug": "x7fa91416:area-of-triangles",
+          "videos": [
+            {
+              "title": "Area of a triangle",
+              "slug": "v/intuition-for-area-of-a-triangle",
+              "youtube_id": "rRTXKQpblEc",
+              "youtube_url": "https://www.youtube.com/watch?v=rRTXKQpblEc",
+              "duration_sec": 330,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-area-triangle/v/intuition-for-area-of-a-triangle"
+            },
+            {
+              "title": "Finding area of triangles",
+              "slug": "v/example-finding-area-of-triangle",
+              "youtube_id": "7N5orPxUoGo",
+              "youtube_url": "https://www.youtube.com/watch?v=7N5orPxUoGo",
+              "duration_sec": 91,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-area-triangle/v/example-finding-area-of-triangle"
+            },
+            {
+              "title": "Triangle missing side example",
+              "slug": "v/triangle-missing-side-example",
+              "youtube_id": "wTkH288r84s",
+              "youtube_url": "https://www.youtube.com/watch?v=wTkH288r84s",
+              "duration_sec": 189,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-area-triangle/v/triangle-missing-side-example"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Area and perimeter on the coordinate plane",
+          "slug": "x7fa91416:area-and-perimeter-on-the-coordinate-plane",
+          "videos": [
+            {
+              "title": "Drawing a quadrilateral on the coordinate plane example",
+              "slug": "v/constructing-polygon-on-coordinate-plane-example",
+              "youtube_id": "zxy4KAiSPIc",
+              "youtube_url": "https://www.youtube.com/watch?v=zxy4KAiSPIc",
+              "duration_sec": 92,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:coordinate-plane/cc-6th-quadrilaterals-on-plane/v/constructing-polygon-on-coordinate-plane-example"
+            },
+            {
+              "title": "Area of a parallelogram on the coordinate plane",
+              "slug": "v/area-of-parallelogram-on-coordinate-plane",
+              "youtube_id": "xTcwnhyPN5E",
+              "youtube_url": "https://www.youtube.com/watch?v=xTcwnhyPN5E",
+              "duration_sec": 128,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:coordinate-plane/cc-6th-quadrilaterals-on-plane/v/area-of-parallelogram-on-coordinate-plane"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Area of composite figures",
+          "slug": "x7fa91416:area-of-composite-figures",
+          "videos": [
+            {
+              "title": "Finding area by rearranging parts",
+              "slug": "v/area-comparisons",
+              "youtube_id": "MamrTJ7V_Vg",
+              "youtube_url": "https://www.youtube.com/watch?v=MamrTJ7V_Vg",
+              "duration_sec": 237,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-area/v/area-comparisons"
+            },
+            {
+              "title": "Area of composite shapes",
+              "slug": "v/area-breaking-up-shape",
+              "youtube_id": "loAA3TCNAvU",
+              "youtube_url": "https://www.youtube.com/watch?v=loAA3TCNAvU",
+              "duration_sec": 315,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-area/v/area-breaking-up-shape"
+            },
+            {
+              "title": "Area of quadrilateral with 2 parallel sides",
+              "slug": "v/area-of-quadrilateral-with-2-parallel-sides",
+              "youtube_id": "uEIoh8uWs1U",
+              "youtube_url": "https://www.youtube.com/watch?v=uEIoh8uWs1U",
+              "duration_sec": 222,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-plane-figures/cc-6th-area/v/area-of-quadrilateral-with-2-parallel-sides"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "3D figures",
+      "slug": "x7fa91416:3d-figures",
+      "relative_url": "/math/basic-geo/x7fa91416:3d-figures",
+      "lessons": [
+        {
+          "title": "Rectangular prism volume with fractions",
+          "slug": "x7fa91416:rectangular-prism-volume-with-fractions",
+          "videos": [
+            {
+              "title": "Volume of a rectangular prism: fractional dimensions",
+              "slug": "v/volume-of-a-rectangular-prism-with-fractional-dimensions",
+              "youtube_id": "EJTPGyWqhqc",
+              "youtube_url": "https://www.youtube.com/watch?v=EJTPGyWqhqc",
+              "duration_sec": 255,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-geometry-topic/cc-6th-volume-with-fractions/v/volume-of-a-rectangular-prism-with-fractional-dimensions"
+            },
+            {
+              "title": "How volume changes from changing dimensions",
+              "slug": "v/how-volume-changes-from-changing-dimensions",
+              "youtube_id": "IShaLZ8CMXY",
+              "youtube_url": "https://www.youtube.com/watch?v=IShaLZ8CMXY",
+              "duration_sec": 257,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-geometry-topic/cc-6th-volume-with-fractions/v/how-volume-changes-from-changing-dimensions"
+            },
+            {
+              "title": "Volume of a rectangular prism: word problem",
+              "slug": "v/marbles-in-tank-volume",
+              "youtube_id": "CCysGY2cXUo",
+              "youtube_url": "https://www.youtube.com/watch?v=CCysGY2cXUo",
+              "duration_sec": 382,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-geometry-topic/cc-6th-volume-with-fractions/v/marbles-in-tank-volume"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Surface area with nets",
+          "slug": "x7fa91416:surface-area-with-nets",
+          "videos": [
+            {
+              "title": "Intro to nets of polyhedra",
+              "slug": "v/nets-of-polyhedra",
+              "youtube_id": "ZACf9EecFrY",
+              "youtube_url": "https://www.youtube.com/watch?v=ZACf9EecFrY",
+              "duration_sec": 408,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-geometry-topic/x0267d782:cc-6th-nets-of-3d-figures/v/nets-of-polyhedra"
+            },
+            {
+              "title": "Surface area using a net: triangular prism",
+              "slug": "v/finding-surface-area-using-net",
+              "youtube_id": "mtMNvnm71Z0",
+              "youtube_url": "https://www.youtube.com/watch?v=mtMNvnm71Z0",
+              "duration_sec": 214,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-geometry-topic/x0267d782:cc-6th-nets-of-3d-figures/v/finding-surface-area-using-net"
+            },
+            {
+              "title": "Surface area using a net: rectangular prism",
+              "slug": "v/surface-area-from-net",
+              "youtube_id": "m1ZTnl4CNQg",
+              "youtube_url": "https://www.youtube.com/watch?v=m1ZTnl4CNQg",
+              "duration_sec": 259,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-geometry-topic/x0267d782:cc-6th-nets-of-3d-figures/v/surface-area-from-net"
+            },
+            {
+              "title": "Surface area of a box using nets",
+              "slug": "v/surface-area-of-a-box-using-nets",
+              "youtube_id": "vl1uMOYFyf4",
+              "youtube_url": "https://www.youtube.com/watch?v=vl1uMOYFyf4",
+              "duration_sec": 284,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-geometry-topic/x0267d782:cc-6th-nets-of-3d-figures/v/surface-area-of-a-box-using-nets"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Finding surface area",
+          "slug": "x7fa91416:finding-surface-area",
+          "videos": [
+            {
+              "title": "Surface area of a box (cuboid)",
+              "slug": "v/surface-area-of-a-box",
+              "youtube_id": "1iSBNSYhvIU",
+              "youtube_url": "https://www.youtube.com/watch?v=1iSBNSYhvIU",
+              "duration_sec": 145,
+              "relative_url": "/science/ap-biology/cell-structure-and-function/cell-size/v/surface-area-of-a-box"
+            },
+            {
+              "title": "Surface area word problem example",
+              "slug": "v/surface-area-word-problem-example",
+              "youtube_id": "ODNCH3gSKdA",
+              "youtube_url": "https://www.youtube.com/watch?v=ODNCH3gSKdA",
+              "duration_sec": 275,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-geometry-topic/cc-6th-surface-area/v/surface-area-word-problem-example"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Slicing geometric shapes",
+          "slug": "x7fa91416:slicing-geometric-shapes",
+          "videos": [
+            {
+              "title": "Slicing a rectangular pyramid",
+              "slug": "v/vertical-slice-of-rectangular-pyramid",
+              "youtube_id": "hoa1RBk4dTo",
+              "youtube_url": "https://www.youtube.com/watch?v=hoa1RBk4dTo",
+              "duration_sec": 210,
+              "relative_url": "/math/geometry/hs-geo-solids/hs-geo-2d-vs-3d/v/vertical-slice-of-rectangular-pyramid"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Volume and surface area word problems",
+          "slug": "x7fa91416:volume-and-surface-area-word-problems",
+          "videos": [
+            {
+              "title": "Volume word problem: gold ring",
+              "slug": "v/volume-of-gold-ring",
+              "youtube_id": "ViFLPsLTO1k",
+              "youtube_url": "https://www.youtube.com/watch?v=ViFLPsLTO1k",
+              "duration_sec": 160,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-volume-surface-area/v/volume-of-gold-ring"
+            },
+            {
+              "title": "Volume of triangular prism & cube",
+              "slug": "v/solid-geometry-volume",
+              "youtube_id": "ZqzAOZ9pP9Q",
+              "youtube_url": "https://www.youtube.com/watch?v=ZqzAOZ9pP9Q",
+              "duration_sec": 236,
+              "relative_url": "/math/geometry/hs-geo-solids/hs-geo-solids-intro/v/solid-geometry-volume"
+            },
+            {
+              "title": "Volume of rectangles inside rectangles",
+              "slug": "v/crates-in-boxcar",
+              "youtube_id": "AxHAQ5l45FE",
+              "youtube_url": "https://www.youtube.com/watch?v=AxHAQ5l45FE",
+              "duration_sec": 287,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-volume-surface-area/v/crates-in-boxcar"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Circles, cylinders, cones, and spheres",
+      "slug": "x7fa91416:circles-cylinders-cones-and-spheres",
+      "relative_url": "/math/basic-geo/x7fa91416:circles-cylinders-cones-and-spheres",
+      "lessons": [
+        {
+          "title": "Area and circumference of circles",
+          "slug": "x7fa91416:area-and-circumference-of-circles",
+          "videos": [
+            {
+              "title": "Radius, diameter, circumference & π",
+              "slug": "v/circles-radius-diameter-and-circumference",
+              "youtube_id": "jyLRpr2P0MQ",
+              "youtube_url": "https://www.youtube.com/watch?v=jyLRpr2P0MQ",
+              "duration_sec": 665,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/circles-radius-diameter-and-circumference"
+            },
+            {
+              "title": "Labeling parts of a circle",
+              "slug": "v/parts-of-a-circle",
+              "youtube_id": "04N79tItPEA",
+              "youtube_url": "https://www.youtube.com/watch?v=04N79tItPEA",
+              "duration_sec": 121,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/parts-of-a-circle"
+            },
+            {
+              "title": "Radius & diameter from circumference",
+              "slug": "v/finding-radius-and-diameter-from-circumference",
+              "youtube_id": "yWGeFDXgQvg",
+              "youtube_url": "https://www.youtube.com/watch?v=yWGeFDXgQvg",
+              "duration_sec": 216,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/finding-radius-and-diameter-from-circumference"
+            },
+            {
+              "title": "Relating circumference and area",
+              "slug": "v/relating-circumference-and-area",
+              "youtube_id": "-jqWW22FMdI",
+              "youtube_url": "https://www.youtube.com/watch?v=-jqWW22FMdI",
+              "duration_sec": 291,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/relating-circumference-and-area"
+            },
+            {
+              "title": "Area of a circle",
+              "slug": "v/area-of-a-circle",
+              "youtube_id": "ZyOhRgnFmIY",
+              "youtube_url": "https://www.youtube.com/watch?v=ZyOhRgnFmIY",
+              "duration_sec": 242,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/area-of-a-circle"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Area and circumference of fractions of circles",
+          "slug": "x7fa91416:area-and-circumference-of-fractions-of-circles",
+          "videos": [
+            {
+              "title": "Partial circle area and arc length",
+              "slug": "v/partial-circle-area-and-arc-length",
+              "youtube_id": "YjWCDdNlXxc",
+              "youtube_url": "https://www.youtube.com/watch?v=YjWCDdNlXxc",
+              "duration_sec": 180,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/partial-circle-area-and-arc-length"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Volume of cylinders, spheres, and cones",
+          "slug": "x7fa91416:volume-of-cylinders-spheres-and-cones",
+          "videos": [
+            {
+              "title": "Cylinder volume & surface area",
+              "slug": "v/cylinder-volume-and-surface-area",
+              "youtube_id": "gL3HxBQyeg0",
+              "youtube_url": "https://www.youtube.com/watch?v=gL3HxBQyeg0",
+              "duration_sec": 487,
+              "relative_url": "/math/geometry/hs-geo-solids/hs-geo-solids-intro/v/cylinder-volume-and-surface-area"
+            },
+            {
+              "title": "Volume of a sphere",
+              "slug": "v/volume-of-a-sphere",
+              "youtube_id": "IelS2vg7JO8",
+              "youtube_url": "https://www.youtube.com/watch?v=IelS2vg7JO8",
+              "duration_sec": 155,
+              "relative_url": "/science/ap-biology/cell-structure-and-function/cell-size/v/volume-of-a-sphere"
+            },
+            {
+              "title": "Volume of a cone",
+              "slug": "v/volume-cone-example",
+              "youtube_id": "hC6zx9WAiC4",
+              "youtube_url": "https://www.youtube.com/watch?v=hC6zx9WAiC4",
+              "duration_sec": 344,
+              "relative_url": "/math/geometry/hs-geo-solids/hs-geo-solids-intro/v/volume-cone-example"
+            }
+          ],
+          "exercise_count": 4
+        }
+      ]
+    },
+    {
+      "title": "Angle relationships",
+      "slug": "x7fa91416:angle-relationships",
+      "relative_url": "/math/basic-geo/x7fa91416:angle-relationships",
+      "lessons": [
+        {
+          "title": "Vertical, complementary, and supplementary angles",
+          "slug": "x7fa91416:vertical-complementary-and-supplementary-angles",
+          "videos": [
+            {
+              "title": "Complementary & supplementary angles",
+              "slug": "v/complementary-and-supplementary-angles",
+              "youtube_id": "BTnAlNSgNsY",
+              "youtube_url": "https://www.youtube.com/watch?v=BTnAlNSgNsY",
+              "duration_sec": 511,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-angles/v/complementary-and-supplementary-angles"
+            },
+            {
+              "title": "Vertical angles",
+              "slug": "v/angles-at-the-intersection-of-two-lines",
+              "youtube_id": "_7aUxFzTG5w",
+              "youtube_url": "https://www.youtube.com/watch?v=_7aUxFzTG5w",
+              "duration_sec": 439,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-angles/v/angles-at-the-intersection-of-two-lines"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Missing angles problems",
+          "slug": "x7fa91416:missing-angles-problems",
+          "videos": [
+            {
+              "title": "Find measure of vertical angles",
+              "slug": "v/solving-for-unknown-angles",
+              "youtube_id": "TOobWKx1xe0",
+              "youtube_url": "https://www.youtube.com/watch?v=TOobWKx1xe0",
+              "duration_sec": 180,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/solving-for-unknown-angles"
+            },
+            {
+              "title": "Find measure of angles word problem",
+              "slug": "v/pie-splitting",
+              "youtube_id": "3u9Ux29MSXE",
+              "youtube_url": "https://www.youtube.com/watch?v=3u9Ux29MSXE",
+              "duration_sec": 274,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/pie-splitting"
+            },
+            {
+              "title": "Equation practice with complementary angles",
+              "slug": "v/example-using-algebra-to-find-measure-of-complementary-angles",
+              "youtube_id": "XDOH9Ul2OOM",
+              "youtube_url": "https://www.youtube.com/watch?v=XDOH9Ul2OOM",
+              "duration_sec": 153,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/example-using-algebra-to-find-measure-of-complementary-angles"
+            },
+            {
+              "title": "Equation practice with supplementary angles",
+              "slug": "v/example-using-algebra-to-find-measure-of-supplementary-angles",
+              "youtube_id": "zNtbi4OJs9I",
+              "youtube_url": "https://www.youtube.com/watch?v=zNtbi4OJs9I",
+              "duration_sec": 157,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/example-using-algebra-to-find-measure-of-supplementary-angles"
+            },
+            {
+              "title": "Equation practice with vertical angles",
+              "slug": "v/using-algebra-to-find-the-measures-of-vertical-angles",
+              "youtube_id": "2CZrkdtgeNU",
+              "youtube_url": "https://www.youtube.com/watch?v=2CZrkdtgeNU",
+              "duration_sec": 154,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/using-algebra-to-find-the-measures-of-vertical-angles"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Parallel lines and transversals",
+          "slug": "x7fa91416:parallel-lines-and-transversals",
+          "videos": [
+            {
+              "title": "Angles, parallel lines, & transversals",
+              "slug": "v/angles-formed-by-parallel-lines-and-transversals",
+              "youtube_id": "H-E5rlpCVu4",
+              "youtube_url": "https://www.youtube.com/watch?v=H-E5rlpCVu4",
+              "duration_sec": 427,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-angles-between-lines/v/angles-formed-by-parallel-lines-and-transversals"
+            },
+            {
+              "title": "Parallel & perpendicular lines",
+              "slug": "v/identifying-parallel-and-perpendicular-lines",
+              "youtube_id": "aq_XL6FrmGs",
+              "youtube_url": "https://www.youtube.com/watch?v=aq_XL6FrmGs",
+              "duration_sec": 215,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-angles-between-lines/v/identifying-parallel-and-perpendicular-lines"
+            },
+            {
+              "title": "Missing angles with a transversal",
+              "slug": "v/figuring-out-angles-between-transversal-and-parallel-lines",
+              "youtube_id": "2WjGD3LZEWo",
+              "youtube_url": "https://www.youtube.com/watch?v=2WjGD3LZEWo",
+              "duration_sec": 136,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-angles-between-lines/v/figuring-out-angles-between-transversal-and-parallel-lines"
+            },
+            {
+              "title": "Measures of angles formed by a transversal",
+              "slug": "v/using-algebra-to-find-measures-of-angles-formed-from-transversal",
+              "youtube_id": "Ld7Vxb5XV6A",
+              "youtube_url": "https://www.youtube.com/watch?v=Ld7Vxb5XV6A",
+              "duration_sec": 281,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-angles-between-lines/v/using-algebra-to-find-measures-of-angles-formed-from-transversal"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Triangle angles",
+          "slug": "x7fa91416:triangle-angles",
+          "videos": [
+            {
+              "title": "Angles in a triangle sum to 180° proof",
+              "slug": "v/proof-sum-of-measures-of-angles-in-a-triangle-are-180",
+              "youtube_id": "6s1CI3uuhko",
+              "youtube_url": "https://www.youtube.com/watch?v=6s1CI3uuhko",
+              "duration_sec": 268,
+              "relative_url": "/math/geometry/hs-geo-congruence/hs-geo-congruence-theorems/v/proof-sum-of-measures-of-angles-in-a-triangle-are-180"
+            },
+            {
+              "title": "Isosceles & equilateral triangles problems",
+              "slug": "v/equilateral-and-isosceles-example-problems",
+              "youtube_id": "7FTNWE7RTfQ",
+              "youtube_url": "https://www.youtube.com/watch?v=7FTNWE7RTfQ",
+              "duration_sec": 387,
+              "relative_url": "/math/geometry/hs-geo-congruence/hs-geo-working-with-triangles/v/equilateral-and-isosceles-example-problems"
+            },
+            {
+              "title": "Triangle exterior angle example",
+              "slug": "v/triangle-angle-example-1",
+              "youtube_id": "hmj3_zbz2eg",
+              "youtube_url": "https://www.youtube.com/watch?v=hmj3_zbz2eg",
+              "duration_sec": 363,
+              "relative_url": "/math/geometry/hs-geo-congruence/hs-geo-congruence-theorems/v/triangle-angle-example-1"
+            },
+            {
+              "title": "Worked example: Triangle angles (intersecting lines)",
+              "slug": "v/triangle-angle-example-2",
+              "youtube_id": "eTwnt4G5xE4",
+              "youtube_url": "https://www.youtube.com/watch?v=eTwnt4G5xE4",
+              "duration_sec": 295,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-triangle-angles/v/triangle-angle-example-2"
+            },
+            {
+              "title": "Worked example: Triangle angles (diagram) ",
+              "slug": "v/triangle-angle-example-3",
+              "youtube_id": "iqeGTtyzQ1I",
+              "youtube_url": "https://www.youtube.com/watch?v=iqeGTtyzQ1I",
+              "duration_sec": 342,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-triangle-angles/v/triangle-angle-example-3"
+            },
+            {
+              "title": "Triangle angle challenge problem",
+              "slug": "v/challenging-triangle-angle-problem",
+              "youtube_id": "95logvV8nXY",
+              "youtube_url": "https://www.youtube.com/watch?v=95logvV8nXY",
+              "duration_sec": 517,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-triangle-angles/v/challenging-triangle-angle-problem"
+            },
+            {
+              "title": "Triangle angle challenge problem 2",
+              "slug": "v/finding-more-angles",
+              "youtube_id": "0gzSreH8nUI",
+              "youtube_url": "https://www.youtube.com/watch?v=0gzSreH8nUI",
+              "duration_sec": 365,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-triangle-angles/v/finding-more-angles"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Scale",
+      "slug": "x7fa91416:scale",
+      "relative_url": "/math/basic-geo/x7fa91416:scale",
+      "lessons": [
+        {
+          "title": "Scale copies",
+          "slug": "x7fa91416:scale-copies",
+          "videos": [
+            {
+              "title": "Identifying corresponding parts of scaled copies",
+              "slug": "v/identifying-corresponding-parts-of-scaled-copies",
+              "youtube_id": "o07enwTfSpU",
+              "youtube_url": "https://www.youtube.com/watch?v=o07enwTfSpU",
+              "duration_sec": 151,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:scale-drawings/scale-copies/v/identifying-corresponding-parts-of-scaled-copies"
+            },
+            {
+              "title": "Corresponding points and sides of scaled shapes",
+              "slug": "v/corresponding-points-and-sides-of-scaled-shapes",
+              "youtube_id": "FeogTR_omiM",
+              "youtube_url": "https://www.youtube.com/watch?v=FeogTR_omiM",
+              "duration_sec": 175,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:scale-drawings/scale-copies/v/corresponding-points-and-sides-of-scaled-shapes"
+            },
+            {
+              "title": "Identifying scale copies",
+              "slug": "v/identifying-scaled-copies",
+              "youtube_id": "QBiTspq2Wck",
+              "youtube_url": "https://www.youtube.com/watch?v=QBiTspq2Wck",
+              "duration_sec": 244,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:scale-drawings/scale-copies/v/identifying-scaled-copies"
+            },
+            {
+              "title": "Identifying scale factor in drawings",
+              "slug": "v/identifying-scale-factors-example",
+              "youtube_id": "ZeY1mgog2YQ",
+              "youtube_url": "https://www.youtube.com/watch?v=ZeY1mgog2YQ",
+              "duration_sec": 86,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:scale-drawings/scale-copies/v/identifying-scale-factors-example"
+            },
+            {
+              "title": "Identifying values in scale copies",
+              "slug": "v/identifying-values-in-scale-drawings",
+              "youtube_id": "YCjc3uRTq7I",
+              "youtube_url": "https://www.youtube.com/watch?v=YCjc3uRTq7I",
+              "duration_sec": 229,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:scale-drawings/scale-copies/v/identifying-values-in-scale-drawings"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Scale drawings",
+          "slug": "x7fa91416:scale-drawings",
+          "videos": [
+            {
+              "title": "Interpreting a scale drawing",
+              "slug": "v/scale-drawings-example",
+              "youtube_id": "byjmR7JBXKc",
+              "youtube_url": "https://www.youtube.com/watch?v=byjmR7JBXKc",
+              "duration_sec": 266,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:scale-drawings/cc-7th-scale-drawings/v/scale-drawings-example"
+            },
+            {
+              "title": "Creating scale drawings",
+              "slug": "v/creating-scale-drawings",
+              "youtube_id": "TASA6V5fGT8",
+              "youtube_url": "https://www.youtube.com/watch?v=TASA6V5fGT8",
+              "duration_sec": 138,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:scale-drawings/cc-7th-scale-drawings/v/creating-scale-drawings"
+            },
+            {
+              "title": "Making a scale drawing",
+              "slug": "v/constructing-scale-drawings",
+              "youtube_id": "f-gCYOCFMYc",
+              "youtube_url": "https://www.youtube.com/watch?v=f-gCYOCFMYc",
+              "duration_sec": 198,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:scale-drawings/cc-7th-scale-drawings/v/constructing-scale-drawings"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Triangle side lengths",
+      "slug": "basic-geometry-pythagorean-theorem",
+      "relative_url": "/math/basic-geo/basic-geometry-pythagorean-theorem",
+      "lessons": [
+        {
+          "title": "Constructing triangles",
+          "slug": "x7fa91416:constructing-triangles",
+          "videos": [
+            {
+              "title": "Construct a right isosceles triangle",
+              "slug": "v/constructing-right-isosceles",
+              "youtube_id": "lohMwoq3WFA",
+              "youtube_url": "https://www.youtube.com/watch?v=lohMwoq3WFA",
+              "duration_sec": 86,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-constructing-geometric-shapes/v/constructing-right-isosceles"
+            },
+            {
+              "title": "Construct a triangle with constraints",
+              "slug": "v/constructing-triangles-with-constraints",
+              "youtube_id": "E78ji1uBtSA",
+              "youtube_url": "https://www.youtube.com/watch?v=E78ji1uBtSA",
+              "duration_sec": 239,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-constructing-geometric-shapes/v/constructing-triangles-with-constraints"
+            },
+            {
+              "title": "Triangle inequality theorem",
+              "slug": "v/triangle-inqequality-theorem",
+              "youtube_id": "KlKYvbigBqs",
+              "youtube_url": "https://www.youtube.com/watch?v=KlKYvbigBqs",
+              "duration_sec": 352,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-constructing-geometric-shapes/v/triangle-inqequality-theorem"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Pythagorean theorem",
+          "slug": "geo-pythagorean-theorem",
+          "videos": [
+            {
+              "title": "Intro to the Pythagorean theorem",
+              "slug": "v/the-pythagorean-theorem",
+              "youtube_id": "AA6RfgP-AHU",
+              "youtube_url": "https://www.youtube.com/watch?v=AA6RfgP-AHU",
+              "duration_sec": 646,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-pythagorean-theorem/v/the-pythagorean-theorem"
+            },
+            {
+              "title": "Pythagorean theorem example",
+              "slug": "v/pythagorean-theorem-2",
+              "youtube_id": "O64YFlX1_aI",
+              "youtube_url": "https://www.youtube.com/watch?v=O64YFlX1_aI",
+              "duration_sec": 257,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-pythagorean-theorem/v/pythagorean-theorem-2"
+            },
+            {
+              "title": "Pythagorean theorem with isosceles triangle",
+              "slug": "v/pythagorean-theorem-with-right-triangle",
+              "youtube_id": "TjOlZr_2uW4",
+              "youtube_url": "https://www.youtube.com/watch?v=TjOlZr_2uW4",
+              "duration_sec": 228,
+              "relative_url": "/math/geometry/hs-geo-trig/hs-geo-pyth-theorem/v/pythagorean-theorem-with-right-triangle"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Pythagorean theorem application",
+          "slug": "pythagorean-theorem-app",
+          "videos": [
+            {
+              "title": "Use Pythagorean theorem to find area of an isosceles triangle",
+              "slug": "v/area-of-an-isosceles-triangle",
+              "youtube_id": "yZ4CbopnVBg",
+              "youtube_url": "https://www.youtube.com/watch?v=yZ4CbopnVBg",
+              "duration_sec": 240,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/pythagorean-theorem-application/v/area-of-an-isosceles-triangle"
+            },
+            {
+              "title": "Pythagorean theorem word problem: carpet",
+              "slug": "v/pythagorean-theorem-3",
+              "youtube_id": "T0IOrRETWhI",
+              "youtube_url": "https://www.youtube.com/watch?v=T0IOrRETWhI",
+              "duration_sec": 180,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/pythagorean-theorem-application/v/pythagorean-theorem-3"
+            },
+            {
+              "title": "Pythagorean theorem word problem: fishing boat",
+              "slug": "v/pythagorean-theorem-1",
+              "youtube_id": "JVrkLIcA2qw",
+              "youtube_url": "https://www.youtube.com/watch?v=JVrkLIcA2qw",
+              "duration_sec": 272,
+              "relative_url": "/math/cc-eighth-grade-math/cc-8th-geometry/pythagorean-theorem-application/v/pythagorean-theorem-1"
+            },
+            {
+              "title": "Pythagorean theorem in 3D",
+              "slug": "v/pythagoriean-theorem-in-3d",
+              "youtube_id": "1UQ5IbihJNI",
+              "youtube_url": "https://www.youtube.com/watch?v=1UQ5IbihJNI",
+              "duration_sec": 356,
+              "relative_url": "/math/geometry/hs-geo-trig/hs-geo-pyth-theorem/v/pythagoriean-theorem-in-3d"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Pythagorean theorem and distance between points",
+          "slug": "pythagorean-theorem-distance",
+          "videos": [
+            {
+              "title": "Distance formula",
+              "slug": "v/distance-formula",
+              "youtube_id": "nyZuite17Pc",
+              "youtube_url": "https://www.youtube.com/watch?v=nyZuite17Pc",
+              "duration_sec": 579,
+              "relative_url": "/math/geometry/hs-geo-analytic-geometry/hs-geo-distance-and-midpoints/v/distance-formula"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Geometric transformations",
+      "slug": "basic-geo-transformations-congruence",
+      "relative_url": "/math/basic-geo/basic-geo-transformations-congruence",
+      "lessons": [
+        {
+          "title": "Transformations intro",
+          "slug": "transformations-intro-basic-geo",
+          "videos": [
+            {
+              "title": "Rigid transformations intro",
+              "slug": "v/introduction-to-transformations",
+              "youtube_id": "XiAoUDfrar0",
+              "youtube_url": "https://www.youtube.com/watch?v=XiAoUDfrar0",
+              "duration_sec": 443,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-transformations-intro/v/introduction-to-transformations"
+            },
+            {
+              "title": "Dilations intro",
+              "slug": "v/dilations-intro",
+              "youtube_id": "Kv-lyVmQ5ps",
+              "youtube_url": "https://www.youtube.com/watch?v=Kv-lyVmQ5ps",
+              "duration_sec": 91,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-transformations-intro/v/dilations-intro"
+            },
+            {
+              "title": "Identifying transformations",
+              "slug": "v/identifying-transformations",
+              "youtube_id": "K7QTjFdUIyk",
+              "youtube_url": "https://www.youtube.com/watch?v=K7QTjFdUIyk",
+              "duration_sec": 227,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-transformations-intro/v/identifying-transformations"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Translations",
+          "slug": "basic-geometry-translations",
+          "videos": [
+            {
+              "title": "Translating shapes",
+              "slug": "v/drawing-image-of-translation",
+              "youtube_id": "g_ijRF_NMLk",
+              "youtube_url": "https://www.youtube.com/watch?v=g_ijRF_NMLk",
+              "duration_sec": 115,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-translations/v/drawing-image-of-translation"
+            },
+            {
+              "title": "Determining translations",
+              "slug": "v/formal-translation-tool-example",
+              "youtube_id": "BrYEuO7fwMw",
+              "youtube_url": "https://www.youtube.com/watch?v=BrYEuO7fwMw",
+              "duration_sec": 92,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-translations/v/formal-translation-tool-example"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Rotations",
+          "slug": "basic-geo-rotations",
+          "videos": [
+            {
+              "title": "Rotating points",
+              "slug": "v/rotating-points",
+              "youtube_id": "0NYbQPcdxg8",
+              "youtube_url": "https://www.youtube.com/watch?v=0NYbQPcdxg8",
+              "duration_sec": 110,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-rotations/v/rotating-points"
+            },
+            {
+              "title": "Determining rotations",
+              "slug": "v/defining-rotation-example",
+              "youtube_id": "6pH-7pciYU8",
+              "youtube_url": "https://www.youtube.com/watch?v=6pH-7pciYU8",
+              "duration_sec": 177,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-rotations/v/defining-rotation-example"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Reflections",
+          "slug": "basic-geo-reflections",
+          "videos": [
+            {
+              "title": "Reflecting points",
+              "slug": "v/reflecting-points",
+              "youtube_id": "F77xiSlCehI",
+              "youtube_url": "https://www.youtube.com/watch?v=F77xiSlCehI",
+              "duration_sec": 225,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-reflections/v/reflecting-points"
+            },
+            {
+              "title": "Reflecting shapes",
+              "slug": "v/reflecting-shapes",
+              "youtube_id": "lfBDOQddTD0",
+              "youtube_url": "https://www.youtube.com/watch?v=lfBDOQddTD0",
+              "duration_sec": 158,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-reflections/v/reflecting-shapes"
+            },
+            {
+              "title": "Determining reflections",
+              "slug": "v/determining-reflections",
+              "youtube_id": "435Ipnmp7bA",
+              "youtube_url": "https://www.youtube.com/watch?v=435Ipnmp7bA",
+              "duration_sec": 100,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-reflections/v/determining-reflections"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Properties & definitions of transformations",
+          "slug": "basic-geo-transformations-properties",
+          "videos": [
+            {
+              "title": "Finding measures using rigid transformations",
+              "slug": "v/finding-measures-using-rigid-transformations",
+              "youtube_id": "7y4FGCvNgB8",
+              "youtube_url": "https://www.youtube.com/watch?v=7y4FGCvNgB8",
+              "duration_sec": 296,
+              "relative_url": "/math/geometry/xff63fac4:hs-geo-transformation-properties-and-proofs/hs-geo-rigid-transformations-overview/v/finding-measures-using-rigid-transformations"
+            },
+            {
+              "title": "Rigid transformations: preserved properties",
+              "slug": "v/rigid-transformations-preserved-properties",
+              "youtube_id": "brccWoewXiI",
+              "youtube_url": "https://www.youtube.com/watch?v=brccWoewXiI",
+              "duration_sec": 420,
+              "relative_url": "/math/geometry/xff63fac4:hs-geo-transformation-properties-and-proofs/hs-geo-rigid-transformations-overview/v/rigid-transformations-preserved-properties"
+            },
+            {
+              "title": "Mapping shapes",
+              "slug": "v/mapping-shapes",
+              "youtube_id": "QOXBJ2X1_9k",
+              "youtube_url": "https://www.youtube.com/watch?v=QOXBJ2X1_9k",
+              "duration_sec": 531,
+              "relative_url": "/math/geometry/xff63fac4:hs-geo-transformation-properties-and-proofs/hs-geo-rigid-transformations-overview/v/mapping-shapes"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Dilations",
+          "slug": "basic-geo-dilations",
+          "videos": [
+            {
+              "title": "Dilating points",
+              "slug": "v/dilating-points-example",
+              "youtube_id": "N0_HfmxdbCg",
+              "youtube_url": "https://www.youtube.com/watch?v=N0_HfmxdbCg",
+              "duration_sec": 187,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-dilations/v/dilating-points-example"
+            },
+            {
+              "title": "Dilations: scale factor",
+              "slug": "v/dilation-scale-factor",
+              "youtube_id": "b4ORXN7a0-w",
+              "youtube_url": "https://www.youtube.com/watch?v=b4ORXN7a0-w",
+              "duration_sec": 299,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-dilations/v/dilation-scale-factor"
+            },
+            {
+              "title": "Dilating shapes: expanding",
+              "slug": "v/thinking-about-dilations",
+              "youtube_id": "6dyWKD_JPhI",
+              "youtube_url": "https://www.youtube.com/watch?v=6dyWKD_JPhI",
+              "duration_sec": 159,
+              "relative_url": "/math/geometry/hs-geo-transformations/hs-geo-dilations/v/thinking-about-dilations"
+            },
+            {
+              "title": "Dilating shapes: shrinking by 1/2",
+              "slug": "v/scaling-down-a-triangle-by-half",
+              "youtube_id": "qlWZJ21O63s",
+              "youtube_url": "https://www.youtube.com/watch?v=qlWZJ21O63s",
+              "duration_sec": 146,
+              "relative_url": "/math/cc-eighth-grade-math/geometric-transformations/8th-dilations/v/scaling-down-a-triangle-by-half"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Congruence and similarity",
+          "slug": "congruent-similar",
+          "videos": [
+            {
+              "title": "Congruent shapes & transformations",
+              "slug": "v/testing-congruence-by-transformations-example",
+              "youtube_id": "KZMRhWdzEPo",
+              "youtube_url": "https://www.youtube.com/watch?v=KZMRhWdzEPo",
+              "duration_sec": 103,
+              "relative_url": "/math/geometry/hs-geo-congruence/hs-geo-trans-and-congruence/v/testing-congruence-by-transformations-example"
+            },
+            {
+              "title": "Non-congruent shapes & transformations",
+              "slug": "v/another-congruence-by-transformation-example",
+              "youtube_id": "7Rb3V-HyVD8",
+              "youtube_url": "https://www.youtube.com/watch?v=7Rb3V-HyVD8",
+              "duration_sec": 123,
+              "relative_url": "/math/geometry/hs-geo-congruence/hs-geo-trans-and-congruence/v/another-congruence-by-transformation-example"
+            },
+            {
+              "title": "Similar shapes & transformations",
+              "slug": "v/testing-similarity-through-transformations",
+              "youtube_id": "H-YuW_uckz4",
+              "youtube_url": "https://www.youtube.com/watch?v=H-YuW_uckz4",
+              "duration_sec": 158,
+              "relative_url": "/math/geometry/hs-geo-similarity/hs-geo-similarity-definitions/v/testing-similarity-through-transformations"
+            },
+            {
+              "title": "Side lengths after dilation",
+              "slug": "v/comparing-side-lengths-after-dilation",
+              "youtube_id": "2yjSAarzWF8",
+              "youtube_url": "https://www.youtube.com/watch?v=2yjSAarzWF8",
+              "duration_sec": 133,
+              "relative_url": "/math/cc-eighth-grade-math/geometric-transformations/congruence-similarity/v/comparing-side-lengths-after-dilation"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    }
+  ]
+}

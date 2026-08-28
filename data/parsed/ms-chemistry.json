@@ -1,0 +1,348 @@
+{
+  "key": "ms-chemistry",
+  "tier": "T0",
+  "subject": "science",
+  "slug": "ms-chemistry",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Middle school chemistry",
+  "course_slug": "ms-chemistry",
+  "units": [
+    {
+      "title": "Classifying matter",
+      "slug": "xc370bc422b7f75fc:classifying-matter",
+      "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:classifying-matter",
+      "lessons": [
+        {
+          "title": "Introduction to middle school chemistry",
+          "slug": "xc370bc422b7f75fc:intro-to-ms-chemistry",
+          "videos": [
+            {
+              "title": "Introduction to middle school chemistry",
+              "slug": "v/introduction-to-middle-school-chemistry",
+              "youtube_id": "gGalnVpaom8",
+              "youtube_url": "https://www.youtube.com/watch?v=gGalnVpaom8",
+              "duration_sec": 167,
+              "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:classifying-matter/xc370bc422b7f75fc:intro-to-ms-chemistry/v/introduction-to-middle-school-chemistry"
+            }
+          ],
+          "exercise_count": 0
+        },
+        {
+          "title": "Elements and atoms",
+          "slug": "xc370bc422b7f75fc:elements-and-atoms",
+          "videos": [
+            {
+              "title": "Elements",
+              "slug": "v/elements",
+              "youtube_id": "PeNjuIQFd9U",
+              "youtube_url": "https://www.youtube.com/watch?v=PeNjuIQFd9U",
+              "duration_sec": 313,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:atoms-elements-and-compounds/x8bc8fb44369617ed:elements-compounds-and-mixtures/v/elements"
+            },
+            {
+              "title": "Atoms",
+              "slug": "v/atoms",
+              "youtube_id": "KyBgxe-rU48",
+              "youtube_url": "https://www.youtube.com/watch?v=KyBgxe-rU48",
+              "duration_sec": 248,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:atoms-elements-and-compounds/x8bc8fb44369617ed:elements-compounds-and-mixtures/v/atoms"
+            },
+            {
+              "title": "The periodic table",
+              "slug": "v/the-periodic-table",
+              "youtube_id": "Jg3Fo4WD8XE",
+              "youtube_url": "https://www.youtube.com/watch?v=Jg3Fo4WD8XE",
+              "duration_sec": 417,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:the-periodic-table/x8bc8fb44369617ed:arrangement-of-elements/v/the-periodic-table"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Compounds",
+          "slug": "xc370bc422b7f75fc:compounds",
+          "videos": [
+            {
+              "title": "Compounds and chemical formulas",
+              "slug": "v/compounds-and-chemical-formulas",
+              "youtube_id": "36nlbUdRvUM",
+              "youtube_url": "https://www.youtube.com/watch?v=36nlbUdRvUM",
+              "duration_sec": 361,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:atoms-elements-and-compounds/x8bc8fb44369617ed:elements-compounds-and-mixtures/v/compounds-and-chemical-formulas"
+            },
+            {
+              "title": "Molecules, crystals, and diatomic elements",
+              "slug": "v/molecules-crystals-and-diatomic-elements",
+              "youtube_id": "thXilnp5UNQ",
+              "youtube_url": "https://www.youtube.com/watch?v=thXilnp5UNQ",
+              "duration_sec": 367,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:atoms-elements-and-compounds/x8bc8fb44369617ed:elements-compounds-and-mixtures/v/molecules-crystals-and-diatomic-elements"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Mixtures",
+          "slug": "xc370bc422b7f75fc:mixtures",
+          "videos": [
+            {
+              "title": "Types of mixtures",
+              "slug": "v/types-of-mixtures-ms",
+              "youtube_id": "rDWfLHn8PDM",
+              "youtube_url": "https://www.youtube.com/watch?v=rDWfLHn8PDM",
+              "duration_sec": 340,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:atoms-elements-and-compounds/x8bc8fb44369617ed:elements-compounds-and-mixtures/v/types-of-mixtures-ms"
+            },
+            {
+              "title": "Properties of homogeneous mixtures",
+              "slug": "v/properties-of-homogeneous-mixtures",
+              "youtube_id": "oilrxnwowTs",
+              "youtube_url": "https://www.youtube.com/watch?v=oilrxnwowTs",
+              "duration_sec": 363,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:atoms-elements-and-compounds/x8bc8fb44369617ed:elements-compounds-and-mixtures/v/properties-of-homogeneous-mixtures"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Physical properties of matter",
+      "slug": "xc370bc422b7f75fc:physical-properties-of-matter",
+      "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:physical-properties-of-matter",
+      "lessons": [
+        {
+          "title": "Intrinsic and extrinsic properties",
+          "slug": "xc370bc422b7f75fc:intrinsic-and-extrinsic-properties",
+          "videos": [
+            {
+              "title": "Physical properties",
+              "slug": "v/physical-properties",
+              "youtube_id": "UIoepmPCXOY",
+              "youtube_url": "https://www.youtube.com/watch?v=UIoepmPCXOY",
+              "duration_sec": 397,
+              "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:physical-properties-of-matter/xc370bc422b7f75fc:intrinsic-and-extrinsic-properties/v/physical-properties"
+            },
+            {
+              "title": "Physical changes",
+              "slug": "v/physical-changes",
+              "youtube_id": "jn-skkO5NNI",
+              "youtube_url": "https://www.youtube.com/watch?v=jn-skkO5NNI",
+              "duration_sec": 318,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:chemical-reactions/x8bc8fb44369617ed:physical-and-chemical-changes/v/physical-changes"
+            },
+            {
+              "title": "Temperature and Celsius",
+              "slug": "v/temperature-and-celsius",
+              "youtube_id": "K0nXYm9DiEo",
+              "youtube_url": "https://www.youtube.com/watch?v=K0nXYm9DiEo",
+              "duration_sec": 459,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:thermal-properties-of-matter/x0e04e0cb682fb793:specific-heat-capacity/v/temperature-and-celsius"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "States of matter and phase changes",
+          "slug": "xc370bc422b7f75fc:states-of-matter-and-phase-changes",
+          "videos": [
+            {
+              "title": "States of matter",
+              "slug": "v/states-of-matter-ms",
+              "youtube_id": "gBiF-OLUVTY",
+              "youtube_url": "https://www.youtube.com/watch?v=gBiF-OLUVTY",
+              "duration_sec": 269,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:kinetic-particle-model-of-matter/x0e04e0cb682fb793:states-of-matter/v/states-of-matter-ms"
+            },
+            {
+              "title": "Phase changes",
+              "slug": "v/phase-changes",
+              "youtube_id": "Aeddl02frBE",
+              "youtube_url": "https://www.youtube.com/watch?v=Aeddl02frBE",
+              "duration_sec": 458,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:thermal-properties-of-matter/x0e04e0cb682fb793:relationsgip-between-motion-of-particles-and-temperature/v/phase-changes"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Density",
+          "slug": "xc370bc422b7f75fc:density",
+          "videos": [
+            {
+              "title": "Density (conceptual)",
+              "slug": "v/density-conceptual",
+              "youtube_id": "d7VPJ4DYwQQ",
+              "youtube_url": "https://www.youtube.com/watch?v=d7VPJ4DYwQQ",
+              "duration_sec": 442,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:mass-weight-and-density/x0e04e0cb682fb793:density/v/density-conceptual"
+            },
+            {
+              "title": "Density equation",
+              "slug": "v/density-equation",
+              "youtube_id": "rW_33U7-8u8",
+              "youtube_url": "https://www.youtube.com/watch?v=rW_33U7-8u8",
+              "duration_sec": 388,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:mass-weight-and-density/x0e04e0cb682fb793:density/v/density-equation"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Chemical changes",
+      "slug": "xc370bc422b7f75fc:chemical-changes",
+      "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:chemical-changes",
+      "lessons": [
+        {
+          "title": "Chemical changes",
+          "slug": "xc370bc422b7f75fc:chemical-changes-ms",
+          "videos": [
+            {
+              "title": "Chemical changes",
+              "slug": "v/chemical-changes",
+              "youtube_id": "CT5CVpOVAoY",
+              "youtube_url": "https://www.youtube.com/watch?v=CT5CVpOVAoY",
+              "duration_sec": 445,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:chemical-reactions/x8bc8fb44369617ed:physical-and-chemical-changes/v/chemical-changes"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Chemical reactions",
+          "slug": "xc370bc422b7f75fc:chemical-reactions",
+          "videos": [
+            {
+              "title": "Chemical reactions",
+              "slug": "v/chemical-reactions",
+              "youtube_id": "a9RJZqG9qJo",
+              "youtube_url": "https://www.youtube.com/watch?v=a9RJZqG9qJo",
+              "duration_sec": 261,
+              "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:chemical-changes/xc370bc422b7f75fc:chemical-reactions/v/chemical-reactions"
+            },
+            {
+              "title": "Chemical equations",
+              "slug": "v/chemical-equations",
+              "youtube_id": "_c6wm4jl8BU",
+              "youtube_url": "https://www.youtube.com/watch?v=_c6wm4jl8BU",
+              "duration_sec": 485,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:stoichiometry/x8bc8fb44369617ed:formulae/v/chemical-equations"
+            },
+            {
+              "title": "Worked examples: Balancing chemical equations",
+              "slug": "v/worked-examples-balancing-chemical-equations",
+              "youtube_id": "Z2IOoAhQbX4",
+              "youtube_url": "https://www.youtube.com/watch?v=Z2IOoAhQbX4",
+              "duration_sec": 464,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:stoichiometry/x8bc8fb44369617ed:formulae/v/worked-examples-balancing-chemical-equations"
+            },
+            {
+              "title": "Worked examples: Balancing more complex chemical equations",
+              "slug": "v/worked-examples-balancing-more-complex-chemical-equations",
+              "youtube_id": "8Co6Z79BV-o",
+              "youtube_url": "https://www.youtube.com/watch?v=8Co6Z79BV-o",
+              "duration_sec": 461,
+              "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:chemical-changes/xc370bc422b7f75fc:chemical-reactions/v/worked-examples-balancing-more-complex-chemical-equations"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Energy changes in chemical reactions",
+          "slug": "xc370bc422b7f75fc:energy-changes-in-chemical-reactions",
+          "videos": [
+            {
+              "title": "Energy changes in chemical reactions (part 1)",
+              "slug": "v/energy-changes-in-chemical-reactions-part-1",
+              "youtube_id": "Xu8S3aC8YWk",
+              "youtube_url": "https://www.youtube.com/watch?v=Xu8S3aC8YWk",
+              "duration_sec": 444,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:chemical-energetics/x8bc8fb44369617ed:exothermic-and-endothermic-reactions/v/energy-changes-in-chemical-reactions-part-1"
+            },
+            {
+              "title": "Energy changes in chemical reactions (part 2)",
+              "slug": "v/energy-changes-in-chemical-reactions-part-2",
+              "youtube_id": "ZCVcPikgki0",
+              "youtube_url": "https://www.youtube.com/watch?v=ZCVcPikgki0",
+              "duration_sec": 466,
+              "relative_url": "/science/cambridge-o-level-chemistry-cie/x8bc8fb44369617ed:chemical-energetics/x8bc8fb44369617ed:exothermic-and-endothermic-reactions/v/energy-changes-in-chemical-reactions-part-2"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Thermal energy and heat",
+      "slug": "xc370bc422b7f75fc:thermal-energy-and-heat",
+      "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:thermal-energy-and-heat",
+      "lessons": [
+        {
+          "title": "Temperature and heat",
+          "slug": "xc370bc422b7f75fc:temperature-and-heat",
+          "videos": [
+            {
+              "title": "Thermal energy and heat transfer",
+              "slug": "v/thermal-energy-and-heat-transfer",
+              "youtube_id": "n3boAYB7T3k",
+              "youtube_url": "https://www.youtube.com/watch?v=n3boAYB7T3k",
+              "duration_sec": 440,
+              "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:thermal-energy-and-heat/xc370bc422b7f75fc:temperature-and-heat/v/thermal-energy-and-heat-transfer"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Heat capacity",
+          "slug": "xc370bc422b7f75fc:heat-capacity",
+          "videos": [
+            {
+              "title": "Heat capacity",
+              "slug": "v/heat-capacity-ms",
+              "youtube_id": "7L1EaURmvDs",
+              "youtube_url": "https://www.youtube.com/watch?v=7L1EaURmvDs",
+              "duration_sec": 445,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:thermal-properties-of-matter/x0e04e0cb682fb793:specific-heat-capacity/v/heat-capacity-ms"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Explore chemistry through simulations",
+      "slug": "xc370bc422b7f75fc:explore-chemistry-through-simulations",
+      "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:explore-chemistry-through-simulations",
+      "lessons": [
+        {
+          "title": "Introduction to simulation-based learning",
+          "slug": "xc370bc422b7f75fc:introduction-to-simulation-based-learning",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Explore heat capacity through simulations",
+          "slug": "xc370bc422b7f75fc:explore-heat-capacity-through-simulations",
+          "videos": [],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Teacher resources",
+      "slug": "xc370bc422b7f75fc:teacher-resources",
+      "relative_url": "/science/ms-chemistry/xc370bc422b7f75fc:teacher-resources",
+      "lessons": [
+        {
+          "title": "Unit guides",
+          "slug": "xc370bc422b7f75fc:unit-guides",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

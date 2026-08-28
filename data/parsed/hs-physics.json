@@ -1,0 +1,735 @@
+{
+  "key": "hs-physics",
+  "tier": "T2",
+  "subject": "science",
+  "slug": "highschool-physics",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "High school physics",
+  "course_slug": "highschool-physics",
+  "units": [
+    {
+      "title": "Motion and forces",
+      "slug": "x6679aa2c65c01e53:motion-and-forces",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:motion-and-forces",
+      "lessons": [
+        {
+          "title": "Describing motion",
+          "slug": "x6679aa2c65c01e53:describing-motion",
+          "videos": [
+            {
+              "title": "Introduction to high school physics",
+              "slug": "v/introduction-to-high-school-physics",
+              "youtube_id": "wHC245cVdHw",
+              "youtube_url": "https://www.youtube.com/watch?v=wHC245cVdHw",
+              "duration_sec": 141,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:motion-and-forces/x6679aa2c65c01e53:describing-motion/v/introduction-to-high-school-physics"
+            },
+            {
+              "title": "Position, velocity, and speed",
+              "slug": "v/position_velocity_speed",
+              "youtube_id": "vOipqtdR23s",
+              "youtube_url": "https://www.youtube.com/watch?v=vOipqtdR23s",
+              "duration_sec": 624,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:kinematics/x0e04e0cb682fb793:speed-and-velocity/v/position_velocity_speed"
+            },
+            {
+              "title": "Acceleration",
+              "slug": "v/intro_to_acceleration",
+              "youtube_id": "JSPwCtIPfQw",
+              "youtube_url": "https://www.youtube.com/watch?v=JSPwCtIPfQw",
+              "duration_sec": 620,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:kinematics/x0e04e0cb682fb793:acceleration/v/intro_to_acceleration"
+            },
+            {
+              "title": "Interpreting motion data",
+              "slug": "v/interpreting_motion_data",
+              "youtube_id": "-1xbgz26ZNs",
+              "youtube_url": "https://www.youtube.com/watch?v=-1xbgz26ZNs",
+              "duration_sec": 606,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:motion-and-forces/x6679aa2c65c01e53:describing-motion/v/interpreting_motion_data"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Forces",
+          "slug": "x6679aa2c65c01e53:forces",
+          "videos": [
+            {
+              "title": "Intro to forces (part 1)",
+              "slug": "v/intro_to_forces_1",
+              "youtube_id": "92Adbb6geHE",
+              "youtube_url": "https://www.youtube.com/watch?v=92Adbb6geHE",
+              "duration_sec": 598,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:forces/x0e04e0cb682fb793:introduction-to-force/v/intro_to_forces_1"
+            },
+            {
+              "title": "Intro to forces (part 2)",
+              "slug": "v/intro_to_forces_2",
+              "youtube_id": "P48_vJcY9qw",
+              "youtube_url": "https://www.youtube.com/watch?v=P48_vJcY9qw",
+              "duration_sec": 587,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:forces/x0e04e0cb682fb793:introduction-to-force/v/intro_to_forces_2"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Newton's first and second laws",
+          "slug": "x6679aa2c65c01e53:newtons-first-and-second-laws",
+          "videos": [
+            {
+              "title": "Newton's first law",
+              "slug": "v/newtons_first_law",
+              "youtube_id": "rjkQcfw5fkM",
+              "youtube_url": "https://www.youtube.com/watch?v=rjkQcfw5fkM",
+              "duration_sec": 538,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:motion-and-forces/x6679aa2c65c01e53:newtons-first-and-second-laws/v/newtons_first_law"
+            },
+            {
+              "title": "Newton's second law",
+              "slug": "v/newtons_second_law",
+              "youtube_id": "EwGGh1dC3kQ",
+              "youtube_url": "https://www.youtube.com/watch?v=EwGGh1dC3kQ",
+              "duration_sec": 684,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:forces/x0e04e0cb682fb793:newton-s-nd-law-of-motion/v/newtons_second_law"
+            },
+            {
+              "title": "Newton's second law calculations",
+              "slug": "v/newtons_second_law_calculations",
+              "youtube_id": "O5G4uHe-qc4",
+              "youtube_url": "https://www.youtube.com/watch?v=O5G4uHe-qc4",
+              "duration_sec": 595,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:motion-and-forces/x6679aa2c65c01e53:newtons-first-and-second-laws/v/newtons_second_law_calculations"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Activity: How do engineers design strong bridges?",
+          "slug": "x6679aa2c65c01e53:activity-how-do-engineers-design-strong-bridges",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Force pairs and momentum",
+      "slug": "x6679aa2c65c01e53:force-pairs-and-momentum",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:force-pairs-and-momentum",
+      "lessons": [
+        {
+          "title": "Newton's third law",
+          "slug": "x6679aa2c65c01e53:newtons-third-law",
+          "videos": [
+            {
+              "title": "Newton's third law",
+              "slug": "v/newtons_third_law",
+              "youtube_id": "J8mLQQZeIH8",
+              "youtube_url": "https://www.youtube.com/watch?v=J8mLQQZeIH8",
+              "duration_sec": 627,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:forces/x0e04e0cb682fb793:action-and-reaction-force/v/newtons_third_law"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Momentum",
+          "slug": "x6679aa2c65c01e53:momentum",
+          "videos": [
+            {
+              "title": "Momentum",
+              "slug": "v/momentum",
+              "youtube_id": "UoIIwzHug9M",
+              "youtube_url": "https://www.youtube.com/watch?v=UoIIwzHug9M",
+              "duration_sec": 601,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:momentum-and-conservation-of-momentum/x0e04e0cb682fb793:introduction-to-momentum/v/momentum"
+            },
+            {
+              "title": "Conservation of momentum",
+              "slug": "v/conservation_of_momentum",
+              "youtube_id": "PJMFxBIqkSs",
+              "youtube_url": "https://www.youtube.com/watch?v=PJMFxBIqkSs",
+              "duration_sec": 749,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:momentum-and-conservation-of-momentum/x0e04e0cb682fb793:conservation-of-momentum/v/conservation_of_momentum"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Impulse",
+          "slug": "x6679aa2c65c01e53:impulse",
+          "videos": [
+            {
+              "title": "Impulse",
+              "slug": "v/impulse",
+              "youtube_id": "JlxJYSFPpQo",
+              "youtube_url": "https://www.youtube.com/watch?v=JlxJYSFPpQo",
+              "duration_sec": 764,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:momentum-and-conservation-of-momentum/x0e04e0cb682fb793:impulse/v/impulse"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How do engineers design safety cushions to save lives?",
+          "slug": "x6679aa2c65c01e53:activity-how-do-engineers-design-safety-cushions-to-save-lives",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Gravitation",
+      "slug": "x6679aa2c65c01e53:gravitation",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:gravitation",
+      "lessons": [
+        {
+          "title": "Newton's law of gravitation",
+          "slug": "x6679aa2c65c01e53:newtons-law-of-gravitation",
+          "videos": [
+            {
+              "title": "Newton's law of gravitation",
+              "slug": "v/newtons_law_of_gravitation",
+              "youtube_id": "PIpnGilqefE",
+              "youtube_url": "https://www.youtube.com/watch?v=PIpnGilqefE",
+              "duration_sec": 785,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:gravitation/x6679aa2c65c01e53:newtons-law-of-gravitation/v/newtons_law_of_gravitation"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Falling objects",
+          "slug": "x6679aa2c65c01e53:falling-objects",
+          "videos": [
+            {
+              "title": "Falling objects",
+              "slug": "v/falling_objects",
+              "youtube_id": "wf8SYTb4r-g",
+              "youtube_url": "https://www.youtube.com/watch?v=wf8SYTb4r-g",
+              "duration_sec": 700,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:kinematics/x0e04e0cb682fb793:free-fall-acceleration/v/falling_objects"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Orbital motion",
+          "slug": "x6679aa2c65c01e53:orbital-motion",
+          "videos": [
+            {
+              "title": "Centripetal force",
+              "slug": "v/centripetal_force",
+              "youtube_id": "4bMawIIWi7w",
+              "youtube_url": "https://www.youtube.com/watch?v=4bMawIIWi7w",
+              "duration_sec": 820,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:forces/x0e04e0cb682fb793:circular-motion/v/centripetal_force"
+            },
+            {
+              "title": "Orbital motion",
+              "slug": "v/orbital_motion",
+              "youtube_id": "zPHnZFoiO0E",
+              "youtube_url": "https://www.youtube.com/watch?v=zPHnZFoiO0E",
+              "duration_sec": 813,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:space-science/x0e04e0cb682fb793:the-orbital-speed/v/orbital_motion"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Activity: Why is a Neptune year so long?",
+          "slug": "x6679aa2c65c01e53:activity-why-is-a-neptune-year-so-long",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Electrostatics",
+      "slug": "x6679aa2c65c01e53:electrostatics",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electrostatics",
+      "lessons": [
+        {
+          "title": "Coulomb's law",
+          "slug": "x6679aa2c65c01e53:coulombs-law",
+          "videos": [
+            {
+              "title": "Coulomb's law",
+              "slug": "v/coulombs_law",
+              "youtube_id": "MsINeZMeTMQ",
+              "youtube_url": "https://www.youtube.com/watch?v=MsINeZMeTMQ",
+              "duration_sec": 777,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electrostatics/x6679aa2c65c01e53:coulombs-law/v/coulombs_law"
+            },
+            {
+              "title": "Electric fields",
+              "slug": "v/electric-field-definition",
+              "youtube_id": "_4VC3IHbuW8",
+              "youtube_url": "https://www.youtube.com/watch?v=_4VC3IHbuW8",
+              "duration_sec": 826,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:electric-force-field-and-potential/x0e2f5a2c:electric-fields/v/electric-field-definition"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Static electricity",
+          "slug": "x6679aa2c65c01e53:static-electricity",
+          "videos": [
+            {
+              "title": "Static electricity",
+              "slug": "v/static_electricity",
+              "youtube_id": "D5pJKu_QjRo",
+              "youtube_url": "https://www.youtube.com/watch?v=D5pJKu_QjRo",
+              "duration_sec": 559,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:electrostatics/x0e04e0cb682fb793:introduction-to-charges/v/static_electricity"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: Why do clothes develop static cling in a dryer?",
+          "slug": "x6679aa2c65c01e53:activity-why-do-clothes-develop-static-cling-in-a-dryer",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Energy",
+      "slug": "x6679aa2c65c01e53:energy",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:energy",
+      "lessons": [
+        {
+          "title": "Kinetic and potential energy",
+          "slug": "x6679aa2c65c01e53:kinetic-and-potential-energy",
+          "videos": [
+            {
+              "title": "Kinetic energy",
+              "slug": "v/kinetic_energy",
+              "youtube_id": "eVW8X_TsBzE",
+              "youtube_url": "https://www.youtube.com/watch?v=eVW8X_TsBzE",
+              "duration_sec": 710,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:energy-work-and-power/x0e04e0cb682fb793:kinetic-and-potential-energy/v/kinetic_energy"
+            },
+            {
+              "title": "Potential energy",
+              "slug": "v/potential_energy",
+              "youtube_id": "aUrms3VFn0I",
+              "youtube_url": "https://www.youtube.com/watch?v=aUrms3VFn0I",
+              "duration_sec": 840,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:energy-work-and-power/x0e04e0cb682fb793:kinetic-and-potential-energy/v/potential_energy"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Conservation of energy",
+          "slug": "x6679aa2c65c01e53:conservation-of-energy",
+          "videos": [
+            {
+              "title": "Conservation of energy",
+              "slug": "v/conservation_of_energy",
+              "youtube_id": "TLUZnCvuGBk",
+              "youtube_url": "https://www.youtube.com/watch?v=TLUZnCvuGBk",
+              "duration_sec": 791,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:energy-work-and-power/x0e04e0cb682fb793:conservation-fo-energy/v/conservation_of_energy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: How do engineers design roller coasters?",
+          "slug": "x6679aa2c65c01e53:activity-how-do-engineers-design-roller-coasters",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Work and power",
+          "slug": "x6679aa2c65c01e53:work-and-power",
+          "videos": [
+            {
+              "title": "Work and power",
+              "slug": "v/work_and_power",
+              "youtube_id": "v2_qI9S6oIQ",
+              "youtube_url": "https://www.youtube.com/watch?v=v2_qI9S6oIQ",
+              "duration_sec": 772,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:energy-work-and-power/x0e04e0cb682fb793:efficiency-and-power/v/work_and_power"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Electromagnetics",
+      "slug": "x6679aa2c65c01e53:electromagnetics",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electromagnetics",
+      "lessons": [
+        {
+          "title": "Voltage and current",
+          "slug": "x6679aa2c65c01e53:voltage-and-current",
+          "videos": [
+            {
+              "title": "Voltage (electric potential difference)",
+              "slug": "v/what_is_voltage",
+              "youtube_id": "NT6LYNq3jRE",
+              "youtube_url": "https://www.youtube.com/watch?v=NT6LYNq3jRE",
+              "duration_sec": 767,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:electric-circuits/x0e2f5a2c:circuits-oms-kirchhoffs-laws/v/what_is_voltage"
+            },
+            {
+              "title": "Electric current",
+              "slug": "v/electric_current",
+              "youtube_id": "6K1Bl0cqecE",
+              "youtube_url": "https://www.youtube.com/watch?v=6K1Bl0cqecE",
+              "duration_sec": 809,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:electric-circuits/x0e2f5a2c:circuits-oms-kirchhoffs-laws/v/electric_current"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Magnetic field due to current",
+          "slug": "x6679aa2c65c01e53:magnetic-field-due-to-current",
+          "videos": [
+            {
+              "title": "Magnetic field due to current",
+              "slug": "v/oersteds-experiment-magnetic-field-due-to-current",
+              "youtube_id": "V-irinjvhmc",
+              "youtube_url": "https://www.youtube.com/watch?v=V-irinjvhmc",
+              "duration_sec": 546,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:magnetism-and-electromagnetism/x0e2f5a2c:magnetism-and-current-carrying-wires/v/oersteds-experiment-magnetic-field-due-to-current"
+            },
+            {
+              "title": "Right hand thumb rule",
+              "slug": "v/right-hand-thumb-rule-solved-numerical",
+              "youtube_id": "NLieiomI4sA",
+              "youtube_url": "https://www.youtube.com/watch?v=NLieiomI4sA",
+              "duration_sec": 652,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:magnetism-and-electromagnetism/x0e2f5a2c:magnetism-and-current-carrying-wires/v/right-hand-thumb-rule-solved-numerical"
+            },
+            {
+              "title": "Magnetic field due to current-carrying loop",
+              "slug": "v/magnetic-field-due-to-current-carrying-loop",
+              "youtube_id": "fav3olr-ra0",
+              "youtube_url": "https://www.youtube.com/watch?v=fav3olr-ra0",
+              "duration_sec": 547,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electromagnetics/x6679aa2c65c01e53:magnetic-field-due-to-current/v/magnetic-field-due-to-current-carrying-loop"
+            },
+            {
+              "title": "Magnetic field due to a solenoid",
+              "slug": "v/magnetic-fields-through-solenoids",
+              "youtube_id": "2XRtH46dsCI",
+              "youtube_url": "https://www.youtube.com/watch?v=2XRtH46dsCI",
+              "duration_sec": 494,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electromagnetics/x6679aa2c65c01e53:magnetic-field-due-to-current/v/magnetic-fields-through-solenoids"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Electric motors",
+          "slug": "x6679aa2c65c01e53:electric-motors",
+          "videos": [
+            {
+              "title": "Force on a current-carrying conductor in a magnetic field",
+              "slug": "v/force-on-a-current-carrying-conductor-ni-a-magnetic-field",
+              "youtube_id": "uW8scRjaam8",
+              "youtube_url": "https://www.youtube.com/watch?v=uW8scRjaam8",
+              "duration_sec": 560,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:magnetism-and-electromagnetism/x0e2f5a2c:magnetism-and-current-carrying-wires/v/force-on-a-current-carrying-conductor-ni-a-magnetic-field"
+            },
+            {
+              "title": "Electric motors",
+              "slug": "v/electric-motor",
+              "youtube_id": "43XAuU-515g",
+              "youtube_url": "https://www.youtube.com/watch?v=43XAuU-515g",
+              "duration_sec": 899,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electromagnetics/x6679aa2c65c01e53:electric-motors/v/electric-motor"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Electromagnetic induction",
+          "slug": "x6679aa2c65c01e53:electromagnetic-induction",
+          "videos": [
+            {
+              "title": "Electromagnetic induction",
+              "slug": "v/electromagnetic-induction-faradays-experiments",
+              "youtube_id": "yU--8Zk57-Y",
+              "youtube_url": "https://www.youtube.com/watch?v=yU--8Zk57-Y",
+              "duration_sec": 612,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:magnetism-and-electromagnetism/x0e2f5a2c:electromagnetic-induction/v/electromagnetic-induction-faradays-experiments"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: How can motion produce electricity?",
+          "slug": "x6679aa2c65c01e53:activity-how-can-motion-produce-electricity",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Electric generators",
+          "slug": "x6679aa2c65c01e53:electric-generators",
+          "videos": [
+            {
+              "title": "Right hand generator rule",
+              "slug": "v/right-hand-generator-rule",
+              "youtube_id": "OJ9cWa_2bCo",
+              "youtube_url": "https://www.youtube.com/watch?v=OJ9cWa_2bCo",
+              "duration_sec": 365,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electromagnetics/x6679aa2c65c01e53:electric-generators/v/right-hand-generator-rule"
+            },
+            {
+              "title": "AC and DC generators",
+              "slug": "v/ac-dc-generator",
+              "youtube_id": "Ylgb8FFMgd4",
+              "youtube_url": "https://www.youtube.com/watch?v=Ylgb8FFMgd4",
+              "duration_sec": 809,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electromagnetics/x6679aa2c65c01e53:electric-generators/v/ac-dc-generator"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Electromagnetic radiation",
+      "slug": "x6679aa2c65c01e53:electromagnetic-radiation",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electromagnetic-radiation",
+      "lessons": [
+        {
+          "title": "The electromagnetic spectrum",
+          "slug": "x6679aa2c65c01e53:the-electromagnetic-spectrum",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "Wave behaviors of EM radiation",
+          "slug": "x6679aa2c65c01e53:wave-behaviors-of-em-radiation",
+          "videos": [
+            {
+              "title": "Electromagnetic waves",
+              "slug": "v/electromagnetic_waves",
+              "youtube_id": "Je_f4RimfKI",
+              "youtube_url": "https://www.youtube.com/watch?v=Je_f4RimfKI",
+              "duration_sec": 853,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:electromagnetic-spectrum/x0e04e0cb682fb793:uses-of-electromagnetic-waves/v/electromagnetic_waves"
+            },
+            {
+              "title": "Refraction of light",
+              "slug": "v/refraction_of_light",
+              "youtube_id": "LKI1UmFbfaA",
+              "youtube_url": "https://www.youtube.com/watch?v=LKI1UmFbfaA",
+              "duration_sec": 872,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:general-properties-of-waves/x0e04e0cb682fb793:refraction-of-light-waves/v/refraction_of_light"
+            },
+            {
+              "title": "Diffraction and interference of light",
+              "slug": "v/diffraction_and_interference_of_light",
+              "youtube_id": "VmN3i4HW5l0",
+              "youtube_url": "https://www.youtube.com/watch?v=VmN3i4HW5l0",
+              "duration_sec": 878,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:general-properties-of-waves/x0e04e0cb682fb793:wave-inetrference-and-diffraction/v/diffraction_and_interference_of_light"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: Why do optical discs reflect rainbow colors?",
+          "slug": "x6679aa2c65c01e53:activity-why-do-optical-discs-reflect-rainbow-colors",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Particle behaviors of EM radiation",
+          "slug": "x6679aa2c65c01e53:particle-behaviors-of-em-radiation",
+          "videos": [
+            {
+              "title": "The photoelectric and photovoltaic effects",
+              "slug": "v/the_photoelectric_and_photovoltaic_effects",
+              "youtube_id": "HCCm0lFwqNw",
+              "youtube_url": "https://www.youtube.com/watch?v=HCCm0lFwqNw",
+              "duration_sec": 861,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:modern-physics/x0e2f5a2c:atoms-and-light/v/the_photoelectric_and_photovoltaic_effects"
+            },
+            {
+              "title": "Atomic spectra",
+              "slug": "v/atomic_spectra",
+              "youtube_id": "N0lBsW3ZzN8",
+              "youtube_url": "https://www.youtube.com/watch?v=N0lBsW3ZzN8",
+              "duration_sec": 883,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-bohr-model-and-atomic-spectra/v/atomic_spectra"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How can starlight reveal the elements in a star?",
+          "slug": "x6679aa2c65c01e53:activity-how-can-starlight-reveal-the-elements-in-a-star",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "EM radiation from the Sun",
+          "slug": "x6679aa2c65c01e53:em-radiation-from-the-sun",
+          "videos": [
+            {
+              "title": "Blackbody radiation",
+              "slug": "v/blackbody_radiation",
+              "youtube_id": "DHG61XPuWyk",
+              "youtube_url": "https://www.youtube.com/watch?v=DHG61XPuWyk",
+              "duration_sec": 858,
+              "relative_url": "/science/ap-physics-2/x0e2f5a2c:modern-physics/x0e2f5a2c:atoms-and-light/v/blackbody_radiation"
+            },
+            {
+              "title": "Why is the sky blue?",
+              "slug": "v/why-is-the-sky-blue",
+              "youtube_id": "9-i360iLjEo",
+              "youtube_url": "https://www.youtube.com/watch?v=9-i360iLjEo",
+              "duration_sec": 606,
+              "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:electromagnetic-radiation/x6679aa2c65c01e53:em-radiation-from-the-sun/v/why-is-the-sky-blue"
+            },
+            {
+              "title": "The greenhouse effect",
+              "slug": "v/the-_greenhouse_effect",
+              "youtube_id": "Yn7ICU3Q4mE",
+              "youtube_url": "https://www.youtube.com/watch?v=Yn7ICU3Q4mE",
+              "duration_sec": 808,
+              "relative_url": "/science/cambridge-o-level-physics-cie/x0e04e0cb682fb793:transfer-of-thermal-energy/x0e04e0cb682fb793:thermal-radiation/v/the-_greenhouse_effect"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Activity: How do carbon dioxide and albedo affect how Earth interacts with sunlight?",
+          "slug": "x6679aa2c65c01e53:activity-how-do-carbon-dioxide-and-albedo-affect-how-earth-interacts-with-sunlight",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    },
+    {
+      "title": "Nuclear physics",
+      "slug": "x6679aa2c65c01e53:nuclear-physics",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:nuclear-physics",
+      "lessons": [
+        {
+          "title": "Radioactive decay",
+          "slug": "x6679aa2c65c01e53:radioactive-decay",
+          "videos": [
+            {
+              "title": "Intro to radioactive decay",
+              "slug": "v/intro-to-radioactive-decay",
+              "youtube_id": "P_SD5Rt6XMk",
+              "youtube_url": "https://www.youtube.com/watch?v=P_SD5Rt6XMk",
+              "duration_sec": 482,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:radioactive-decay/v/intro-to-radioactive-decay"
+            },
+            {
+              "title": "Alpha decay",
+              "slug": "v/alpha-decay",
+              "youtube_id": "QCZQCi_uKpM",
+              "youtube_url": "https://www.youtube.com/watch?v=QCZQCi_uKpM",
+              "duration_sec": 666,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:radioactive-decay/v/alpha-decay"
+            },
+            {
+              "title": "Beta decay",
+              "slug": "v/beta-decay",
+              "youtube_id": "iGr6atucsBw",
+              "youtube_url": "https://www.youtube.com/watch?v=iGr6atucsBw",
+              "duration_sec": 708,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:radioactive-decay/v/beta-decay"
+            },
+            {
+              "title": "Gamma decay",
+              "slug": "v/gamma-decay",
+              "youtube_id": "ksLNmLQbNT4",
+              "youtube_url": "https://www.youtube.com/watch?v=ksLNmLQbNT4",
+              "duration_sec": 709,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:radioactive-decay/v/gamma-decay"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Half-life",
+          "slug": "x6679aa2c65c01e53:half-life",
+          "videos": [
+            {
+              "title": "Half-life",
+              "slug": "v/half-life-radiometric-dating",
+              "youtube_id": "gDpyBifg6-s",
+              "youtube_url": "https://www.youtube.com/watch?v=gDpyBifg6-s",
+              "duration_sec": 656,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:half-life-and-radiometric-dating/v/half-life-radiometric-dating"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Activity: How do we know when dinosaurs lived on Earth?",
+          "slug": "x6679aa2c65c01e53:activity-how-do-we-know-when-dinosaurs-lived-on-earth",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Nuclear fusion",
+          "slug": "x6679aa2c65c01e53:nuclear-fusion",
+          "videos": [
+            {
+              "title": "Nuclear fusion",
+              "slug": "v/nuclear-fusion",
+              "youtube_id": "b9qxAFLpz9U",
+              "youtube_url": "https://www.youtube.com/watch?v=b9qxAFLpz9U",
+              "duration_sec": 825,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:nuclear-fusion/v/nuclear-fusion"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Nuclear fission",
+          "slug": "x6679aa2c65c01e53:nuclear-fission",
+          "videos": [
+            {
+              "title": "Nuclear fission",
+              "slug": "v/nuclear-fission",
+              "youtube_id": "5jDFqpoTgDo",
+              "youtube_url": "https://www.youtube.com/watch?v=5jDFqpoTgDo",
+              "duration_sec": 627,
+              "relative_url": "/science/hs-chemistry/x2613d8165d88df5e:nuclear-chemistry-hs/x2613d8165d88df5e:nuclear-fission/v/nuclear-fission"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Teacher resources",
+      "slug": "x6679aa2c65c01e53:teacher-resources",
+      "relative_url": "/science/highschool-physics/x6679aa2c65c01e53:teacher-resources",
+      "lessons": [
+        {
+          "title": "Unit guides",
+          "slug": "x6679aa2c65c01e53:unit-guides",
+          "videos": [],
+          "exercise_count": 0
+        },
+        {
+          "title": "Hands-on physics activities",
+          "slug": "x6679aa2c65c01e53:untitled-227",
+          "videos": [],
+          "exercise_count": 0
+        }
+      ]
+    }
+  ]
+}

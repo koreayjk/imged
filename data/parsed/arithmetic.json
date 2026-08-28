@@ -1,0 +1,2947 @@
+{
+  "key": "arithmetic",
+  "tier": "T0",
+  "subject": "math",
+  "slug": "arithmetic",
+  "scraped_at": "2026-08-28T12:38:32Z",
+  "source": "tsv-export",
+  "course_title": "Arithmetic",
+  "course_slug": "arithmetic",
+  "units": [
+    {
+      "title": "Intro to multiplication",
+      "slug": "x18ca194a:intro-to-multiplication",
+      "relative_url": "/math/arithmetic/x18ca194a:intro-to-multiplication",
+      "lessons": [
+        {
+          "title": "Multiplication as equal groups",
+          "slug": "x18ca194a:multiplication-as-equal-groups",
+          "videos": [
+            {
+              "title": "Introduction to multiplication",
+              "slug": "v/introduction-to-multiplication",
+              "youtube_id": "NVhA7avdTAw",
+              "youtube_url": "https://www.youtube.com/watch?v=NVhA7avdTAw",
+              "duration_sec": 193,
+              "relative_url": "/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/introduction-to-multiplication"
+            },
+            {
+              "title": "Multiplication as repeated addition",
+              "slug": "v/multiplication-as-repeated-addition",
+              "youtube_id": "qUAeDpmqWDQ",
+              "youtube_url": "https://www.youtube.com/watch?v=qUAeDpmqWDQ",
+              "duration_sec": 182,
+              "relative_url": "/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/multiplication-as-repeated-addition"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplication on the number line",
+          "slug": "x18ca194a:multiplication-on-the-number-line",
+          "videos": [
+            {
+              "title": "Multiplication on the number line",
+              "slug": "v/multiplication-on-the-number-line",
+              "youtube_id": "PLDfl6daajo",
+              "youtube_url": "https://www.youtube.com/watch?v=PLDfl6daajo",
+              "duration_sec": 260,
+              "relative_url": "/math/cc-third-grade-math/intro-to-multiplication/multiplication-on-thnumber-line/v/multiplication-on-the-number-line"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiply using groups of objects",
+          "slug": "x18ca194a:multiply-using-groups-of-objects",
+          "videos": [
+            {
+              "title": "Multiplication as equal groups",
+              "slug": "v/multiplication-intro",
+              "youtube_id": "RNxwasijbAo",
+              "youtube_url": "https://www.youtube.com/watch?v=RNxwasijbAo",
+              "duration_sec": 213,
+              "relative_url": "/math/cc-third-grade-math/intro-to-multiplication/multiply-with-groups-of-objects/v/multiplication-intro"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplication with arrays",
+          "slug": "x18ca194a:multiplication-with-arrays",
+          "videos": [
+            {
+              "title": "Multiplication with arrays",
+              "slug": "v/multiplication-as-groups-of-objects",
+              "youtube_id": "cDpBtkU2cf8",
+              "youtube_url": "https://www.youtube.com/watch?v=cDpBtkU2cf8",
+              "duration_sec": 259,
+              "relative_url": "/math/cc-third-grade-math/intro-to-multiplication/multiplication-with-arrays/v/multiplication-as-groups-of-objects"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Commutative property of multiplication",
+          "slug": "x18ca194a:commutative-property-of-multiplication",
+          "videos": [
+            {
+              "title": "Commutative property of multiplication",
+              "slug": "v/order-when-multiplying-commutative-property-of-multiplication",
+              "youtube_id": "zwD1A9159F4",
+              "youtube_url": "https://www.youtube.com/watch?v=zwD1A9159F4",
+              "duration_sec": 272,
+              "relative_url": "/math/cc-third-grade-math/intro-to-multiplication/imp-properties-of-multiplication/v/order-when-multiplying-commutative-property-of-multiplication"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "1-digit multiplication",
+      "slug": "x18ca194a:1-digit-multiplication",
+      "relative_url": "/math/arithmetic/x18ca194a:1-digit-multiplication",
+      "lessons": [
+        {
+          "title": "Multiply by 0 or 1",
+          "slug": "x18ca194a:multiply-by-0-or-1",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiply by 2 or 4",
+          "slug": "x18ca194a:multiply-by-2-or-4",
+          "videos": [],
+          "exercise_count": 3
+        },
+        {
+          "title": "Multiply by 5 or 10",
+          "slug": "x18ca194a:multiply-by-5-or-10",
+          "videos": [],
+          "exercise_count": 3
+        },
+        {
+          "title": "Multiply by 3 or 6",
+          "slug": "x18ca194a:multiply-by-3-or-6",
+          "videos": [],
+          "exercise_count": 3
+        },
+        {
+          "title": "Distributive property",
+          "slug": "x18ca194a:distributive-property",
+          "videos": [
+            {
+              "title": "Distributive property when multiplying",
+              "slug": "v/using-the-distributive-property-when-multiplying",
+              "youtube_id": "zRgnVbh6psI",
+              "youtube_url": "https://www.youtube.com/watch?v=zRgnVbh6psI",
+              "duration_sec": 369,
+              "relative_url": "/math/cc-third-grade-math/3rd-basic-multiplication/distributive-property/v/using-the-distributive-property-when-multiplying"
+            },
+            {
+              "title": "Properties and patterns for multiplication",
+              "slug": "v/properties-and-patterns-for-multiplication",
+              "youtube_id": "um2nlNVM_YM",
+              "youtube_url": "https://www.youtube.com/watch?v=um2nlNVM_YM",
+              "duration_sec": 514,
+              "relative_url": "/math/cc-third-grade-math/3rd-basic-multiplication/distributive-property/v/properties-and-patterns-for-multiplication"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiply by 7, 8, or 9",
+          "slug": "x18ca194a:multiply-by-7-8-or-9",
+          "videos": [],
+          "exercise_count": 3
+        },
+        {
+          "title": "1-digit multiplication",
+          "slug": "x18ca194a:untitled-613",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "Associative property of multiplication",
+          "slug": "x18ca194a:associative-property-of-multiplication",
+          "videos": [
+            {
+              "title": "Associative property of multiplication",
+              "slug": "v/associate-property-of-multiplication",
+              "youtube_id": "Wqxfm7EPcjo",
+              "youtube_url": "https://www.youtube.com/watch?v=Wqxfm7EPcjo",
+              "duration_sec": 215,
+              "relative_url": "/math/cc-third-grade-math/imp-multiplication-and-division/associative-property-of-multiplication/v/associate-property-of-multiplication"
+            },
+            {
+              "title": "Properties of multiplication",
+              "slug": "v/order-doesn-t-matter-when-purely-multiplying",
+              "youtube_id": "VXrn5HOQmHQ",
+              "youtube_url": "https://www.youtube.com/watch?v=VXrn5HOQmHQ",
+              "duration_sec": 334,
+              "relative_url": "/math/cc-third-grade-math/imp-multiplication-and-division/associative-property-of-multiplication/v/order-doesn-t-matter-when-purely-multiplying"
+            },
+            {
+              "title": "Using associative property to simplify multiplication",
+              "slug": "v/using-associate-property-to-simplify-multiplication",
+              "youtube_id": "bfN7CzSa1MM",
+              "youtube_url": "https://www.youtube.com/watch?v=bfN7CzSa1MM",
+              "duration_sec": 271,
+              "relative_url": "/math/cc-third-grade-math/imp-multiplication-and-division/associative-property-of-multiplication/v/using-associate-property-to-simplify-multiplication"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Comparing with multiplication",
+          "slug": "x18ca194a:comparing-with-multiplication",
+          "videos": [
+            {
+              "title": "Comparing with multiplication",
+              "slug": "v/compare-with-multiplication-examples",
+              "youtube_id": "eaGBLBB375U",
+              "youtube_url": "https://www.youtube.com/watch?v=eaGBLBB375U",
+              "duration_sec": 178,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/imp-comparing-with-multiplication/v/compare-with-multiplication-examples"
+            },
+            {
+              "title": "Comparing with multiplication and addition: giraffe",
+              "slug": "v/comparisons-multiplication-addition",
+              "youtube_id": "UKYjhM_c_7s",
+              "youtube_url": "https://www.youtube.com/watch?v=UKYjhM_c_7s",
+              "duration_sec": 297,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/imp-comparing-with-multiplication/v/comparisons-multiplication-addition"
+            },
+            {
+              "title": "Comparing with multiplication and addition: money",
+              "slug": "v/comparisons-subtraction-division",
+              "youtube_id": "ZS157czfx4E",
+              "youtube_url": "https://www.youtube.com/watch?v=ZS157czfx4E",
+              "duration_sec": 395,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/imp-comparing-with-multiplication/v/comparisons-subtraction-division"
+            },
+            {
+              "title": "Comparing with multiplication: magic",
+              "slug": "v/multiplication-and-division-word-problems-2",
+              "youtube_id": "9CZfG3r5JBE",
+              "youtube_url": "https://www.youtube.com/watch?v=9CZfG3r5JBE",
+              "duration_sec": 70,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/imp-comparing-with-multiplication/v/multiplication-and-division-word-problems-2"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Intro to division",
+      "slug": "x18ca194a:intro-to-division",
+      "relative_url": "/math/arithmetic/x18ca194a:intro-to-division",
+      "lessons": [
+        {
+          "title": "Division intro",
+          "slug": "x18ca194a:division-intro",
+          "videos": [
+            {
+              "title": "Division as equal groups",
+              "slug": "v/division-as-equal-groupings",
+              "youtube_id": "mGvunan-I-Q",
+              "youtube_url": "https://www.youtube.com/watch?v=mGvunan-I-Q",
+              "duration_sec": 220,
+              "relative_url": "/math/cc-third-grade-math/intro-to-division/imp-division-intro/v/division-as-equal-groupings"
+            },
+            {
+              "title": "Visualizing division with arrays",
+              "slug": "v/visualizing-division-with-arrays",
+              "youtube_id": "qIAszZBV84s",
+              "youtube_url": "https://www.youtube.com/watch?v=qIAszZBV84s",
+              "duration_sec": 126,
+              "relative_url": "/math/cc-third-grade-math/intro-to-division/imp-division-intro/v/visualizing-division-with-arrays"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Relating multiplication and division",
+          "slug": "x18ca194a:relating-multiplication-and-division",
+          "videos": [
+            {
+              "title": "Relating division to multiplication",
+              "slug": "v/examples-relating-multiplication-to-division",
+              "youtube_id": "qcMJ1pN36r4",
+              "youtube_url": "https://www.youtube.com/watch?v=qcMJ1pN36r4",
+              "duration_sec": 207,
+              "relative_url": "/math/cc-third-grade-math/intro-to-division/imp-relating-multiplication-and-division/v/examples-relating-multiplication-to-division"
+            },
+            {
+              "title": "Multiplication word problem: parking lot",
+              "slug": "v/how-many-cars-can-fit-in-the-parking-lot",
+              "youtube_id": "6QZCj4O9sk0",
+              "youtube_url": "https://www.youtube.com/watch?v=6QZCj4O9sk0",
+              "duration_sec": 126,
+              "relative_url": "/math/cc-third-grade-math/intro-to-division/imp-relating-multiplication-and-division/v/how-many-cars-can-fit-in-the-parking-lot"
+            },
+            {
+              "title": "Division word problem: school building",
+              "slug": "v/average-height-of-a-building-s-floor",
+              "youtube_id": "5GOhM3jq9Fc",
+              "youtube_url": "https://www.youtube.com/watch?v=5GOhM3jq9Fc",
+              "duration_sec": 259,
+              "relative_url": "/math/cc-third-grade-math/intro-to-division/imp-relating-multiplication-and-division/v/average-height-of-a-building-s-floor"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Divide by 1, 2, or 4",
+          "slug": "x18ca194a:divide-by-1-2-or-4",
+          "videos": [],
+          "exercise_count": 3
+        },
+        {
+          "title": "Divide by 5 or 10",
+          "slug": "x18ca194a:divide-by-5-or-10",
+          "videos": [],
+          "exercise_count": 2
+        },
+        {
+          "title": "Divide by 3 or 6",
+          "slug": "x18ca194a:divide-by-3-or-6",
+          "videos": [],
+          "exercise_count": 2
+        },
+        {
+          "title": "Divide by 7, 8, or 9",
+          "slug": "x18ca194a:divide-by-7-8-or-9",
+          "videos": [],
+          "exercise_count": 3
+        },
+        {
+          "title": "1-digit division",
+          "slug": "x18ca194a:1-digit-division",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplication and division word problems",
+          "slug": "x18ca194a:multiplication-and-division-word-problems",
+          "videos": [
+            {
+              "title": "Multiplication word problem: soda party",
+              "slug": "v/liters-of-soda-for-the-party",
+              "youtube_id": "iqpDFKIREBo",
+              "youtube_url": "https://www.youtube.com/watch?v=iqpDFKIREBo",
+              "duration_sec": 132,
+              "relative_url": "/math/cc-third-grade-math/imp-multiplication-and-division/multiplication-and-division-word-problems/v/liters-of-soda-for-the-party"
+            },
+            {
+              "title": "Division word problem: blueberries",
+              "slug": "v/blueberries-for-friends",
+              "youtube_id": "QXNg_u5Tv8Q",
+              "youtube_url": "https://www.youtube.com/watch?v=QXNg_u5Tv8Q",
+              "duration_sec": 243,
+              "relative_url": "/math/cc-third-grade-math/imp-multiplication-and-division/multiplication-and-division-word-problems/v/blueberries-for-friends"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Understand fractions",
+      "slug": "fraction-arithmetic",
+      "relative_url": "/math/arithmetic/fraction-arithmetic",
+      "lessons": [
+        {
+          "title": "Fractions intro",
+          "slug": "x18ca194a:fractions-intro",
+          "videos": [
+            {
+              "title": "Intro to fractions",
+              "slug": "v/fraction-basics",
+              "youtube_id": "jgWqSjgMAtw",
+              "youtube_url": "https://www.youtube.com/watch?v=jgWqSjgMAtw",
+              "duration_sec": 255,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-intro/v/fraction-basics"
+            },
+            {
+              "title": "Cutting shapes into equal parts",
+              "slug": "v/cutting-shapes-into-equal-parts",
+              "youtube_id": "gEE6yIObbmg",
+              "youtube_url": "https://www.youtube.com/watch?v=gEE6yIObbmg",
+              "duration_sec": 96,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-intro/v/cutting-shapes-into-equal-parts"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "What fractions mean",
+          "slug": "x18ca194a:what-fractions-mean",
+          "videos": [
+            {
+              "title": "Identifying numerators and denominators",
+              "slug": "v/numerator-and-denominator-of-a-fraction",
+              "youtube_id": "3XOt1fjWKi8",
+              "youtube_url": "https://www.youtube.com/watch?v=3XOt1fjWKi8",
+              "duration_sec": 151,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-what-fractions-mean/v/numerator-and-denominator-of-a-fraction"
+            },
+            {
+              "title": "Recognizing fractions",
+              "slug": "v/more-than-one-equal-section",
+              "youtube_id": "U44my48zgFE",
+              "youtube_url": "https://www.youtube.com/watch?v=U44my48zgFE",
+              "duration_sec": 228,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-what-fractions-mean/v/more-than-one-equal-section"
+            },
+            {
+              "title": "Recognizing fractions greater than 1",
+              "slug": "v/recognizing-fractions-greater-than-1-math-3rd-grade-khan-academy",
+              "youtube_id": "eBzQdDgBB_8",
+              "youtube_url": "https://www.youtube.com/watch?v=eBzQdDgBB_8",
+              "duration_sec": 63,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-what-fractions-mean/v/recognizing-fractions-greater-than-1-math-3rd-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Fractions on the number line",
+          "slug": "x18ca194a:fractions-on-the-number-line",
+          "videos": [
+            {
+              "title": "Fractions on a number line",
+              "slug": "v/fractions-on-a-number-line",
+              "youtube_id": "Z0WsfO-RI8Y",
+              "youtube_url": "https://www.youtube.com/watch?v=Z0WsfO-RI8Y",
+              "duration_sec": 256,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-on-the-number-line/v/fractions-on-a-number-line"
+            },
+            {
+              "title": "Fractions on number line widget",
+              "slug": "v/fractions-on-number-line-widget",
+              "youtube_id": "xeoVPSBP9WI",
+              "youtube_url": "https://www.youtube.com/watch?v=xeoVPSBP9WI",
+              "duration_sec": 59,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-on-the-number-line/v/fractions-on-number-line-widget"
+            },
+            {
+              "title": "Finding 1 on the number line",
+              "slug": "v/finding-1-on-the-number-line",
+              "youtube_id": "7AOXIqAPMmw",
+              "youtube_url": "https://www.youtube.com/watch?v=7AOXIqAPMmw",
+              "duration_sec": 150,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-on-the-number-line/v/finding-1-on-the-number-line"
+            },
+            {
+              "title": "Fractions greater than 1 on the number line",
+              "slug": "v/fractions-greater-than-1-on-the-number-line",
+              "youtube_id": "AXdZCfSdQFY",
+              "youtube_url": "https://www.youtube.com/watch?v=AXdZCfSdQFY",
+              "duration_sec": 213,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-on-the-number-line/v/fractions-greater-than-1-on-the-number-line"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Fractions and whole numbers",
+          "slug": "x18ca194a:fractions-and-whole-numbers",
+          "videos": [
+            {
+              "title": "Representing 1 as a fraction",
+              "slug": "v/different-ways-to-represent-1-as-a-fraction",
+              "youtube_id": "dviyBH3pOk8",
+              "youtube_url": "https://www.youtube.com/watch?v=dviyBH3pOk8",
+              "duration_sec": 226,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-and-whole-numbers/v/different-ways-to-represent-1-as-a-fraction"
+            },
+            {
+              "title": "Whole numbers as fractions",
+              "slug": "v/whole-numbers-as-fractions",
+              "youtube_id": "3OFH8OhpN08",
+              "youtube_url": "https://www.youtube.com/watch?v=3OFH8OhpN08",
+              "duration_sec": 263,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-and-whole-numbers/v/whole-numbers-as-fractions"
+            },
+            {
+              "title": "Writing whole numbers as fractions",
+              "slug": "v/writing-whole-numbers-as-fractions",
+              "youtube_id": "VQQrz1g_K4Q",
+              "youtube_url": "https://www.youtube.com/watch?v=VQQrz1g_K4Q",
+              "duration_sec": 94,
+              "relative_url": "/math/cc-third-grade-math/imp-fractions/imp-fractions-and-whole-numbers/v/writing-whole-numbers-as-fractions"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Equivalent fractions",
+          "slug": "x18ca194a:equivalent-fractions",
+          "videos": [
+            {
+              "title": "Equivalent fractions with visuals",
+              "slug": "v/equivalent-fractions-with-visuals",
+              "youtube_id": "oGAVi4xb7Sg",
+              "youtube_url": "https://www.youtube.com/watch?v=oGAVi4xb7Sg",
+              "duration_sec": 385,
+              "relative_url": "/math/cc-third-grade-math/equivalent-fractions-and-comparing-fractions/imp-equivalent-fractions/v/equivalent-fractions-with-visuals"
+            },
+            {
+              "title": "Equivalent fraction models",
+              "slug": "v/equivalent-fraction-models",
+              "youtube_id": "G4VxHxwi6DY",
+              "youtube_url": "https://www.youtube.com/watch?v=G4VxHxwi6DY",
+              "duration_sec": 252,
+              "relative_url": "/math/cc-third-grade-math/equivalent-fractions-and-comparing-fractions/imp-equivalent-fractions/v/equivalent-fraction-models"
+            },
+            {
+              "title": "Equivalent fraction visually",
+              "slug": "v/equivalent-fractions-visually-and-on-number-line",
+              "youtube_id": "Su4DKLbK8mA",
+              "youtube_url": "https://www.youtube.com/watch?v=Su4DKLbK8mA",
+              "duration_sec": 242,
+              "relative_url": "/math/cc-third-grade-math/equivalent-fractions-and-comparing-fractions/imp-equivalent-fractions/v/equivalent-fractions-visually-and-on-number-line"
+            },
+            {
+              "title": "Creating equivalent fractions",
+              "slug": "v/generating-equivalent-fractions",
+              "youtube_id": "-YpEkExjq2E",
+              "youtube_url": "https://www.youtube.com/watch?v=-YpEkExjq2E",
+              "duration_sec": 252,
+              "relative_url": "/math/cc-third-grade-math/equivalent-fractions-and-comparing-fractions/imp-equivalent-fractions/v/generating-equivalent-fractions"
+            }
+          ],
+          "exercise_count": 3
+        }
+      ]
+    },
+    {
+      "title": "Place value through 1,000,000",
+      "slug": "x18ca194a:place-value-through-1-000-000",
+      "relative_url": "/math/arithmetic/x18ca194a:place-value-through-1-000-000",
+      "lessons": [
+        {
+          "title": "Intro to place value through 1,000",
+          "slug": "x18ca194a:intro-to-place-value-through-1-000",
+          "videos": [
+            {
+              "title": "Intro to place value",
+              "slug": "v/baseten-warmup",
+              "youtube_id": "v3gdX07Q6qE",
+              "youtube_url": "https://www.youtube.com/watch?v=v3gdX07Q6qE",
+              "duration_sec": 179,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-place-value/x3184e0ec:intro-to-place-value/v/baseten-warmup"
+            },
+            {
+              "title": "Use place value blocks to show numbers within 1,000",
+              "slug": "v/use-place-value-blocks-to-show-numbers-within-1000",
+              "youtube_id": "WHTzWZezEIY",
+              "youtube_url": "https://www.youtube.com/watch?v=WHTzWZezEIY",
+              "duration_sec": 261,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-place-value/x3184e0ec:intro-to-place-value/v/use-place-value-blocks-to-show-numbers-within-1000"
+            },
+            {
+              "title": "Place value tables within 1,000",
+              "slug": "v/place-value-tables-within-1000-2",
+              "youtube_id": "Wt3IrBqq6Uc",
+              "youtube_url": "https://www.youtube.com/watch?v=Wt3IrBqq6Uc",
+              "duration_sec": 151,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-place-value/x3184e0ec:intro-to-place-value/v/place-value-tables-within-1000-2"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Numbers in expanded form",
+          "slug": "x18ca194a:numbers-in-expanded-form",
+          "videos": [
+            {
+              "title": "Expanded form of numbers",
+              "slug": "v/expanded-form-of-numbers",
+              "youtube_id": "drZjIlmHdME",
+              "youtube_url": "https://www.youtube.com/watch?v=drZjIlmHdME",
+              "duration_sec": 177,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-place-value/x3184e0ec:numbers-in-standard-word-and-expanded-form/v/expanded-form-of-numbers"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Regroup whole numbers",
+          "slug": "x18ca194a:regroup-whole-numbers",
+          "videos": [
+            {
+              "title": "Regrouping whole numbers: 675",
+              "slug": "v/regrouping-whole-numbers",
+              "youtube_id": "X3JqIZR1XcY",
+              "youtube_url": "https://www.youtube.com/watch?v=X3JqIZR1XcY",
+              "duration_sec": 263,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-place-value/cc-2nd-hundreds/v/regrouping-whole-numbers"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Greater place values",
+          "slug": "x18ca194a:greater-place-values",
+          "videos": [
+            {
+              "title": "Place value tables",
+              "slug": "v/place-value-tables",
+              "youtube_id": "2njG0S_GuVA",
+              "youtube_url": "https://www.youtube.com/watch?v=2njG0S_GuVA",
+              "duration_sec": 144,
+              "relative_url": "/math/cc-fourth-grade-math/imp-place-value-and-rounding-2/imp-intro-to-place-value/v/place-value-tables"
+            },
+            {
+              "title": "Finding place value",
+              "slug": "v/place-value-1",
+              "youtube_id": "jxA8MffVmPs",
+              "youtube_url": "https://www.youtube.com/watch?v=jxA8MffVmPs",
+              "duration_sec": 145,
+              "relative_url": "/math/cc-fourth-grade-math/imp-place-value-and-rounding-2/imp-intro-to-place-value/v/place-value-1"
+            },
+            {
+              "title": "Writing a number in expanded form",
+              "slug": "v/place-value-3",
+              "youtube_id": "iK0y39rjBgQ",
+              "youtube_url": "https://www.youtube.com/watch?v=iK0y39rjBgQ",
+              "duration_sec": 320,
+              "relative_url": "/math/cc-fourth-grade-math/imp-place-value-and-rounding-2/imp-ways-to-write-whole-numbers-expanded-form-and-written-form/v/place-value-3"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "How 10 relates to place value",
+          "slug": "x18ca194a:how-10-relates-to-place-value",
+          "videos": [
+            {
+              "title": "Multiplying whole numbers by 10 ",
+              "slug": "v/multiplying-whole-numbers-by-10",
+              "youtube_id": "TXaWqy52dZY",
+              "youtube_url": "https://www.youtube.com/watch?v=TXaWqy52dZY",
+              "duration_sec": 421,
+              "relative_url": "/math/cc-fourth-grade-math/imp-place-value-and-rounding-2/imp-how-10-relates-to-place-value/v/multiplying-whole-numbers-by-10"
+            },
+            {
+              "title": "Dividing whole numbers by 10 ",
+              "slug": "v/dividing-whole-numbers-by-10",
+              "youtube_id": "bVi7_6tqiQo",
+              "youtube_url": "https://www.youtube.com/watch?v=bVi7_6tqiQo",
+              "duration_sec": 429,
+              "relative_url": "/math/cc-fourth-grade-math/imp-place-value-and-rounding-2/imp-how-10-relates-to-place-value/v/dividing-whole-numbers-by-10"
+            },
+            {
+              "title": "Understanding place value ",
+              "slug": "v/understanding-place-value-1-exercise",
+              "youtube_id": "jyKMEANFNi0",
+              "youtube_url": "https://www.youtube.com/watch?v=jyKMEANFNi0",
+              "duration_sec": 209,
+              "relative_url": "/math/cc-fourth-grade-math/imp-place-value-and-rounding-2/imp-how-10-relates-to-place-value/v/understanding-place-value-1-exercise"
+            },
+            {
+              "title": "Place value when multiplying and dividing by 10 ",
+              "slug": "v/place-value-when-multiplying-and-dividing-by-10",
+              "youtube_id": "Ehd3cgRBvl0",
+              "youtube_url": "https://www.youtube.com/watch?v=Ehd3cgRBvl0",
+              "duration_sec": 315,
+              "relative_url": "/math/cc-fourth-grade-math/imp-place-value-and-rounding-2/imp-how-10-relates-to-place-value/v/place-value-when-multiplying-and-dividing-by-10"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Add and subtract through 1,000,000",
+      "slug": "arith-review-add-subtract",
+      "relative_url": "/math/arithmetic/arith-review-add-subtract",
+      "lessons": [
+        {
+          "title": "Visually adding within 1,000",
+          "slug": "x18ca194a:visually-adding-within-1-000",
+          "videos": [
+            {
+              "title": "Adding 10 or 100",
+              "slug": "v/adding-ten-or-one-hundred",
+              "youtube_id": "wwO6DjL_wFw",
+              "youtube_url": "https://www.youtube.com/watch?v=wwO6DjL_wFw",
+              "duration_sec": 239,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-add-ones-tens-hundreds/v/adding-ten-or-one-hundred"
+            },
+            {
+              "title": "Adding 1s, 10s, and 100s",
+              "slug": "v/adding-hundreds-tens-and-ones",
+              "youtube_id": "SCBp0d6zR2I",
+              "youtube_url": "https://www.youtube.com/watch?v=SCBp0d6zR2I",
+              "duration_sec": 217,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-add-ones-tens-hundreds/v/adding-hundreds-tens-and-ones"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Strategies for adding within 1,000",
+          "slug": "x18ca194a:strategies-for-adding-within-1-000",
+          "videos": [
+            {
+              "title": "Adding 3-digit numbers (no regrouping)",
+              "slug": "v/adding-three-digit-numbers-without-regrouping",
+              "youtube_id": "d3109sV6izY",
+              "youtube_url": "https://www.youtube.com/watch?v=d3109sV6izY",
+              "duration_sec": 160,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/v/adding-three-digit-numbers-without-regrouping"
+            },
+            {
+              "title": "Addition using groups of 10 and 100",
+              "slug": "v/addition-using-groups-of-10-and-100",
+              "youtube_id": "Nq88IHw4Y9E",
+              "youtube_url": "https://www.youtube.com/watch?v=Nq88IHw4Y9E",
+              "duration_sec": 238,
+              "relative_url": "/math/cc-third-grade-math/imp-addition-and-subtraction/imp-strategies-for-adding-two-and-three-digit-numbers/v/addition-using-groups-of-10-and-100"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Strategies for subtracting within 1,000",
+          "slug": "x18ca194a:strategies-for-subtracting-within-1-000",
+          "videos": [
+            {
+              "title": "Subtracting 1, 10, or 100",
+              "slug": "v/subtracting-hundreds-and-tens",
+              "youtube_id": "4BNIGTHUTTM",
+              "youtube_url": "https://www.youtube.com/watch?v=4BNIGTHUTTM",
+              "duration_sec": 251,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-sub-ones-tens-hundreds/v/subtracting-hundreds-and-tens"
+            },
+            {
+              "title": "Subtracting 1s, 10s, and 100s",
+              "slug": "v/subtracting-3-digits",
+              "youtube_id": "ycBxbgjQns4",
+              "youtube_url": "https://www.youtube.com/watch?v=ycBxbgjQns4",
+              "duration_sec": 192,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-sub-ones-tens-hundreds/v/subtracting-3-digits"
+            },
+            {
+              "title": "Subtracting 3-digit numbers (no regrouping)",
+              "slug": "v/subtracting-three-digit-numbers-without-regrouping",
+              "youtube_id": "i8r7ZTUqB9w",
+              "youtube_url": "https://www.youtube.com/watch?v=i8r7ZTUqB9w",
+              "duration_sec": 177,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-sub-ones-tens-hundreds/v/subtracting-three-digit-numbers-without-regrouping"
+            },
+            {
+              "title": "Subtracting with place value blocks (regrouping)",
+              "slug": "v/subtracting-with-place-value-blocks-regrouping",
+              "youtube_id": "F63kWrYg6fY",
+              "youtube_url": "https://www.youtube.com/watch?v=F63kWrYg6fY",
+              "duration_sec": 149,
+              "relative_url": "/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-sub-ones-tens-hundreds/v/subtracting-with-place-value-blocks-regrouping"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Adding within 1,000,000",
+          "slug": "x18ca194a:adding-within-1-000-000",
+          "videos": [
+            {
+              "title": "Relate place value to standard algorithm for multi-digit addition",
+              "slug": "v/adding-multi-digit-numbers-with-place-value",
+              "youtube_id": "DqaHhReVpZI",
+              "youtube_url": "https://www.youtube.com/watch?v=DqaHhReVpZI",
+              "duration_sec": 382,
+              "relative_url": "/math/cc-fourth-grade-math/imp-addition-and-subtraction-2/imp-adding-multi-digit-numbers/v/adding-multi-digit-numbers-with-place-value"
+            },
+            {
+              "title": "Adding multi-digit numbers: 48,029+233,930 ",
+              "slug": "v/adding-multi-digit-numbers-with-regrouping",
+              "youtube_id": "TVtdqRNJmiw",
+              "youtube_url": "https://www.youtube.com/watch?v=TVtdqRNJmiw",
+              "duration_sec": 138,
+              "relative_url": "/math/cc-fourth-grade-math/imp-addition-and-subtraction-2/imp-adding-multi-digit-numbers/v/adding-multi-digit-numbers-with-regrouping"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Subtracting within 1,000,000",
+          "slug": "x18ca194a:subtracting-within-1-000-000",
+          "videos": [
+            {
+              "title": "Relate place value to standard algorithm for multi-digit subtraction",
+              "slug": "v/understanding-place-value-when-subtracting",
+              "youtube_id": "XAPhD7EDQUk",
+              "youtube_url": "https://www.youtube.com/watch?v=XAPhD7EDQUk",
+              "duration_sec": 398,
+              "relative_url": "/math/cc-fourth-grade-math/imp-addition-and-subtraction-2/imp-subtracting-multi-digit-numbers/v/understanding-place-value-when-subtracting"
+            },
+            {
+              "title": "Multi-digit subtraction: 389,002-76,151",
+              "slug": "v/subtracting-multi-digit-numbers-with-regrouping",
+              "youtube_id": "buyK1y4rV3E",
+              "youtube_url": "https://www.youtube.com/watch?v=buyK1y4rV3E",
+              "duration_sec": 201,
+              "relative_url": "/math/cc-fourth-grade-math/imp-addition-and-subtraction-2/imp-subtracting-multi-digit-numbers/v/subtracting-multi-digit-numbers-with-regrouping"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Multiply 1- and 2-digit numbers",
+      "slug": "x18ca194a:multiply-1-and-2-digit-numbers",
+      "relative_url": "/math/arithmetic/x18ca194a:multiply-1-and-2-digit-numbers",
+      "lessons": [
+        {
+          "title": "Multiplication by 10s, 100s, and 1000s",
+          "slug": "x18ca194a:multiplication-by-10s-100s-and-1000s",
+          "videos": [
+            {
+              "title": "Multiplying 1-digit numbers by 10, 100, and 1000",
+              "slug": "v/multiplying-1-digit-numbers-by-10-100-and-1000",
+              "youtube_id": "SG4gX-VGzog",
+              "youtube_url": "https://www.youtube.com/watch?v=SG4gX-VGzog",
+              "duration_sec": 377,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/imp-multiplication-by-10s-100s-and-1000s/v/multiplying-1-digit-numbers-by-10-100-and-1000"
+            },
+            {
+              "title": "Multiplying 1-digit numbers by multiples of 10, 100, and 1000",
+              "slug": "v/multiplying-1-digit-numbers-by-multiples-of-10",
+              "youtube_id": "tHQOAvbyRL0",
+              "youtube_url": "https://www.youtube.com/watch?v=tHQOAvbyRL0",
+              "duration_sec": 484,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/imp-multiplication-by-10s-100s-and-1000s/v/multiplying-1-digit-numbers-by-multiples-of-10"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multi-digit multiplication: place value and area models",
+          "slug": "x18ca194a:multi-digit-multiplication-place-value-and-area-models",
+          "videos": [
+            {
+              "title": "Using area model and properties to multiply ",
+              "slug": "v/more-ways-to-think-about-multiplying",
+              "youtube_id": "NWJinKmWzx8",
+              "youtube_url": "https://www.youtube.com/watch?v=NWJinKmWzx8",
+              "duration_sec": 391,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/imp-multi-digit-multiplication-place-value-and-area-models/v/more-ways-to-think-about-multiplying"
+            },
+            {
+              "title": "Multiplying with area model: 6 x 7981 ",
+              "slug": "v/4-by-1-multiplication-with-grid",
+              "youtube_id": "UvAOynxGfIU",
+              "youtube_url": "https://www.youtube.com/watch?v=UvAOynxGfIU",
+              "duration_sec": 214,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/imp-multi-digit-multiplication-place-value-and-area-models/v/4-by-1-multiplication-with-grid"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Multiply with partial products",
+          "slug": "x18ca194a:multiply-with-partial-products",
+          "videos": [
+            {
+              "title": "Multiplying 2-digits by 1-digit with partial products",
+              "slug": "v/multiplying-2-digits-by-1-digit-with-partial-products",
+              "youtube_id": "RSx20wLxctc",
+              "youtube_url": "https://www.youtube.com/watch?v=RSx20wLxctc",
+              "duration_sec": 274,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/multiply-with-partial-products/v/multiplying-2-digits-by-1-digit-with-partial-products"
+            },
+            {
+              "title": "Multiplying 3-digit by 1-digit (regrouping)",
+              "slug": "v/3-digit-times-1-digit-example",
+              "youtube_id": "TqRReFvbpXA",
+              "youtube_url": "https://www.youtube.com/watch?v=TqRReFvbpXA",
+              "duration_sec": 135,
+              "relative_url": "/math/cc-fourth-grade-math/imp-multiplication-and-division-2/multiply-with-partial-products/v/3-digit-times-1-digit-example"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiply by 10s",
+          "slug": "x18ca194a:multiply-by-10s",
+          "videos": [
+            {
+              "title": "Multiplying 10s",
+              "slug": "v/multiplying-10s",
+              "youtube_id": "uHHnwafYivk",
+              "youtube_url": "https://www.youtube.com/watch?v=uHHnwafYivk",
+              "duration_sec": 308,
+              "relative_url": "/math/cc-fourth-grade-math/multiplying-by-2-digit-numbers/multiply-by-10s/v/multiplying-10s"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiply 2-digit numbers with area models",
+          "slug": "x18ca194a:multiply-2-digit-numbers-with-area-models",
+          "videos": [
+            {
+              "title": "Multiplying with area model: 16 x 27",
+              "slug": "v/area-model-for-multiplication",
+              "youtube_id": "vbGwcvXgDlg",
+              "youtube_url": "https://www.youtube.com/watch?v=vbGwcvXgDlg",
+              "duration_sec": 527,
+              "relative_url": "/math/cc-fourth-grade-math/multiplying-by-2-digit-numbers/multiply-2-digit-numbers-with-area-models/v/area-model-for-multiplication"
+            },
+            {
+              "title": "Multiplying with area model: 78 x 65",
+              "slug": "v/understanding-multiplication-through-area-models",
+              "youtube_id": "p0jCw2sqZgs",
+              "youtube_url": "https://www.youtube.com/watch?v=p0jCw2sqZgs",
+              "duration_sec": 298,
+              "relative_url": "/math/cc-fourth-grade-math/multiplying-by-2-digit-numbers/multiply-2-digit-numbers-with-area-models/v/understanding-multiplication-through-area-models"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiply 2-digit numbers with partial products",
+          "slug": "x18ca194a:multiply-2-digit-numbers-with-partial-products",
+          "videos": [
+            {
+              "title": "Multiplying two 2-digit numbers using partial products",
+              "slug": "v/multiplying-two-2-digit-numbers-using-partial-products",
+              "youtube_id": "O2ifHv-3dZA",
+              "youtube_url": "https://www.youtube.com/watch?v=O2ifHv-3dZA",
+              "duration_sec": 266,
+              "relative_url": "/math/cc-fourth-grade-math/multiplying-by-2-digit-numbers/multiply-2-digit-numbers-with-partial-products/v/multiplying-two-2-digit-numbers-using-partial-products"
+            },
+            {
+              "title": "Multiplying 2-digit numbers",
+              "slug": "v/multiplying-2-digit-numbers",
+              "youtube_id": "DaQlieZH1kk",
+              "youtube_url": "https://www.youtube.com/watch?v=DaQlieZH1kk",
+              "duration_sec": 247,
+              "relative_url": "/math/cc-fourth-grade-math/multiplying-by-2-digit-numbers/multiply-2-digit-numbers-with-partial-products/v/multiplying-2-digit-numbers"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Divide with remainders",
+      "slug": "x18ca194a:divide-with-remainders",
+      "relative_url": "/math/arithmetic/x18ca194a:divide-with-remainders",
+      "lessons": [
+        {
+          "title": "Remainders",
+          "slug": "x18ca194a:remainders",
+          "videos": [
+            {
+              "title": "Introduction to remainders",
+              "slug": "v/intro-to-remainders",
+              "youtube_id": "P1qyjdh_sIw",
+              "youtube_url": "https://www.youtube.com/watch?v=P1qyjdh_sIw",
+              "duration_sec": 289,
+              "relative_url": "/math/cc-fourth-grade-math/division/4th-remainders/v/intro-to-remainders"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Divide multiples of 10, 100, and 1,000 by 1-digit numbers",
+          "slug": "x18ca194a:divide-multiples-of-10-100-and-1-000-by-1-digit-numbers",
+          "videos": [
+            {
+              "title": "Quotients that are multiples of 10 ",
+              "slug": "v/quotients-that-are-multiples-of-10",
+              "youtube_id": "UzXoxglkr98",
+              "youtube_url": "https://www.youtube.com/watch?v=UzXoxglkr98",
+              "duration_sec": 373,
+              "relative_url": "/math/cc-fourth-grade-math/division/4th-nice-division/v/quotients-that-are-multiples-of-10"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Division with place value",
+          "slug": "x18ca194a:division-with-place-value",
+          "videos": [
+            {
+              "title": "Division using place value",
+              "slug": "v/division-using-understanding-of-place-value",
+              "youtube_id": "xUjRwepN7dk",
+              "youtube_url": "https://www.youtube.com/watch?v=xUjRwepN7dk",
+              "duration_sec": 484,
+              "relative_url": "/math/cc-fourth-grade-math/division/division-place-value-and-area/v/division-using-understanding-of-place-value"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Division with area models",
+          "slug": "x18ca194a:division-with-area-models",
+          "videos": [
+            {
+              "title": "Division with area models ",
+              "slug": "v/area-models-to-visualize-division-using-place-value",
+              "youtube_id": "FKJjqEdfB9Y",
+              "youtube_url": "https://www.youtube.com/watch?v=FKJjqEdfB9Y",
+              "duration_sec": 498,
+              "relative_url": "/math/cc-fourth-grade-math/division/division-with-area-models/v/area-models-to-visualize-division-using-place-value"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multi-digit division with partial quotients",
+          "slug": "x18ca194a:multi-digit-division-with-partial-quotients",
+          "videos": [
+            {
+              "title": "Introduction to division with partial quotients (no remainder)",
+              "slug": "v/introduction-to-division-with-partial-quotients",
+              "youtube_id": "Ws4Zq-gceSY",
+              "youtube_url": "https://www.youtube.com/watch?v=Ws4Zq-gceSY",
+              "duration_sec": 376,
+              "relative_url": "/math/cc-fourth-grade-math/division/multi-digit-division/v/introduction-to-division-with-partial-quotients"
+            },
+            {
+              "title": "Division with partial quotients (remainder)",
+              "slug": "v/division-with-partial-quotients-example",
+              "youtube_id": "gamEPRpt9jo",
+              "youtube_url": "https://www.youtube.com/watch?v=gamEPRpt9jo",
+              "duration_sec": 405,
+              "relative_url": "/math/cc-fourth-grade-math/division/multi-digit-division/v/division-with-partial-quotients-example"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiplication and division word problems",
+          "slug": "x18ca194a:untitled-790",
+          "videos": [
+            {
+              "title": "Division word problem: field goals",
+              "slug": "v/multi-step-word-problems-with-whole-numbers-exercise-1",
+              "youtube_id": "anlOhNHlqwg",
+              "youtube_url": "https://www.youtube.com/watch?v=anlOhNHlqwg",
+              "duration_sec": 179,
+              "relative_url": "/math/cc-fourth-grade-math/division/mult-division-word-problems/v/multi-step-word-problems-with-whole-numbers-exercise-1"
+            },
+            {
+              "title": "Multiplication word problem: pizza",
+              "slug": "v/multi-step-word-problems-with-whole-numbers-exercise-t2",
+              "youtube_id": "cTveNRjWQYo",
+              "youtube_url": "https://www.youtube.com/watch?v=cTveNRjWQYo",
+              "duration_sec": 158,
+              "relative_url": "/math/cc-fourth-grade-math/division/mult-division-word-problems/v/multi-step-word-problems-with-whole-numbers-exercise-t2"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multi-step word problems",
+          "slug": "x18ca194a:multi-step-word-problems",
+          "videos": [],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Add and subtract fraction (like denominators)",
+      "slug": "x18ca194a:add-and-subtract-fraction-like-denominators",
+      "relative_url": "/math/arithmetic/x18ca194a:add-and-subtract-fraction-like-denominators",
+      "lessons": [
+        {
+          "title": "Equivalent fractions",
+          "slug": "x18ca194a:untitled-857",
+          "videos": [
+            {
+              "title": "Equivalent fractions with models",
+              "slug": "v/equivalent-fractions-with-models",
+              "youtube_id": "vTjgaVmJ8fk",
+              "youtube_url": "https://www.youtube.com/watch?v=vTjgaVmJ8fk",
+              "duration_sec": 336,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-equivalent-fractions-2/v/equivalent-fractions-with-models"
+            },
+            {
+              "title": "Equivalent fractions on number lines",
+              "slug": "v/equivalent-fractions-on-number-lines",
+              "youtube_id": "bBkUqkI2TSw",
+              "youtube_url": "https://www.youtube.com/watch?v=bBkUqkI2TSw",
+              "duration_sec": 274,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-equivalent-fractions-2/v/equivalent-fractions-on-number-lines"
+            },
+            {
+              "title": "Equivalent fractions",
+              "slug": "v/equivalent-amount-of-pizza",
+              "youtube_id": "N1X0vf5PUz4",
+              "youtube_url": "https://www.youtube.com/watch?v=N1X0vf5PUz4",
+              "duration_sec": 258,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-equivalent-fractions-2/v/equivalent-amount-of-pizza"
+            },
+            {
+              "title": "More on equivalent fractions",
+              "slug": "v/more-equivalent-fractions",
+              "youtube_id": "yZqVJtDO7gc",
+              "youtube_url": "https://www.youtube.com/watch?v=yZqVJtDO7gc",
+              "duration_sec": 294,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-equivalent-fractions-2/v/more-equivalent-fractions"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Common denominators",
+          "slug": "x18ca194a:untitled-858",
+          "videos": [
+            {
+              "title": "Finding common denominators",
+              "slug": "v/finding-common-denominators",
+              "youtube_id": "lxjmR4pYIVU",
+              "youtube_url": "https://www.youtube.com/watch?v=lxjmR4pYIVU",
+              "duration_sec": 282,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-common-denominators/v/finding-common-denominators"
+            },
+            {
+              "title": "Common denominators: 1/4 and 5/6 ",
+              "slug": "v/common-denominators-14-and-56",
+              "youtube_id": "T8U7hCmUdpo",
+              "youtube_url": "https://www.youtube.com/watch?v=T8U7hCmUdpo",
+              "duration_sec": 499,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-common-denominators/v/common-denominators-14-and-56"
+            },
+            {
+              "title": "Common denominators: 3/5 and 7/2 ",
+              "slug": "v/common-denominators-35-and-72",
+              "youtube_id": "0EwwoDVJVPQ",
+              "youtube_url": "https://www.youtube.com/watch?v=0EwwoDVJVPQ",
+              "duration_sec": 255,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-common-denominators/v/common-denominators-35-and-72"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Decomposing fractions",
+          "slug": "x18ca194a:decomposing-fractions",
+          "videos": [
+            {
+              "title": "Decomposing a fraction visually",
+              "slug": "v/decomposing-a-fraction-visually",
+              "youtube_id": "_E9fG8BYcBo",
+              "youtube_url": "https://www.youtube.com/watch?v=_E9fG8BYcBo",
+              "duration_sec": 299,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-decomposing-fractions/v/decomposing-a-fraction-visually"
+            },
+            {
+              "title": "Decomposing a mixed number",
+              "slug": "v/decomposing-a-mixed-number",
+              "youtube_id": "erZe85NrsK0",
+              "youtube_url": "https://www.youtube.com/watch?v=erZe85NrsK0",
+              "duration_sec": 300,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-decomposing-fractions/v/decomposing-a-mixed-number"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Adding and subtracting fractions with like denominators",
+          "slug": "x18ca194a:adding-and-subtracting-fractions-with-like-denominators",
+          "videos": [
+            {
+              "title": "Adding fractions with like denominators",
+              "slug": "v/adding-fractions-with-like-denominators",
+              "youtube_id": "EJjnEau6aeI",
+              "youtube_url": "https://www.youtube.com/watch?v=EJjnEau6aeI",
+              "duration_sec": 198,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-fractions-with-like-denominators/v/adding-fractions-with-like-denominators"
+            },
+            {
+              "title": "Subtracting fractions with like denominators",
+              "slug": "v/subtracting-fractions",
+              "youtube_id": "UbUdyE1_b9g",
+              "youtube_url": "https://www.youtube.com/watch?v=UbUdyE1_b9g",
+              "duration_sec": 146,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-fractions-with-like-denominators/v/subtracting-fractions"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Adding and subtracting fractions: word problems",
+          "slug": "x18ca194a:adding-and-subtracting-fractions-word-problems",
+          "videos": [
+            {
+              "title": "Fraction word problem: piano",
+              "slug": "v/subtracting-fractions-word-problem-1",
+              "youtube_id": "0njioQqIxKY",
+              "youtube_url": "https://www.youtube.com/watch?v=0njioQqIxKY",
+              "duration_sec": 184,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-fractions-word-problems/v/subtracting-fractions-word-problem-1"
+            },
+            {
+              "title": "Fraction word problem: pizza",
+              "slug": "v/fraction-word-problems-1-exercise",
+              "youtube_id": "u2hLYcmI5y4",
+              "youtube_url": "https://www.youtube.com/watch?v=u2hLYcmI5y4",
+              "duration_sec": 319,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-fractions-word-problems/v/fraction-word-problems-1-exercise"
+            },
+            {
+              "title": "Fraction word problem: spider eyes",
+              "slug": "v/adding-fractions-word-problem-1",
+              "youtube_id": "5r2FYszC_sU",
+              "youtube_url": "https://www.youtube.com/watch?v=5r2FYszC_sU",
+              "duration_sec": 105,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-fractions-word-problems/v/adding-fractions-word-problem-1"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Mixed numbers",
+          "slug": "x18ca194a:mixed-numbers",
+          "videos": [
+            {
+              "title": "Writing mixed numbers as improper fractions",
+              "slug": "v/changing-a-mixed-number-to-an-improper-fraction",
+              "youtube_id": "xkg7370cpjs",
+              "youtube_url": "https://www.youtube.com/watch?v=xkg7370cpjs",
+              "duration_sec": 403,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-mixed-numbers/v/changing-a-mixed-number-to-an-improper-fraction"
+            },
+            {
+              "title": "Writing improper fractions as mixed numbers",
+              "slug": "v/changing-an-improper-fraction-to-a-mixed-number",
+              "youtube_id": "8JyPzTeA_8w",
+              "youtube_url": "https://www.youtube.com/watch?v=8JyPzTeA_8w",
+              "duration_sec": 242,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-mixed-numbers/v/changing-an-improper-fraction-to-a-mixed-number"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Adding and subtracting mixed numbers",
+          "slug": "x18ca194a:adding-and-subtracting-mixed-numbers",
+          "videos": [
+            {
+              "title": "Adding mixed numbers with like denominators",
+              "slug": "v/adding-mixed-numbers-with-like-denominators",
+              "youtube_id": "t32jFmpE-ec",
+              "youtube_url": "https://www.youtube.com/watch?v=t32jFmpE-ec",
+              "duration_sec": 173,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-mixed-numbers/v/adding-mixed-numbers-with-like-denominators"
+            },
+            {
+              "title": "Subtracting mixed numbers with like denominators",
+              "slug": "v/mixed-number-subtraction",
+              "youtube_id": "QJZ6mBW8xTU",
+              "youtube_url": "https://www.youtube.com/watch?v=QJZ6mBW8xTU",
+              "duration_sec": 138,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-mixed-numbers/v/mixed-number-subtraction"
+            },
+            {
+              "title": "Mixed number addition with regrouping",
+              "slug": "v/mixed-number-addition-with-regrouping",
+              "youtube_id": "tNaKlG_GJGQ",
+              "youtube_url": "https://www.youtube.com/watch?v=tNaKlG_GJGQ",
+              "duration_sec": 220,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-mixed-numbers/v/mixed-number-addition-with-regrouping"
+            },
+            {
+              "title": "Subtracting mixed numbers with regrouping",
+              "slug": "v/subtract-mixed-numbers-with-regrouping",
+              "youtube_id": "TQEg9dMIWFU",
+              "youtube_url": "https://www.youtube.com/watch?v=TQEg9dMIWFU",
+              "duration_sec": 180,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-adding-and-subtracting-mixed-numbers/v/subtract-mixed-numbers-with-regrouping"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Multiply fractions",
+      "slug": "x18ca194a:multiply-fractions",
+      "relative_url": "/math/arithmetic/x18ca194a:multiply-fractions",
+      "lessons": [
+        {
+          "title": "Multiplying fractions and whole numbers visually",
+          "slug": "x18ca194a:multiplying-fractions-and-whole-numbers-visually",
+          "videos": [
+            {
+              "title": "Fraction multiplication on the number line",
+              "slug": "v/fraction-multiplcation-on-the-number-line",
+              "youtube_id": "ltKaGC8jfd4",
+              "youtube_url": "https://www.youtube.com/watch?v=ltKaGC8jfd4",
+              "duration_sec": 181,
+              "relative_url": "/math/cc-fourth-grade-math/4th-multiply-fractions/imp-multiplying-unit-fractions-and-whole-numbers/v/fraction-multiplcation-on-the-number-line"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplying whole numbers and fractions",
+          "slug": "x18ca194a:multiplying-whole-numbers-and-fractions",
+          "videos": [
+            {
+              "title": "Equivalent fraction and whole number multiplication problems ",
+              "slug": "v/fraction-whole-multiplication-concept",
+              "youtube_id": "ZlhrXO1-osA",
+              "youtube_url": "https://www.youtube.com/watch?v=ZlhrXO1-osA",
+              "duration_sec": 164,
+              "relative_url": "/math/cc-fourth-grade-math/4th-multiply-fractions/multiplying-whole-numbers-and-fractions/v/fraction-whole-multiplication-concept"
+            },
+            {
+              "title": "Multiplying unit fractions and whole numbers ",
+              "slug": "v/multiplying-fractions-and-whole-numbers",
+              "youtube_id": "4PlkCiEXBQI",
+              "youtube_url": "https://www.youtube.com/watch?v=4PlkCiEXBQI",
+              "duration_sec": 188,
+              "relative_url": "/math/cc-fourth-grade-math/4th-multiply-fractions/multiplying-whole-numbers-and-fractions/v/multiplying-fractions-and-whole-numbers"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiplying whole numbers and mixed numbers",
+          "slug": "x18ca194a:multiplying-whole-numbers-and-mixed-numbers",
+          "videos": [
+            {
+              "title": "Multiplying mixed numbers by whole numbers",
+              "slug": "v/multiply-mixed-numbers",
+              "youtube_id": "hjbSbHr3Fhk",
+              "youtube_url": "https://www.youtube.com/watch?v=hjbSbHr3Fhk",
+              "duration_sec": 144,
+              "relative_url": "/math/cc-fourth-grade-math/4th-multiply-fractions/imp-multiplying-whole-numbers-and-fractions/v/multiply-mixed-numbers"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplying fractions and whole numbers word problems",
+          "slug": "x18ca194a:multiplying-fractions-and-whole-numbers-word-problems",
+          "videos": [
+            {
+              "title": "Multiplying fractions word problem: milk",
+              "slug": "v/multiplying-fractions-word-problem-3",
+              "youtube_id": "GvgJ2_7P9SA",
+              "youtube_url": "https://www.youtube.com/watch?v=GvgJ2_7P9SA",
+              "duration_sec": 139,
+              "relative_url": "/math/cc-fourth-grade-math/4th-multiply-fractions/imp-multiplying-whole-numbers-and-fractions-word-problems/v/multiplying-fractions-word-problem-3"
+            },
+            {
+              "title": "Multiplying fractions word problem: movies",
+              "slug": "v/multiplying-fractions-word-problem-2",
+              "youtube_id": "Yq9W6B7XnmU",
+              "youtube_url": "https://www.youtube.com/watch?v=Yq9W6B7XnmU",
+              "duration_sec": 222,
+              "relative_url": "/math/cc-fourth-grade-math/4th-multiply-fractions/imp-multiplying-whole-numbers-and-fractions-word-problems/v/multiplying-fractions-word-problem-2"
+            },
+            {
+              "title": "Multiplying fractions by whole numbers word problem ",
+              "slug": "v/multiplying-fractions-by-whole-numbers-word-problem-math-4th-grade-khan-academy",
+              "youtube_id": "6PMQdHCtUtA",
+              "youtube_url": "https://www.youtube.com/watch?v=6PMQdHCtUtA",
+              "duration_sec": 141,
+              "relative_url": "/math/cc-fourth-grade-math/4th-multiply-fractions/imp-multiplying-whole-numbers-and-fractions-word-problems/v/multiplying-fractions-by-whole-numbers-word-problem-math-4th-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplication as scaling",
+          "slug": "x18ca194a:multiplication-as-scaling",
+          "videos": [
+            {
+              "title": "Multiplication as scaling with fractions",
+              "slug": "v/multiplication-as-scaling",
+              "youtube_id": "yUYDhmQsiXY",
+              "youtube_url": "https://www.youtube.com/watch?v=yUYDhmQsiXY",
+              "duration_sec": 306,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplication-as-scaling/v/multiplication-as-scaling"
+            },
+            {
+              "title": "Fraction multiplication as scaling examples",
+              "slug": "v/fraction-multiplication-as-scaling-examples",
+              "youtube_id": "WLvbz6m2Syw",
+              "youtube_url": "https://www.youtube.com/watch?v=WLvbz6m2Syw",
+              "duration_sec": 218,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplication-as-scaling/v/fraction-multiplication-as-scaling-examples"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplying fractions and whole numbers",
+          "slug": "x18ca194a:multiplying-fractions-and-whole-numbers",
+          "videos": [
+            {
+              "title": "Multiplying fractions by whole numbers on a number line",
+              "slug": "v/multiplying-fractions-by-whole-numbers-on-the-number-line",
+              "youtube_id": "QDvKqUc7Mj4",
+              "youtube_url": "https://www.youtube.com/watch?v=QDvKqUc7Mj4",
+              "duration_sec": 111,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions-and-whole-numbers/v/multiplying-fractions-by-whole-numbers-on-the-number-line"
+            },
+            {
+              "title": "Multiplying fractions and whole numbers visually",
+              "slug": "v/concept-whole-fraction-mult",
+              "youtube_id": "XaJQse2u5TQ",
+              "youtube_url": "https://www.youtube.com/watch?v=XaJQse2u5TQ",
+              "duration_sec": 246,
+              "relative_url": "/math/cc-fourth-grade-math/4th-multiply-fractions/imp-multiplying-unit-fractions-and-whole-numbers/v/concept-whole-fraction-mult"
+            },
+            {
+              "title": "Multiplying fractions and whole numbers ",
+              "slug": "v/concept-fraction-whole-number-product",
+              "youtube_id": "HiNrFT280_Y",
+              "youtube_url": "https://www.youtube.com/watch?v=HiNrFT280_Y",
+              "duration_sec": 174,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions-and-whole-numbers/v/concept-fraction-whole-number-product"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplying fractions",
+          "slug": "x18ca194a:multiplying-fractions",
+          "videos": [
+            {
+              "title": "Multiplying 2 fractions: fraction model",
+              "slug": "v/visualizing-fraction-products",
+              "youtube_id": "hr_mTd-oJ-M",
+              "youtube_url": "https://www.youtube.com/watch?v=hr_mTd-oJ-M",
+              "duration_sec": 297,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions/v/visualizing-fraction-products"
+            },
+            {
+              "title": "Multiplying 2 fractions: number line",
+              "slug": "v/concept-fraction-mult-number-line",
+              "youtube_id": "lJdb4_Fuxvw",
+              "youtube_url": "https://www.youtube.com/watch?v=lJdb4_Fuxvw",
+              "duration_sec": 286,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions/v/concept-fraction-mult-number-line"
+            },
+            {
+              "title": "Multiplying 2 fractions: 5/6 x 2/3",
+              "slug": "v/multiplying-fractions",
+              "youtube_id": "CTKMK1ZGLuk",
+              "youtube_url": "https://www.youtube.com/watch?v=CTKMK1ZGLuk",
+              "duration_sec": 146,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions/v/multiplying-fractions"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiplying mixed numbers",
+          "slug": "x18ca194a:multiplying-mixed-numbers",
+          "videos": [
+            {
+              "title": "Multiplying mixed numbers",
+              "slug": "v/multiplying-mixed-numbers",
+              "youtube_id": "RPhaidW0dmY",
+              "youtube_url": "https://www.youtube.com/watch?v=RPhaidW0dmY",
+              "duration_sec": 261,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-mixed-numbers/v/multiplying-mixed-numbers"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Area of rectangles with fractional side lengths",
+          "slug": "x18ca194a:area-of-rectangles-with-fractional-side-lengths",
+          "videos": [
+            {
+              "title": "Finding area with fractional sides 1",
+              "slug": "v/example-finding-area-with-fractional-sides",
+              "youtube_id": "C3RPDVGZdFw",
+              "youtube_url": "https://www.youtube.com/watch?v=C3RPDVGZdFw",
+              "duration_sec": 227,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/area-of-rectangles-with-fraction-side-lengths/v/example-finding-area-with-fractional-sides"
+            },
+            {
+              "title": "Finding area with fractional sides 2",
+              "slug": "v/intuition-for-area-with-fractional-side-lengths",
+              "youtube_id": "UmSe4rh__iU",
+              "youtube_url": "https://www.youtube.com/watch?v=UmSe4rh__iU",
+              "duration_sec": 422,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/area-of-rectangles-with-fraction-side-lengths/v/intuition-for-area-with-fractional-side-lengths"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplying fractions word problems",
+          "slug": "x18ca194a:multiplying-fractions-word-problems",
+          "videos": [
+            {
+              "title": "Multiplying fractions word problem: muffins",
+              "slug": "v/multiplying-fractions-word-problem",
+              "youtube_id": "YJgIGwTysk0",
+              "youtube_url": "https://www.youtube.com/watch?v=YJgIGwTysk0",
+              "duration_sec": 219,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions-word-problems/v/multiplying-fractions-word-problem"
+            },
+            {
+              "title": "Multiplying fractions word problem: laundry",
+              "slug": "v/multiplying-fractions-word-problem-4",
+              "youtube_id": "KCehC_3CBBY",
+              "youtube_url": "https://www.youtube.com/watch?v=KCehC_3CBBY",
+              "duration_sec": 80,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions-word-problems/v/multiplying-fractions-word-problem-4"
+            },
+            {
+              "title": "Multiplying fractions word problem: bike",
+              "slug": "v/multiplying-fractions-word-problem-5",
+              "youtube_id": "tfjQVtOyoaQ",
+              "youtube_url": "https://www.youtube.com/watch?v=tfjQVtOyoaQ",
+              "duration_sec": 231,
+              "relative_url": "/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions-word-problems/v/multiplying-fractions-word-problem-5"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Decimals and place value",
+      "slug": "arith-decimals",
+      "relative_url": "/math/arithmetic/arith-decimals",
+      "lessons": [
+        {
+          "title": "Decimal fractions",
+          "slug": "x18ca194a:decimal-fractions",
+          "videos": [
+            {
+              "title": "Writing a number as a fraction and decimal",
+              "slug": "v/fraction-decimal-intuition-examples",
+              "youtube_id": "NfU7cmajLAY",
+              "youtube_url": "https://www.youtube.com/watch?v=NfU7cmajLAY",
+              "duration_sec": 277,
+              "relative_url": "/math/cc-fourth-grade-math/imp-decimals/imp-decimals-vs-fractions/v/fraction-decimal-intuition-examples"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Decimal fractions greater than 1",
+          "slug": "x18ca194a:decimal-fractions-greater-than-1",
+          "videos": [
+            {
+              "title": "Writing decimals and fractions greater than 1 shown on grids",
+              "slug": "v/examples-writing-decimals-and-fractions-greater-than-1-shown-on-grids",
+              "youtube_id": "ek0zu14IP7g",
+              "youtube_url": "https://www.youtube.com/watch?v=ek0zu14IP7g",
+              "duration_sec": 182,
+              "relative_url": "/math/cc-fourth-grade-math/imp-decimals/decimal-fractions-greater-than-1/v/examples-writing-decimals-and-fractions-greater-than-1-shown-on-grids"
+            },
+            {
+              "title": "Writing decimals and fractions shown on number lines",
+              "slug": "v/writing-decimals-and-fractions-from-number-lines",
+              "youtube_id": "68mrr430De0",
+              "youtube_url": "https://www.youtube.com/watch?v=68mrr430De0",
+              "duration_sec": 163,
+              "relative_url": "/math/cc-fourth-grade-math/imp-decimals/decimal-fractions-greater-than-1/v/writing-decimals-and-fractions-from-number-lines"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Writing fractions as decimals",
+          "slug": "x18ca194a:writing-fractions-as-decimals",
+          "videos": [
+            {
+              "title": "Rewriting fractions as decimals ",
+              "slug": "v/rewriting-fractions-as-decimals-math-4th-grade-khan-academy",
+              "youtube_id": "4LvGU1a9Z5Q",
+              "youtube_url": "https://www.youtube.com/watch?v=4LvGU1a9Z5Q",
+              "duration_sec": 238,
+              "relative_url": "/math/cc-fourth-grade-math/imp-decimals/writing-fractions-as-decimals/v/rewriting-fractions-as-decimals-math-4th-grade-khan-academy"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Decimal place value intro",
+          "slug": "x18ca194a:decimal-place-value-intro",
+          "videos": [
+            {
+              "title": "Place value with decimals",
+              "slug": "v/place-value-with-decimals",
+              "youtube_id": "wtrrr15mbvQ",
+              "youtube_url": "https://www.youtube.com/watch?v=wtrrr15mbvQ",
+              "duration_sec": 245,
+              "relative_url": "/math/cc-fifth-grade-math/imp-place-value-and-decimals/imp-decimal-place-value-intro/v/place-value-with-decimals"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Decimals on the number line",
+          "slug": "x18ca194a:decimals-on-the-number-line",
+          "videos": [
+            {
+              "title": "Thousandths on the number line ",
+              "slug": "v/thousandths-on-the-number-line",
+              "youtube_id": "ABHQJFWZGsk",
+              "youtube_url": "https://www.youtube.com/watch?v=ABHQJFWZGsk",
+              "duration_sec": 140,
+              "relative_url": "/math/cc-fifth-grade-math/imp-place-value-and-decimals/decimals-on-the-number-line-thousandths/v/thousandths-on-the-number-line"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Decimals in expanded form",
+          "slug": "x18ca194a:decimals-in-expanded-form",
+          "videos": [
+            {
+              "title": "Write decimals in expanded form",
+              "slug": "v/expanding-out-a-decimal-by-place-value",
+              "youtube_id": "he4kcTujy30",
+              "youtube_url": "https://www.youtube.com/watch?v=he4kcTujy30",
+              "duration_sec": 173,
+              "relative_url": "/math/cc-fifth-grade-math/imp-place-value-and-decimals/imp-decimals-in-expanded-form/v/expanding-out-a-decimal-by-place-value"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Regrouping decimals",
+          "slug": "x18ca194a:regrouping-decimals",
+          "videos": [
+            {
+              "title": "Visual understanding of regrouping decimals",
+              "slug": "v/visual-understanding-of-regrouping-decimals",
+              "youtube_id": "e_KEaTPcPKg",
+              "youtube_url": "https://www.youtube.com/watch?v=e_KEaTPcPKg",
+              "duration_sec": 319,
+              "relative_url": "/math/cc-fifth-grade-math/imp-place-value-and-decimals/decimals-in-different-forms/v/visual-understanding-of-regrouping-decimals"
+            },
+            {
+              "title": "Regrouping with decimals",
+              "slug": "v/regrouping-decimals",
+              "youtube_id": "vZmR_21Dwrg",
+              "youtube_url": "https://www.youtube.com/watch?v=vZmR_21Dwrg",
+              "duration_sec": 275,
+              "relative_url": "/math/cc-fifth-grade-math/imp-place-value-and-decimals/decimals-in-different-forms/v/regrouping-decimals"
+            },
+            {
+              "title": "Regrouping with decimals: 21.3",
+              "slug": "v/regrouping-with-decimals",
+              "youtube_id": "3szFVS5p_7A",
+              "youtube_url": "https://www.youtube.com/watch?v=3szFVS5p_7A",
+              "duration_sec": 255,
+              "relative_url": "/math/cc-fifth-grade-math/imp-place-value-and-decimals/decimals-in-different-forms/v/regrouping-with-decimals"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Add and subtract decimals",
+      "slug": "x18ca194a:add-and-subtract-decimals",
+      "relative_url": "/math/arithmetic/x18ca194a:add-and-subtract-decimals",
+      "lessons": [
+        {
+          "title": "Adding decimals intro",
+          "slug": "x18ca194a:adding-decimals-intro",
+          "videos": [
+            {
+              "title": "Estimating decimal addition",
+              "slug": "v/estimating-adding-decimals",
+              "youtube_id": "dj3tcEbWBDQ",
+              "youtube_url": "https://www.youtube.com/watch?v=dj3tcEbWBDQ",
+              "duration_sec": 210,
+              "relative_url": "/math/cc-fifth-grade-math/imp-addition-and-subtraction-3/imp-adding-decimals-intro/v/estimating-adding-decimals"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Adding decimals (tenths and hundredths)",
+          "slug": "x18ca194a:adding-decimals-tenths-and-hundredths",
+          "videos": [
+            {
+              "title": "Introduction to adding decimals: tenths",
+              "slug": "v/introduction-to-adding-decimals-tenths",
+              "youtube_id": "7I_AILEWTL4",
+              "youtube_url": "https://www.youtube.com/watch?v=7I_AILEWTL4",
+              "duration_sec": 386,
+              "relative_url": "/math/cc-fifth-grade-math/imp-addition-and-subtraction-3/imp-adding-decimals/v/introduction-to-adding-decimals-tenths"
+            },
+            {
+              "title": "Adding decimals with ones and tenths parts",
+              "slug": "v/adding-decimals-with-ones-and-tenths-parts",
+              "youtube_id": "66_Sb1dP81E",
+              "youtube_url": "https://www.youtube.com/watch?v=66_Sb1dP81E",
+              "duration_sec": 365,
+              "relative_url": "/math/cc-fifth-grade-math/imp-addition-and-subtraction-3/imp-adding-decimals/v/adding-decimals-with-ones-and-tenths-parts"
+            },
+            {
+              "title": "Adding decimals with ones, tenths and hundredths",
+              "slug": "v/adding-decimals-with-ones-tenths-and-hundredths",
+              "youtube_id": "6NBkb98nFOM",
+              "youtube_url": "https://www.youtube.com/watch?v=6NBkb98nFOM",
+              "duration_sec": 413,
+              "relative_url": "/math/cc-fifth-grade-math/imp-addition-and-subtraction-3/xe33ac28b798af866:adding-decimals-hundredths/v/adding-decimals-with-ones-tenths-and-hundredths"
+            },
+            {
+              "title": "Adding decimals with hundredths",
+              "slug": "v/andding-decimals-with-hundredths",
+              "youtube_id": "fWi-i_mdUOI",
+              "youtube_url": "https://www.youtube.com/watch?v=fWi-i_mdUOI",
+              "duration_sec": 417,
+              "relative_url": "/math/cc-fifth-grade-math/imp-addition-and-subtraction-3/xe33ac28b798af866:adding-decimals-hundredths/v/andding-decimals-with-hundredths"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Subtracting decimals intro",
+          "slug": "x18ca194a:subtracting-decimals-intro",
+          "videos": [
+            {
+              "title": "Estimating decimal subtraction",
+              "slug": "v/estimating-subtracting-decimals",
+              "youtube_id": "LQmAGFCJMqo",
+              "youtube_url": "https://www.youtube.com/watch?v=LQmAGFCJMqo",
+              "duration_sec": 208,
+              "relative_url": "/math/cc-fifth-grade-math/subtract-decimals/imp-subtracting-decimals-intro/v/estimating-subtracting-decimals"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Subtracting decimals (tenths and hundredths)",
+          "slug": "x18ca194a:subtracting-decimals-tenths-and-hundredths",
+          "videos": [
+            {
+              "title": "Strategies for subtracting basic decimals",
+              "slug": "v/strategies-for-subtracting-basic-decimals",
+              "youtube_id": "N5xWYgeIWmU",
+              "youtube_url": "https://www.youtube.com/watch?v=N5xWYgeIWmU",
+              "duration_sec": 348,
+              "relative_url": "/math/cc-fifth-grade-math/subtract-decimals/imp-subtracting-decimals/v/strategies-for-subtracting-basic-decimals"
+            },
+            {
+              "title": "Strategies for subtracting more complex decimals with tenths",
+              "slug": "v/strategies-for-subtracting-more-complex-decimals-with-tenths",
+              "youtube_id": "IE0HQoLrbX4",
+              "youtube_url": "https://www.youtube.com/watch?v=IE0HQoLrbX4",
+              "duration_sec": 526,
+              "relative_url": "/math/cc-fifth-grade-math/subtract-decimals/imp-subtracting-decimals/v/strategies-for-subtracting-more-complex-decimals-with-tenths"
+            },
+            {
+              "title": "Subtraction strategies with hundredths",
+              "slug": "v/subtraction-strategies-with-hundredths",
+              "youtube_id": "GUK9aup5HOs",
+              "youtube_url": "https://www.youtube.com/watch?v=GUK9aup5HOs",
+              "duration_sec": 339,
+              "relative_url": "/math/cc-fifth-grade-math/subtract-decimals/xe33ac28b798af866:subtracting-decimals-hundredths/v/subtraction-strategies-with-hundredths"
+            },
+            {
+              "title": "More advanced subtraction strategies with hundredths",
+              "slug": "v/more-advanced-subtraction-strategies-with-hundredths",
+              "youtube_id": "URdTZ38JvOI",
+              "youtube_url": "https://www.youtube.com/watch?v=URdTZ38JvOI",
+              "duration_sec": 302,
+              "relative_url": "/math/cc-fifth-grade-math/subtract-decimals/xe33ac28b798af866:subtracting-decimals-hundredths/v/more-advanced-subtraction-strategies-with-hundredths"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Add and subtract fractions (different denominators)",
+      "slug": "x18ca194a:add-and-subtract-fractions-different-denominators",
+      "relative_url": "/math/arithmetic/x18ca194a:add-and-subtract-fractions-different-denominators",
+      "lessons": [
+        {
+          "title": "Fractions with denominators of 10 and 100",
+          "slug": "x18ca194a:fractions-with-denominators-of-10-and-100",
+          "videos": [
+            {
+              "title": "Visually converting tenths and hundredths",
+              "slug": "v/visually-converting-from-tenths-to-hundredths",
+              "youtube_id": "zEd67cLFnuQ",
+              "youtube_url": "https://www.youtube.com/watch?v=zEd67cLFnuQ",
+              "duration_sec": 260,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-fractions-with-denominators-of-10-and-100/v/visually-converting-from-tenths-to-hundredths"
+            },
+            {
+              "title": "Decomposing hundredths ",
+              "slug": "v/decomposing-hudredths-into-tenths-and-hundredths",
+              "youtube_id": "kAm9x3uWF9I",
+              "youtube_url": "https://www.youtube.com/watch?v=kAm9x3uWF9I",
+              "duration_sec": 250,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-fractions-with-denominators-of-10-and-100/v/decomposing-hudredths-into-tenths-and-hundredths"
+            },
+            {
+              "title": "Adding fractions (denominators 10 & 100)",
+              "slug": "v/adding-fractions-with-10-and-100-as-denominators",
+              "youtube_id": "YZD5ifHZILE",
+              "youtube_url": "https://www.youtube.com/watch?v=YZD5ifHZILE",
+              "duration_sec": 265,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-fractions-with-denominators-of-10-and-100/v/adding-fractions-with-10-and-100-as-denominators"
+            },
+            {
+              "title": "Adding fractions: 7/10+13/100",
+              "slug": "v/adding-tenths-to-hundredths",
+              "youtube_id": "D5yQESfE4Bw",
+              "youtube_url": "https://www.youtube.com/watch?v=D5yQESfE4Bw",
+              "duration_sec": 187,
+              "relative_url": "/math/cc-fourth-grade-math/imp-fractions-2/imp-fractions-with-denominators-of-10-and-100/v/adding-tenths-to-hundredths"
+            }
+          ],
+          "exercise_count": 4
+        },
+        {
+          "title": "Visually adding and subtracting fractions",
+          "slug": "x18ca194a:visually-adding-and-subtracting-fractions",
+          "videos": [
+            {
+              "title": "Visually adding fractions: 5/6+1/4",
+              "slug": "v/visually-adding-fractions-with-unlike-denominators",
+              "youtube_id": "fvtv2uYjo_E",
+              "youtube_url": "https://www.youtube.com/watch?v=fvtv2uYjo_E",
+              "duration_sec": 340,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-visually-adding-and-subtracting-fractions-with-unlike-denominators/v/visually-adding-fractions-with-unlike-denominators"
+            },
+            {
+              "title": "Visually subtracting fractions: 3/4-5/8",
+              "slug": "v/visually-subtracting-fractions-with-unlike-denominators",
+              "youtube_id": "poGjjX_VNbM",
+              "youtube_url": "https://www.youtube.com/watch?v=poGjjX_VNbM",
+              "duration_sec": 226,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-visually-adding-and-subtracting-fractions-with-unlike-denominators/v/visually-subtracting-fractions-with-unlike-denominators"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Common denominators",
+          "slug": "x18ca194a:common-denominators",
+          "videos": [
+            {
+              "title": "Finding common denominators",
+              "slug": "v/finding-common-denominators",
+              "youtube_id": "lxjmR4pYIVU",
+              "youtube_url": "https://www.youtube.com/watch?v=lxjmR4pYIVU",
+              "duration_sec": 282,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-common-denominators/v/finding-common-denominators"
+            },
+            {
+              "title": "Common denominators: 1/4 and 5/6 ",
+              "slug": "v/common-denominators-14-and-56",
+              "youtube_id": "T8U7hCmUdpo",
+              "youtube_url": "https://www.youtube.com/watch?v=T8U7hCmUdpo",
+              "duration_sec": 499,
+              "relative_url": "/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions/imp-common-denominators/v/common-denominators-14-and-56"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Adding and subtracting fractions with unlike denominators",
+          "slug": "x18ca194a:adding-and-subtracting-fractions-with-unlike-denominators",
+          "videos": [
+            {
+              "title": "Adding fractions with unlike denominators introduction",
+              "slug": "v/adding-fractions-with-unlike-denominators-introduction",
+              "youtube_id": "zkJ1gOrYhEg",
+              "youtube_url": "https://www.youtube.com/watch?v=zkJ1gOrYhEg",
+              "duration_sec": 242,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-fractions-with-unlike-denominators/v/adding-fractions-with-unlike-denominators-introduction"
+            },
+            {
+              "title": "Subtracting fractions with unlike denominators introduction",
+              "slug": "v/subtracting-fractions-with-unlike-denominators-introduction",
+              "youtube_id": "SMshimc16LM",
+              "youtube_url": "https://www.youtube.com/watch?v=SMshimc16LM",
+              "duration_sec": 216,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-fractions-with-unlike-denominators/v/subtracting-fractions-with-unlike-denominators-introduction"
+            },
+            {
+              "title": "Adding and subtracting 3 fractions",
+              "slug": "v/adding-and-subtracting-multiple-fractions-with-unlike-denominators",
+              "youtube_id": "HSf9O1Domms",
+              "youtube_url": "https://www.youtube.com/watch?v=HSf9O1Domms",
+              "duration_sec": 323,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-fractions-with-unlike-denominators/v/adding-and-subtracting-multiple-fractions-with-unlike-denominators"
+            },
+            {
+              "title": "Solving for the missing fraction",
+              "slug": "v/solving-for-the-missing-fraction",
+              "youtube_id": "OPpmp-kAuE4",
+              "youtube_url": "https://www.youtube.com/watch?v=OPpmp-kAuE4",
+              "duration_sec": 340,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-fractions-with-unlike-denominators/v/solving-for-the-missing-fraction"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Adding and subtracting mixed numbers with unlike denominators",
+          "slug": "x18ca194a:adding-and-subtracting-mixed-numbers-with-unlike-denominators",
+          "videos": [
+            {
+              "title": "Adding mixed numbers: 19 3/18 + 18 2/3",
+              "slug": "v/adding-subtracting-mixed-numbers-1-ex-1",
+              "youtube_id": "8Eb5MWwcMMY",
+              "youtube_url": "https://www.youtube.com/watch?v=8Eb5MWwcMMY",
+              "duration_sec": 141,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-mixed-number-with-unlike-denominators/v/adding-subtracting-mixed-numbers-1-ex-1"
+            },
+            {
+              "title": "Subtracting mixed numbers: 7 6/9 - 3 2/5",
+              "slug": "v/adding-subtracting-mixed-numbers-1-ex-2",
+              "youtube_id": "zR3gaFobut4",
+              "youtube_url": "https://www.youtube.com/watch?v=zR3gaFobut4",
+              "duration_sec": 151,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-mixed-number-with-unlike-denominators/v/adding-subtracting-mixed-numbers-1-ex-2"
+            },
+            {
+              "title": "Adding mixed numbers with regrouping ",
+              "slug": "v/adding-mixed-numbers-with-regrouping",
+              "youtube_id": "I01O0r8b-po",
+              "youtube_url": "https://www.youtube.com/watch?v=I01O0r8b-po",
+              "duration_sec": 308,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-mixed-number-with-unlike-denominators/v/adding-mixed-numbers-with-regrouping"
+            },
+            {
+              "title": "Subtracting mixed numbers with regrouping (unlike denominators)",
+              "slug": "v/subtracting-mixed-numbers-with-regrouping",
+              "youtube_id": "r3M68V9Joac",
+              "youtube_url": "https://www.youtube.com/watch?v=r3M68V9Joac",
+              "duration_sec": 231,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-mixed-number-with-unlike-denominators/v/subtracting-mixed-numbers-with-regrouping"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Adding and subtracting fractions with unlike denominators word problems",
+          "slug": "x18ca194a:adding-and-subtracting-fractions-with-unlike-denominators-word-problems",
+          "videos": [
+            {
+              "title": "Adding fractions word problem: paint",
+              "slug": "v/adding-fractions-with-unlike-denominators-word-problem",
+              "youtube_id": "PKh5B9xyzSc",
+              "youtube_url": "https://www.youtube.com/watch?v=PKh5B9xyzSc",
+              "duration_sec": 347,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-fractions-with-unlike-denominators-word-problems/v/adding-fractions-with-unlike-denominators-word-problem"
+            },
+            {
+              "title": "Subtracting fractions word problem: tomatoes",
+              "slug": "v/subtracting-fractions-with-unlike-denominators-word-problem",
+              "youtube_id": "5fK8HEYNRuQ",
+              "youtube_url": "https://www.youtube.com/watch?v=5fK8HEYNRuQ",
+              "duration_sec": 199,
+              "relative_url": "/math/cc-fifth-grade-math/imp-fractions-3/imp-adding-and-subtracting-fractions-with-unlike-denominators-word-problems/v/subtracting-fractions-with-unlike-denominators-word-problem"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Multiply and divide multi-digit numbers",
+      "slug": "arith-review-multiply-divide",
+      "relative_url": "/math/arithmetic/arith-review-multiply-divide",
+      "lessons": [
+        {
+          "title": "Multiply with multiples of 10, 100, and 1,000",
+          "slug": "x18ca194a:multiply-with-multiples-of-10-100-and-1-000",
+          "videos": [
+            {
+              "title": "Strategies for multiplying multiples of 10, 100 and 1000",
+              "slug": "v/strategies-for-multiplying-multiples-of-10-100-and-1000",
+              "youtube_id": "iFy0oH-3Pn4",
+              "youtube_url": "https://www.youtube.com/watch?v=iFy0oH-3Pn4",
+              "duration_sec": 400,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/multi-digit-multiplication-estimation/v/strategies-for-multiplying-multiples-of-10-100-and-1000"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multi-digit multiplication",
+          "slug": "x18ca194a:multi-digit-multiplication",
+          "videos": [
+            {
+              "title": "Relate multiplication with area models to the standard algorithm",
+              "slug": "v/multiplying-using-area-models-and-the-standard-algorithm",
+              "youtube_id": "fQ1zZYWjvwc",
+              "youtube_url": "https://www.youtube.com/watch?v=fQ1zZYWjvwc",
+              "duration_sec": 417,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/imp-multi-digit-multiplication/v/multiplying-using-area-models-and-the-standard-algorithm"
+            },
+            {
+              "title": "Intro to standard way of multiplying multi-digit numbers",
+              "slug": "v/intro-to-standard-way-of-multiplying-multi-digit-numbers",
+              "youtube_id": "NuIDwPQLJmk",
+              "youtube_url": "https://www.youtube.com/watch?v=NuIDwPQLJmk",
+              "duration_sec": 265,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/imp-multi-digit-multiplication/v/intro-to-standard-way-of-multiplying-multi-digit-numbers"
+            },
+            {
+              "title": "Understanding the standard algorithm for multiplication",
+              "slug": "v/understanding-the-standard-algorithm-for-multiplication",
+              "youtube_id": "GOYnrYee1Y0",
+              "youtube_url": "https://www.youtube.com/watch?v=GOYnrYee1Y0",
+              "duration_sec": 271,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/imp-multi-digit-multiplication/v/understanding-the-standard-algorithm-for-multiplication"
+            },
+            {
+              "title": "Multiplying multi-digit numbers: 6,742x23",
+              "slug": "v/multiplying-multi-digit-numbers-6742x23",
+              "youtube_id": "lH6ptl4_LCE",
+              "youtube_url": "https://www.youtube.com/watch?v=lH6ptl4_LCE",
+              "duration_sec": 229,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/imp-multi-digit-multiplication/v/multiplying-multi-digit-numbers-6742x23"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Divide with multiples of 10, 100, and 1,000",
+          "slug": "x18ca194a:divide-with-multiples-of-10-100-and-1-000",
+          "videos": [
+            {
+              "title": "Strategies for dividing multiples of 10, 100, and 1000",
+              "slug": "v/strategies-for-dividing-multiples-of-10-100-and-1000",
+              "youtube_id": "dejocl4sYfw",
+              "youtube_url": "https://www.youtube.com/watch?v=dejocl4sYfw",
+              "duration_sec": 428,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/multi-digit-division-estimation/v/strategies-for-dividing-multiples-of-10-100-and-1000"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multi-digit division",
+          "slug": "x18ca194a:multi-digit-division",
+          "videos": [
+            {
+              "title": "Long division with remainders: 2292÷4",
+              "slug": "v/division-3-more-long-division-and-remainder-examples",
+              "youtube_id": "NcADzGz3bSI",
+              "youtube_url": "https://www.youtube.com/watch?v=NcADzGz3bSI",
+              "duration_sec": 607,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/imp-multi-digit-division-2/v/division-3-more-long-division-and-remainder-examples"
+            },
+            {
+              "title": "Long division with remainders: 3771÷8",
+              "slug": "v/long-division-with-remainder-example",
+              "youtube_id": "MbpmP1esh-Q",
+              "youtube_url": "https://www.youtube.com/watch?v=MbpmP1esh-Q",
+              "duration_sec": 161,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/imp-multi-digit-division-2/v/long-division-with-remainder-example"
+            },
+            {
+              "title": "Introduction to dividing by 2-digits",
+              "slug": "v/introduction-to-dividing-by-2-digits",
+              "youtube_id": "KzdbThwGNGI",
+              "youtube_url": "https://www.youtube.com/watch?v=KzdbThwGNGI",
+              "duration_sec": 297,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/imp-multi-digit-division-2/v/introduction-to-dividing-by-2-digits"
+            },
+            {
+              "title": "Dividing by 2-digits: 9815÷65",
+              "slug": "v/dividing-2-digits-no-remainder",
+              "youtube_id": "uCBm8iDyg1s",
+              "youtube_url": "https://www.youtube.com/watch?v=uCBm8iDyg1s",
+              "duration_sec": 309,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-div-whole-numbers/v/dividing-2-digits-no-remainder"
+            },
+            {
+              "title": "Dividing by 2-digits: 7182÷42",
+              "slug": "v/dividing-by-a-two-digit-number",
+              "youtube_id": "xXIG8ouHcsc",
+              "youtube_url": "https://www.youtube.com/watch?v=xXIG8ouHcsc",
+              "duration_sec": 169,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-div-whole-numbers/v/dividing-by-a-two-digit-number"
+            },
+            {
+              "title": "Dividing by a 2-digits: 4781÷32",
+              "slug": "v/dividing-by-a-2-digit-number-with-a-remainder",
+              "youtube_id": "cSTRd8WOpNE",
+              "youtube_url": "https://www.youtube.com/watch?v=cSTRd8WOpNE",
+              "duration_sec": 253,
+              "relative_url": "/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/imp-multi-digit-division-2/v/dividing-by-a-2-digit-number-with-a-remainder"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Divide fractions",
+      "slug": "x18ca194a:divide-fractions",
+      "relative_url": "/math/arithmetic/x18ca194a:divide-fractions",
+      "lessons": [
+        {
+          "title": "Fractions as division",
+          "slug": "x18ca194a:fractions-as-division",
+          "videos": [
+            {
+              "title": "Understanding fractions as division",
+              "slug": "v/fractions-as-division",
+              "youtube_id": "c-_yrA-GUow",
+              "youtube_url": "https://www.youtube.com/watch?v=c-_yrA-GUow",
+              "duration_sec": 404,
+              "relative_url": "/math/cc-fifth-grade-math/divide-fractions/imp-fractions-as-division/v/fractions-as-division"
+            },
+            {
+              "title": "Creating a fraction through division",
+              "slug": "v/creating-a-fraction-through-division-of-whole-numbers",
+              "youtube_id": "Mcm0Q3wGhMo",
+              "youtube_url": "https://www.youtube.com/watch?v=Mcm0Q3wGhMo",
+              "duration_sec": 165,
+              "relative_url": "/math/cc-fifth-grade-math/divide-fractions/imp-fractions-as-division/v/creating-a-fraction-through-division-of-whole-numbers"
+            },
+            {
+              "title": "Creating mixed numbers with fraction division",
+              "slug": "v/fractions-division-mixed-numbers",
+              "youtube_id": "g8yk6zQDAek",
+              "youtube_url": "https://www.youtube.com/watch?v=g8yk6zQDAek",
+              "duration_sec": 310,
+              "relative_url": "/math/cc-fifth-grade-math/divide-fractions/imp-fractions-as-division/v/fractions-division-mixed-numbers"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Dividing unit fractions by whole number",
+          "slug": "x18ca194a:dividing-unit-fractions-by-whole-number",
+          "videos": [
+            {
+              "title": "Visually dividing unit fraction by a whole number",
+              "slug": "v/visually-dividing-unit-fraction-by-a-whole-number",
+              "youtube_id": "RygpFkLCSaM",
+              "youtube_url": "https://www.youtube.com/watch?v=RygpFkLCSaM",
+              "duration_sec": 180,
+              "relative_url": "/math/cc-fifth-grade-math/divide-fractions/imp-dividing-unit-fractions-by-whole-numbers/v/visually-dividing-unit-fraction-by-a-whole-number"
+            },
+            {
+              "title": "Dividing a unit fraction by a whole number",
+              "slug": "v/example-diving-a-unit-fraction-by-a-whole-number",
+              "youtube_id": "QsDMlHW826U",
+              "youtube_url": "https://www.youtube.com/watch?v=QsDMlHW826U",
+              "duration_sec": 145,
+              "relative_url": "/math/cc-fifth-grade-math/divide-fractions/imp-dividing-unit-fractions-by-whole-numbers/v/example-diving-a-unit-fraction-by-a-whole-number"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Dividing whole numbers by unit fractions",
+          "slug": "x18ca194a:dividing-whole-numbers-by-unit-fractions",
+          "videos": [
+            {
+              "title": "Visually dividing whole numbers by unit fractions",
+              "slug": "v/visually-dividing-whole-numbers-by-unit-fractions",
+              "youtube_id": "0lsDqvH5mDs",
+              "youtube_url": "https://www.youtube.com/watch?v=0lsDqvH5mDs",
+              "duration_sec": 148,
+              "relative_url": "/math/cc-fifth-grade-math/divide-fractions/imp-dividing-whole-numbers-by-unit-fractions/v/visually-dividing-whole-numbers-by-unit-fractions"
+            },
+            {
+              "title": "Dividing a whole number by a unit fraction",
+              "slug": "v/example-dividing-a-whole-by-a-unit-fraction",
+              "youtube_id": "b26JxSoZvic",
+              "youtube_url": "https://www.youtube.com/watch?v=b26JxSoZvic",
+              "duration_sec": 112,
+              "relative_url": "/math/cc-fifth-grade-math/divide-fractions/imp-dividing-whole-numbers-by-unit-fractions/v/example-dividing-a-whole-by-a-unit-fraction"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Dividing fractions and whole numbers word problems",
+          "slug": "x18ca194a:dividing-fractions-and-whole-numbers-word-problems",
+          "videos": [
+            {
+              "title": "Dividing fractions and whole number word problems",
+              "slug": "v/dividing-fractions-and-whole-number-word-problems",
+              "youtube_id": "HUT8eL1sGhk",
+              "youtube_url": "https://www.youtube.com/watch?v=HUT8eL1sGhk",
+              "duration_sec": 266,
+              "relative_url": "/math/cc-fifth-grade-math/divide-fractions/imp-dividing-fractions-and-whole-numbers-word-problems/v/dividing-fractions-and-whole-number-word-problems"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Dividing fractions by fractions",
+          "slug": "x18ca194a:dividing-fractions-by-fractions",
+          "videos": [
+            {
+              "title": "Understanding division of fractions",
+              "slug": "v/conceptual-understanding-of-dividing-fractions-by-fractions",
+              "youtube_id": "f3ySpxX9oeM",
+              "youtube_url": "https://www.youtube.com/watch?v=f3ySpxX9oeM",
+              "duration_sec": 342,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-dividing-fractions/v/conceptual-understanding-of-dividing-fractions-by-fractions"
+            },
+            {
+              "title": "Dividing a fraction by a whole number",
+              "slug": "v/visually-dividing-a-fraction-by-a-whole-number",
+              "youtube_id": "1YWyTdtofdE",
+              "youtube_url": "https://www.youtube.com/watch?v=1YWyTdtofdE",
+              "duration_sec": 233,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/x0267d782:dividing-fractions-and-whole-numbers/v/visually-dividing-a-fraction-by-a-whole-number"
+            },
+            {
+              "title": "Meaning of the reciprocal",
+              "slug": "v/meaning-of-the-reciprocal",
+              "youtube_id": "yM9Yrz69Tys",
+              "youtube_url": "https://www.youtube.com/watch?v=yM9Yrz69Tys",
+              "duration_sec": 253,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/x0267d782:dividing-fractions-and-whole-numbers/v/meaning-of-the-reciprocal"
+            },
+            {
+              "title": "Dividing a whole number by a fraction",
+              "slug": "v/whole-number-divided-by-a-fraction-example",
+              "youtube_id": "SPMoNUAbV48",
+              "youtube_url": "https://www.youtube.com/watch?v=SPMoNUAbV48",
+              "duration_sec": 185,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/x0267d782:dividing-fractions-and-whole-numbers/v/whole-number-divided-by-a-fraction-example"
+            },
+            {
+              "title": "Dividing a whole number by a fraction with reciprocal",
+              "slug": "v/dividing-a-whole-number-by-a-fraction-with-reciprocal",
+              "youtube_id": "G7c0CBLWVfs",
+              "youtube_url": "https://www.youtube.com/watch?v=G7c0CBLWVfs",
+              "duration_sec": 216,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/x0267d782:dividing-fractions-and-whole-numbers/v/dividing-a-whole-number-by-a-fraction-with-reciprocal"
+            },
+            {
+              "title": "Dividing fractions: 2/5 ÷ 7/3",
+              "slug": "v/another-dividing-fractions-example",
+              "youtube_id": "m-pRnFIeoNA",
+              "youtube_url": "https://www.youtube.com/watch?v=m-pRnFIeoNA",
+              "duration_sec": 77,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-dividing-fractions/v/another-dividing-fractions-example"
+            },
+            {
+              "title": "Dividing fractions: 3/5 ÷ 1/2",
+              "slug": "v/dividing-fractions-example",
+              "youtube_id": "tnkPY4UqJ44",
+              "youtube_url": "https://www.youtube.com/watch?v=tnkPY4UqJ44",
+              "duration_sec": 216,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-dividing-fractions/v/dividing-fractions-example"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Dividing mixed numbers",
+          "slug": "x18ca194a:dividing-mixed-numbers",
+          "videos": [
+            {
+              "title": "Dividing mixed numbers",
+              "slug": "v/dividing-mixed-numbers-example",
+              "youtube_id": "tj5AtYoKqvs",
+              "youtube_url": "https://www.youtube.com/watch?v=tj5AtYoKqvs",
+              "duration_sec": 213,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-dividing-fractions/v/dividing-mixed-numbers-example"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Multiply and divide decimals",
+      "slug": "x18ca194a:multiply-and-divide-decimals",
+      "relative_url": "/math/arithmetic/x18ca194a:multiply-and-divide-decimals",
+      "lessons": [
+        {
+          "title": "Multiplying decimals and whole numbers",
+          "slug": "x18ca194a:multiplying-decimals-and-whole-numbers",
+          "videos": [
+            {
+              "title": "Multiplying decimals and whole numbers with visuals",
+              "slug": "v/multiplying-decimals-and-whole-numbers-with-visuals",
+              "youtube_id": "K-bA-k_9Rg0",
+              "youtube_url": "https://www.youtube.com/watch?v=K-bA-k_9Rg0",
+              "duration_sec": 273,
+              "relative_url": "/math/cc-fifth-grade-math/imp-multiplication-and-division-3/multiplying-decimals-and-whole-numbers/v/multiplying-decimals-and-whole-numbers-with-visuals"
+            },
+            {
+              "title": "Strategies for multiplying decimals and whole numbers",
+              "slug": "v/strategies-for-multiplying-decimals-and-whole-numbers",
+              "youtube_id": "yueSfjh2ra4",
+              "youtube_url": "https://www.youtube.com/watch?v=yueSfjh2ra4",
+              "duration_sec": 413,
+              "relative_url": "/math/cc-fifth-grade-math/imp-multiplication-and-division-3/multiplying-decimals-and-whole-numbers/v/strategies-for-multiplying-decimals-and-whole-numbers"
+            },
+            {
+              "title": "Strategies for multiplying multi-digit decimals by whole numbers",
+              "slug": "v/strategies-for-multiplying-multi-digit-decimals-by-whole-numbers",
+              "youtube_id": "RtXpRld8vb4",
+              "youtube_url": "https://www.youtube.com/watch?v=RtXpRld8vb4",
+              "duration_sec": 265,
+              "relative_url": "/math/cc-fifth-grade-math/imp-multiplication-and-division-3/multiplying-decimals-and-whole-numbers/v/strategies-for-multiplying-multi-digit-decimals-by-whole-numbers"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Multiplying decimals strategies",
+          "slug": "x18ca194a:multiplying-decimals-strategies",
+          "videos": [
+            {
+              "title": "Developing strategies for multiplying decimals",
+              "slug": "v/developing-strategies-for-multiplying-decimals",
+              "youtube_id": "xBseQOzMB7A",
+              "youtube_url": "https://www.youtube.com/watch?v=xBseQOzMB7A",
+              "duration_sec": 307,
+              "relative_url": "/math/cc-fifth-grade-math/imp-multiplication-and-division-3/imp-multiplying-decimals/v/developing-strategies-for-multiplying-decimals"
+            },
+            {
+              "title": "Understanding decimal multiplication",
+              "slug": "v/understanding-decimal-multiplication",
+              "youtube_id": "005032IwRME",
+              "youtube_url": "https://www.youtube.com/watch?v=005032IwRME",
+              "duration_sec": 160,
+              "relative_url": "/math/cc-fifth-grade-math/imp-multiplication-and-division-3/multiplying-decimals-strategies/v/understanding-decimal-multiplication"
+            },
+            {
+              "title": "Multiplying decimals using estimation",
+              "slug": "v/multiplying-decimals-using-estimation",
+              "youtube_id": "VQN6MvdJRx4",
+              "youtube_url": "https://www.youtube.com/watch?v=VQN6MvdJRx4",
+              "duration_sec": 218,
+              "relative_url": "/math/cc-fifth-grade-math/imp-multiplication-and-division-3/multiplying-decimals-strategies/v/multiplying-decimals-using-estimation"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiplying decimals",
+          "slug": "x18ca194a:multiplying-decimals",
+          "videos": [
+            {
+              "title": "Developing strategies for multiplying decimals",
+              "slug": "v/developing-strategies-for-multiplying-decimals",
+              "youtube_id": "xBseQOzMB7A",
+              "youtube_url": "https://www.youtube.com/watch?v=xBseQOzMB7A",
+              "duration_sec": 307,
+              "relative_url": "/math/cc-fifth-grade-math/imp-multiplication-and-division-3/imp-multiplying-decimals/v/developing-strategies-for-multiplying-decimals"
+            },
+            {
+              "title": "Developing strategies for multiplying 2-digit decimals",
+              "slug": "v/developing-strategies-for-multiplying-two-digit-decimals",
+              "youtube_id": "ekDTjvF_CJw",
+              "youtube_url": "https://www.youtube.com/watch?v=ekDTjvF_CJw",
+              "duration_sec": 224,
+              "relative_url": "/math/cc-fifth-grade-math/imp-multiplication-and-division-3/imp-multiplying-decimals/v/developing-strategies-for-multiplying-two-digit-decimals"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Divide whole numbers to get a decimal quotient",
+          "slug": "x18ca194a:divide-whole-numbers-to-get-a-decimal-quotient",
+          "videos": [
+            {
+              "title": "Divide whole numbers with decimal quotients: 5÷2",
+              "slug": "v/divide-whole-numbers-with-decimal-quotients",
+              "youtube_id": "29qKGbhFnf8",
+              "youtube_url": "https://www.youtube.com/watch?v=29qKGbhFnf8",
+              "duration_sec": 144,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/divide-whole-numbers-to-get-a-decimal-quotient/v/divide-whole-numbers-with-decimal-quotients"
+            },
+            {
+              "title": "Divide whole numbers with decimal quotients: 78÷12",
+              "slug": "v/divide-whole-numbers-with-decimal-quotients-7812",
+              "youtube_id": "shSrtFE2OoM",
+              "youtube_url": "https://www.youtube.com/watch?v=shSrtFE2OoM",
+              "duration_sec": 256,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/divide-whole-numbers-to-get-a-decimal-quotient/v/divide-whole-numbers-with-decimal-quotients-7812"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Divide decimals by whole numbers",
+          "slug": "x18ca194a:divide-decimals-by-whole-numbers",
+          "videos": [
+            {
+              "title": "Dividing a decimal by a whole number with fraction models",
+              "slug": "v/visually-dividing-decimal-by-whole-number",
+              "youtube_id": "rYsK3mI0Nto",
+              "youtube_url": "https://www.youtube.com/watch?v=rYsK3mI0Nto",
+              "duration_sec": 129,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/imp-dividing-decimals/v/visually-dividing-decimal-by-whole-number"
+            },
+            {
+              "title": "Dividing a decimal by a whole number on the number line",
+              "slug": "v/dividing-a-decimal-by-a-whole-number-on-the-number-line",
+              "youtube_id": "7Wm0VOTPz5Q",
+              "youtube_url": "https://www.youtube.com/watch?v=7Wm0VOTPz5Q",
+              "duration_sec": 89,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/imp-dividing-decimals/v/dividing-a-decimal-by-a-whole-number-on-the-number-line"
+            },
+            {
+              "title": "Dividing a decimal by a whole number example",
+              "slug": "v/dividing-a-decimal-by-a-whole-number-example",
+              "youtube_id": "bIRwzhhBzEU",
+              "youtube_url": "https://www.youtube.com/watch?v=bIRwzhhBzEU",
+              "duration_sec": 176,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/imp-dividing-decimals/v/dividing-a-decimal-by-a-whole-number-example"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Divide whole numbers by decimals",
+          "slug": "x18ca194a:divide-whole-numbers-by-decimals",
+          "videos": [
+            {
+              "title": "Visually dividing a whole number by a decimal",
+              "slug": "v/visually-dividing-a-whole-number-by-a-decimal",
+              "youtube_id": "aklVb3Z5jx4",
+              "youtube_url": "https://www.youtube.com/watch?v=aklVb3Z5jx4",
+              "duration_sec": 152,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/divide-whole-numbers-by-decimals/v/visually-dividing-a-whole-number-by-a-decimal"
+            },
+            {
+              "title": "Dividing a whole number by a decimal on a number line",
+              "slug": "v/dividing-a-whole-number-by-a-decimal-on-a-number-line",
+              "youtube_id": "PxafebH1u2k",
+              "youtube_url": "https://www.youtube.com/watch?v=PxafebH1u2k",
+              "duration_sec": 114,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/divide-whole-numbers-by-decimals/v/dividing-a-whole-number-by-a-decimal-on-a-number-line"
+            },
+            {
+              "title": "Division strategies for decimal quotients",
+              "slug": "v/division-strategies-for-decimal-quotients",
+              "youtube_id": "zlq_jQYD1mA",
+              "youtube_url": "https://www.youtube.com/watch?v=zlq_jQYD1mA",
+              "duration_sec": 544,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/divide-whole-numbers-by-decimals/v/division-strategies-for-decimal-quotients"
+            },
+            {
+              "title": "Dividing whole numbers by decimals examples",
+              "slug": "v/dividing-whole-numbers-by-decimals-examples",
+              "youtube_id": "se7rSl-tHkg",
+              "youtube_url": "https://www.youtube.com/watch?v=se7rSl-tHkg",
+              "duration_sec": 278,
+              "relative_url": "/math/cc-fifth-grade-math/divide-decimals/divide-whole-numbers-by-decimals/v/dividing-whole-numbers-by-decimals-examples"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    },
+    {
+      "title": "Exponents and powers of ten",
+      "slug": "x18ca194a:exponents-and-powers-of-ten",
+      "relative_url": "/math/arithmetic/x18ca194a:exponents-and-powers-of-ten",
+      "lessons": [
+        {
+          "title": "Multiplying and dividing whole numbers by 10, 100, and 1,000",
+          "slug": "x18ca194a:multiplying-and-dividing-whole-numbers-by-10-100-and-1-000",
+          "videos": [
+            {
+              "title": "Multiplying and dividing by 10, 100, 1000",
+              "slug": "v/multiplying-and-dividing-by-10-100-1000",
+              "youtube_id": "yVg6LyNgIT8",
+              "youtube_url": "https://www.youtube.com/watch?v=yVg6LyNgIT8",
+              "duration_sec": 524,
+              "relative_url": "/math/cc-fifth-grade-math/powers-of-ten/imp-multiplying-and-dividing-whole-numbers-by-10-100-and-1000/v/multiplying-and-dividing-by-10-100-1000"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplying and dividing decimals by 10, 100, and 1,000",
+          "slug": "x18ca194a:multiplying-and-dividing-decimals-by-10-100-and-1-000",
+          "videos": [
+            {
+              "title": "Multiplying and dividing decimals by 10",
+              "slug": "v/multiplying-and-dividing-decimals-by-10",
+              "youtube_id": "HeiYNlVM-TY",
+              "youtube_url": "https://www.youtube.com/watch?v=HeiYNlVM-TY",
+              "duration_sec": 243,
+              "relative_url": "/math/cc-fifth-grade-math/powers-of-ten/imp-multiplying-and-dividing-decimals-by-10-100-and-1000/v/multiplying-and-dividing-decimals-by-10"
+            },
+            {
+              "title": "Multiplying and dividing decimals by 10, 100, 1000",
+              "slug": "v/multiplying-and-dividing-decimals-by-10-100-1000",
+              "youtube_id": "6fLNcGSa_L4",
+              "youtube_url": "https://www.youtube.com/watch?v=6fLNcGSa_L4",
+              "duration_sec": 285,
+              "relative_url": "/math/cc-fifth-grade-math/powers-of-ten/imp-multiplying-and-dividing-decimals-by-10-100-and-1000/v/multiplying-and-dividing-decimals-by-10-100-1000"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Powers of 10",
+          "slug": "x18ca194a:powers-of-10",
+          "videos": [
+            {
+              "title": "Introduction to powers of 10",
+              "slug": "v/introduction-to-powers-of-10",
+              "youtube_id": "Xvsqv2oO2ac",
+              "youtube_url": "https://www.youtube.com/watch?v=Xvsqv2oO2ac",
+              "duration_sec": 252,
+              "relative_url": "/math/cc-fifth-grade-math/powers-of-ten/imp-powers-of-10/v/introduction-to-powers-of-10"
+            },
+            {
+              "title": "Using exponents with powers of 10",
+              "slug": "v/powers-of-10",
+              "youtube_id": "YJdCw2fK-Og",
+              "youtube_url": "https://www.youtube.com/watch?v=YJdCw2fK-Og",
+              "duration_sec": 334,
+              "relative_url": "/math/cc-fifth-grade-math/powers-of-ten/imp-powers-of-10/v/powers-of-10"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiplying and dividing with powers of 10",
+          "slug": "x18ca194a:multiplying-and-dividing-with-powers-of-10",
+          "videos": [
+            {
+              "title": "Multiplying and dividing by powers of 10",
+              "slug": "v/multiplying-and-dividing-by-powers-of-10",
+              "youtube_id": "jBN69fm8_T0",
+              "youtube_url": "https://www.youtube.com/watch?v=jBN69fm8_T0",
+              "duration_sec": 302,
+              "relative_url": "/math/cc-fifth-grade-math/powers-of-ten/imp-multiplying-and-dividing-with-powers-of-10/v/multiplying-and-dividing-by-powers-of-10"
+            },
+            {
+              "title": "Exponents and powers of 10 patterns",
+              "slug": "v/patterns-in-zeros-exercise",
+              "youtube_id": "pYaIjA4CsKo",
+              "youtube_url": "https://www.youtube.com/watch?v=pYaIjA4CsKo",
+              "duration_sec": 416,
+              "relative_url": "/math/cc-fifth-grade-math/powers-of-ten/imp-multiplying-and-dividing-with-powers-of-10/v/patterns-in-zeros-exercise"
+            },
+            {
+              "title": "Fractions as division by power of 10",
+              "slug": "v/fractions-as-division-by-powers-of-10",
+              "youtube_id": "LohXZt7QzCM",
+              "youtube_url": "https://www.youtube.com/watch?v=LohXZt7QzCM",
+              "duration_sec": 307,
+              "relative_url": "/math/cc-fifth-grade-math/powers-of-ten/imp-multiplying-and-dividing-with-powers-of-10/v/fractions-as-division-by-powers-of-10"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Intro to exponents",
+          "slug": "x18ca194a:intro-to-exponents",
+          "videos": [
+            {
+              "title": "Intro to exponents",
+              "slug": "v/introduction-to-exponents",
+              "youtube_id": "XZRQhkii0h0",
+              "youtube_url": "https://www.youtube.com/watch?v=XZRQhkii0h0",
+              "duration_sec": 183,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/cc-6th-exponents/v/introduction-to-exponents"
+            },
+            {
+              "title": "The zeroth power",
+              "slug": "v/the-zeroth-power",
+              "youtube_id": "TWv6f7rwjF4",
+              "youtube_url": "https://www.youtube.com/watch?v=TWv6f7rwjF4",
+              "duration_sec": 272,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/x0267d782:powers-of-whole-numbers/v/the-zeroth-power"
+            },
+            {
+              "title": "Comparing exponent expressions",
+              "slug": "v/comparing-exponent-expressions",
+              "youtube_id": "kFElpYl7Te0",
+              "youtube_url": "https://www.youtube.com/watch?v=kFElpYl7Te0",
+              "duration_sec": 129,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/x0267d782:more-on-order-of-operations/v/comparing-exponent-expressions"
+            },
+            {
+              "title": "Exponents of decimals",
+              "slug": "v/exponents-of-decimals",
+              "youtube_id": "o_urKmMdGK0",
+              "youtube_url": "https://www.youtube.com/watch?v=o_urKmMdGK0",
+              "duration_sec": 151,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/x0267d782:powers-of-fractions-and-decimals/v/exponents-of-decimals"
+            },
+            {
+              "title": "Powers of fractions",
+              "slug": "v/powers-of-fractions",
+              "youtube_id": "oEgeUk_Ix2c",
+              "youtube_url": "https://www.youtube.com/watch?v=oEgeUk_Ix2c",
+              "duration_sec": 107,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/x0267d782:powers-of-fractions-and-decimals/v/powers-of-fractions"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Order of operations with exponents",
+          "slug": "x18ca194a:order-of-operations-with-exponents",
+          "videos": [
+            {
+              "title": "Order of operations introduction",
+              "slug": "v/order-operations-intro",
+              "youtube_id": "eoYThjIAhOc",
+              "youtube_url": "https://www.youtube.com/watch?v=eoYThjIAhOc",
+              "duration_sec": 273,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/cc-6th-order-of-operations/v/order-operations-intro"
+            },
+            {
+              "title": "Order of operations examples: exponents",
+              "slug": "v/order-of-operations-with-exponents-examples",
+              "youtube_id": "_jiI0AV8Vr4",
+              "youtube_url": "https://www.youtube.com/watch?v=_jiI0AV8Vr4",
+              "duration_sec": 214,
+              "relative_url": "/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/x0267d782:more-on-order-of-operations/v/order-of-operations-with-exponents-examples"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Add and subtract negative numbers",
+      "slug": "arith-review-negative-numbers",
+      "relative_url": "/math/arithmetic/arith-review-negative-numbers",
+      "lessons": [
+        {
+          "title": "Intro to negative numbers",
+          "slug": "arith-review-neg-num-intro",
+          "videos": [
+            {
+              "title": "Introduction to negative numbers",
+              "slug": "v/introduction-to-negative-numbers",
+              "youtube_id": "u8UKdNdpkh4",
+              "youtube_url": "https://www.youtube.com/watch?v=u8UKdNdpkh4",
+              "duration_sec": 184,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-negative-number-topic/cc-6th-neg-num-intro/v/introduction-to-negative-numbers"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Negative symbol as opposite",
+          "slug": "arith-review-number-opposites",
+          "videos": [
+            {
+              "title": "Negative symbol as opposite",
+              "slug": "v/negative-symbol-as-opposite",
+              "youtube_id": "3-aryZYsoxU",
+              "youtube_url": "https://www.youtube.com/watch?v=3-aryZYsoxU",
+              "duration_sec": 302,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-negative-number-topic/negative-symbol-as-opposite/v/negative-symbol-as-opposite"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Negative decimals and fractions on the number line",
+          "slug": "arith-review-order-neg-numbers",
+          "videos": [
+            {
+              "title": "Decimals & fractions on the number line",
+              "slug": "v/points-on-a-number-line",
+              "youtube_id": "uC09taczvOo",
+              "youtube_url": "https://www.youtube.com/watch?v=uC09taczvOo",
+              "duration_sec": 118,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-negative-number-topic/cc-6th-neg-dec-frac-number-line/v/points-on-a-number-line"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Absolute value",
+          "slug": "arith-review-abs-value",
+          "videos": [
+            {
+              "title": "Absolute value examples",
+              "slug": "v/absolute-value-of-integers",
+              "youtube_id": "r6hS_8nm1jM",
+              "youtube_url": "https://www.youtube.com/watch?v=r6hS_8nm1jM",
+              "duration_sec": 142,
+              "relative_url": "/math/cc-sixth-grade-math/cc-6th-negative-number-topic/cc-6th-absolute-value/v/absolute-value-of-integers"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Intro to adding negative numbers",
+          "slug": "arith-review-add-negatives-intro",
+          "videos": [
+            {
+              "title": "Zero pairs worked example",
+              "slug": "v/zero-pairs-worked-example",
+              "youtube_id": "hwK33GvGIK4",
+              "youtube_url": "https://www.youtube.com/watch?v=hwK33GvGIK4",
+              "duration_sec": 127,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-negatives/v/zero-pairs-worked-example"
+            },
+            {
+              "title": "Adding with integer chips",
+              "slug": "v/adding-with-integer-chips",
+              "youtube_id": "BqfDKV0gPRE",
+              "youtube_url": "https://www.youtube.com/watch?v=BqfDKV0gPRE",
+              "duration_sec": 226,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-negatives/v/adding-with-integer-chips"
+            },
+            {
+              "title": "Adding negative numbers on the number line",
+              "slug": "v/adding-negative-numbers-on-number-line-examples",
+              "youtube_id": "3CKpidALDEg",
+              "youtube_url": "https://www.youtube.com/watch?v=3CKpidALDEg",
+              "duration_sec": 325,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-negatives/v/adding-negative-numbers-on-number-line-examples"
+            }
+          ],
+          "exercise_count": 3
+        },
+        {
+          "title": "Adding negative numbers fluently",
+          "slug": "x18ca194a:adding-negative-numbers-fluently",
+          "videos": [
+            {
+              "title": "Signs of sums on a number line",
+              "slug": "v/signs-of-sums-on-a-number-line",
+              "youtube_id": "VBEQgXLhBzU",
+              "youtube_url": "https://www.youtube.com/watch?v=VBEQgXLhBzU",
+              "duration_sec": 444,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/x6b17ba59:adding-negative-numbers-fluently/v/signs-of-sums-on-a-number-line"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Intro to subtracting negative numbers",
+          "slug": "arith-review-sub-neg-intro",
+          "videos": [
+            {
+              "title": "Subtracting with integer chips",
+              "slug": "v/subtracting-with-integer-chips",
+              "youtube_id": "yTqhzgpt_9Y",
+              "youtube_url": "https://www.youtube.com/watch?v=yTqhzgpt_9Y",
+              "duration_sec": 330,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-sub-neg-intro/v/subtracting-with-integer-chips"
+            },
+            {
+              "title": "Graphing negative number addition and subtraction expressions",
+              "slug": "v/graphing-negative-number-addition-and-subtraction-expressions",
+              "youtube_id": "LwUMnbV303k",
+              "youtube_url": "https://www.youtube.com/watch?v=LwUMnbV303k",
+              "duration_sec": 234,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-sub-neg-intro/v/graphing-negative-number-addition-and-subtraction-expressions"
+            },
+            {
+              "title": "Interpreting numeric expressions example",
+              "slug": "v/interpreting-integer-expressions",
+              "youtube_id": "ahib7LGDysQ",
+              "youtube_url": "https://www.youtube.com/watch?v=ahib7LGDysQ",
+              "duration_sec": 146,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-sub-neg-intro/v/interpreting-integer-expressions"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Subtracting negative numbers fluently",
+          "slug": "x18ca194a:subtracting-negative-numbers-fluently",
+          "videos": [
+            {
+              "title": "Adding the opposite with integer chips",
+              "slug": "v/adding-the-opposite-with-integer-chips",
+              "youtube_id": "0O4hGprr71g",
+              "youtube_url": "https://www.youtube.com/watch?v=0O4hGprr71g",
+              "duration_sec": 311,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/x6b17ba59:subtracting-negative-numbers-fluently/v/adding-the-opposite-with-integer-chips"
+            },
+            {
+              "title": "Adding the opposite with number lines",
+              "slug": "v/adding-the-opposite-with-number-lines",
+              "youtube_id": "S5oBJ9aL9QQ",
+              "youtube_url": "https://www.youtube.com/watch?v=S5oBJ9aL9QQ",
+              "duration_sec": 297,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/x6b17ba59:subtracting-negative-numbers-fluently/v/adding-the-opposite-with-number-lines"
+            },
+            {
+              "title": "Subtracting a negative = adding a positive",
+              "slug": "v/why-subtracting-a-negative-equivalent-to-adding-a-positive",
+              "youtube_id": "lBscLuttQq0",
+              "youtube_url": "https://www.youtube.com/watch?v=lBscLuttQq0",
+              "duration_sec": 93,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/x6b17ba59:subtracting-negative-numbers-fluently/v/why-subtracting-a-negative-equivalent-to-adding-a-positive"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Adding & subtracting integers",
+          "slug": "arith-review-add-and-sub-integersss",
+          "videos": [
+            {
+              "title": "Adding integers: find the missing value",
+              "slug": "v/adding-integers-find-the-missing-value",
+              "youtube_id": "jA1vyOrzlOE",
+              "youtube_url": "https://www.youtube.com/watch?v=jA1vyOrzlOE",
+              "duration_sec": 182,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-and-sub-integers/v/adding-integers-find-the-missing-value"
+            },
+            {
+              "title": "Subtracting integers: find the missing value",
+              "slug": "v/subtracting-integers-find-the-missing-value",
+              "youtube_id": "HsPEStiHQS0",
+              "youtube_url": "https://www.youtube.com/watch?v=HsPEStiHQS0",
+              "duration_sec": 414,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-and-sub-integers/v/subtracting-integers-find-the-missing-value"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Adding & subtracting negative fractions",
+          "slug": "x18ca194a:adding-subtracting-negative-fractions",
+          "videos": [
+            {
+              "title": "Adding fractions with different signs",
+              "slug": "v/adding-fractions-with-different-signs",
+              "youtube_id": "QS1LMomm0Gk",
+              "youtube_url": "https://www.youtube.com/watch?v=QS1LMomm0Gk",
+              "duration_sec": 382,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:rational-numbers-addition-and-subtraction/cc-7th-add-sub-neg-fractions/v/adding-fractions-with-different-signs"
+            },
+            {
+              "title": "Adding and subtracting fractions with negatives",
+              "slug": "v/adding-and-subtracting-fractions-with-negatives",
+              "youtube_id": "nhJ60MCLeCU",
+              "youtube_url": "https://www.youtube.com/watch?v=nhJ60MCLeCU",
+              "duration_sec": 225,
+              "relative_url": "/math/cc-seventh-grade-math/x6b17ba59:rational-numbers-addition-and-subtraction/cc-7th-add-sub-neg-fractions/v/adding-and-subtracting-fractions-with-negatives"
+            }
+          ],
+          "exercise_count": 1
+        }
+      ]
+    },
+    {
+      "title": "Multiply and divide negative numbers",
+      "slug": "x18ca194a:multiply-and-divide-negative-numbers",
+      "relative_url": "/math/arithmetic/x18ca194a:multiply-and-divide-negative-numbers",
+      "lessons": [
+        {
+          "title": "Multiply and divide integers",
+          "slug": "x18ca194a:multiply-and-divide-integers",
+          "videos": [
+            {
+              "title": "Why a negative times a negative is a positive",
+              "slug": "v/why-a-negative-times-a-negative-is-a-positive",
+              "youtube_id": "rK4sXm_MPWo",
+              "youtube_url": "https://www.youtube.com/watch?v=rK4sXm_MPWo",
+              "duration_sec": 347,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/x6b17ba59:multiply-with-negatives/v/why-a-negative-times-a-negative-is-a-positive"
+            },
+            {
+              "title": "Why a negative times a negative makes sense",
+              "slug": "v/why-a-negative-times-a-negative-makes-intuitive-sense",
+              "youtube_id": "pzQY-9Nmtws",
+              "youtube_url": "https://www.youtube.com/watch?v=pzQY-9Nmtws",
+              "duration_sec": 374,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/x6b17ba59:multiply-with-negatives/v/why-a-negative-times-a-negative-makes-intuitive-sense"
+            },
+            {
+              "title": "Multiplying positive & negative numbers",
+              "slug": "v/multiplying-positive-and-negative-numbers",
+              "youtube_id": "47wjId9k2Hs",
+              "youtube_url": "https://www.youtube.com/watch?v=47wjId9k2Hs",
+              "duration_sec": 334,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives/v/multiplying-positive-and-negative-numbers"
+            },
+            {
+              "title": "Dividing positive and negative numbers",
+              "slug": "v/dividing-positive-and-negative-numbers",
+              "youtube_id": "bQ-KR3clFgs",
+              "youtube_url": "https://www.youtube.com/watch?v=bQ-KR3clFgs",
+              "duration_sec": 292,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives/v/dividing-positive-and-negative-numbers"
+            }
+          ],
+          "exercise_count": 2
+        },
+        {
+          "title": "Multiplication & division word problems with negatives",
+          "slug": "x18ca194a:multiplication-division-word-problems-with-negatives",
+          "videos": [
+            {
+              "title": "Interpreting multiplication & division of negative numbers",
+              "slug": "v/interpreting-multiplication-and-division-of-negative-numbers",
+              "youtube_id": "mPLCXCscqI8",
+              "youtube_url": "https://www.youtube.com/watch?v=mPLCXCscqI8",
+              "duration_sec": 275,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-word-problems/v/interpreting-multiplication-and-division-of-negative-numbers"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "One-step equations with negative rational numbers",
+          "slug": "x18ca194a:one-step-equations-with-negative-rational-numbers",
+          "videos": [],
+          "exercise_count": 1
+        },
+        {
+          "title": "Understanding multiplying and dividing negative fractions",
+          "slug": "x18ca194a:understanding-multiplying-and-dividing-negative-fractions",
+          "videos": [
+            {
+              "title": "Negative signs in fractions",
+              "slug": "v/negative-signs-in-numerators-and-denominators",
+              "youtube_id": "9eSPhvhuInw",
+              "youtube_url": "https://www.youtube.com/watch?v=9eSPhvhuInw",
+              "duration_sec": 308,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2/v/negative-signs-in-numerators-and-denominators"
+            }
+          ],
+          "exercise_count": 1
+        },
+        {
+          "title": "Multiply & divide negative fractions",
+          "slug": "x18ca194a:multiply-divide-negative-fractions",
+          "videos": [
+            {
+              "title": "Multiplying positive and negative fractions",
+              "slug": "v/multiplying-negative-and-positive-fractions",
+              "youtube_id": "pi3WWQ0q6Lc",
+              "youtube_url": "https://www.youtube.com/watch?v=pi3WWQ0q6Lc",
+              "duration_sec": 273,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions/v/multiplying-negative-and-positive-fractions"
+            },
+            {
+              "title": "Dividing negative fractions",
+              "slug": "v/examples-of-dividing-negative-fractions",
+              "youtube_id": "H0q9Fqb8YT4",
+              "youtube_url": "https://www.youtube.com/watch?v=H0q9Fqb8YT4",
+              "duration_sec": 251,
+              "relative_url": "/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions/v/examples-of-dividing-negative-fractions"
+            }
+          ],
+          "exercise_count": 2
+        }
+      ]
+    }
+  ]
+}
