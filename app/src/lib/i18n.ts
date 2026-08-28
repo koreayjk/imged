@@ -130,6 +130,18 @@ const dict = {
     loadFailed: '데이터를 불러오지 못했습니다', noStudents: '아직 등록된 학생이 없습니다.',
     notAdminNote: '이 계정은 관리자 권한이 없습니다. Supabase에서 profiles.role 을 admin 으로 변경하세요.',
 
+    // 문항 검수
+    navReview: '문항 검수',
+    reviewTitle: 'AI 생성 문항 검수',
+    reviewIntro: 'AI가 GED 공식 출제 기준으로 생성한 문항입니다. 정답·해설을 확인하고 승인하면 학생에게 노출됩니다.',
+    reviewPending: (n: number) => `검수 대기 ${n}문항`,
+    reviewEmpty: '검수 대기 중인 문항이 없습니다.',
+    reviewApprove: '✅ 승인 (학생에게 공개)', reviewReject: '❌ 반려',
+    reviewSkip: '건너뛰기', reviewMemo: '메모 (선택)',
+    reviewAnswer: '정답', reviewTarget: 'GED 출제기준', reviewDok: '사고수준', reviewExplain: '해설',
+    reviewDone: '검수 완료!', reviewOf: (a: number, b: number) => `${a} / ${b}`,
+    reviewSubjectAll: '전체 과목',
+
     // 에세이
     navEssay: '에세이',
     essayTitle: 'GED 에세이 (Extended Response)',
@@ -269,6 +281,18 @@ const dict = {
     studentsReal: 'Students', enrolledReal: 'Enrolled students', thLastActive: 'Last active',
     loadFailed: 'Failed to load data', noStudents: 'No students enrolled yet.',
     notAdminNote: "This account isn't an admin. Set profiles.role to 'admin' in Supabase.",
+
+    // 문항 검수
+    navReview: 'Review items',
+    reviewTitle: 'Review AI-generated items',
+    reviewIntro: 'These items were generated against the official GED blueprint. Approve to make them visible to students.',
+    reviewPending: (n: number) => `${n} awaiting review`,
+    reviewEmpty: 'No items awaiting review.',
+    reviewApprove: '✅ Approve (publish)', reviewReject: '❌ Reject',
+    reviewSkip: 'Skip', reviewMemo: 'Note (optional)',
+    reviewAnswer: 'Answer', reviewTarget: 'GED target', reviewDok: 'DOK', reviewExplain: 'Explanation',
+    reviewDone: 'All reviewed!', reviewOf: (a: number, b: number) => `${a} / ${b}`,
+    reviewSubjectAll: 'All subjects',
 
     // 에세이
     navEssay: 'Essay',

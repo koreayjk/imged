@@ -1,0 +1,84 @@
+{
+  "_comment": [
+    "GED 공식 시험 스펙 요약 — AI 문항 생성의 '사양서'로 사용한다.",
+    "출처: GED Testing Service 2014 test specifications / Assessment Guide for Educators (assessment target 코드·설명은 ged_math_targets.json).",
+    "주의: 공식 문항을 복제하지 않는다. 형식·난이도·출제 포인트만 참고해 새 문항을 생성한다."
+  ],
+  "subjects": {
+    "math": {
+      "name": "Mathematical Reasoning",
+      "time_min": 115,
+      "domains": [
+        { "key": "quantitative", "label": "양적 문제해결", "weight": 0.45, "target_prefix": "Q" },
+        { "key": "algebraic", "label": "대수적 문제해결", "weight": 0.55, "target_prefix": "A" }
+      ],
+      "item_types": ["mc", "fill_blank", "dropdown", "drag_drop", "hotspot"],
+      "item_type_mix": { "mc": 0.7, "fill_blank": 0.15, "dropdown": 0.1, "drag_drop": 0.05 },
+      "calculator": "TI-30XS 사용 가능 (첫 5문항 제외)",
+      "dok_mix": { "1": 0.2, "2": 0.6, "3": 0.2 },
+      "style_notes": [
+        "실생활 맥락(구매·요금·거리·면적·급여·할인 등)을 적극 사용한다.",
+        "다단계 계산(2~3스텝)이 표준. 1스텝 단순 계산만 있는 문항은 20% 이하로.",
+        "오답 보기는 흔한 실수(부호 오류, 연산순서 실수, 단위 미변환, 역수 혼동)에서 만든다.",
+        "숫자는 계산기 없이도 다룰 수 있는 크기로 유지한다."
+      ]
+    },
+    "rla": {
+      "name": "Reasoning Through Language Arts",
+      "time_min": 150,
+      "domains": [
+        { "key": "reading_informational", "label": "정보성 지문 독해", "weight": 0.75 },
+        { "key": "reading_literary", "label": "문학 지문 독해", "weight": 0.25 },
+        { "key": "language_conventions", "label": "문법·표기 규칙", "weight": 0.2 }
+      ],
+      "item_types": ["mc", "dropdown", "drag_drop", "extended_response"],
+      "item_type_mix": { "mc": 0.75, "dropdown": 0.2, "drag_drop": 0.05 },
+      "style_notes": [
+        "독해 문항은 400~900단어 지문 기반이 원칙이나, 연습용은 80~150단어 짧은 지문 + 2~3문항 세트로 구성한다.",
+        "문법은 문장 삽입형 드롭다운(문맥에서 올바른 형태 고르기) 유형을 적극 사용한다.",
+        "지문은 GED 특유의 실용문(직장 안내문, 기사, 연설문, 편지)과 문학 발췌를 섞는다."
+      ]
+    },
+    "science": {
+      "name": "Science",
+      "time_min": 90,
+      "domains": [
+        { "key": "life_science", "label": "생명과학", "weight": 0.4 },
+        { "key": "physical_science", "label": "물상과학", "weight": 0.4 },
+        { "key": "earth_space", "label": "지구·우주과학", "weight": 0.2 }
+      ],
+      "item_types": ["mc", "fill_blank", "dropdown", "drag_drop"],
+      "item_type_mix": { "mc": 0.75, "fill_blank": 0.1, "dropdown": 0.1, "drag_drop": 0.05 },
+      "style_notes": [
+        "과학 지식 암기가 아니라 '자극물(지문·표·그래프) 해석'이 핵심이다. 모든 문항에 짧은 자극물을 붙인다.",
+        "실험 설계, 변인 통제, 데이터 해석, 결론의 타당성 평가를 자주 묻는다.",
+        "표·그래프는 텍스트로 표현 가능한 형태(간단한 수치 목록)로 제시한다."
+      ]
+    },
+    "social": {
+      "name": "Social Studies",
+      "time_min": 70,
+      "domains": [
+        { "key": "civics_government", "label": "공민·정부", "weight": 0.5 },
+        { "key": "us_history", "label": "미국사", "weight": 0.2 },
+        { "key": "economics", "label": "경제", "weight": 0.15 },
+        { "key": "geography_world", "label": "지리·세계사", "weight": 0.15 }
+      ],
+      "item_types": ["mc", "fill_blank", "dropdown", "drag_drop"],
+      "item_type_mix": { "mc": 0.75, "fill_blank": 0.1, "dropdown": 0.1, "drag_drop": 0.05 },
+      "style_notes": [
+        "1차 사료(헌법 조문, 연설, 신문 기사)와 도표 해석이 중심이다.",
+        "사실 암기보다 사료의 관점·의도·신뢰성 판단을 묻는다.",
+        "미국 정부 구조(삼권분립, 견제와 균형, 권리장전)는 최빈출 주제다."
+      ]
+    }
+  },
+  "quality_rules": [
+    "정답은 반드시 보기 중 하나이며 명백히 하나만 옳아야 한다.",
+    "보기 4개는 길이·형식이 비슷해야 하고 '위의 모두', '정답 없음'은 쓰지 않는다.",
+    "해설은 왜 정답인지 + 왜 오답인지(핵심 오개념)를 함께 설명한다.",
+    "한국어 번역은 자연스러운 학습자용 문장으로. 기계번역투 금지.",
+    "공식 GED 문항을 그대로 옮기지 않는다. 숫자·맥락·표현은 모두 새로 만든다.",
+    "학생 대상이 10대 다국적 학습자임을 고려해 문화 특수 어휘·속어를 피한다."
+  ]
+}

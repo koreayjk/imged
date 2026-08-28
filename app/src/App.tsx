@@ -15,6 +15,7 @@ import Quiz from './pages/Quiz'
 import Essay from './pages/Essay'
 import ProgressPage from './pages/Progress'
 import Admin from './pages/Admin'
+import ReviewQuestions from './pages/ReviewQuestions'
 
 function Shell({ children }: { children: React.ReactNode }) {
   const { profile } = useAppState()
@@ -22,7 +23,7 @@ function Shell({ children }: { children: React.ReactNode }) {
   const loc = useLocation()
   if (!profile) return <Navigate to="/login" replace />
   const nav = profile.role === 'admin'
-    ? [['/admin', t.navDashboard] as const]
+    ? [['/admin', t.navDashboard] as const, ['/review', t.navReview] as const]
     : [['/today', t.navToday] as const, ['/essay', t.navEssay] as const, ['/progress', t.navProgress] as const]
   return (
     <div className="shell">
@@ -86,6 +87,7 @@ export default function App() {
         <Route path="/essay" element={<Shell><StudentGate><Essay /></StudentGate></Shell>} />
         <Route path="/progress" element={<Shell><StudentGate><ProgressPage /></StudentGate></Shell>} />
         <Route path="/admin" element={<Shell><Admin /></Shell>} />
+        <Route path="/review" element={<Shell><ReviewQuestions /></Shell>} />
         <Route path="*" element={<Navigate to={profile ? (profile.role === 'admin' ? '/admin' : '/today') : '/'} replace />} />
       </Routes>
     </BrowserRouter>

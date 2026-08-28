@@ -367,3 +367,8 @@ input, select {
   .topbar { flex-wrap: wrap; }
   .userbox { width: 100%; justify-content: flex-end; }
 }
+
+/* 문항 검수 */
+.review-meta { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.7rem; }
+.review-actions { display: flex; gap: 0.6rem; margin-top: 0.8rem; flex-wrap: wrap; }
+.choices .choice { cursor: default; }
