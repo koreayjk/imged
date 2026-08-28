@@ -141,6 +141,11 @@ const dict = {
     reviewAnswer: '정답', reviewTarget: 'GED 출제기준', reviewDok: '사고수준', reviewExplain: '해설',
     reviewDone: '검수 완료!', reviewOf: (a: number, b: number) => `${a} / ${b}`,
     reviewSubjectAll: '전체 과목',
+    genTitle: '문항 생성', genCount: '생성 개수',
+    genRun: '🤖 AI로 문항 생성', genRunning: '생성 중… (1~3분)',
+    genDone: (n: number, r: number) => `${n}문항 생성 완료 (자동 검증 반려 ${r}건)`,
+    genFailed: '생성에 실패했습니다.', genRefresh: '목록 새로고침',
+    genNote: '공식 GED 출제 기준으로 생성되며, 검수 승인 후에만 학생에게 노출됩니다.',
 
     // 에세이
     navEssay: '에세이',
@@ -293,6 +298,11 @@ const dict = {
     reviewAnswer: 'Answer', reviewTarget: 'GED target', reviewDok: 'DOK', reviewExplain: 'Explanation',
     reviewDone: 'All reviewed!', reviewOf: (a: number, b: number) => `${a} / ${b}`,
     reviewSubjectAll: 'All subjects',
+    genTitle: 'Generate items', genCount: 'How many',
+    genRun: '🤖 Generate with AI', genRunning: 'Generating… (1-3 min)',
+    genDone: (n: number, r: number) => `${n} items generated (${r} rejected by validation)`,
+    genFailed: 'Generation failed.', genRefresh: 'Refresh list',
+    genNote: 'Generated against the official GED blueprint; students see them only after approval.',
 
     // 에세이
     navEssay: 'Essay',

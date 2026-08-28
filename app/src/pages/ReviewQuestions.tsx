@@ -26,20 +26,57 @@ export default function ReviewQuestions() {
   const [note, setNote] = useState('')
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [loadWarn, setLoadWarn] = useState<string | null>(null)
   const [reviewed, setReviewed] = useState(0)
+  const [genSubject, setGenSubject] = useState<'math' | 'rla' | 'science' | 'social'>('math')
+  const [genCount, setGenCount] = useState(24)
+  const [generating, setGenerating] = useState(false)
+  const [genMsg, setGenMsg] = useState<string | null>(null)
+
+  async function loadPending() {
+    try {
+      // 네트워크가 응답하지 않아도 화면이 열리도록 타임아웃을 건다
+      const query = supabase!.from('questions')
+        .select('id,subject,skill_tag,ged_target,dok,difficulty,stem_i18n,choices,answer,explanation_i18n,distractor_rationale')
+        .eq('status', 'draft')
+        .order('created_at', { ascending: true })
+        .limit(300)
+        .abortSignal(AbortSignal.timeout(15000))
+      const { data, error: e } = await query
+      setLoadWarn(e ? e.message : null)
+      setItems((data ?? []) as PendingQuestion[])
+    } catch (err) {
+      // 네트워크 실패 등 — 화면은 열고 경고만 표시
+      setLoadWarn(String((err as Error)?.message ?? err))
+      setItems([])
+    }
+    setIdx(0)
+  }
 
   useEffect(() => {
     if (!supabaseEnabled) return
-    supabase!.from('questions')
-      .select('id,subject,skill_tag,ged_target,dok,difficulty,stem_i18n,choices,answer,explanation_i18n,distractor_rationale')
-      .eq('status', 'draft')
-      .order('created_at', { ascending: true })
-      .limit(300)
-      .then(({ data, error: e }) => {
-        if (e) setError(e.message)
-        else setItems((data ?? []) as PendingQuestion[])
-      })
+    loadPending()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
+
+  async function generate() {
+    setGenerating(true)
+    setGenMsg(null)
+    try {
+      const { data, error: e } = await supabase!.functions.invoke('generate-questions', {
+        body: { subject: genSubject, count: genCount },
+      })
+      if (e) throw e
+      if (data?.error) throw new Error(data.error)
+      setGenMsg(t.genDone(data.generated, data.rejected))
+      await loadPending()
+    } catch (err) {
+      console.error(err)
+      setGenMsg(`${t.genFailed} ${String(err).slice(0, 120)}`)
+    } finally {
+      setGenerating(false)
+    }
+  }
 
   if (!profile) return <Navigate to="/login" replace />
   if (profile.role !== 'admin') return <Navigate to="/today" replace />
@@ -69,7 +106,29 @@ export default function ReviewQuestions() {
         <div className="card center">
           <div className="score">{reviewed > 0 ? t.reviewDone : t.reviewEmpty}</div>
           {reviewed > 0 && <p className="muted">{reviewed}</p>}
+          {loadWarn && <p className="muted small">{t.loadFailed}: {loadWarn}</p>}
         </div>
+      <div className="card gen-panel">
+        <h3>{t.genTitle}</h3>
+        <p className="muted small">{t.genNote}</p>
+        <div className="gen-row">
+          <select value={genSubject} onChange={(e) => setGenSubject(e.target.value as typeof genSubject)}>
+            <option value="math">{t.math}</option>
+            <option value="rla">{t.rla}</option>
+            <option value="science">{t.science}</option>
+            <option value="social">{t.social}</option>
+          </select>
+          <select value={genCount} onChange={(e) => setGenCount(Number(e.target.value))}>
+            {[12, 24, 36, 48, 60].map((n) => <option key={n} value={n}>{n}</option>)}
+          </select>
+          <button className="primary" disabled={generating} onClick={generate}>
+            {generating ? t.genRunning : t.genRun}
+          </button>
+          <button className="ghost" disabled={generating} onClick={() => loadPending()}>{t.genRefresh}</button>
+        </div>
+        {genMsg && <p className="muted small">{genMsg}</p>}
+      </div>
+
       </div>
     )
   }
@@ -82,6 +141,27 @@ export default function ReviewQuestions() {
       </div>
       <p className="muted small">{t.reviewIntro}</p>
       <div className="progressbar"><div style={{ width: `${(idx / items.length) * 100}%` }} /></div>
+
+      <div className="card gen-panel">
+        <h3>{t.genTitle}</h3>
+        <p className="muted small">{t.genNote}</p>
+        <div className="gen-row">
+          <select value={genSubject} onChange={(e) => setGenSubject(e.target.value as typeof genSubject)}>
+            <option value="math">{t.math}</option>
+            <option value="rla">{t.rla}</option>
+            <option value="science">{t.science}</option>
+            <option value="social">{t.social}</option>
+          </select>
+          <select value={genCount} onChange={(e) => setGenCount(Number(e.target.value))}>
+            {[12, 24, 36, 48, 60].map((n) => <option key={n} value={n}>{n}</option>)}
+          </select>
+          <button className="primary" disabled={generating} onClick={generate}>
+            {generating ? t.genRunning : t.genRun}
+          </button>
+          <button className="ghost" disabled={generating} onClick={() => loadPending()}>{t.genRefresh}</button>
+        </div>
+        {genMsg && <p className="muted small">{genMsg}</p>}
+      </div>
 
       <div className="card">
         <div className="review-meta">

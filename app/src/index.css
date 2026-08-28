@@ -372,3 +372,5 @@ input, select {
 .review-meta { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.7rem; }
 .review-actions { display: flex; gap: 0.6rem; margin-top: 0.8rem; flex-wrap: wrap; }
 .choices .choice { cursor: default; }
+.gen-panel { background: #f6f9ff; border-color: #d7e4ff; }
+.gen-row { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; margin-top: 0.5rem; }
