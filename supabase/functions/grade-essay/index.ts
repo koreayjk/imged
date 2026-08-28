@@ -12,9 +12,10 @@
 
 import { createClient } from "npm:@supabase/supabase-js@2";
 
-const GEMINI_MODEL = "gemini-2.5-flash";
-const GEMINI_URL =
-  `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
+// 키·시점에 따라 제공 모델이 다르므로 순서대로 시도 (404면 다음 후보)
+const GEMINI_MODELS = ["gemini-3.6-flash", "gemini-2.5-flash", "gemini-flash-latest"];
+const geminiUrl = (model: string) =>
+  `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
 
 // Gemini responseSchema (OpenAPI 스타일) — 점수 JSON 형식을 강제한다
 const TRAIT = {
@@ -125,30 +126,39 @@ ${essay}
 
 Score this essay on the GED rubric and produce the structured feedback.`;
 
-    const geminiRes = await fetch(GEMINI_URL, {
-      method: "POST",
-      headers: { "Content-Type": "application/json", "x-goog-api-key": apiKey },
-      body: JSON.stringify({
-        systemInstruction: { parts: [{ text: SYSTEM }] },
-        contents: [{ role: "user", parts: [{ text: userPrompt }] }],
-        generationConfig: {
-          responseMimeType: "application/json",
-          responseSchema: RESPONSE_SCHEMA,
-          temperature: 0.2,
-          maxOutputTokens: 8192,
-          // 2.5 모델의 thinking 토큰이 출력 한도를 소진해 JSON이 잘리는 것 방지
-          thinkingConfig: { thinkingBudget: 0 },
-        },
-      }),
+    const requestBody = (maxTokens: number) => JSON.stringify({
+      systemInstruction: { parts: [{ text: SYSTEM }] },
+      contents: [{ role: "user", parts: [{ text: userPrompt }] }],
+      generationConfig: {
+        responseMimeType: "application/json",
+        responseSchema: RESPONSE_SCHEMA,
+        temperature: 0.2,
+        maxOutputTokens: maxTokens,
+      },
     });
+    const callGemini = (model: string, maxTokens = 8192) =>
+      fetch(geminiUrl(model), {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "x-goog-api-key": apiKey },
+        body: requestBody(maxTokens),
+      });
 
-    if (!geminiRes.ok) {
-      const detail = await geminiRes.text();
-      console.error("gemini error", geminiRes.status, detail.slice(0, 500));
+    let geminiRes: Response | null = null;
+    let usedModel = GEMINI_MODELS[0];
+    for (const model of GEMINI_MODELS) {
+      geminiRes = await callGemini(model);
+      usedModel = model;
+      if (geminiRes.status !== 404) break; // 404 = 이 키에서 제공 안 되는 모델 → 다음 후보
+    }
+
+    if (!geminiRes || !geminiRes.ok) {
+      const detail = geminiRes ? await geminiRes.text() : "no response";
+      const status = geminiRes?.status ?? 0;
+      console.error("gemini error", status, detail.slice(0, 500));
       // 무료 티어 분당 한도(429) 등을 구분해 전달 + 원인 진단용 detail
       return json({
-        error: geminiRes.status === 429 ? "rate_limited" : "grading_failed",
-        detail: `gemini_http_${geminiRes.status}: ${detail.slice(0, 300)}`,
+        error: status === 429 ? "rate_limited" : "grading_failed",
+        detail: `gemini_http_${status} (${usedModel}): ${detail.slice(0, 300)}`,
       }, 502);
     }
 
@@ -193,7 +203,7 @@ Score this essay on the GED rubric and produce the structured feedback.`;
         total: grade.total_score,
       },
       feedback: grade,
-      model: GEMINI_MODEL,
+      model: usedModel,
       graded_at: new Date().toISOString(),
     });
 
