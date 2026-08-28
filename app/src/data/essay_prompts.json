@@ -1,0 +1,18 @@
+{
+  "prompts": [
+    {
+      "slug": "school-uniforms",
+      "title_i18n": { "en": "Should Schools Require Uniforms?", "ko": "학교는 교복을 의무화해야 할까?" },
+      "passage": "An excerpt from a school board editorial:\n\n\"Supporters of school uniforms argue that they reduce distractions and level social differences. When every student wears the same clothing, no one is judged for what their family can afford. A 2019 survey of 450 principals found that 68 percent believed uniforms improved classroom focus. Uniforms may also save families money over time, since a few standard items replace a larger wardrobe.\n\nOpponents answer that uniforms limit self-expression at exactly the age when young people are forming their identities. Clothing is one of the few ways students can show who they are. Critics also note that uniform policies create new costs: families must buy specific items from approved sellers, which can be more expensive than second-hand everyday clothes. Finally, several studies have found no clear link between uniforms and better grades or attendance.\"",
+      "prompt_i18n": { "en": "In your response, analyze both positions to determine which one is better supported. Use relevant and specific evidence from the passage to support your answer. You have 45 minutes. Aim for 4-7 paragraphs.", "ko": "두 입장을 분석하여 어느 쪽이 더 잘 뒷받침되는지 판단하고, 지문의 구체적 근거를 인용해 주장을 펼치세요. 제한 시간 45분, 4~7문단 분량을 권장합니다." },
+      "time_limit_min": 45
+    },
+    {
+      "slug": "phones-in-class",
+      "title_i18n": { "en": "Cell Phones in the Classroom", "ko": "교실 안의 휴대폰" },
+      "passage": "An excerpt from an education magazine:\n\n\"Some teachers now build cell phones into their lessons. Students use them to look up sources, answer live quizzes, and record group projects. For schools that cannot afford a laptop for every student, the phone in each pocket is the cheapest computer lab available. A teacher in Ohio reported that participation in her history class doubled after she introduced phone-based quiz games.\n\nOther educators see phones as the single biggest obstacle to learning. Notifications interrupt concentration every few minutes, and social media tempts even disciplined students. A study of 91 schools in England found that test scores rose by 6 percent after phones were banned, with the largest gains among struggling students. These educators argue that whatever phones add in convenience, they subtract far more in attention.\"",
+      "prompt_i18n": { "en": "Weigh the evidence on both sides and argue which position is better supported. Cite specific details from the passage. You have 45 minutes. Aim for 4-7 paragraphs.", "ko": "양쪽의 근거를 비교 평가하고 어느 입장이 더 잘 뒷받침되는지 논증하세요. 지문의 구체적 내용을 인용해야 합니다. 제한 시간 45분, 4~7문단 분량을 권장합니다." },
+      "time_limit_min": 45
+    }
+  ]
+}

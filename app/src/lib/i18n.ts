@@ -130,6 +130,25 @@ const dict = {
     loadFailed: '데이터를 불러오지 못했습니다', noStudents: '아직 등록된 학생이 없습니다.',
     notAdminNote: '이 계정은 관리자 권한이 없습니다. Supabase에서 profiles.role 을 admin 으로 변경하세요.',
 
+    // 에세이
+    navEssay: '에세이',
+    essayTitle: 'GED 에세이 (Extended Response)',
+    essayIntro: '지문을 읽고 어느 입장이 더 잘 뒷받침되는지 45분 안에 논증하세요. 제출하면 AI가 GED 공식 채점 기준(논증·구성·문법)으로 채점하고, 부족한 부분을 모국어로 설명해 줍니다.',
+    essayPick: '주제 선택', essayPassage: '지문', essayTask: '과제',
+    essayPlaceholder: '여기에 에세이를 작성하세요 (영어로)…',
+    essayWords: (n: number) => `${n} 단어`,
+    essayMinWords: '최소 20단어 이상 작성해야 제출할 수 있어요. 4~7문단을 권장합니다.',
+    essaySubmit: 'AI 채점 받기', essayGrading: 'AI가 채점 중입니다… (30초~1분)',
+    essayNeedsSupabase: '에세이 AI 채점은 Supabase 로그인 상태에서 사용할 수 있습니다.',
+    essayGradeFailed: '채점에 실패했습니다. 잠시 후 다시 시도해 주세요.',
+    essayResultTitle: '채점 결과',
+    essayTotal: (n: number) => `총점 ${n} / 6`,
+    trait1: '논증·근거 사용', trait2: '전개·글의 구성', trait3: '문장·문법 정확성',
+    essayStrengths: '잘한 점', essayImprovements: '보완할 점',
+    essayGrammarNotes: '문법 교정', essayNextSteps: '다음 연습 방향',
+    essayTryAgain: '새 에세이 쓰기', essayTimer: '남은 시간',
+    essayTimeUp: '시간 종료! 지금까지 쓴 내용을 제출해 보세요.',
+
     // 랜딩
     lpTagline: 'INTO GLOBAL과 함께 하는 GED 자율학습',
     lpTitle1: '매일 정해진 것만 따라가면', lpTitle2: 'GED에 도착합니다',
@@ -249,6 +268,25 @@ const dict = {
     studentsReal: 'Students', enrolledReal: 'Enrolled students', thLastActive: 'Last active',
     loadFailed: 'Failed to load data', noStudents: 'No students enrolled yet.',
     notAdminNote: "This account isn't an admin. Set profiles.role to 'admin' in Supabase.",
+
+    // 에세이
+    navEssay: 'Essay',
+    essayTitle: 'GED Essay (Extended Response)',
+    essayIntro: 'Read the passage and argue which position is better supported — in 45 minutes. When you submit, AI scores it on the official GED rubric (arguments · organization · conventions) and explains your weak spots in your native language.',
+    essayPick: 'Choose a topic', essayPassage: 'Passage', essayTask: 'Your task',
+    essayPlaceholder: 'Write your essay here (in English)…',
+    essayWords: (n: number) => `${n} words`,
+    essayMinWords: 'Write at least 20 words to submit. 4–7 paragraphs recommended.',
+    essaySubmit: 'Get AI feedback', essayGrading: 'AI is scoring your essay… (30–60s)',
+    essayNeedsSupabase: 'AI essay grading requires signing in with Supabase.',
+    essayGradeFailed: 'Grading failed. Please try again in a moment.',
+    essayResultTitle: 'Your results',
+    essayTotal: (n: number) => `Total ${n} / 6`,
+    trait1: 'Arguments & evidence', trait2: 'Development & organization', trait3: 'Clarity & conventions',
+    essayStrengths: 'What you did well', essayImprovements: 'What to improve',
+    essayGrammarNotes: 'Grammar corrections', essayNextSteps: 'What to practice next',
+    essayTryAgain: 'Write a new essay', essayTimer: 'Time left',
+    essayTimeUp: "Time's up! Submit what you have written.",
 
     // 랜딩
     lpTagline: 'GED self-study with INTO GLOBAL',

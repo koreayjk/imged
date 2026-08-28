@@ -83,8 +83,13 @@ def gen_templates():
     print(f"0002_syllabus_templates.sql: {n_days} template days")
 
 
+QUESTION_FILES = ["sample_questions.json", "question_bank_math.json", "question_bank_rla.json"]
+
+
 def gen_questions():
-    qs = json.loads((ROOT / "config" / "sample_questions.json").read_text())["questions"]
+    qs = []
+    for name in QUESTION_FILES:
+        qs.extend(json.loads((ROOT / "config" / name).read_text())["questions"])
     lines = ["-- 스타터 문항 시딩. 재실행 시 전체 교체 (검수 후 published 상태로 게시).",
              "delete from public.questions where status = 'reviewed' and created_at < now();",
              "insert into public.questions (subject, skill_tag, difficulty, format, purpose, "

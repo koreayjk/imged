@@ -4,6 +4,8 @@ import type {
   AttemptRecord, DayState, Duration, Level, Profile, Question, SyllabusTemplate, VideoProgress,
 } from './types'
 import sampleQuestions from '../data/sample_questions.json'
+import bankMath from '../data/question_bank_math.json'
+import bankRla from '../data/question_bank_rla.json'
 
 const KEY = 'ged-app-v1'
 
@@ -121,7 +123,11 @@ export async function loadTemplate(duration: Duration, level: Level): Promise<Sy
 
 // ───────────────────────── 문항
 export function getQuestions(): Question[] {
-  return (sampleQuestions as { questions: Question[] }).questions
+  return [
+    ...(sampleQuestions as { questions: Question[] }).questions,
+    ...(bankMath as { questions: Question[] }).questions,
+    ...(bankRla as { questions: Question[] }).questions,
+  ]
 }
 
 export function placementQuestions(subject: 'math' | 'rla'): Question[] {

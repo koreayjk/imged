@@ -12,6 +12,7 @@ import Placement from './pages/Placement'
 import Today from './pages/Today'
 import Lesson from './pages/Lesson'
 import Quiz from './pages/Quiz'
+import Essay from './pages/Essay'
 import ProgressPage from './pages/Progress'
 import Admin from './pages/Admin'
 
@@ -22,7 +23,7 @@ function Shell({ children }: { children: React.ReactNode }) {
   if (!profile) return <Navigate to="/login" replace />
   const nav = profile.role === 'admin'
     ? [['/admin', t.navDashboard] as const]
-    : [['/today', t.navToday] as const, ['/progress', t.navProgress] as const]
+    : [['/today', t.navToday] as const, ['/essay', t.navEssay] as const, ['/progress', t.navProgress] as const]
   return (
     <div className="shell">
       <header className="topbar">
@@ -82,6 +83,7 @@ export default function App() {
         <Route path="/today" element={<Shell><StudentGate><Today /></StudentGate></Shell>} />
         <Route path="/lesson/:dayIndex/:blockIndex/:videoIndex" element={<Shell><StudentGate><Lesson /></StudentGate></Shell>} />
         <Route path="/quiz/:dayIndex/:blockIndex" element={<Shell><StudentGate><Quiz /></StudentGate></Shell>} />
+        <Route path="/essay" element={<Shell><StudentGate><Essay /></StudentGate></Shell>} />
         <Route path="/progress" element={<Shell><StudentGate><ProgressPage /></StudentGate></Shell>} />
         <Route path="/admin" element={<Shell><Admin /></Shell>} />
         <Route path="*" element={<Navigate to={profile ? (profile.role === 'admin' ? '/admin' : '/today') : '/'} replace />} />
