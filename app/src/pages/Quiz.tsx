@@ -3,6 +3,7 @@ import { Link, useNavigate, useParams } from 'react-router-dom'
 import { useAppState } from '../lib/useStore'
 import { store, practiceQuestions } from '../lib/store'
 import { useRoadmap, blockTitle } from '../lib/roadmap'
+import { useT } from '../lib/i18n'
 import type { Question } from '../lib/types'
 
 function txt(i18n: Record<string, string>, lang: string) {
@@ -13,6 +14,7 @@ export default function Quiz() {
   const { dayIndex = '0', blockIndex = '0' } = useParams()
   const nav = useNavigate()
   const state = useAppState()
+  const { t } = useT()
   const p = state.profile!
   const { roadmap } = useRoadmap(p.duration, p.levelMath, p.levelEnglish)
 
@@ -35,9 +37,9 @@ export default function Quiz() {
   const [showEnglish, setShowEnglish] = useState(false)
   const [startTime] = useState(Date.now())
 
-  if (!roadmap) return <div className="page muted">불러오는 중…</div>
-  if (!block) return <div className="page">블록을 찾을 수 없습니다. <Link to="/today">오늘의 과제로</Link></div>
-  if (questions.length === 0) return <div className="page">이 과목의 문항이 아직 준비되지 않았습니다.</div>
+  if (!roadmap) return <div className="page muted">{t.loading}</div>
+  if (!block) return <div className="page">{t.blockNotFound} <Link to="/today">{t.toToday}</Link></div>
+  if (questions.length === 0) return <div className="page">{t.noQuestions}</div>
 
   const lang = p.nativeLang
   const q = questions[idx]
@@ -70,13 +72,13 @@ export default function Quiz() {
     const correct = results.filter(Boolean).length
     return (
       <div className="page narrow">
-        <h1>{blockTitle(block)} 완료</h1>
+        <h1>{t.quizDone(blockTitle(t, block))}</h1>
         <div className="card center">
           <div className="score">{correct} / {questions.length}</div>
-          <p className="muted">정답률 {Math.round((correct / questions.length) * 100)}%
-            {correct < questions.length && ' — 틀린 문항은 복습 큐에 등록됩니다 (1·3·7·21일 간격)'}
+          <p className="muted">{t.accuracy(Math.round((correct / questions.length) * 100))}
+            {correct < questions.length && t.reviewNote}
           </p>
-          <button className="primary" onClick={finish}>블록 완료</button>
+          <button className="primary" onClick={finish}>{t.completeBlock}</button>
         </div>
       </div>
     )
@@ -87,7 +89,7 @@ export default function Quiz() {
   return (
     <div className="page narrow">
       <div className="quiz-head">
-        <span className="badge">{blockTitle(block)}</span>
+        <span className="badge">{blockTitle(t, block)}</span>
         <span className="muted">{idx + 1} / {questions.length}</span>
       </div>
       <div className="progressbar"><div style={{ width: `${(results.length / questions.length) * 100}%` }} /></div>
@@ -112,17 +114,17 @@ export default function Quiz() {
 
         {chosen && (
           <div className={`explain ${isCorrect ? 'ok' : 'no'}`}>
-            <div className="explain-head">{isCorrect ? '✅ 정답!' : '❌ 오답'}</div>
+            <div className="explain-head">{isCorrect ? t.correct : t.wrong}</div>
             <p>{txt(q.explanation_i18n, showEnglish ? 'en' : lang)}</p>
             {lang !== 'en' && q.explanation_i18n.en && (
               <button className="ghost small" onClick={() => setShowEnglish(!showEnglish)}>
-                {showEnglish ? '모국어 해설 보기' : 'English explanation'}
+                {showEnglish ? t.nativeExplain : t.engExplain}
               </button>
             )}
             <div className="right">
               {idx + 1 < questions.length
-                ? <button className="primary" onClick={next}>다음 문항 →</button>
-                : <button className="primary" onClick={() => setChosen(null)}>결과 보기</button>}
+                ? <button className="primary" onClick={next}>{t.nextQ}</button>
+                : <button className="primary" onClick={() => setChosen(null)}>{t.seeResults}</button>}
             </div>
           </div>
         )}

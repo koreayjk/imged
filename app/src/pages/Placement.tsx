@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { Navigate, useNavigate } from 'react-router-dom'
 import { useAppState } from '../lib/useStore'
 import { store, placementQuestions, scoreToLevel } from '../lib/store'
-import { LEVEL_LABEL } from '../lib/types'
+import { useT, levelLabel } from '../lib/i18n'
 import type { Question } from '../lib/types'
 
 type Phase = 'intro' | 'math' | 'english' | 'result'
@@ -13,6 +13,7 @@ function txt(i18n: Record<string, string>, lang: string) {
 
 export default function Placement() {
   const { profile } = useAppState()
+  const { t } = useT()
   const nav = useNavigate()
   const [phase, setPhase] = useState<Phase>('intro')
   const [idx, setIdx] = useState(0)
@@ -51,15 +52,15 @@ export default function Placement() {
   if (phase === 'intro') {
     return (
       <div className="page narrow">
-        <h1>배치 테스트</h1>
-        <p>수학 {mathQs.length}문항 → 영어 {engQs.length}문항을 풉니다. 결과에 따라 과목별 레벨(기초/중급/상급)이 정해집니다.</p>
+        <h1>{t.placementTitle}</h1>
+        <p>{t.placementIntro(mathQs.length, engQs.length)}</p>
         <ul className="muted">
-          <li>50% 미만 → 기초: 전 과정 처음부터</li>
-          <li>50–79% → 중급: 기초 유닛 건너뛰기</li>
-          <li>80% 이상 → 상급: 입문 과정 건너뛰기 + 상위 콘텐츠</li>
+          <li>{t.cutBasic}</li>
+          <li>{t.cutInter}</li>
+          <li>{t.cutAdv}</li>
         </ul>
-        <p className="muted">모르는 문제는 찍지 말고 가장 그럴듯한 답을 고르세요. 레벨은 관리자 확인 후 조정될 수 있습니다.</p>
-        <button className="primary" onClick={() => setPhase('math')}>테스트 시작</button>
+        <p className="muted">{t.placementTip}</p>
+        <button className="primary" onClick={() => setPhase('math')}>{t.startTest}</button>
       </div>
     )
   }
@@ -71,20 +72,20 @@ export default function Placement() {
     const le = scoreToLevel(ep)
     return (
       <div className="page narrow">
-        <h1>배치 결과</h1>
+        <h1>{t.resultTitle}</h1>
         <div className="result-grid">
           <div className="card">
-            <div className="muted">수학</div>
+            <div className="muted">{t.math}</div>
             <div className="score">{mp}%</div>
-            <div className="badge big">{LEVEL_LABEL[lm]}</div>
+            <div className="badge big">{levelLabel(t, lm)}</div>
           </div>
           <div className="card">
-            <div className="muted">영어</div>
+            <div className="muted">{t.english}</div>
             <div className="score">{ep}%</div>
-            <div className="badge big">{LEVEL_LABEL[le]}</div>
+            <div className="badge big">{levelLabel(t, le)}</div>
           </div>
         </div>
-        <p className="muted">과학·사회 트랙은 영어 레벨을 따릅니다 (병목은 배경지식이 아니라 영어 독해력).</p>
+        <p className="muted">{t.scienceNote}</p>
         <button
           className="primary"
           onClick={() => {
@@ -95,7 +96,7 @@ export default function Placement() {
             nav('/today')
           }}
         >
-          로드맵 생성하고 시작하기
+          {t.generateRoadmap}
         </button>
       </div>
     )
@@ -104,7 +105,7 @@ export default function Placement() {
   return (
     <div className="page narrow">
       <div className="quiz-head">
-        <span className="badge">{phase === 'math' ? '수학' : '영어'}</span>
+        <span className="badge">{phase === 'math' ? t.math : t.english}</span>
         <span className="muted">{idx + 1} / {qs.length}</span>
       </div>
       <div className="progressbar"><div style={{ width: `${(idx / qs.length) * 100}%` }} /></div>

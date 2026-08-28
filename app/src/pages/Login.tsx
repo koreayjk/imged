@@ -1,18 +1,20 @@
 import { useState } from 'react'
 import { store } from '../lib/store'
+import { useT, setUiLang } from '../lib/i18n'
 import type { Lang } from '../lib/types'
 
 // 데모 모드 로그인. Supabase 연결 시 이메일+비밀번호(Auth)로 교체한다.
 export default function Login() {
+  const { t, lang } = useT()
   const [name, setName] = useState('')
   const [role, setRole] = useState<'student' | 'admin'>('student')
-  const [lang, setLang] = useState<Lang>('ko')
+  const [nativeLang, setNativeLang] = useState<Lang>('ko')
 
   function submit(e: React.FormEvent) {
     e.preventDefault()
     if (!name.trim()) return
     store.setProfile({
-      name: name.trim(), role, nativeLang: lang,
+      name: name.trim(), role, nativeLang,
       duration: null, levelMath: null, levelEnglish: null, startedAt: null,
     })
   }
@@ -20,15 +22,27 @@ export default function Login() {
   return (
     <div className="center-page">
       <form className="card login-card" onSubmit={submit}>
-        <h1>GED 자율학습</h1>
-        <p className="muted">데모 모드 — Supabase 연결 전 파일럿 미리보기</p>
+        <div className="login-lang">
+          <button type="button" className="ghost small" onClick={() => setUiLang(lang === 'ko' ? 'en' : 'ko')}>
+            {t.langToggle}
+          </button>
+        </div>
+        <h1>{t.appName}</h1>
+        <p className="muted">{t.demoNote}</p>
         <label>
-          이름
-          <input value={name} onChange={(e) => setName(e.target.value)} placeholder="이름을 입력하세요" autoFocus />
+          {t.name}
+          <input value={name} onChange={(e) => setName(e.target.value)} placeholder={t.namePh} autoFocus />
         </label>
         <label>
-          모국어
-          <select value={lang} onChange={(e) => setLang(e.target.value as Lang)}>
+          {t.nativeLang}
+          <select
+            value={nativeLang}
+            onChange={(e) => {
+              const v = e.target.value as Lang
+              setNativeLang(v)
+              if (v === 'ko' || v === 'en') setUiLang(v)
+            }}
+          >
             <option value="ko">한국어</option>
             <option value="en">English</option>
             <option value="zh">中文</option>
@@ -36,13 +50,13 @@ export default function Login() {
           </select>
         </label>
         <label>
-          역할
+          {t.role}
           <select value={role} onChange={(e) => setRole(e.target.value as 'student' | 'admin')}>
-            <option value="student">학생</option>
-            <option value="admin">관리자</option>
+            <option value="student">{t.student}</option>
+            <option value="admin">{t.admin}</option>
           </select>
         </label>
-        <button type="submit" className="primary">시작하기</button>
+        <button type="submit" className="primary">{t.start}</button>
       </form>
     </div>
   )

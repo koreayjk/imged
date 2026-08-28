@@ -64,6 +64,7 @@ button.small { padding: 0.3rem 0.7rem; font-size: 0.85rem; }
 
 /* 로그인/세팅 */
 .login-card { width: 340px; display: flex; flex-direction: column; gap: 0.8rem; }
+.login-lang { text-align: right; margin-bottom: -0.6rem; }
 .login-card h1 { margin: 0; }
 label { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.9rem; color: var(--muted); }
 input, select {

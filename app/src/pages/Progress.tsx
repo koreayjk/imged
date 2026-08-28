@@ -1,12 +1,13 @@
 import { useAppState } from '../lib/useStore'
 import { useRoadmap } from '../lib/roadmap'
-import { SUBJECT_LABEL } from '../lib/types'
+import { useT, durationLabel } from '../lib/i18n'
 
 export default function ProgressPage() {
   const state = useAppState()
+  const { t } = useT()
   const p = state.profile!
   const { roadmap } = useRoadmap(p.duration, p.levelMath, p.levelEnglish)
-  if (!roadmap) return <div className="page muted">불러오는 중…</div>
+  if (!roadmap) return <div className="page muted">{t.loading}</div>
 
   const totalDays = roadmap.days.length
   const doneDays = Object.values(state.dayStates).filter((d) => d.finished).length
@@ -34,44 +35,45 @@ export default function ProgressPage() {
     .sort((a, b) => b[1].wrong / b[1].total - a[1].wrong / a[1].total)
     .slice(0, 3)
 
-  // 과목별 정답률
   const attempts = state.attempts
   const correctPct = attempts.length
     ? Math.round((attempts.filter((a) => a.correct).length / attempts.length) * 100) : null
 
+  const durLabel = p.duration ? durationLabel(t, p.duration) : roadmap.label
+
   return (
     <div className="page">
-      <h1>내 진도</h1>
+      <h1>{t.progressTitle}</h1>
       <div className="stat-grid">
-        <div className="card stat"><div className="score">{doneDays}<span className="unit">/{totalDays}일</span></div><div className="muted">완료한 학습일</div></div>
-        <div className="card stat"><div className="score">{streak}<span className="unit">일</span></div><div className="muted">연속 학습</div></div>
-        <div className="card stat"><div className="score">{videosDone}<span className="unit">개</span></div><div className="muted">완료한 영상</div></div>
-        <div className="card stat"><div className="score">{watchedMin}<span className="unit">분</span></div><div className="muted">누적 시청 시간</div></div>
-        <div className="card stat"><div className="score">{correctPct !== null ? `${correctPct}%` : '—'}</div><div className="muted">전체 정답률</div></div>
+        <div className="card stat"><div className="score">{doneDays}<span className="unit">/{totalDays}{t.unitDays}</span></div><div className="muted">{t.doneDaysLabel}</div></div>
+        <div className="card stat"><div className="score">{streak}<span className="unit">{t.unitDays}</span></div><div className="muted">{t.streakLabel}</div></div>
+        <div className="card stat"><div className="score">{videosDone}<span className="unit">{t.unitCount}</span></div><div className="muted">{t.videosLabel}</div></div>
+        <div className="card stat"><div className="score">{watchedMin}<span className="unit">{t.unitMin}</span></div><div className="muted">{t.watchedLabel}</div></div>
+        <div className="card stat"><div className="score">{correctPct !== null ? `${correctPct}%` : '—'}</div><div className="muted">{t.accuracyLabel}</div></div>
       </div>
 
       <div className="card">
-        <h3>전체 진행률</h3>
+        <h3>{t.overallTitle}</h3>
         <div className="progressbar big"><div style={{ width: `${(doneDays / totalDays) * 100}%` }} /></div>
-        <div className="muted small">{roadmap.label} 과정 · {Math.round((doneDays / totalDays) * 100)}%</div>
+        <div className="muted small">{t.courseOf(durLabel, Math.round((doneDays / totalDays) * 100))}</div>
       </div>
 
       <div className="card">
-        <h3>취약 스킬 Top 3</h3>
+        <h3>{t.weakTitle}</h3>
         {weak.length === 0
-          ? <p className="muted">아직 데이터가 부족합니다. 문항을 더 풀어보세요.</p>
+          ? <p className="muted">{t.weakEmpty}</p>
           : (
             <ul>
               {weak.map(([tag, s]) => (
                 <li key={tag}>
-                  <b>{tag}</b> — 오답률 {Math.round((s.wrong / s.total) * 100)}% ({s.wrong}/{s.total})
-                  <span className="muted small"> → 보충 계획 추천 대상</span>
+                  <b>{tag}</b> — {t.weakRow(Math.round((s.wrong / s.total) * 100), s.wrong, s.total)}
+                  <span className="muted small">{t.weakHint}</span>
                 </li>
               ))}
             </ul>
           )}
       </div>
-      <p className="muted small">{SUBJECT_LABEL.math} 레벨과 {SUBJECT_LABEL.rla} 레벨은 관리자가 조정할 수 있습니다.</p>
+      <p className="muted small">{t.levelsNote}</p>
     </div>
   )
 }

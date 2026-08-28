@@ -2,10 +2,11 @@ import { Link } from 'react-router-dom'
 import { useAppState } from '../lib/useStore'
 import { store } from '../lib/store'
 import { useRoadmap, blockTitle, needsQuiz } from '../lib/roadmap'
+import { useT, type Dict } from '../lib/i18n'
 import type { Block } from '../lib/types'
 
-function BlockRow({ b, dayIndex, blockIndex, active, done, totalBlocks }: {
-  b: Block; dayIndex: number; blockIndex: number; active: boolean; done: boolean; totalBlocks: number
+function BlockRow({ t, b, dayIndex, blockIndex, active, done, totalBlocks }: {
+  t: Dict; b: Block; dayIndex: number; blockIndex: number; active: boolean; done: boolean; totalBlocks: number
 }) {
   const { videoProgress } = useAppState()
   const icon = done ? '✅' : active ? '▶️' : '🔒'
@@ -18,10 +19,9 @@ function BlockRow({ b, dayIndex, blockIndex, active, done, totalBlocks }: {
     <div className={cls}>
       <div className="block-head">
         <span className="block-icon">{icon}</span>
-        <span className="block-title">{blockTitle(b)}</span>
-        {b.minutes ? <span className="badge">{b.minutes}분</span> : null}
+        <span className="block-title">{blockTitle(t, b)}</span>
+        {b.minutes ? <span className="badge">{t.minutes(b.minutes)}</span> : null}
       </div>
-      {b.note && <div className="muted small">{b.note}</div>}
 
       {b.type === 'study' && videos.length > 0 && (
         <ul className="video-list">
@@ -36,7 +36,7 @@ function BlockRow({ b, dayIndex, blockIndex, active, done, totalBlocks }: {
                 ) : (
                   <span className="muted">▸ {v.title}</span>
                 )}
-                <span className="muted small"> {Math.round(v.duration_sec / 60)}분</span>
+                <span className="muted small"> {t.minutes(Math.round(v.duration_sec / 60))}</span>
               </li>
             )
           })}
@@ -46,7 +46,7 @@ function BlockRow({ b, dayIndex, blockIndex, active, done, totalBlocks }: {
       {active && !done && (
         b.type === 'checkin' ? (
           <div className="checkin-row">
-            {['😵 어려웠어요', '🙂 보통이에요', '😄 쉬웠어요'].map((label, i) => (
+            {[t.checkinHard, t.checkinOk, t.checkinEasy].map((label, i) => (
               <button key={i} className="ghost" onClick={() => store.completeBlock(dayIndex, blockIndex, totalBlocks)}>
                 {label}
               </button>
@@ -55,18 +55,18 @@ function BlockRow({ b, dayIndex, blockIndex, active, done, totalBlocks }: {
         ) : needsQuiz(b) ? (
           <div className="block-actions">
             {b.type === 'study' && !allVideosDone && (
-              <span className="muted small">영상을 모두 시청하면 문항을 풀 수 있어요</span>
+              <span className="muted small">{t.videosFirst}</span>
             )}
             <Link
               className={`btn primary ${b.type === 'study' && !allVideosDone ? 'disabled' : ''}`}
               to={`/quiz/${dayIndex}/${blockIndex}`}
               onClick={(e) => { if (b.type === 'study' && !allVideosDone) e.preventDefault() }}
             >
-              {b.type === 'study' ? `문항 풀기 (${b.practice_minutes ?? 10}분)` : '문항 풀기'}
+              {b.type === 'study' ? t.solveMin(b.practice_minutes ?? 10) : t.solve}
             </Link>
           </div>
         ) : (
-          <button className="primary" onClick={() => store.completeBlock(dayIndex, blockIndex, totalBlocks)}>완료</button>
+          <button className="primary" onClick={() => store.completeBlock(dayIndex, blockIndex, totalBlocks)}>{t.complete}</button>
         )
       )}
     </div>
@@ -75,11 +75,12 @@ function BlockRow({ b, dayIndex, blockIndex, active, done, totalBlocks }: {
 
 export default function Today() {
   const state = useAppState()
+  const { t } = useT()
   const p = state.profile!
   const { roadmap, error } = useRoadmap(p.duration, p.levelMath, p.levelEnglish)
 
-  if (error) return <div className="page">오류: {error}</div>
-  if (!roadmap) return <div className="page muted">로드맵 불러오는 중…</div>
+  if (error) return <div className="page">{error}</div>
+  if (!roadmap) return <div className="page muted">{t.roadmapLoading}</div>
 
   const dayIndex = Math.min(state.currentDayIndex, roadmap.days.length - 1)
   const day = roadmap.days[dayIndex]
@@ -88,7 +89,6 @@ export default function Today() {
   const doneCount = ds.doneBlocks.length
   const allDone = state.currentDayIndex >= roadmap.days.length
 
-  // 사이드바: 이번 주 현황
   const weekDays = roadmap.days
     .map((d, i) => ({ d, i }))
     .filter(({ d }) => d.week === day.week)
@@ -96,7 +96,7 @@ export default function Today() {
   return (
     <div className="today-layout">
       <aside className="sidebar card">
-        <h3>{day.week}주차</h3>
+        <h3>{t.weekTitle(day.week)}</h3>
         <ul className="week-list">
           {weekDays.map(({ d, i }) => (
             <li key={i} className={i === dayIndex ? 'current' : ''}>
@@ -104,31 +104,31 @@ export default function Today() {
             </li>
           ))}
         </ul>
-        <div className="muted small">전체 {roadmap.days.length}일 중 {dayIndex + 1}일차</div>
+        <div className="muted small">{t.dayOfTotal(dayIndex + 1, roadmap.days.length)}</div>
       </aside>
 
       <section className="page">
         <div className="today-head">
-          <h1>오늘의 과제 — {day.week}주차 Day {day.day}</h1>
-          <div className="muted">{doneCount} / {day.blocks.length} 완료</div>
+          <h1>{t.todayTitle(day.week, day.day)}</h1>
+          <div className="muted">{t.doneOf(doneCount, day.blocks.length)}</div>
         </div>
         <div className="progressbar"><div style={{ width: `${(doneCount / day.blocks.length) * 100}%` }} /></div>
 
-        {allDone && <div className="card celebrate">🎓 모든 일정을 완료했습니다!</div>}
+        {allDone && <div className="card celebrate">{t.allDone}</div>}
         {ds.finished && !allDone && (
-          <div className="card celebrate">🎉 오늘 학습 완료! 내일 다시 만나요.</div>
+          <div className="card celebrate">{t.dayDone}</div>
         )}
 
         {day.blocks.map((b, i) => (
           <BlockRow
-            key={i} b={b} dayIndex={dayIndex} blockIndex={i}
+            key={i} t={t} b={b} dayIndex={dayIndex} blockIndex={i}
             active={i === activeIndex && !ds.finished}
             done={ds.doneBlocks.includes(i)}
             totalBlocks={day.blocks.length}
           />
         ))}
 
-        <p className="muted small attribution">영상 출처: Khan Academy (CC BY-NC-SA) — youtube.com 임베드</p>
+        <p className="muted small attribution">{t.attribution}</p>
       </section>
     </div>
   )

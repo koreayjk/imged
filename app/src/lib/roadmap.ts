@@ -2,6 +2,7 @@
 //   수학·선행(t0) 트랙 → 수학 레벨 템플릿, 나머지(영어·과학·사회·통합) → 영어 레벨 템플릿
 import { useEffect, useState } from 'react'
 import { loadTemplate } from './store'
+import { trackLabel, type Dict } from './i18n'
 import type { Block, Duration, Level, SyllabusDay } from './types'
 
 export interface Roadmap {
@@ -57,14 +58,14 @@ export function needsQuiz(b: Block) {
     || b.type === 'monthly_test' || b.type === 'integration' || b.type === 'mock'
 }
 
-export function blockTitle(b: Block): string {
+export function blockTitle(t: Dict, b: Block): string {
   switch (b.type) {
-    case 'warmup': return '워밍업 — 복습 5문항'
-    case 'study': return `${b.label ?? b.track} 학습`
-    case 'integration': return '실전 통합 복습'
-    case 'mock': return '모의고사'
-    case 'weekly_test': return '위클리 테스트'
-    case 'monthly_test': return '먼슬리 테스트'
-    case 'checkin': return '체크인 — 이해도 자가평가'
+    case 'warmup': return t.warmupTitle
+    case 'study': return `${trackLabel(t, b.track)}${t.studySuffix}`
+    case 'integration': return t.integrationTitle
+    case 'mock': return t.mockTitle
+    case 'weekly_test': return t.weeklyTest
+    case 'monthly_test': return t.monthlyTest
+    case 'checkin': return t.checkinTitle
   }
 }

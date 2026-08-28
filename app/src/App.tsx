@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route, Navigate, Link, useLocation } from 'react-router-dom'
 import { useAppState } from './lib/useStore'
 import { store } from './lib/store'
+import { useT, setUiLang, durationLabel, levelLabel } from './lib/i18n'
 import Login from './pages/Login'
 import Setup from './pages/Setup'
 import Placement from './pages/Placement'
@@ -9,19 +10,19 @@ import Lesson from './pages/Lesson'
 import Quiz from './pages/Quiz'
 import ProgressPage from './pages/Progress'
 import Admin from './pages/Admin'
-import { DURATION_LABEL, LEVEL_LABEL } from './lib/types'
 
 function Shell({ children }: { children: React.ReactNode }) {
   const { profile } = useAppState()
+  const { t, lang } = useT()
   const loc = useLocation()
   if (!profile) return <Navigate to="/login" replace />
   const nav = profile.role === 'admin'
-    ? [['/admin', '대시보드'] as const]
-    : [['/today', '오늘의 과제'] as const, ['/progress', '내 진도'] as const]
+    ? [['/admin', t.navDashboard] as const]
+    : [['/today', t.navToday] as const, ['/progress', t.navProgress] as const]
   return (
     <div className="shell">
       <header className="topbar">
-        <div className="brand">GED 자율학습</div>
+        <div className="brand">{t.appName}</div>
         <nav>
           {nav.map(([to, label]) => (
             <Link key={to} to={to} className={loc.pathname.startsWith(to) ? 'active' : ''}>{label}</Link>
@@ -30,11 +31,12 @@ function Shell({ children }: { children: React.ReactNode }) {
         <div className="userbox">
           <span>
             {profile.name}
-            {profile.duration && ` · ${DURATION_LABEL[profile.duration]}`}
-            {profile.levelMath && ` · 수학 ${LEVEL_LABEL[profile.levelMath]}`}
-            {profile.levelEnglish && ` / 영어 ${LEVEL_LABEL[profile.levelEnglish]}`}
+            {profile.duration && ` · ${durationLabel(t, profile.duration)}`}
+            {profile.levelMath && ` · ${t.math} ${levelLabel(t, profile.levelMath)}`}
+            {profile.levelEnglish && ` / ${t.english} ${levelLabel(t, profile.levelEnglish)}`}
           </span>
-          <button className="ghost" onClick={() => store.logout()}>로그아웃</button>
+          <button className="ghost small" onClick={() => setUiLang(lang === 'ko' ? 'en' : 'ko')}>{t.langToggle}</button>
+          <button className="ghost" onClick={() => store.logout()}>{t.logout}</button>
         </div>
       </header>
       <main>{children}</main>
