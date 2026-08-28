@@ -1,10 +1,9 @@
 import { Link } from 'react-router-dom'
 import { useAppState } from '../lib/useStore'
 import { useT, setUiLang } from '../lib/i18n'
-import imgStudy from '../assets/lp/study-group.jpg'
-import imgGrad from '../assets/lp/graduation.jpg'
-import imgLiberty from '../assets/lp/liberty.jpg'
+import imgHero from '../assets/lp/hero-bg.jpg'
 import imgBooks from '../assets/lp/books-bg.jpg'
+import imgLibertyBg from '../assets/lp/liberty-bg.jpg'
 
 const FEATURE_ICONS = ['📅', '🎯', '🎬', '✍️', '🌏', '📊']
 const FEATURE_TONES = ['blue', 'purple', 'orange', 'green', 'teal', 'pink']
@@ -34,55 +33,44 @@ export default function Landing() {
 
   return (
     <div className="lp">
-      <div className="lp-glow lp-glow-a" />
-      <div className="lp-glow lp-glow-b" />
-
-      <header className="lp-nav">
-        <div className="brand">🎓 {t.appName}</div>
-        <div className="lp-nav-right">
-          <button className="ghost small" onClick={() => setUiLang(lang === 'ko' ? 'en' : 'ko')}>
-            {t.langToggle}
-          </button>
-          <Link className="btn ghost" to="/login">{t.lpCtaLogin}</Link>
-        </div>
-      </header>
-
-      <section className="lp-hero">
-        <div className="lp-tagline lp-fade" style={{ animationDelay: '0ms' }}>{t.lpTagline}</div>
-        <h1 className="lp-fade" style={{ animationDelay: '80ms' }}>
-          {t.lpTitle1}<br /><span className="lp-grad">{t.lpTitle2}</span>
-        </h1>
-        <p className="lp-sub lp-fade" style={{ animationDelay: '160ms' }}>{t.lpSub}</p>
-        <div className="lp-fade" style={{ animationDelay: '240ms' }}>
-          <Link className="btn primary lp-cta" to={cta.to}>{cta.label} →</Link>
-          <div className="lp-badges">
-            <span>{t.lpBadge1}</span><span>{t.lpBadge2}</span><span>{t.lpBadge3}</span>
+      <section className="lp-hero" style={{ backgroundImage: `url(${imgHero})` }}>
+        <header className="lp-nav">
+          <div className="brand">🎓 {t.appName}</div>
+          <div className="lp-nav-right">
+            <button className="ghost small" onClick={() => setUiLang(lang === 'ko' ? 'en' : 'ko')}>
+              {t.langToggle}
+            </button>
+            <Link className="btn ghost" to="/login">{t.lpCtaLogin}</Link>
           </div>
-        </div>
+        </header>
 
-        <div className="lp-mock-wrap lp-fade" style={{ animationDelay: '320ms' }}>
-          <figure className="lp-polaroid lp-pol-1">
-            <img src={imgStudy} alt="" loading="lazy" />
-            <figcaption>{t.lpPh1}</figcaption>
-          </figure>
-          <figure className="lp-polaroid lp-pol-2">
-            <img src={imgGrad} alt="" loading="lazy" />
-            <figcaption>{t.lpPh2}</figcaption>
-          </figure>
-          <figure className="lp-polaroid lp-pol-3">
-            <img src={imgLiberty} alt="" loading="lazy" />
-            <figcaption>{t.lpPh3}</figcaption>
-          </figure>
-          <div className="lp-mock">
-            <div className="lp-mock-bar">
-              <span className="lp-dot r" /><span className="lp-dot y" /><span className="lp-dot g" />
-              <span className="lp-mock-title">{t.navToday}</span>
+        <div className="lp-hero-inner">
+          <div className="lp-hero-text">
+            <div className="lp-tagline lp-fade" style={{ animationDelay: '0ms' }}>{t.lpTagline}</div>
+            <h1 className="lp-fade" style={{ animationDelay: '80ms' }}>
+              {t.lpTitle1}<br /><span className="lp-grad">{t.lpTitle2}</span>
+            </h1>
+            <p className="lp-sub lp-fade" style={{ animationDelay: '160ms' }}>{t.lpSub}</p>
+            <div className="lp-fade" style={{ animationDelay: '240ms' }}>
+              <Link className="btn primary lp-cta" to={cta.to}>{cta.label} →</Link>
+              <div className="lp-badges">
+                <span>{t.lpBadge1}</span><span>{t.lpBadge2}</span><span>{t.lpBadge3}</span>
+              </div>
             </div>
-            <div className="lp-mock-progress"><div /></div>
-            <div className="lp-mock-row done">✅ {t.warmupTitle} <span className="badge">{t.minutes(5)}</span></div>
-            <div className="lp-mock-row active">▶️ {t.math}{t.studySuffix} <span className="badge on">{t.minutes(35)}</span></div>
-            <div className="lp-mock-row">🔒 {t.english}{t.studySuffix} <span className="badge">{t.minutes(20)}</span></div>
-            <div className="lp-mock-row">🔒 {t.checkinTitle} <span className="badge">{t.minutes(5)}</span></div>
+          </div>
+
+          <div className="lp-mock-wrap lp-fade" style={{ animationDelay: '320ms' }}>
+            <div className="lp-mock">
+              <div className="lp-mock-bar">
+                <span className="lp-dot r" /><span className="lp-dot y" /><span className="lp-dot g" />
+                <span className="lp-mock-title">{t.navToday}</span>
+              </div>
+              <div className="lp-mock-progress"><div /></div>
+              <div className="lp-mock-row done">✅ {t.warmupTitle} <span className="badge">{t.minutes(5)}</span></div>
+              <div className="lp-mock-row active">▶️ {t.math}{t.studySuffix} <span className="badge on">{t.minutes(35)}</span></div>
+              <div className="lp-mock-row">🔒 {t.english}{t.studySuffix} <span className="badge">{t.minutes(20)}</span></div>
+              <div className="lp-mock-row">🔒 {t.checkinTitle} <span className="badge">{t.minutes(5)}</span></div>
+            </div>
           </div>
         </div>
       </section>
@@ -132,7 +120,7 @@ export default function Landing() {
         </div>
       </section>
 
-      <section className="lp-band" style={{ backgroundImage: `url(${imgGrad})` }}>
+      <section className="lp-band" style={{ backgroundImage: `url(${imgLibertyBg})` }}>
         <div className="lp-band-inner">
           <h2>{t.lpBandTitle}</h2>
           <p>{t.lpBandSub}</p>
