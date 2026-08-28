@@ -48,7 +48,7 @@ export default function Landing() {
       </header>
 
       <section className="lp-hero">
-        <div className="lp-tagline lp-fade" style={{ animationDelay: '0ms' }}>🇹🇭 {t.lpTagline}</div>
+        <div className="lp-tagline lp-fade" style={{ animationDelay: '0ms' }}>{t.lpTagline}</div>
         <h1 className="lp-fade" style={{ animationDelay: '80ms' }}>
           {t.lpTitle1}<br /><span className="lp-grad">{t.lpTitle2}</span>
         </h1>
