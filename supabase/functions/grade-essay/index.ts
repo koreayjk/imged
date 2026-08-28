@@ -135,7 +135,9 @@ Score this essay on the GED rubric and produce the structured feedback.`;
           responseMimeType: "application/json",
           responseSchema: RESPONSE_SCHEMA,
           temperature: 0.2,
-          maxOutputTokens: 4000,
+          maxOutputTokens: 8192,
+          // 2.5 모델의 thinking 토큰이 출력 한도를 소진해 JSON이 잘리는 것 방지
+          thinkingConfig: { thinkingBudget: 0 },
         },
       }),
     });
@@ -143,15 +145,24 @@ Score this essay on the GED rubric and produce the structured feedback.`;
     if (!geminiRes.ok) {
       const detail = await geminiRes.text();
       console.error("gemini error", geminiRes.status, detail.slice(0, 500));
-      // 무료 티어 분당 한도(429) 등을 구분해 전달
-      return json({ error: geminiRes.status === 429 ? "rate_limited" : "grading_failed" }, 502);
+      // 무료 티어 분당 한도(429) 등을 구분해 전달 + 원인 진단용 detail
+      return json({
+        error: geminiRes.status === 429 ? "rate_limited" : "grading_failed",
+        detail: `gemini_http_${geminiRes.status}: ${detail.slice(0, 300)}`,
+      }, 502);
     }
 
     const payload = await geminiRes.json();
-    const text = payload?.candidates?.[0]?.content?.parts?.[0]?.text;
+    // thought 파트를 제외한 텍스트 파트만 수집
+    const parts = payload?.candidates?.[0]?.content?.parts ?? [];
+    const text = parts
+      .filter((p: { text?: string; thought?: boolean }) => p.text && !p.thought)
+      .map((p: { text: string }) => p.text)
+      .join("");
     if (!text) {
+      const finish = payload?.candidates?.[0]?.finishReason;
       console.error("gemini empty response", JSON.stringify(payload).slice(0, 500));
-      return json({ error: "grading_failed" }, 502);
+      return json({ error: "grading_failed", detail: `empty_output finishReason=${finish}` }, 502);
     }
 
     let grade;
@@ -159,7 +170,7 @@ Score this essay on the GED rubric and produce the structured feedback.`;
       grade = JSON.parse(text);
     } catch {
       console.error("gemini non-JSON output", text.slice(0, 300));
-      return json({ error: "grading_failed" }, 502);
+      return json({ error: "grading_failed", detail: `non_json: ${text.slice(0, 200)}` }, 502);
     }
 
     // 점수 정합성 보정
