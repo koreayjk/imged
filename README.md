@@ -5,7 +5,16 @@
 - 기능 명세: [docs/GED_기능_명세서.md](docs/GED_기능_명세서.md)
 - 커리큘럼 규칙: [docs/GED_실라버스_설계.md](docs/GED_실라버스_설계.md)
 
-## 현재 단계: 실라버스 제작 파이프라인
+## 앱 (MVP)
+
+```bash
+cd app && npm install && npm run dev    # http://localhost:5173
+```
+
+- **데모 모드**: Supabase 없이 브라우저(localStorage)만으로 전체 플로우 동작 — 로그인 → 기간 선택 → 배치 테스트(상/중/하) → 오늘의 과제(순차 강제) → 유튜브 레슨(시청 추적, 90% 완료) → 문항 풀이(즉시 채점+모국어 해설) → 내 진도 / 관리자 대시보드
+- **Supabase 연결**: `supabase/migrations/0001_init.sql` 적용 → `supabase/seed/*.sql` 순서대로 실행 → `app/.env`에 `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY` 설정 (Auth 연동은 Phase 2)
+
+## 실라버스 제작 파이프라인
 
 앱 개발 전에 4과목 실라버스부터 확정한다. 파이프라인은 3단계:
 
