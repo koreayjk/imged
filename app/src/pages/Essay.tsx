@@ -92,7 +92,7 @@ export default function Essay() {
       setGrade(data.grade as Grade)
     } catch (e) {
       console.error(e)
-      setError(t.essayGradeFailed)
+      setError(String(e).includes('rate_limited') ? t.essayRateLimited : t.essayGradeFailed)
     } finally {
       setGrading(false)
     }
