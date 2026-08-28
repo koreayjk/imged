@@ -5,6 +5,7 @@ import { store } from './lib/store'
 import { supabase, supabaseEnabled } from './lib/supabase'
 import { signOut, startSync, stopSync } from './lib/sync'
 import { useT, setUiLang, durationLabel, levelLabel } from './lib/i18n'
+import Landing from './pages/Landing'
 import Login from './pages/Login'
 import Setup from './pages/Setup'
 import Placement from './pages/Placement'
@@ -74,6 +75,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
+        <Route path="/" element={<Landing />} />
         <Route path="/login" element={profile ? <Navigate to={profile.role === 'admin' ? '/admin' : '/today'} replace /> : <Login />} />
         <Route path="/setup" element={<Shell><Setup /></Shell>} />
         <Route path="/placement" element={<Shell><Placement /></Shell>} />
@@ -82,7 +84,7 @@ export default function App() {
         <Route path="/quiz/:dayIndex/:blockIndex" element={<Shell><StudentGate><Quiz /></StudentGate></Shell>} />
         <Route path="/progress" element={<Shell><StudentGate><ProgressPage /></StudentGate></Shell>} />
         <Route path="/admin" element={<Shell><Admin /></Shell>} />
-        <Route path="*" element={<Navigate to={profile ? (profile.role === 'admin' ? '/admin' : '/today') : '/login'} replace />} />
+        <Route path="*" element={<Navigate to={profile ? (profile.role === 'admin' ? '/admin' : '/today') : '/'} replace />} />
       </Routes>
     </BrowserRouter>
   )
