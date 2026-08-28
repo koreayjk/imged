@@ -37,6 +37,11 @@ const dict = {
     demoNote: '데모 모드 — Supabase 연결 전 파일럿 미리보기',
     name: '이름', namePh: '이름을 입력하세요', nativeLang: '모국어', role: '역할',
     student: '학생', admin: '관리자', start: '시작하기',
+    email: '이메일', password: '비밀번호 (6자 이상)',
+    signIn: '로그인', signUp: '계정 만들기',
+    toSignUp: '계정이 없나요? 가입하기', toSignIn: '이미 계정이 있나요? 로그인',
+    checkEmail: '확인 이메일을 보냈습니다. 메일함을 확인해 주세요. (파일럿에서는 관리자가 이메일 확인을 꺼둘 수 있습니다)',
+    authWorking: '처리 중…',
 
     // 기간 선택
     setupTitle: '학습 기간 선택',
@@ -121,6 +126,9 @@ const dict = {
     risk3days: '3일 이상 미접속', riskAccuracy: '정답률 급락 (40% 미만)',
     studentsTitle: '학생 (데모)', thisBrowser: '이 브라우저의 학생',
     thName: '이름', thDuration: '기간', thMath: '수학', thEnglish: '영어', thDays: '완료일', thAccuracy: '정답률',
+    studentsReal: '학생 목록', enrolledReal: '등록 학생', thLastActive: '최근 활동',
+    loadFailed: '데이터를 불러오지 못했습니다', noStudents: '아직 등록된 학생이 없습니다.',
+    notAdminNote: '이 계정은 관리자 권한이 없습니다. Supabase에서 profiles.role 을 admin 으로 변경하세요.',
   },
 
   en: {
@@ -131,6 +139,11 @@ const dict = {
     demoNote: 'Demo mode — pilot preview before Supabase connection',
     name: 'Name', namePh: 'Enter your name', nativeLang: 'Native language', role: 'Role',
     student: 'Student', admin: 'Admin', start: 'Get started',
+    email: 'Email', password: 'Password (6+ characters)',
+    signIn: 'Sign in', signUp: 'Create account',
+    toSignUp: "No account? Sign up", toSignIn: 'Already have an account? Sign in',
+    checkEmail: 'Confirmation email sent — please check your inbox. (For the pilot, the admin may disable email confirmation)',
+    authWorking: 'Working…',
 
     setupTitle: 'Choose your study duration',
     setupDesc: 'Duration determines how much you cover (not how fast). Next, a placement test sets your level.',
@@ -206,6 +219,9 @@ const dict = {
     risk3days: 'No activity for 3+ days', riskAccuracy: 'Accuracy dropped below 40%',
     studentsTitle: 'Students (demo)', thisBrowser: 'Student on this browser',
     thName: 'Name', thDuration: 'Duration', thMath: 'Math', thEnglish: 'English', thDays: 'Days done', thAccuracy: 'Accuracy',
+    studentsReal: 'Students', enrolledReal: 'Enrolled students', thLastActive: 'Last active',
+    loadFailed: 'Failed to load data', noStudents: 'No students enrolled yet.',
+    notAdminNote: "This account isn't an admin. Set profiles.role to 'admin' in Supabase.",
   },
 } as const
 

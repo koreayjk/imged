@@ -1,6 +1,9 @@
+import { useEffect } from 'react'
 import { BrowserRouter, Routes, Route, Navigate, Link, useLocation } from 'react-router-dom'
 import { useAppState } from './lib/useStore'
 import { store } from './lib/store'
+import { supabase, supabaseEnabled } from './lib/supabase'
+import { signOut, startSync, stopSync } from './lib/sync'
 import { useT, setUiLang, durationLabel, levelLabel } from './lib/i18n'
 import Login from './pages/Login'
 import Setup from './pages/Setup'
@@ -36,7 +39,7 @@ function Shell({ children }: { children: React.ReactNode }) {
             {profile.levelEnglish && ` / ${t.english} ${levelLabel(t, profile.levelEnglish)}`}
           </span>
           <button className="ghost small" onClick={() => setUiLang(lang === 'ko' ? 'en' : 'ko')}>{t.langToggle}</button>
-          <button className="ghost" onClick={() => store.logout()}>{t.logout}</button>
+          <button className="ghost" onClick={() => (supabaseEnabled ? signOut() : store.logout())}>{t.logout}</button>
         </div>
       </header>
       <main>{children}</main>
@@ -54,6 +57,20 @@ function StudentGate({ children }: { children: React.ReactNode }) {
 
 export default function App() {
   const { profile } = useAppState()
+
+  // Supabase 세션 복원 + 인증 상태 추적
+  useEffect(() => {
+    if (!supabase) return
+    supabase.auth.getSession().then(({ data }) => {
+      if (data.session) startSync(data.session.user.id)
+    })
+    const { data: sub } = supabase.auth.onAuthStateChange((event, session) => {
+      if (event === 'SIGNED_IN' && session) startSync(session.user.id)
+      if (event === 'SIGNED_OUT') { stopSync(); store.logout() }
+    })
+    return () => sub.subscription.unsubscribe()
+  }, [])
+
   return (
     <BrowserRouter>
       <Routes>

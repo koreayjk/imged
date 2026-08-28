@@ -7,7 +7,7 @@ import sampleQuestions from '../data/sample_questions.json'
 
 const KEY = 'ged-app-v1'
 
-interface AppState {
+export interface AppState {
   profile: Profile | null
   videoProgress: Record<string, VideoProgress>
   dayStates: Record<number, DayState>   // dayIndex → state
@@ -46,6 +46,12 @@ export const store = {
   },
 
   setProfile(p: Profile) { state = { ...state, profile: p }; save() },
+
+  /** 서버 상태로 로컬 전체 교체 (Supabase 로그인 시) */
+  hydrate(partial: Partial<AppState>) {
+    state = { ...empty, ...partial }
+    save()
+  },
   logout() { state = { ...empty }; localStorage.removeItem(KEY); save() },
   reset() { this.logout() },
 
