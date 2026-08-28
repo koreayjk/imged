@@ -12,6 +12,7 @@
     { "key": "algebra-basics",        "tier": "T1", "subject": "math",    "title": "Algebra Basics",                      "slug_candidates": ["math/algebra-basics"] },
     { "key": "grammar",               "tier": "T1", "subject": "rla",     "title": "Grammar",                             "slug_candidates": ["humanities/grammar"] },
     { "key": "sat-reading-writing",   "tier": "T1", "subject": "rla",     "title": "Get ready for SAT prep: Reading and Writing", "slug_candidates": ["test-prep/get-ready-for-sat-prep-reading-and-writing"] },
+    { "key": "sat-rw-full",           "tier": "T2", "subject": "rla",     "title": "SAT Reading and Writing (풀버전, 상급용)", "slug_candidates": ["test-prep/sat-reading-and-writing"] },
     { "key": "us-government",         "tier": "T1", "subject": "social",  "title": "US Government and Civics",            "slug_candidates": ["humanities/us-government-and-civics"] },
     { "key": "statistics-probability","tier": "T1", "subject": "math",    "title": "Statistics & Probability",            "slug_candidates": ["math/statistics-probability"], "note": "T1은 Unit 2·3만, T2에서 전체+Unit 5. ged_scope.json에서 제어" },
     { "key": "hs-biology",            "tier": "T1", "subject": "science", "title": "High School Biology",                 "slug_candidates": ["science/hs-bio"] },

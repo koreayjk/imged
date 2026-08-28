@@ -66,6 +66,17 @@
       "optional": []
     },
 
+    "sat-rw-full": {
+      "default_action": "include",
+      "exclude": [
+        { "match": "^about the sat", "reason": "SAT 시험 안내 유닛 — GED와 무관" }
+      ],
+      "optional": [
+        { "match": "^foundations:", "reason": "Get ready 코스와 중복되는 기초 단계" },
+        { "match": "challenge: highest", "reason": "SAT 최고난도 — GED 범위 초과" }
+      ]
+    },
+
     "us-government": {
       "default_action": "include",
       "exclude": [],

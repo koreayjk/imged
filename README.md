@@ -31,15 +31,19 @@ python scripts/generate_syllabus.py    # 4개 기간 실라버스 생성
 |---|---|
 | `data/parsed/<course>.json` | 코스별 정규화 구조 (영상 youtube_id, 길이 포함) |
 | `docs/syllabus/영상선별_<course>.md` | 코스별 **들을 영상 / 뺄 영상** 목록 + 제외 사유 + 집계 |
-| `docs/syllabus/실라버스_<기간>.md` | 주차·일자별 상세 실라버스 (영상 링크·문항 시간·테스트 슬롯) |
-| `data/syllabus/<기간>.json` | 앱 시딩용 로드맵 원형 (roadmap_days) |
+| `docs/syllabus/실라버스_<기간>_<레벨>.md` | 기간(4종) × 레벨(기초/중급/상급) = 12종 주차·일자별 실라버스 |
+| `docs/syllabus/제외목록_<기간>_<레벨>.md` | 레벨 스킵·시간 제약으로 빠진 영상 (보충 계획 소스) |
+| `data/syllabus/<기간>_<레벨>.json` | 앱 시딩용 로드맵 원형 (roadmap_days) |
 | `docs/syllabus/_검증_리포트.md` | 트랙별 분량 vs 주차 배분 검증 (설계 §6-3) |
+
+레벨(상/중/하)은 온보딩 배치 테스트로 결정된다 — [docs/배치테스트_설계.md](docs/배치테스트_설계.md) 참조.
 
 ### 설정 파일
 
 - `config/courses.json` — 수집 대상 코스 (티어 T0~T3, slug 후보)
 - `config/ged_scope.json` — GED 범위 필터 규칙 (유닛 제목 정규식, 티어 조건, 제외 사유)
 - `config/durations.json` — 기간별 트랙 배치 (주차 범위, 1일 배정 시간, 코스 순서)
+- `config/levels.json` — 배치 레벨(기초/중급/상급)별 스킵 규칙·티어 보너스·확장 코스
 - `config/video_overrides.json` — (선택) 영상 단위 수동 포함/제외 오버라이드
 
 ### 참고
