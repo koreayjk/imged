@@ -4,17 +4,19 @@ import { useAppState } from '../lib/useStore'
 import { store } from '../lib/store'
 import { useRoadmap } from '../lib/roadmap'
 import { useT } from '../lib/i18n'
+import { useSummary } from '../lib/summaries'
 import { loadYouTubeApi } from '../lib/youtube'
 
 export default function Lesson() {
   const { dayIndex = '0', blockIndex = '0', videoIndex = '0' } = useParams()
   const state = useAppState()
-  const { t } = useT()
+  const { t, lang } = useT()
   const p = state.profile!
   const { roadmap } = useRoadmap(p.duration, p.levelMath, p.levelEnglish, p.style)
 
   const di = Number(dayIndex); const bi = Number(blockIndex); const vi = Number(videoIndex)
   const video = roadmap?.days[di]?.blocks[bi]?.videos?.[vi]
+  const summary = useSummary(video?.youtube_id ?? null, lang)
 
   const hostRef = useRef<HTMLDivElement>(null)
   const playerRef = useRef<any>(null)
@@ -99,7 +101,14 @@ export default function Lesson() {
 
       <div className="card summary">
         <h3>{t.summary}</h3>
-        <p className="muted">{t.summaryPending}</p>
+        {summary
+          ? (
+            <>
+              <p className="summary-body">{summary.text}</p>
+              {summary.fallback && <p className="muted small">{t.summaryEnOnly}</p>}
+            </>
+          )
+          : <p className="muted">{t.summaryPending}</p>}
         <p className="muted small">{t.source}: Khan Academy (CC BY-NC-SA) · <a href={video.youtube_url ?? '#'} target="_blank" rel="noreferrer">{t.watchOnYt}</a></p>
       </div>
     </div>

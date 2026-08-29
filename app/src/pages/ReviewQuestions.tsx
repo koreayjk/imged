@@ -3,6 +3,7 @@ import { Navigate } from 'react-router-dom'
 import { useAppState } from '../lib/useStore'
 import { useT, subjectLabel } from '../lib/i18n'
 import { supabase, supabaseEnabled } from '../lib/supabase'
+import TranslatePanel from './TranslatePanel'
 
 interface PendingQuestion {
   id: string
@@ -129,6 +130,8 @@ export default function ReviewQuestions() {
         {genMsg && <p className="muted small">{genMsg}</p>}
       </div>
 
+      <TranslatePanel />
+
       </div>
     )
   }
@@ -162,6 +165,8 @@ export default function ReviewQuestions() {
         </div>
         {genMsg && <p className="muted small">{genMsg}</p>}
       </div>
+
+      <TranslatePanel />
 
       <div className="card">
         <div className="review-meta">
