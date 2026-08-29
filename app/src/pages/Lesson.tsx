@@ -11,7 +11,7 @@ export default function Lesson() {
   const state = useAppState()
   const { t } = useT()
   const p = state.profile!
-  const { roadmap } = useRoadmap(p.duration, p.levelMath, p.levelEnglish)
+  const { roadmap } = useRoadmap(p.duration, p.levelMath, p.levelEnglish, p.style)
 
   const di = Number(dayIndex); const bi = Number(blockIndex); const vi = Number(videoIndex)
   const video = roadmap?.days[di]?.blocks[bi]?.videos?.[vi]

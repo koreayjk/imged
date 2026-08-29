@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react'
 import { loadTemplate } from './store'
 import { trackLabel, type Dict } from './i18n'
-import type { Block, Duration, Level, SyllabusDay } from './types'
+import type { Block, CurriculumStyle, Duration, Level, SyllabusDay } from './types'
 
 export interface Roadmap {
   days: SyllabusDay[]
@@ -33,21 +33,25 @@ export function composeDays(mathDays: SyllabusDay[], engDays: SyllabusDay[]): Sy
   return out
 }
 
-export function useRoadmap(duration: Duration | null, levelMath: Level | null, levelEnglish: Level | null) {
+export function useRoadmap(
+  duration: Duration | null, levelMath: Level | null, levelEnglish: Level | null,
+  style: CurriculumStyle | null = 'focus',
+) {
   const [roadmap, setRoadmap] = useState<Roadmap | null>(null)
   const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
     if (!duration || !levelMath || !levelEnglish) return
     let alive = true
-    Promise.all([loadTemplate(duration, levelMath), loadTemplate(duration, levelEnglish)])
+    const st = style ?? 'focus'
+    Promise.all([loadTemplate(duration, levelMath, st), loadTemplate(duration, levelEnglish, st)])
       .then(([mt, et]) => {
         if (!alive) return
         setRoadmap({ label: et.label, days: composeDays(mt.days, et.days) })
       })
       .catch((e) => alive && setError(String(e)))
     return () => { alive = false }
-  }, [duration, levelMath, levelEnglish])
+  }, [duration, levelMath, levelEnglish, style])
 
   return { roadmap, error }
 }

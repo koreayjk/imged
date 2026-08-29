@@ -44,6 +44,7 @@ const dict = {
     authWorking: '처리 중…',
 
     // 기간 선택
+    setupStep: '1단계 · 목표 기간',
     setupTitle: '학습 기간 선택',
     setupDesc: '기간은 학습 분량을 결정합니다 (속도가 아니라). 다음 단계에서 배치 테스트로 난이도(레벨)를 정합니다.',
     d6m: '속성 (약 7개월)', d1y: '1년', d2y: '2년', d3y: '3년',
@@ -107,6 +108,29 @@ const dict = {
 
     // 진도
     progressTitle: '내 진도',
+    styleStep: '2단계 · 커리큘럼 방식',
+    styleTitle: '어떤 방식으로 진행할까요?',
+    styleDesc: '같은 기간, 같은 분량입니다. 4과목을 "언제" 배우느냐만 다릅니다. 나중에 관리자를 통해 바꿀 수 있습니다.',
+    styleFocus: '집중형',
+    styleFocusTag: '한 번에 하나씩 깊게',
+    styleFocusHow: '수학·영어를 먼저 길게 올리고, 영어 실력이 붙은 뒤 과학 → 사회를 집중 블록으로 처리합니다.',
+    styleFocusPro1: '한 과목에 오래 머물러서 개념이 깊게 쌓입니다',
+    styleFocusPro2: 'GED 과학·사회는 암기가 아니라 지문 분석 시험 — 영어가 준비된 뒤 들어가면 훨씬 수월합니다',
+    styleFocusPro3: '하루에 볼 과목이 2개뿐이라 집중이 흐트러지지 않습니다',
+    styleFocusCon: '과학·사회를 처음 만나기까지 시간이 걸립니다',
+    styleParallel: '병렬형',
+    styleParallelTag: '4과목을 함께',
+    styleParallelHow: '첫날부터 4과목을 함께 갑니다. 영어·수학은 매일, 과학·사회는 요일을 나눠 배치해 매주 네 과목을 모두 만납니다.',
+    styleParallelPro1: '첫 주부터 GED 4과목 전체를 경험합니다',
+    styleParallelPro2: '어느 과목도 오래 손 놓지 않아 배운 내용을 덜 잊습니다',
+    styleParallelPro3: '시험 일정이 바뀌어도 어느 시점에 멈추든 4과목이 고르게 준비돼 있습니다',
+    styleParallelCon: '과목당 하루 학습 시간이 짧아 진도가 천천히 나갑니다',
+    styleHowLabel: '진행 방식', styleProLabel: '이런 점이 좋습니다', styleConLabel: '감안할 점',
+    styleFirstWeek: '첫 주에 배우는 과목',
+    stylePick: '이 방식으로 시작',
+    styleRecommend: '권장',
+    styleLabel: '커리큘럼',
+    styleLater: (n: number) => `나머지 ${n}과목은 이후 합류`,
     calTitle: '학습 달력', calStart: '시작', calEnd: '수료 예정', calDayOf: '일차',
     calWeekdays: ['월', '화', '수', '목', '금', '토', '일'],
     calLocked: '아직 잠김 — 앞의 날을 먼저 끝내세요',
@@ -202,12 +226,12 @@ const dict = {
     lpSlipDone: '완료', lpSlipLock: '대기',
     lpPlanTitle: '기간을 고르면, 범위가 정해집니다',
     lpPlanSub: '같은 시험을 준비하지만 남은 시간이 다릅니다. 속성 과정은 합격선 코어만 빠르게, 3년은 중학 과정부터. 아래는 기초 레벨 기준 실제 설계 값입니다.',
-    lpColDur: '기간', lpColWeeks: '주차', lpColDays: '학습일', lpColVideos: '강의 영상', lpColDaily: '하루 분량', lpColScope: '학습 범위',
+    lpColDur: '기간', lpColWeeks: '주차', lpColDays: '학습일', lpColVideos: '강의 영상', lpColTopics: '다루는 주제', lpColDaily: '하루 분량', lpColScope: '학습 범위',
     lpScope6m: '합격선 코어 (고교 과정) · 약 7개월',
     lpScope1y: '4과목 정규 + 통합 복습',
     lpScope2y: '중학 선행 포함 4과목 정규',
     lpScope3y: '중학 과정부터 전 범위 여유롭게',
-    lpDurUnitW: '주', lpDurUnitD: '일', lpDurUnitV: '개', lpDurUnitM: '분',
+    lpDurUnitW: '주', lpDurUnitD: '일', lpDurUnitV: '개 레슨', lpDurUnitM: '분',
     lpPlanFoot: '모든 과정은 주 5일 기준입니다. 레벨(기초·중급·상급)에 따라 이미 아는 단원은 자동으로 빠집니다. 기간 4종 × 레벨 3종 = 12가지 로드맵.',
     lpHowTitle: '시작은 3단계',
     lpH1t: '계정 만들기', lpH1d: '이메일로 가입하고 목표 기간을 고릅니다.',
@@ -235,6 +259,7 @@ const dict = {
     checkEmail: 'Confirmation email sent — please check your inbox. (For the pilot, the admin may disable email confirmation)',
     authWorking: 'Working…',
 
+    setupStep: 'Step 1 · Your timeline',
     setupTitle: 'Choose your study duration',
     setupDesc: 'Duration determines how much you cover (not how fast). Next, a placement test sets your level.',
     d6m: 'Fast track (~7 months)', d1y: '1 year', d2y: '2 years', d3y: '3 years',
@@ -291,6 +316,29 @@ const dict = {
     engExplain: 'English explanation', nativeExplain: 'Show native-language explanation',
 
     progressTitle: 'My Progress',
+    styleStep: 'Step 2 · Curriculum style',
+    styleTitle: 'How would you like to study?',
+    styleDesc: 'Same timeline, same workload. The only difference is *when* you meet each of the four subjects. An admin can change this later.',
+    styleFocus: 'Focused',
+    styleFocusTag: 'One subject at a time, in depth',
+    styleFocusHow: 'Build math and English first, then take on Science and Social Studies as focused blocks once your English is ready.',
+    styleFocusPro1: 'Staying with one subject longer builds deeper understanding',
+    styleFocusPro2: 'GED Science and Social Studies test passage analysis, not recall — they get much easier once your English is up',
+    styleFocusPro3: 'Only two subjects a day, so your attention stays in one place',
+    styleFocusCon: 'It takes a while before you first touch Science and Social Studies',
+    styleParallel: 'Parallel',
+    styleParallelTag: 'All four together',
+    styleParallelHow: 'All four subjects from day one. English and math every day; Science and Social Studies split across weekdays so you meet all four every week.',
+    styleParallelPro1: 'You experience all four GED subjects from week one',
+    styleParallelPro2: 'No subject sits untouched for long, so you forget less',
+    styleParallelPro3: 'If your test date moves, you’re evenly prepared across all four at any point',
+    styleParallelCon: 'Less time per subject each day, so each one advances more slowly',
+    styleHowLabel: 'How it runs', styleProLabel: 'What’s good about it', styleConLabel: 'Trade-off',
+    styleFirstWeek: 'Subjects in your first week',
+    stylePick: 'Start with this',
+    styleRecommend: 'Recommended',
+    styleLabel: 'Curriculum',
+    styleLater: (n: number) => `${n} more subject${n > 1 ? 's' : ''} join later`,
     calTitle: 'Study calendar', calStart: 'Start', calEnd: 'Expected finish', calDayOf: 'Day',
     calWeekdays: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
     calLocked: 'Locked — finish the earlier days first',
@@ -385,12 +433,12 @@ const dict = {
     lpSlipDone: 'Done', lpSlipLock: 'Up next',
     lpPlanTitle: 'Choose a timeline — it sets your coverage',
     lpPlanSub: 'Same exam, different time left. Six months covers the passing core; three years starts from middle school. These are the real design figures at the Basic level.',
-    lpColDur: 'Timeline', lpColWeeks: 'Weeks', lpColDays: 'Study days', lpColVideos: 'Lesson videos', lpColDaily: 'Per day', lpColScope: 'Coverage',
+    lpColDur: 'Timeline', lpColWeeks: 'Weeks', lpColDays: 'Study days', lpColVideos: 'Lesson videos', lpColTopics: 'Topics covered', lpColDaily: 'Per day', lpColScope: 'Coverage',
     lpScope6m: 'Passing core, high-school level · ~7 months',
     lpScope1y: 'Full four subjects + integrated review',
     lpScope2y: 'Four subjects with middle-school prep',
     lpScope3y: 'Full range from middle school, unhurried',
-    lpDurUnitW: 'wk', lpDurUnitD: 'days', lpDurUnitV: 'videos', lpDurUnitM: 'min',
+    lpDurUnitW: 'wk', lpDurUnitD: 'days', lpDurUnitV: 'lessons', lpDurUnitM: 'min',
     lpPlanFoot: 'Every track runs 5 days a week. Your placement level (Basic / Intermediate / Advanced) automatically drops units you already know. 4 timelines × 3 levels = 12 roadmaps.',
     lpHowTitle: 'Three steps to start',
     lpH1t: 'Create an account', lpH1d: 'Sign up with email and choose your timeline.',
@@ -422,6 +470,10 @@ export function trackLabel(t: Dict, track?: string): string {
     case 't0': return t.t0
     default: return track ?? ''
   }
+}
+
+export function styleLabel(t: Dict, s: string): string {
+  return ({ focus: t.styleFocus, parallel: t.styleParallel } as Record<string, string>)[s] ?? s
 }
 
 export function durationLabel(t: Dict, d: string): string {

@@ -53,11 +53,14 @@ export interface Question {
   explanation_i18n: Record<string, string>
 }
 
+export type CurriculumStyle = 'focus' | 'parallel'
+
 export interface Profile {
   name: string
   role: 'student' | 'admin'
   nativeLang: Lang
   duration: Duration | null
+  style: CurriculumStyle | null
   levelMath: Level | null
   levelEnglish: Level | null
   startedAt: string | null

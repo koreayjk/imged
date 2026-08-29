@@ -7,10 +7,10 @@ import imgLibertyBg from '../assets/lp/liberty-bg.jpg'
 
 /** 실제 설계 값 (config/durations.json + data/syllabus/*_basic.json 산출) */
 const PLANS = [
-  { key: '6m', weeks: 32, days: 160, videos: 641, daily: 100, scope: 'lpScope6m' },
-  { key: '1y', weeks: 52, days: 260, videos: 634, daily: 65, scope: 'lpScope1y' },
-  { key: '2y', weeks: 104, days: 520, videos: 1211, daily: 45, scope: 'lpScope2y' },
-  { key: '3y', weeks: 156, days: 780, videos: 1307, daily: 35, scope: 'lpScope3y' },
+  { key: '6m', weeks: 32, days: 160, topics: 335, daily: 100, scope: 'lpScope6m' },
+  { key: '1y', weeks: 52, days: 260, topics: 449, daily: 65, scope: 'lpScope1y' },
+  { key: '2y', weeks: 104, days: 520, topics: 620, daily: 45, scope: 'lpScope2y' },
+  { key: '3y', weeks: 156, days: 780, topics: 816, daily: 35, scope: 'lpScope3y' },
 ] as const
 
 export default function Landing() {
@@ -128,7 +128,7 @@ export default function Landing() {
                 <th scope="col">{t.lpColDur}</th>
                 <th scope="col" className="num">{t.lpColWeeks}</th>
                 <th scope="col" className="num">{t.lpColDays}</th>
-                <th scope="col" className="num">{t.lpColVideos}</th>
+                <th scope="col" className="num">{t.lpColTopics}</th>
                 <th scope="col" className="num">{t.lpColDaily}</th>
                 <th scope="col">{t.lpColScope}</th>
               </tr>
@@ -139,11 +139,11 @@ export default function Landing() {
                   <th scope="row">{durLabel[p.key]}</th>
                   <td className="num">{p.weeks}<span>{t.lpDurUnitW}</span></td>
                   <td className="num">{p.days}<span>{t.lpDurUnitD}</span></td>
-                  <td className="num">{p.videos}<span>{t.lpDurUnitV}</span></td>
+                  <td className="num">{p.topics}<span>{t.lpDurUnitV}</span></td>
                   <td className="num">{p.daily}<span>{t.lpDurUnitM}</span></td>
                   <td className="scope">
                     <span className="lp-meter" aria-hidden="true">
-                      <i style={{ width: `${Math.round((p.videos / 1307) * 100)}%` }} />
+                      <i style={{ width: `${Math.round((p.topics / 816) * 100)}%` }} />
                     </span>
                     {t[p.scope]}
                   </td>

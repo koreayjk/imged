@@ -4,7 +4,7 @@ import { useAppState } from './lib/useStore'
 import { store } from './lib/store'
 import { supabase, supabaseEnabled } from './lib/supabase'
 import { signOut, startSync, stopSync } from './lib/sync'
-import { useT, setUiLang, durationLabel, levelLabel } from './lib/i18n'
+import { useT, setUiLang, durationLabel, levelLabel, styleLabel } from './lib/i18n'
 import Landing from './pages/Landing'
 import Login from './pages/Login'
 import Setup from './pages/Setup'
@@ -38,6 +38,7 @@ function Shell({ children }: { children: React.ReactNode }) {
           <span>
             {profile.name}
             {profile.duration && ` · ${durationLabel(t, profile.duration)}`}
+            {profile.style && ` · ${styleLabel(t, profile.style)}`}
             {profile.levelMath && ` · ${t.math} ${levelLabel(t, profile.levelMath)}`}
             {profile.levelEnglish && ` / ${t.english} ${levelLabel(t, profile.levelEnglish)}`}
           </span>

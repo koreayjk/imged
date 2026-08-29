@@ -79,7 +79,7 @@ export default function Today() {
   const state = useAppState()
   const { t } = useT()
   const p = state.profile!
-  const { roadmap, error } = useRoadmap(p.duration, p.levelMath, p.levelEnglish)
+  const { roadmap, error } = useRoadmap(p.duration, p.levelMath, p.levelEnglish, p.style)
 
   if (error) return <div className="page">{error}</div>
   if (!roadmap) return <div className="page muted">{t.roadmapLoading}</div>

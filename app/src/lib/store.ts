@@ -1,7 +1,8 @@
 // 데모 모드 데이터 레이어 — localStorage 기반.
 // Supabase 키(VITE_SUPABASE_URL 등)가 설정되면 lib/supabase.ts 로 교체 연결한다 (Phase 2).
 import type {
-  AttemptRecord, DayState, Duration, Level, Profile, Question, SyllabusTemplate, VideoProgress,
+  AttemptRecord, CurriculumStyle, DayState, Duration, Level, Profile, Question,
+  SyllabusTemplate, VideoProgress,
 } from './types'
 import sampleQuestions from '../data/sample_questions.json'
 import bankMath from '../data/question_bank_math.json'
@@ -114,10 +115,12 @@ export const store = {
 // ───────────────────────── 실라버스 로딩 (12개 JSON, 코드 스플리팅)
 const templates = import.meta.glob<SyllabusTemplate>('../data/syllabus/*.json', { import: 'default' })
 
-export async function loadTemplate(duration: Duration, level: Level): Promise<SyllabusTemplate> {
-  const key = `../data/syllabus/${duration}_${level}.json`
+export async function loadTemplate(
+  duration: Duration, level: Level, style: CurriculumStyle = 'focus',
+): Promise<SyllabusTemplate> {
+  const key = `../data/syllabus/${duration}_${level}_${style}.json`
   const loader = templates[key]
-  if (!loader) throw new Error(`실라버스 템플릿 없음: ${duration}_${level}`)
+  if (!loader) throw new Error(`실라버스 템플릿 없음: ${duration}_${level}_${style}`)
   return loader()
 }
 

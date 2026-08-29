@@ -122,6 +122,37 @@ def filter_course(course, scope, overrides, duration_tier, level_skips=None):
 
 # ---------------------------------------------------------------- 스케줄링
 
+def build_slot_map(dur, session):
+    """(week, dow) -> {track_name: minutes}
+
+    track['daily_min']은 고정 분량이 아니라 **비중**으로 쓴다. 같은 날 여러 트랙이
+    겹칠 때 고정값을 그대로 더하면 하루 합계가 약속한 daily_total_min을 넘어버리므로
+    (예: 2년 과정 1~20주 = 45분 약속에 실제 85분), 활성 트랙의 비중대로 예산을 나눈다.
+    track['days']가 있으면 해당 요일에만 배치한다 (병렬형의 과학/사회 격일 배치).
+    """
+    budget = dur["daily_total_min"] - session["warmup_min"] - session["checkin_min"]
+    int_start, int_end = dur["integration"]["weeks"]
+    slots = {}
+    for week in range(1, dur["weeks"] + 1):
+        for dow in range(1, dur["study_days_per_week"] + 1):
+            if int_start <= week <= int_end:
+                slots[(week, dow)] = {}
+                continue
+            active = [t for t in dur["tracks"]
+                      if t["weeks"][0] <= week <= t["weeks"][1]
+                      and (not t.get("days") or dow in t["days"])]
+            if not active:
+                slots[(week, dow)] = {}
+                continue
+            wsum = sum(t["daily_min"] for t in active)
+            alloc = {t["name"]: round(budget * t["daily_min"] / wsum) for t in active}
+            # 반올림 잔여는 비중이 가장 큰 트랙이 흡수 (하루 합계 = budget 보장)
+            top = max(active, key=lambda t: t["daily_min"])["name"]
+            alloc[top] += budget - sum(alloc.values())
+            slots[(week, dow)] = alloc
+    return slots
+
+
 def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, level):
     weeks_total = dur["weeks"]
     days_per_week = dur["study_days_per_week"]
@@ -129,6 +160,11 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
     tier = bump_tier(dur["tier"], level.get("tier_bonus", 0))
     level_skips = level.get("skips", {})
     tag = f"{dur['label']}·{level['label']}"
+    slots = build_slot_map(dur, session)
+    track_minutes = {}          # 트랙별 총 배정 분 (용량 산출·문서 표기용)
+    for alloc in slots.values():
+        for name, m in alloc.items():
+            track_minutes[name] = track_minutes.get(name, 0) + m
 
     # 트랙별 영상 큐 구성
     warnings = []
@@ -151,8 +187,7 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
         #   1) low-priority 유닛 영상부터 제외
         #   2) 그래도 초과하면 레슨 대표(1번째) 영상을 전부 지키고,
         #      남는 용량만큼 2번째·3번째… 예제 영상을 순서대로 채움 (breadth-first)
-        w0, w1 = track["weeks"]
-        capacity_sec = (w1 - w0 + 1) * days_per_week * track["daily_min"] * 60 * video_ratio
+        capacity_sec = track_minutes.get(track["name"], 0) * 60 * video_ratio
         total_sec = sum(v["duration_sec"] for v in q)
         trimmed = list(skipped)  # 레벨 배치로 건너뛴 영상도 제외 목록에 기록
         if total_sec > capacity_sec:
@@ -211,12 +246,13 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
                              else f"{SUBJECT_LABEL[subj]} 취약 스킬 복습 + 실전 문항 세트"),
                 })
             else:
+                alloc = slots[(week, dow)]
                 for track in dur["tracks"]:
-                    w0, w1 = track["weeks"]
-                    if not (w0 <= week <= w1):
+                    track_min = alloc.get(track["name"])
+                    if not track_min:
                         continue
                     q, cur = queues[track["name"]], cursors[track["name"]]
-                    budget = track["daily_min"] * 60 * video_ratio
+                    budget = track_min * 60 * video_ratio
                     vids, used = [], 0
                     # 마지막 영상은 예산을 약간 초과해도 배치 (빈틈 방지)
                     while cur < len(q) and (not vids or used < budget):
@@ -224,9 +260,9 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
                         used += q[cur]["duration_sec"]
                         cur += 1
                     cursors[track["name"]] = cur
-                    practice_min = round(track["daily_min"] * (1 - video_ratio))
+                    practice_min = round(track_min * (1 - video_ratio))
                     block = {"type": "study", "track": track["name"], "label": track["label"],
-                             "minutes": track["daily_min"], "videos": vids,
+                             "minutes": track_min, "videos": vids,
                              "practice_minutes": practice_min}
                     if not vids:
                         block["note"] = "영상 큐 소진 → 문항 연습·복습으로 대체"
@@ -245,7 +281,8 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
         if cur < len(q):
             remain = q[cur:]
             remain_min = round(sum(v["duration_sec"] for v in remain) / 60)
-            per_day = track["daily_min"] * video_ratio
+            slot_days = sum(1 for a in slots.values() if track["name"] in a) or 1
+            per_day = (track_minutes.get(track["name"], 0) / slot_days) * video_ratio
             extra_days = math.ceil(remain_min / per_day) if per_day else 0
             extra_weeks = math.ceil(extra_days / days_per_week)
             warnings.append(
@@ -259,6 +296,7 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
 
     return {"days": days, "selections": selections, "warnings": [w for w in warnings if w],
             "track_trims": track_trims, "track_playlists": track_playlists, "tier": tier,
+            "track_minutes": track_minutes, "slots": slots,
             "track_labels": {t["name"]: t["label"] for t in dur["tracks"]}}
 
 
@@ -286,9 +324,10 @@ def write_selection_docs(all_selections, courses_by_key):
         (OUT_MD / f"영상선별_{key}.md").write_text("\n".join(lines))
 
 
-def write_syllabus_md(dur_key, dur, result, level):
-    name = f"{dur['label']}_{level['label']}"
-    lines = [f"# GED 실라버스 — {dur['label']} 과정 · {level['label']} 레벨", "",
+def write_syllabus_md(dur_key, dur, result, level, style):
+    name = f"{dur['label']}_{style['label']}_{level['label']}"
+    lines = [f"# GED 실라버스 — {dur['label']} 과정 · {style['label']} · {level['label']} 레벨", "",
+             f"> {style['summary']}", "",
              f"- 총 {dur['weeks']}주 / 주 {dur['study_days_per_week']}일 학습 / 티어 {result['tier']}",
              f"- 세션 구조: 워밍업 5분 → 트랙 학습(영상 40% + 문항 60%) → 체크인 5분",
              f"- 레벨: **{level['label']}** — 배치 테스트 결과에 따라 결정 (docs/배치테스트_설계.md)",
@@ -296,12 +335,18 @@ def write_syllabus_md(dur_key, dur, result, level):
     if dur.get("milestone"):
         lines += [f"> 📌 {dur['milestone']}", ""]
     lines += ["## 트랙 배치", "", "| 트랙 | 주차 | 1일 배정 | 코스 순서 | 배치 영상 | 스킵·제외 |", "|---|---|---|---|---|---|"]
+    dow_names = ["월", "화", "수", "목", "금", "토", "일"]
     for t in dur["tracks"]:
         q_n = sum(1 for d in result["days"] for b in d["blocks"]
                   if b.get("track") == t["name"] for _ in b.get("videos", []))
         trims = result["track_trims"].get(t["name"], [])
         playlist = result["track_playlists"].get(t["name"], t["playlist"])
-        lines.append(f"| {t['label']} | {t['weeks'][0]}–{t['weeks'][1]}주 | {t['daily_min']}분 | "
+        mins = sorted({a[t["name"]] for a in result["slots"].values() if t["name"] in a})
+        span = f"{mins[0]}분" if len(mins) < 2 else f"{mins[0]}~{mins[-1]}분"
+        when = f"{t['weeks'][0]}–{t['weeks'][1]}주"
+        if t.get("days"):
+            when += " (" + "·".join(dow_names[d - 1] for d in t["days"]) + ")"
+        lines.append(f"| {t['label']} | {when} | {span} | "
                      f"{' → '.join(playlist)} | {q_n}개 | {len(trims)}개 |")
     lines += [f"| 실전 통합 | {dur['integration']['weeks'][0]}–{dur['integration']['weeks'][1]}주 | 전체 | 4과목 순환 + 모의고사 | — | — |", ""]
     if any(result["track_trims"].values()):
@@ -335,11 +380,11 @@ def write_syllabus_md(dur_key, dur, result, level):
     (OUT_MD / f"실라버스_{dur['label']}_{level['label']}.md").write_text("\n".join(lines))
 
 
-def write_trim_md(dur, result, level):
+def write_trim_md(dur, result, level, style):
     """기간·레벨별 제외 영상 목록 (레벨 배치 스킵 + 시간 제약)."""
     if not any(result["track_trims"].values()):
         return
-    lines = [f"# 제외 목록 — {dur['label']} 과정 · {level['label']} 레벨", "",
+    lines = [f"# 제외 목록 — {dur['label']} 과정 · {style['label']} · {level['label']} 레벨", "",
              "레벨 배치(배치 테스트 통과 가정)로 건너뛰었거나, 하루 학습시간 안에 배치할 수 없어 제외된 영상.",
              "취약 스킬 보충 계획 수립 시 우선 복원 대상.", ""]
     for name, trims in result["track_trims"].items():
@@ -355,7 +400,7 @@ def write_trim_md(dur, result, level):
                 lines += [f"### {v['course_title']} › {v['unit']}", ""]
             lines.append(f"- {yt_link(v)} — {fmt_min(v['duration_sec'])} · {v['lesson']} · _{v['trim_reason']}_")
         lines.append("")
-    (OUT_MD / f"제외목록_{dur['label']}_{level['label']}.md").write_text("\n".join(lines))
+    (OUT_MD / f"제외목록_{dur['label']}_{style['label']}_{level['label']}.md").write_text("\n".join(lines))
 
 
 def main():
@@ -381,27 +426,41 @@ def main():
     levels = load_json(ROOT / "config" / "levels.json")["levels"]
     dur_filter = only & set(durations_cfg["durations"])   # 인자: 기간 키(6m 등)·레벨 키(adv 등) 혼용 가능
     level_filter = only & set(levels)
-    for dur_key, dur in durations_cfg["durations"].items():
+    styles = durations_cfg["styles"]
+    style_filter = only & set(styles)
+    for dur_key, dur_base in durations_cfg["durations"].items():
         if dur_filter and dur_key not in dur_filter:
             continue
-        missing = [k for t in dur["tracks"] for k in t["playlist"] if k not in courses_by_key]
-        if missing:
-            all_warnings.append(f"[{dur['label']}] 코스 데이터 누락: {sorted(set(missing))} — 해당 코스 없이 생성됨")
-        for level_key, level in levels.items():
-            if level_filter and level_key not in level_filter:
+        for style_key, style in styles.items():
+            if style_filter and style_key not in style_filter:
                 continue
-            result = schedule_duration(dur_key, dur, courses_by_key, scope, overrides,
-                                       durations_cfg["session"], level)
-            if level_key == "basic":  # 선별표는 GED 범위 기준(기초 레벨)으로만 작성
-                merged_selections.update(result["selections"])
-            write_syllabus_md(dur_key, dur, result, level)
-            write_trim_md(dur, result, level)
-            (OUT_JSON / f"{dur_key}_{level_key}.json").write_text(json.dumps(
-                {"duration": dur_key, "label": dur["label"], "level": level_key,
-                 "level_label": level["label"], "days": result["days"]},
-                ensure_ascii=False))
-            all_warnings.extend(result["warnings"])
-            print(f"{dur['label']}·{level['label']}: {len(result['days'])}일 생성")
+            # 커리큘럼 방식은 트랙 배치만 갈아끼운다 (주차·하루 분량·티어는 공통)
+            dur = dict(dur_base)
+            override = dur_base.get("styles", {}).get(style_key)
+            if not override:
+                continue
+            dur["tracks"] = override["tracks"]
+            dur["integration"] = override["integration"]
+            missing = [k for t in dur["tracks"] for k in t["playlist"] if k not in courses_by_key]
+            if missing:
+                all_warnings.append(
+                    f"[{dur['label']}/{style['label']}] 코스 데이터 누락: {sorted(set(missing))} — 해당 코스 없이 생성됨")
+            for level_key, level in levels.items():
+                if level_filter and level_key not in level_filter:
+                    continue
+                result = schedule_duration(dur_key, dur, courses_by_key, scope, overrides,
+                                           durations_cfg["session"], level)
+                if level_key == "basic" and style_key == "focus":
+                    merged_selections.update(result["selections"])
+                write_syllabus_md(dur_key, dur, result, level, style)
+                write_trim_md(dur, result, level, style)
+                (OUT_JSON / f"{dur_key}_{level_key}_{style_key}.json").write_text(json.dumps(
+                    {"duration": dur_key, "label": dur["label"], "level": level_key,
+                     "level_label": level["label"], "style": style_key,
+                     "style_label": style["label"], "days": result["days"]},
+                    ensure_ascii=False))
+                all_warnings.extend(result["warnings"])
+                print(f"{dur['label']}·{style['label']}·{level['label']}: {len(result['days'])}일 생성")
 
     write_selection_docs(merged_selections, courses_by_key)
 

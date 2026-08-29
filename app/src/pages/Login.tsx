@@ -42,7 +42,7 @@ export default function Login() {
     if (!name.trim()) return
     store.setProfile({
       name: name.trim(), role, nativeLang,
-      duration: null, levelMath: null, levelEnglish: null, startedAt: null,
+      duration: null, style: null, levelMath: null, levelEnglish: null, startedAt: null,
     })
   }
 

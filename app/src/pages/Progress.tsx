@@ -7,7 +7,7 @@ export default function ProgressPage() {
   const state = useAppState()
   const { t } = useT()
   const p = state.profile!
-  const { roadmap } = useRoadmap(p.duration, p.levelMath, p.levelEnglish)
+  const { roadmap } = useRoadmap(p.duration, p.levelMath, p.levelEnglish, p.style)
   if (!roadmap) return <div className="page muted">{t.loading}</div>
 
   const {
