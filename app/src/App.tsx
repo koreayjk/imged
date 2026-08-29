@@ -75,7 +75,7 @@ export default function App() {
   }, [])
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/login" element={profile ? <Navigate to={profile.role === 'admin' ? '/admin' : '/today'} replace /> : <Login />} />
