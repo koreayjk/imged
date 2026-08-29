@@ -107,6 +107,64 @@ input, select {
 .rail-num i { font-style: normal; font-size: 0.8rem; font-weight: 600; color: var(--muted); }
 .progressbar.thin { height: 5px; margin: 0.45rem 0 0; }
 
+/* ── 학습 달력 */
+.cal-week { font-weight: 800; font-size: 1.02rem; margin-bottom: 0.6rem; }
+.cal-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; }
+.cal-cell {
+  display: flex; flex-direction: column; align-items: center; gap: 2px;
+  padding: 0.4rem 0.15rem; border: 1px solid var(--line); border-radius: 8px;
+  background: var(--card); text-align: center;
+}
+.cal-dow { font-size: 0.66rem; color: var(--muted); }
+.cal-date { font-size: 0.8rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.cal-mark { font-size: 0.66rem; line-height: 1; }
+.cal-cell.done { background: #f1faf4; border-color: #cdeadb; }
+.cal-cell.done .cal-date { color: var(--ok); }
+.cal-cell.current { border-color: var(--primary); background: #f2f7ff; box-shadow: 0 0 0 2px #e2ecff; }
+.cal-cell.current .cal-date { color: var(--primary); }
+.cal-cell.locked { opacity: 0.6; }
+.cal-cell.today .cal-dow { color: var(--primary); font-weight: 700; }
+
+.cal-meta { margin: 0.85rem 0 0; display: grid; gap: 0.35rem; }
+.cal-meta > div { display: flex; align-items: baseline; justify-content: space-between; gap: 0.6rem; }
+.cal-meta dt { font-size: 0.76rem; color: var(--muted); }
+.cal-meta dd { margin: 0; font-size: 0.8rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+
+/* ── 앞으로 배울 내용 (잠금 미리보기) */
+.plan-tabs { display: flex; gap: 3px; background: var(--bg); border-radius: 9px; padding: 3px; }
+.plan-tabs button {
+  flex: 1; border: 0; background: transparent; border-radius: 7px;
+  padding: 0.35rem 0.2rem; font-size: 0.76rem; font-weight: 600; color: var(--muted);
+}
+.plan-tabs button.active { background: var(--card); color: var(--ink); box-shadow: 0 1px 3px rgba(26,34,51,0.12); }
+.plan-range { margin: 0.55rem 0 0.4rem; }
+
+.plan-track + .plan-track { margin-top: 0.8rem; padding-top: 0.7rem; border-top: 1px solid var(--line); }
+.plan-track-head { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; margin-bottom: 0.35rem; }
+.plan-track-name { font-weight: 700; font-size: 0.86rem; }
+.plan-units { list-style: none; margin: 0; padding: 0; }
+.plan-unit {
+  display: flex; align-items: flex-start; gap: 0.4rem; width: 100%;
+  border: 0; background: transparent; text-align: left;
+  padding: 0.34rem 0; font-size: 0.8rem; line-height: 1.45; color: var(--ink);
+  cursor: pointer;
+}
+.plan-unit:hover .plan-unit-name { color: var(--primary); }
+.plan-lock { font-size: 0.66rem; line-height: 1.6; flex: 0 0 auto; opacity: 0.65; }
+.plan-unit-name { flex: 1; min-width: 0; }
+.plan-unit-n {
+  flex: 0 0 auto; font-size: 0.7rem; color: var(--muted);
+  background: var(--bg); border-radius: 999px; padding: 0.05rem 0.4rem;
+  font-variant-numeric: tabular-nums;
+}
+.plan-videos { list-style: none; margin: 0.1rem 0 0.4rem; padding: 0 0 0 1.1rem; }
+.plan-videos li {
+  font-size: 0.76rem; line-height: 1.55; padding: 0.14rem 0;
+  border-left: 2px solid var(--line); padding-left: 0.55rem;
+}
+.plan-more { padding: 0.3rem 0 0 1.05rem; }
+.plan-note { margin: 0.8rem 0 0; padding-top: 0.6rem; border-top: 1px solid var(--line); }
+
 .rail-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem 0.6rem; }
 .rail-stats > div { display: flex; flex-direction: column; gap: 0.15rem; }
 .rail-stats b { font-size: 1.35rem; font-weight: 800; font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
@@ -125,35 +183,23 @@ input, select {
 .rail-weak-pct { color: var(--no); font-weight: 700; font-variant-numeric: tabular-nums; }
 .rail-link { font-size: 0.85rem; font-weight: 600; }
 
-/* 좁은 화면: 이번 주 이동을 가로 스트립으로 (기존엔 사이드바가 통째로 사라졌음) */
+/* 좁은 화면: 달력·미리보기 모두 본문 위에 1단으로 */
 .rail-left { display: block; margin-bottom: 0.6rem; }
-.rail-left .rail-card + .rail-card { display: none; }
-.rail-left .week-list {
-  display: flex; gap: 0.4rem; overflow-x: auto; list-style: none;
-  margin: 0 0 0.2rem; padding: 0 0 0.3rem;
-}
-.rail-left .week-list li {
-  flex: 0 0 auto; border: 1px solid var(--line); border-radius: 8px;
-  padding: 0.3rem 0.65rem; font-size: 0.85rem; white-space: nowrap;
-}
 
 /* 태블릿 이상: 왼쪽 레일 복귀 */
 @media (min-width: 900px) {
-  .today-layout { grid-template-columns: 210px minmax(0, 1fr); }
+  .today-layout { grid-template-columns: 268px minmax(0, 1fr); }
   .rail { display: block; position: sticky; top: 66px; height: fit-content; padding-top: 1.2rem; }
-  .rail-left .rail-card + .rail-card { display: block; }
-  .rail-left .week-list { display: block; padding: 0; }
-  .rail-left .week-list li { border: 0; padding: 0.22rem 0; border-radius: 6px; }
 }
 
 /* 데스크톱: 3단 — 오른쪽 요약 레일 등장 */
 @media (min-width: 1240px) {
-  .today-layout { max-width: 1500px; grid-template-columns: 230px minmax(0, 1fr) 300px; }
+  .today-layout { max-width: 1560px; grid-template-columns: 290px minmax(0, 1fr) 300px; }
   .rail-right { display: block; }
   .page { max-width: 900px; }
 }
 @media (min-width: 1700px) {
-  .today-layout { max-width: 1680px; grid-template-columns: 250px minmax(0, 1fr) 330px; }
+  .today-layout { max-width: 1720px; grid-template-columns: 320px minmax(0, 1fr) 330px; }
 }
 .week-list { list-style: none; padding: 0; margin: 0.4rem 0; }
 .week-list li { padding: 0.25rem 0.3rem; border-radius: 8px; }

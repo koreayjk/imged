@@ -4,6 +4,7 @@ import { store } from '../lib/store'
 import { useRoadmap, blockTitle, needsQuiz } from '../lib/roadmap'
 import { useT, type Dict } from '../lib/i18n'
 import { computeStats } from '../lib/stats'
+import PlanRail from './PlanRail'
 import type { Block } from '../lib/types'
 
 function BlockRow({ t, b, dayIndex, blockIndex, active, done, totalBlocks }: {
@@ -90,47 +91,17 @@ export default function Today() {
   const doneCount = ds.doneBlocks.length
   const allDone = state.currentDayIndex >= roadmap.days.length
 
-  const weekDays = roadmap.days
-    .map((d, i) => ({ d, i }))
-    .filter(({ d }) => d.week === day.week)
-
   const stats = computeStats(state, roadmap.days.length)
-  const weekDoneCount = weekDays.filter(({ i }) => state.dayStates[i]?.finished).length
   const nextBlock = activeIndex >= 0 && !ds.finished ? day.blocks[activeIndex] : null
   const remaining = day.blocks.length - doneCount
 
   return (
     <div className="today-layout">
       <aside className="rail rail-left">
-        <div className="card rail-card">
-          <h3 className="rail-h">{t.railWeekNav}</h3>
-          <div className="rail-week">{t.weekTitle(day.week)}</div>
-          <ul className="week-list">
-            {weekDays.map(({ d, i }) => (
-              <li key={i} className={i === dayIndex ? 'current' : ''}>
-                {state.dayStates[i]?.finished ? '✅' : i === dayIndex ? '▶️' : '·'} Day {d.day}
-              </li>
-            ))}
-          </ul>
-          <div className="rail-sub">
-            <span className="muted small">{t.railWeekProgress}</span>
-            <span className="rail-num">{weekDoneCount}<i>/{weekDays.length}</i></span>
-          </div>
-          <div className="progressbar thin">
-            <div style={{ width: `${(weekDoneCount / weekDays.length) * 100}%` }} />
-          </div>
-        </div>
-
-        <div className="card rail-card">
-          <h3 className="rail-h">{t.railAllWeeks}</h3>
-          <div className="rail-sub">
-            <span className="muted small">{t.dayOfTotal(dayIndex + 1, roadmap.days.length)}</span>
-            <span className="rail-num">{stats.donePct}<i>%</i></span>
-          </div>
-          <div className="progressbar thin">
-            <div style={{ width: `${stats.donePct}%` }} />
-          </div>
-        </div>
+        <PlanRail
+          days={roadmap.days} week={day.week}
+          currentDayIndex={dayIndex} startedAt={p.startedAt}
+        />
       </aside>
 
       <section className="page today-main">

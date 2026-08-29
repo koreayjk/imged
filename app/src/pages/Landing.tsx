@@ -7,7 +7,7 @@ import imgLibertyBg from '../assets/lp/liberty-bg.jpg'
 
 /** 실제 설계 값 (config/durations.json + data/syllabus/*_basic.json 산출) */
 const PLANS = [
-  { key: '6m', weeks: 26, days: 156, videos: 621, daily: 100, scope: 'lpScope6m' },
+  { key: '6m', weeks: 32, days: 160, videos: 641, daily: 100, scope: 'lpScope6m' },
   { key: '1y', weeks: 52, days: 260, videos: 634, daily: 65, scope: 'lpScope1y' },
   { key: '2y', weeks: 104, days: 520, videos: 1211, daily: 45, scope: 'lpScope2y' },
   { key: '3y', weeks: 156, days: 780, videos: 1307, daily: 35, scope: 'lpScope3y' },
@@ -29,7 +29,7 @@ export default function Landing() {
     [t.lpH1t, t.lpH1d], [t.lpH2t, t.lpH2d], [t.lpH3t, t.lpH3d],
   ]
   const durLabel: Record<string, string> = {
-    '6m': lang === 'ko' ? '6개월' : '6 months',
+    '6m': lang === 'ko' ? '속성' : 'Fast track',
     '1y': lang === 'ko' ? '1년' : '1 year',
     '2y': lang === 'ko' ? '2년' : '2 years',
     '3y': lang === 'ko' ? '3년' : '3 years',
