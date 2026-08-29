@@ -15,6 +15,10 @@
 
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--ink); }
+/* 한글은 어절 단위로만 줄바꿈 (「에세/이」처럼 글자가 끊기는 것 방지) */
+h1, h2, h3, h4, p, li, td, th, label, button, .btn, .badge, .block-title, .muted {
+  word-break: keep-all; overflow-wrap: break-word;
+}
 a { color: var(--primary); text-decoration: none; }
 h1 { font-size: 1.5rem; margin: 0.2rem 0 0.6rem; }
 h3 { margin: 0 0 0.5rem; }
@@ -24,17 +28,19 @@ ul { padding-left: 1.2rem; }
 .topbar {
   display: flex; align-items: center; gap: 1.2rem;
   background: var(--card); border-bottom: 1px solid var(--line);
-  padding: 0.7rem 1.2rem; position: sticky; top: 0; z-index: 10;
+  padding: 0.7rem 1.6rem; position: sticky; top: 0; z-index: 10;
 }
 .brand { font-weight: 800; }
 .topbar nav { display: flex; gap: 0.8rem; flex: 1; }
-.topbar nav a { color: var(--muted); padding: 0.3rem 0.6rem; border-radius: 8px; }
+.topbar nav a { color: var(--muted); padding: 0.3rem 0.6rem; border-radius: 8px; white-space: nowrap; }
+.topbar .userbox button, .topbar .btn { white-space: nowrap; }
 .topbar nav a.active { color: var(--primary); background: #eaf1ff; }
 .userbox { display: flex; align-items: center; gap: 0.6rem; font-size: 0.85rem; color: var(--muted); }
 
 main { flex: 1; }
-.page { max-width: 860px; margin: 0 auto; padding: 1.2rem; }
+.page { width: 100%; max-width: 860px; margin: 0 auto; padding: 1.2rem; }
 .page.narrow { max-width: 620px; }
+.page.wide { max-width: 1240px; }
 .center-page { min-height: 100vh; display: grid; place-items: center; padding: 1rem; }
 
 .card {
@@ -82,8 +88,73 @@ input, select {
 .progressbar > div { height: 100%; background: var(--primary); border-radius: 999px; transition: width 0.3s; }
 
 /* 오늘의 과제 */
-.today-layout { display: grid; grid-template-columns: 200px 1fr; gap: 0; max-width: 1080px; margin: 0 auto; }
-.sidebar { margin: 1.2rem 0 0 1.2rem; height: fit-content; position: sticky; top: 70px; }
+.today-layout {
+  /* minmax(0,…): 1fr 트랙의 기본 min-width:auto 때문에 가로 스크롤 리스트가
+     트랙을 밀어내는 blowout을 막는다 */
+  display: grid; grid-template-columns: minmax(0, 1fr); gap: 0 1.4rem;
+  width: 100%; max-width: 1080px; margin: 0 auto; padding: 0 1.2rem;
+}
+.today-main { padding-left: 0; padding-right: 0; }
+.rail { display: none; min-width: 0; }
+.rail-card { padding: 0.9rem 1rem; }
+.rail-h {
+  margin: 0 0 0.6rem; font-size: 0.78rem; font-weight: 700;
+  letter-spacing: 0.04em; color: var(--muted);
+}
+.rail-week { font-weight: 800; font-size: 1.02rem; margin-bottom: 0.5rem; }
+.rail-sub { display: flex; align-items: baseline; justify-content: space-between; gap: 0.6rem; margin-top: 0.7rem; }
+.rail-num { font-weight: 800; font-size: 1.15rem; font-variant-numeric: tabular-nums; }
+.rail-num i { font-style: normal; font-size: 0.8rem; font-weight: 600; color: var(--muted); }
+.progressbar.thin { height: 5px; margin: 0.45rem 0 0; }
+
+.rail-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem 0.6rem; }
+.rail-stats > div { display: flex; flex-direction: column; gap: 0.15rem; }
+.rail-stats b { font-size: 1.35rem; font-weight: 800; font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+.rail-stats span { font-size: 0.76rem; color: var(--muted); line-height: 1.35; }
+
+.rail-next { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; }
+.rail-next-title { font-weight: 700; font-size: 0.95rem; }
+
+.rail-weak { list-style: none; margin: 0 0 0.7rem; padding: 0; }
+.rail-weak li {
+  display: flex; align-items: center; justify-content: space-between; gap: 0.6rem;
+  padding: 0.42rem 0; border-bottom: 1px solid var(--line); font-size: 0.85rem;
+}
+.rail-weak li:last-child { border-bottom: 0; }
+.rail-weak-tag { color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.rail-weak-pct { color: var(--no); font-weight: 700; font-variant-numeric: tabular-nums; }
+.rail-link { font-size: 0.85rem; font-weight: 600; }
+
+/* 좁은 화면: 이번 주 이동을 가로 스트립으로 (기존엔 사이드바가 통째로 사라졌음) */
+.rail-left { display: block; margin-bottom: 0.6rem; }
+.rail-left .rail-card + .rail-card { display: none; }
+.rail-left .week-list {
+  display: flex; gap: 0.4rem; overflow-x: auto; list-style: none;
+  margin: 0 0 0.2rem; padding: 0 0 0.3rem;
+}
+.rail-left .week-list li {
+  flex: 0 0 auto; border: 1px solid var(--line); border-radius: 8px;
+  padding: 0.3rem 0.65rem; font-size: 0.85rem; white-space: nowrap;
+}
+
+/* 태블릿 이상: 왼쪽 레일 복귀 */
+@media (min-width: 900px) {
+  .today-layout { grid-template-columns: 210px minmax(0, 1fr); }
+  .rail { display: block; position: sticky; top: 66px; height: fit-content; padding-top: 1.2rem; }
+  .rail-left .rail-card + .rail-card { display: block; }
+  .rail-left .week-list { display: block; padding: 0; }
+  .rail-left .week-list li { border: 0; padding: 0.22rem 0; border-radius: 6px; }
+}
+
+/* 데스크톱: 3단 — 오른쪽 요약 레일 등장 */
+@media (min-width: 1240px) {
+  .today-layout { max-width: 1500px; grid-template-columns: 230px minmax(0, 1fr) 300px; }
+  .rail-right { display: block; }
+  .page { max-width: 900px; }
+}
+@media (min-width: 1700px) {
+  .today-layout { max-width: 1680px; grid-template-columns: 250px minmax(0, 1fr) 330px; }
+}
 .week-list { list-style: none; padding: 0; margin: 0.4rem 0; }
 .week-list li { padding: 0.25rem 0.3rem; border-radius: 8px; }
 .week-list li.current { background: #eaf1ff; font-weight: 600; }
@@ -569,8 +640,6 @@ input, select {
   .lp-head { margin-bottom: 2rem; }
 
   /* 앱 화면 반응형 */
-  .today-layout { grid-template-columns: 1fr; }
-  .sidebar { display: none; }
   .option-grid, .result-grid { grid-template-columns: 1fr; }
   .topbar { flex-wrap: wrap; }
   .userbox { width: 100%; justify-content: flex-end; }

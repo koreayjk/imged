@@ -107,6 +107,10 @@ const dict = {
 
     // 진도
     progressTitle: '내 진도',
+    railToday: '오늘 한눈에', railWeekNav: '이번 주', railRemaining: '남은 블록',
+    railNextUp: '다음 순서', railNothingNext: '오늘 과제를 모두 마쳤습니다.',
+    railJumpProgress: '진도 상세 보기', railWeekProgress: '이번 주 진행',
+    railAllWeeks: '전체 여정', railBlocksToday: '오늘 블록',
     doneDaysLabel: '완료한 학습일', streakLabel: '연속 학습', videosLabel: '완료한 영상',
     watchedLabel: '누적 시청 시간', accuracyLabel: '전체 정답률',
     unitDays: '일', unitCount: '개', unitMin: '분',
@@ -277,6 +281,10 @@ const dict = {
     engExplain: 'English explanation', nativeExplain: 'Show native-language explanation',
 
     progressTitle: 'My Progress',
+    railToday: 'Today at a glance', railWeekNav: 'This week', railRemaining: 'Blocks left',
+    railNextUp: 'Up next', railNothingNext: 'You’ve finished everything for today.',
+    railJumpProgress: 'See full progress', railWeekProgress: 'This week',
+    railAllWeeks: 'Whole journey', railBlocksToday: 'Blocks today',
     doneDaysLabel: 'Study days completed', streakLabel: 'Day streak', videosLabel: 'Videos completed',
     watchedLabel: 'Total watch time', accuracyLabel: 'Overall accuracy',
     unitDays: ' days', unitCount: '', unitMin: ' min',

@@ -3,6 +3,7 @@ import { useAppState } from '../lib/useStore'
 import { store } from '../lib/store'
 import { useRoadmap, blockTitle, needsQuiz } from '../lib/roadmap'
 import { useT, type Dict } from '../lib/i18n'
+import { computeStats } from '../lib/stats'
 import type { Block } from '../lib/types'
 
 function BlockRow({ t, b, dayIndex, blockIndex, active, done, totalBlocks }: {
@@ -93,21 +94,46 @@ export default function Today() {
     .map((d, i) => ({ d, i }))
     .filter(({ d }) => d.week === day.week)
 
+  const stats = computeStats(state, roadmap.days.length)
+  const weekDoneCount = weekDays.filter(({ i }) => state.dayStates[i]?.finished).length
+  const nextBlock = activeIndex >= 0 && !ds.finished ? day.blocks[activeIndex] : null
+  const remaining = day.blocks.length - doneCount
+
   return (
     <div className="today-layout">
-      <aside className="sidebar card">
-        <h3>{t.weekTitle(day.week)}</h3>
-        <ul className="week-list">
-          {weekDays.map(({ d, i }) => (
-            <li key={i} className={i === dayIndex ? 'current' : ''}>
-              {state.dayStates[i]?.finished ? '✅' : i === dayIndex ? '▶️' : '·'} Day {d.day}
-            </li>
-          ))}
-        </ul>
-        <div className="muted small">{t.dayOfTotal(dayIndex + 1, roadmap.days.length)}</div>
+      <aside className="rail rail-left">
+        <div className="card rail-card">
+          <h3 className="rail-h">{t.railWeekNav}</h3>
+          <div className="rail-week">{t.weekTitle(day.week)}</div>
+          <ul className="week-list">
+            {weekDays.map(({ d, i }) => (
+              <li key={i} className={i === dayIndex ? 'current' : ''}>
+                {state.dayStates[i]?.finished ? '✅' : i === dayIndex ? '▶️' : '·'} Day {d.day}
+              </li>
+            ))}
+          </ul>
+          <div className="rail-sub">
+            <span className="muted small">{t.railWeekProgress}</span>
+            <span className="rail-num">{weekDoneCount}<i>/{weekDays.length}</i></span>
+          </div>
+          <div className="progressbar thin">
+            <div style={{ width: `${(weekDoneCount / weekDays.length) * 100}%` }} />
+          </div>
+        </div>
+
+        <div className="card rail-card">
+          <h3 className="rail-h">{t.railAllWeeks}</h3>
+          <div className="rail-sub">
+            <span className="muted small">{t.dayOfTotal(dayIndex + 1, roadmap.days.length)}</span>
+            <span className="rail-num">{stats.donePct}<i>%</i></span>
+          </div>
+          <div className="progressbar thin">
+            <div style={{ width: `${stats.donePct}%` }} />
+          </div>
+        </div>
       </aside>
 
-      <section className="page">
+      <section className="page today-main">
         <div className="today-head">
           <h1>{t.todayTitle(day.week, day.day)}</h1>
           <div className="muted">{t.doneOf(doneCount, day.blocks.length)}</div>
@@ -130,6 +156,47 @@ export default function Today() {
 
         <p className="muted small attribution">{t.attribution}</p>
       </section>
+
+      <aside className="rail rail-right">
+        <div className="card rail-card">
+          <h3 className="rail-h">{t.railToday}</h3>
+          <div className="rail-stats">
+            <div><b>{remaining}</b><span>{t.railRemaining}</span></div>
+            <div><b>{stats.streak}</b><span>{t.streakLabel}</span></div>
+            <div><b>{stats.videosDone}</b><span>{t.videosLabel}</span></div>
+            <div><b>{stats.correctPct !== null ? `${stats.correctPct}%` : '—'}</b><span>{t.accuracyLabel}</span></div>
+          </div>
+        </div>
+
+        <div className="card rail-card">
+          <h3 className="rail-h">{t.railNextUp}</h3>
+          {nextBlock
+            ? (
+              <div className="rail-next">
+                <div className="rail-next-title">{blockTitle(t, nextBlock)}</div>
+                {nextBlock.minutes ? <span className="badge">{t.minutes(nextBlock.minutes)}</span> : null}
+              </div>
+            )
+            : <p className="muted small">{t.railNothingNext}</p>}
+        </div>
+
+        <div className="card rail-card">
+          <h3 className="rail-h">{t.weakTitle}</h3>
+          {stats.weak.length === 0
+            ? <p className="muted small">{t.weakEmpty}</p>
+            : (
+              <ul className="rail-weak">
+                {stats.weak.map(([tag, sk]) => (
+                  <li key={tag}>
+                    <span className="rail-weak-tag">{tag}</span>
+                    <span className="rail-weak-pct">{Math.round((sk.wrong / sk.total) * 100)}%</span>
+                  </li>
+                ))}
+              </ul>
+            )}
+          <Link className="rail-link" to="/progress">{t.railJumpProgress} →</Link>
+        </div>
+      </aside>
     </div>
   )
 }
