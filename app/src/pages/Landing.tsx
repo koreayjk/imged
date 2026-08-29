@@ -5,8 +5,13 @@ import imgHero from '../assets/lp/hero-bg.jpg'
 import imgBooks from '../assets/lp/books-bg.jpg'
 import imgLibertyBg from '../assets/lp/liberty-bg.jpg'
 
-const FEATURE_ICONS = ['📅', '🎯', '🎬', '✍️', '🌏', '📊']
-const FEATURE_TONES = ['blue', 'purple', 'orange', 'green', 'teal', 'pink']
+/** 실제 설계 값 (config/durations.json + data/syllabus/*_basic.json 산출) */
+const PLANS = [
+  { key: '6m', weeks: 26, days: 156, videos: 621, daily: 100, scope: 'lpScope6m' },
+  { key: '1y', weeks: 52, days: 260, videos: 634, daily: 65, scope: 'lpScope1y' },
+  { key: '2y', weeks: 104, days: 520, videos: 1211, daily: 45, scope: 'lpScope2y' },
+  { key: '3y', weeks: 156, days: 780, videos: 1307, daily: 35, scope: 'lpScope3y' },
+] as const
 
 export default function Landing() {
   const { t, lang } = useT()
@@ -20,115 +25,189 @@ export default function Landing() {
     [t.lpF1t, t.lpF1d], [t.lpF2t, t.lpF2d], [t.lpF3t, t.lpF3d],
     [t.lpF4t, t.lpF4d], [t.lpF5t, t.lpF5d], [t.lpF6t, t.lpF6d],
   ]
-  const stats = [
-    [t.lpStat1n, t.lpStat1], [t.lpStat2n, t.lpStat2],
-    [t.lpStat3n, t.lpStat3], [t.lpStat4n, t.lpStat4],
-  ]
   const steps = [
     [t.lpH1t, t.lpH1d], [t.lpH2t, t.lpH2d], [t.lpH3t, t.lpH3d],
   ]
-  const subjects: [string, string][] = [
-    [t.math, 'blue'], [t.english, 'purple'], [t.science, 'green'], [t.social, 'orange'],
-  ]
+  const durLabel: Record<string, string> = {
+    '6m': lang === 'ko' ? '6개월' : '6 months',
+    '1y': lang === 'ko' ? '1년' : '1 year',
+    '2y': lang === 'ko' ? '2년' : '2 years',
+    '3y': lang === 'ko' ? '3년' : '3 years',
+  }
 
   return (
     <div className="lp">
-      <section className="lp-hero" style={{ backgroundImage: `url(${imgHero})` }}>
+      {/* ───────────────────────── 히어로 */}
+      <section className="lp-hero">
+        <div className="lp-hero-photo" style={{ backgroundImage: `url(${imgHero})` }} aria-hidden="true" />
+        <div className="lp-hero-veil" aria-hidden="true" />
+
         <header className="lp-nav">
-          <div className="brand">🎓 {t.appName}</div>
+          <div className="lp-brand">
+            <span className="lp-brand-mark" aria-hidden="true" />
+            {t.appName}
+          </div>
           <div className="lp-nav-right">
-            <button className="ghost small" onClick={() => setUiLang(lang === 'ko' ? 'en' : 'ko')}>
+            <button className="lp-navbtn" onClick={() => setUiLang(lang === 'ko' ? 'en' : 'ko')}>
               {t.langToggle}
             </button>
-            <Link className="btn ghost" to="/login">{t.lpCtaLogin}</Link>
+            <Link className="lp-navbtn solid" to="/login">{t.lpCtaLogin}</Link>
           </div>
         </header>
 
         <div className="lp-hero-inner">
           <div className="lp-hero-text">
-            <div className="lp-tagline lp-fade" style={{ animationDelay: '0ms' }}>{t.lpTagline}</div>
-            <h1 className="lp-fade" style={{ animationDelay: '80ms' }}>
-              {t.lpTitle1}<br /><span className="lp-grad">{t.lpTitle2}</span>
+            <p className="lp-eyebrow lp-fade" style={{ animationDelay: '40ms' }}>{t.lpTagline}</p>
+            <h1 className="lp-fade" style={{ animationDelay: '120ms' }}>
+              {t.lpTitle1}<br /><em>{t.lpTitle2}</em>
             </h1>
-            <p className="lp-sub lp-fade" style={{ animationDelay: '160ms' }}>{t.lpSub}</p>
-            <div className="lp-fade" style={{ animationDelay: '240ms' }}>
-              <Link className="btn primary lp-cta" to={cta.to}>{cta.label} →</Link>
-              <div className="lp-badges">
-                <span>{t.lpBadge1}</span><span>{t.lpBadge2}</span><span>{t.lpBadge3}</span>
-              </div>
+            <p className="lp-sub lp-fade" style={{ animationDelay: '200ms' }}>{t.lpSub}</p>
+            <div className="lp-hero-actions lp-fade" style={{ animationDelay: '280ms' }}>
+              <Link className="lp-btn" to={cta.to}>{cta.label}</Link>
+              <ul className="lp-badges">
+                <li>{t.lpBadge1}</li><li>{t.lpBadge2}</li><li>{t.lpBadge3}</li>
+              </ul>
             </div>
           </div>
 
-          <div className="lp-mock-wrap lp-fade" style={{ animationDelay: '320ms' }}>
-            <div className="lp-mock">
-              <div className="lp-mock-bar">
-                <span className="lp-dot r" /><span className="lp-dot y" /><span className="lp-dot g" />
-                <span className="lp-mock-title">{t.navToday}</span>
-              </div>
-              <div className="lp-mock-progress"><div /></div>
-              <div className="lp-mock-row done">✅ {t.warmupTitle} <span className="badge">{t.minutes(5)}</span></div>
-              <div className="lp-mock-row active">▶️ {t.math}{t.studySuffix} <span className="badge on">{t.minutes(35)}</span></div>
-              <div className="lp-mock-row">🔒 {t.english}{t.studySuffix} <span className="badge">{t.minutes(20)}</span></div>
-              <div className="lp-mock-row">🔒 {t.checkinTitle} <span className="badge">{t.minutes(5)}</span></div>
+          {/* 오늘의 계획표 전표 */}
+          <div className="lp-slip lp-fade" style={{ animationDelay: '380ms' }}>
+            <div className="lp-slip-head">
+              <span className="lp-slip-title">{t.lpSlipTitle}</span>
+              <span className="lp-slip-day">042<span>/260</span></span>
+            </div>
+            <ol className="lp-slip-rows">
+              <li className="done">
+                <span className="lp-slip-state">{t.lpSlipDone}</span>
+                <span className="lp-slip-name">{t.warmupTitle}</span>
+                <span className="lp-slip-min">5</span>
+              </li>
+              <li className="now">
+                <span className="lp-slip-state">{t.lpSlipNow}</span>
+                <span className="lp-slip-name">{t.math}{t.studySuffix}</span>
+                <span className="lp-slip-min">35</span>
+              </li>
+              <li>
+                <span className="lp-slip-state">{t.lpSlipLock}</span>
+                <span className="lp-slip-name">{t.english}{t.studySuffix}</span>
+                <span className="lp-slip-min">20</span>
+              </li>
+              <li>
+                <span className="lp-slip-state">{t.lpSlipLock}</span>
+                <span className="lp-slip-name">{t.checkinTitle}</span>
+                <span className="lp-slip-min">5</span>
+              </li>
+            </ol>
+            <div className="lp-slip-foot">
+              <span className="lp-slip-bar"><i style={{ width: '28%' }} /></span>
+              <span className="lp-slip-pct">28%</span>
             </div>
           </div>
         </div>
+
+        <dl className="lp-figures">
+          <div><dt>3,145</dt><dd>{t.lpStat1}</dd></div>
+          <div><dt>4</dt><dd>{t.lpStat2}</dd></div>
+          <div><dt>12</dt><dd>{t.lpStat3}</dd></div>
+          <div><dt>4</dt><dd>{t.lpStat4}</dd></div>
+        </dl>
       </section>
 
-      <section className="lp-stats">
-        {stats.map(([n, label]) => (
-          <div key={label} className="lp-stat">
-            <div className="lp-stat-n">{n}</div>
-            <div className="muted">{label}</div>
-          </div>
-        ))}
+      {/* ───────────────────────── 기간 설계 (핵심 콘텐츠) */}
+      <section className="lp-section lp-plan">
+        <div className="lp-head">
+          <p className="lp-kicker">{t.lpKick2}</p>
+          <h2>{t.lpPlanTitle}</h2>
+          <p className="lp-lede">{t.lpPlanSub}</p>
+        </div>
+
+        <div className="lp-table-wrap">
+          <table className="lp-table">
+            <thead>
+              <tr>
+                <th scope="col">{t.lpColDur}</th>
+                <th scope="col" className="num">{t.lpColWeeks}</th>
+                <th scope="col" className="num">{t.lpColDays}</th>
+                <th scope="col" className="num">{t.lpColVideos}</th>
+                <th scope="col" className="num">{t.lpColDaily}</th>
+                <th scope="col">{t.lpColScope}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {PLANS.map(p => (
+                <tr key={p.key}>
+                  <th scope="row">{durLabel[p.key]}</th>
+                  <td className="num">{p.weeks}<span>{t.lpDurUnitW}</span></td>
+                  <td className="num">{p.days}<span>{t.lpDurUnitD}</span></td>
+                  <td className="num">{p.videos}<span>{t.lpDurUnitV}</span></td>
+                  <td className="num">{p.daily}<span>{t.lpDurUnitM}</span></td>
+                  <td className="scope">
+                    <span className="lp-meter" aria-hidden="true">
+                      <i style={{ width: `${Math.round((p.videos / 1307) * 100)}%` }} />
+                    </span>
+                    {t[p.scope]}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p className="lp-note">{t.lpPlanFoot}</p>
       </section>
 
-      <section className="lp-section">
-        <div className="lp-kicker">{t.appName}</div>
-        <h2>{t.lpFeatTitle}</h2>
+      {/* ───────────────────────── 인용 배너 */}
+      <section className="lp-banner" style={{ backgroundImage: `url(${imgBooks})` }}>
+        <blockquote className="lp-quote">{t.lpQuote.replace(/^"|"$/g, '')}</blockquote>
+      </section>
+
+      {/* ───────────────────────── 기능 */}
+      <section className="lp-section lp-feats">
+        <div className="lp-head">
+          <p className="lp-kicker">{t.lpKick1}</p>
+          <h2>{t.lpFeatTitle}</h2>
+        </div>
         <div className="lp-grid">
           {features.map(([title, desc], i) => (
-            <div key={title} className={`card lp-feature tone-${FEATURE_TONES[i]}`}>
-              <div className="lp-feature-icon">{FEATURE_ICONS[i]}</div>
-              <h3>{title.replace(/^\S+\s/, '')}</h3>
-              <p className="muted">{desc}</p>
-            </div>
-          ))}
-        </div>
-        <div className="lp-subjects">
-          {subjects.map(([label, tone]) => (
-            <span key={label} className={`lp-pill tone-${tone}`}>{label}</span>
-          ))}
-        </div>
-      </section>
-
-      <section className="lp-banner" style={{ backgroundImage: `url(${imgBooks})` }}>
-        <blockquote className="lp-quote"><span className="lp-qmark">“</span>{t.lpQuote.replace(/^"|"$/g, '')}</blockquote>
-      </section>
-
-      <section className="lp-section lp-how">
-        <h2>{t.lpHowTitle}</h2>
-        <div className="lp-steps">
-          {steps.map(([title, desc], i) => (
-            <div key={title} className="lp-step">
-              <div className="lp-step-n">{i + 1}</div>
+            <article key={title} className="lp-feature">
+              <span className="lp-feature-n">{String(i + 1).padStart(2, '0')}</span>
               <h3>{title}</h3>
-              <p className="muted">{desc}</p>
-            </div>
+              <p>{desc}</p>
+            </article>
           ))}
         </div>
+        <ul className="lp-subjects">
+          <li>{t.math}</li><li>{t.english}</li><li>{t.science}</li><li>{t.social}</li>
+        </ul>
       </section>
 
-      <section className="lp-band" style={{ backgroundImage: `url(${imgLibertyBg})` }}>
+      {/* ───────────────────────── 시작 3단계 (노선도) */}
+      <section className="lp-section lp-how">
+        <div className="lp-head">
+          <p className="lp-kicker">{t.lpKick3}</p>
+          <h2>{t.lpHowTitle}</h2>
+        </div>
+        <ol className="lp-route">
+          {steps.map(([title, desc], i) => (
+            <li key={title}>
+              <span className="lp-route-n">{i + 1}</span>
+              <h3>{title}</h3>
+              <p>{desc}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      {/* ───────────────────────── 마무리 CTA */}
+      <section className="lp-band">
+        <div className="lp-band-photo" style={{ backgroundImage: `url(${imgLibertyBg})` }} aria-hidden="true" />
         <div className="lp-band-inner">
           <h2>{t.lpBandTitle}</h2>
           <p>{t.lpBandSub}</p>
-          <Link className="btn lp-band-cta" to={cta.to}>{cta.label} →</Link>
+          <Link className="lp-btn light" to={cta.to}>{cta.label}</Link>
         </div>
       </section>
 
-      <footer className="lp-foot muted small">{t.lpFootNote} · Photos: Unsplash</footer>
+      <footer className="lp-foot">{t.lpFootNote} · Photos: Unsplash</footer>
     </div>
   )
 }
