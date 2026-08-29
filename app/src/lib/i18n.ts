@@ -92,7 +92,7 @@ const dict = {
     videoNotFound: '영상을 찾을 수 없습니다.', toToday: '오늘의 과제로',
     watchDone: '✅ 시청 완료', watchPct: (p: number) => `시청 ${p}% (90% 이상이면 완료)`,
     nextVideo: '다음 영상 →', backToTasks: '과제로 돌아가기',
-    summary: '요약', summaryPending: '모국어 요약이 준비 중입니다. (다국어 해설 파이프라인 Phase 2)',
+    summary: '요약', summaryPending: '이 강의의 모국어 요약은 아직 준비되지 않았습니다. 영상을 먼저 보고, 이해가 어려우면 아래 문제 풀이의 모국어 해설을 참고하세요.',
     source: '출처', watchOnYt: 'YouTube에서 보기',
 
     // 퀴즈
@@ -264,7 +264,7 @@ const dict = {
     videoNotFound: 'Video not found.', toToday: "Go to Today's Tasks",
     watchDone: '✅ Watched', watchPct: (p: number) => `Watched ${p}% (90% counts as complete)`,
     nextVideo: 'Next video →', backToTasks: 'Back to tasks',
-    summary: 'Summary', summaryPending: 'Native-language summary coming soon. (Multilingual pipeline, Phase 2)',
+    summary: 'Summary', summaryPending: 'A summary in your language isn’t ready for this lesson yet. Watch the video first — if anything is unclear, the practice questions below include explanations in your language.',
     source: 'Source', watchOnYt: 'Watch on YouTube',
 
     blockNotFound: 'Block not found.', noQuestions: 'No questions available for this subject yet.',
