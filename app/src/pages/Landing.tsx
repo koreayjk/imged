@@ -24,6 +24,7 @@ export default function Landing() {
   const features = [
     [t.lpF1t, t.lpF1d], [t.lpF2t, t.lpF2d], [t.lpF3t, t.lpF3d],
     [t.lpF4t, t.lpF4d], [t.lpF5t, t.lpF5d], [t.lpF6t, t.lpF6d],
+    [t.lpF7t, t.lpF7d], [t.lpF8t, t.lpF8d], [t.lpF9t, t.lpF9d],
   ]
   const steps = [
     [t.lpH1t, t.lpH1d], [t.lpH2t, t.lpH2d], [t.lpH3t, t.lpH3d],
@@ -108,7 +109,7 @@ export default function Landing() {
         <dl className="lp-figures">
           <div><dt>3,145</dt><dd>{t.lpStat1}</dd></div>
           <div><dt>4</dt><dd>{t.lpStat2}</dd></div>
-          <div><dt>12</dt><dd>{t.lpStat3}</dd></div>
+          <div><dt>24</dt><dd>{t.lpStat3}</dd></div>
           <div><dt>4</dt><dd>{t.lpStat4}</dd></div>
         </dl>
       </section>
@@ -153,6 +154,25 @@ export default function Landing() {
           </table>
         </div>
         <p className="lp-note">{t.lpPlanFoot}</p>
+
+        <div className="lp-styles">
+          <div className="lp-head lp-styles-head">
+            <h3>{t.lpStyleTitle}</h3>
+            <p className="lp-lede">{t.lpStyleSub}</p>
+          </div>
+          <div className="lp-style-pair">
+            <article className="lp-style focus">
+              <h4>{t.lpStyleFocusT}</h4>
+              <p>{t.lpStyleFocusD}</p>
+              <span className="lp-style-week">{t.lpStyleFocusW}</span>
+            </article>
+            <article className="lp-style parallel">
+              <h4>{t.lpStyleParT}</h4>
+              <p>{t.lpStyleParD}</p>
+              <span className="lp-style-week">{t.lpStyleParW}</span>
+            </article>
+          </div>
+        </div>
       </section>
 
       {/* ───────────────────────── 인용 배너 */}

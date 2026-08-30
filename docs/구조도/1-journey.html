@@ -1,0 +1,93 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<link rel="stylesheet" href="base.css">
+<style>
+.flow{display:grid;grid-template-columns:repeat(5,1fr);gap:0;position:relative;margin-bottom:44px}
+.flow::before{content:'';position:absolute;top:26px;left:8%;right:8%;height:2px;
+  background:repeating-linear-gradient(90deg,var(--jade) 0 7px,transparent 7px 14px);opacity:.5}
+.node{position:relative;padding:0 14px}
+.dot{width:54px;height:54px;border-radius:50%;display:grid;place-items:center;margin:0 auto 16px;
+  background:var(--jade);color:#fff;font:600 17px/1 var(--mono);box-shadow:0 0 0 8px var(--paper)}
+.node.once .dot{background:var(--ink)}
+.node.loop .dot{background:var(--amber);color:var(--ink)}
+.node h3{font-family:var(--display);font-weight:700;font-size:19px;text-align:center;margin-bottom:8px}
+.node p{font-size:13px;line-height:1.7;color:var(--mute);text-align:center}
+.node .pick{margin-top:10px;display:flex;flex-direction:column;gap:5px;align-items:center}
+.node .pick span{font:500 11px/1.4 var(--mono);color:var(--ink);background:var(--paper2);
+  padding:5px 9px;border-radius:3px;text-align:center}
+.legend{display:flex;gap:26px;justify-content:center;margin-bottom:38px;font-size:12.5px;color:var(--mute)}
+.legend b{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:7px;vertical-align:-1px}
+.day{display:grid;grid-template-columns:1.15fr 1fr;gap:34px}
+.session{display:flex;flex-direction:column;gap:8px}
+.slot{display:grid;grid-template-columns:78px 1fr auto;align-items:center;gap:14px;
+  padding:13px 16px;border:1px solid var(--line);border-radius:4px;background:#fff;font-size:14px}
+.slot .t{font:500 12px/1 var(--mono);color:var(--mute)}
+.slot.study{border-left:3px solid var(--jade);background:linear-gradient(90deg,var(--jade-pale),#fff 62%)}
+.slot.study .t{color:var(--jade)}
+.bar{display:flex;height:34px;border-radius:4px;overflow:hidden;margin:10px 0 8px;font:600 12px/34px var(--body)}
+.bar i{font-style:normal;text-align:center;color:#fff}
+.bar .v{background:var(--jade);flex:40}
+.bar .q{background:#2F5C55;flex:60}
+.note{font-size:12.5px;line-height:1.7;color:var(--mute)}
+.gate{margin-top:14px;padding:14px 16px;border:1px dashed var(--jade);border-radius:4px;
+  background:var(--jade-pale);font-size:13px;line-height:1.7}
+.gate b{font-weight:700}
+</style></head><body><div class="sheet">
+<div class="eyebrow">GED 자율학습 · 구조 1/4</div>
+<h1>학생이 겪는 흐름</h1>
+<p class="sub">가입 후 세 번의 선택으로 개인 로드맵이 확정되고, 그다음부터는 매일 같은 리듬이 반복됩니다. 학생이 "무엇을 할지" 고민하는 지점을 없애는 것이 이 구조의 목적입니다.</p>
+<div class="rule"></div>
+
+<div class="legend">
+  <span><b style="background:var(--ink)"></b>처음 한 번만 — 이후 로드맵 자동 생성</span>
+  <span><b style="background:var(--amber)"></b>매일 반복</span>
+</div>
+
+<div class="flow">
+  <div class="node once"><div class="dot">1</div><h3>가입</h3>
+    <p>이메일 · 모국어 선택</p>
+    <div class="pick"><span>한국어 / English / 中文 / ไทย</span></div></div>
+  <div class="node once"><div class="dot">2</div><h3>기간 선택</h3>
+    <p>남은 시간에 맞춰 학습 범위가 정해집니다</p>
+    <div class="pick"><span>속성 32주 · 1년 52주</span><span>2년 104주 · 3년 156주</span></div></div>
+  <div class="node once"><div class="dot">3</div><h3>방식 선택</h3>
+    <p>4과목을 언제 만날지 고릅니다</p>
+    <div class="pick"><span>집중형 — 수학·영어 먼저</span><span>병렬형 — 첫날부터 4과목</span></div></div>
+  <div class="node once"><div class="dot">4</div><h3>배치 테스트</h3>
+    <p>수학·영어를 각각 진단해 아는 단원을 건너뜁니다</p>
+    <div class="pick"><span>기초 / 중급 / 상급</span></div></div>
+  <div class="node loop"><div class="dot">∞</div><h3>매일의 과제</h3>
+    <p>오늘 할 일만 열립니다. 끝내면 다음 날이 열립니다</p>
+    <div class="pick"><span>영상 → 문제 → 체크인</span></div></div>
+</div>
+
+<div class="day">
+  <div>
+    <h2>하루 한 세션 — 속성 과정 100분 기준</h2>
+    <div class="session">
+      <div class="slot"><span class="t">05분</span><span>워밍업 — 복습 큐 5문항</span><span class="tag">간격 반복</span></div>
+      <div class="slot study"><span class="t">30분</span><span><b>영어 학습</b> — 영상 4편 + 문항 18분</span><span class="tag">트랙</span></div>
+      <div class="slot study"><span class="t">60분</span><span><b>수학 학습</b> — 영상 5편 + 문항 36분</span><span class="tag">트랙</span></div>
+      <div class="slot"><span class="t">05분</span><span>체크인 — 이해도 자가평가 · 질문 등록</span><span class="tag">기록</span></div>
+    </div>
+    <div class="gate"><b>잠금 규칙</b> — 앞 블록을 끝내야 다음 블록이 열립니다. 영상은 90% 이상 시청해야 완료로 처리되고, 그 뒤에야 문항 풀이 버튼이 활성화됩니다.</div>
+  </div>
+  <div>
+    <h2>트랙 시간 안에서</h2>
+    <div class="bar"><i class="v">영상 40%</i><i class="q">문항 풀이 60%</i></div>
+    <p class="note">영상만 보고 넘어가지 않도록 설계된 비율입니다. 속성 과정 기준 하루 100분 중 실제 영상 시청은 약 36분, 나머지는 문제 풀이와 복습입니다.</p>
+    <div style="margin-top:22px"><h2>틀린 문제의 행방</h2>
+      <div class="card" style="padding:16px 18px">
+        <div style="display:flex;align-items:center;gap:8px;font:500 13px/1 var(--mono);color:var(--jade)">
+          <span>오답</span><span style="color:var(--line)">→</span><span>1일</span>
+          <span style="color:var(--line)">→</span><span>3일</span>
+          <span style="color:var(--line)">→</span><span>7일</span>
+          <span style="color:var(--line)">→</span><span>21일</span>
+          <span style="color:var(--line)">→</span><span class="tag">졸업</span>
+        </div>
+        <p class="note" style="margin-top:12px">틀린 문항은 간격을 벌려가며 워밍업 큐에 다시 등장합니다. 네 번 연속 맞히면 큐에서 빠집니다.</p>
+      </div></div>
+  </div>
+</div>
+
+<div class="foot"><span class="brand">INTO GLOBAL과 함께 하는 GED 자율학습</span><span>구조 1/4 — 학생 흐름</span></div>
+</div></body></html>

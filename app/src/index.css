@@ -597,6 +597,31 @@ input, select {
 }
 .lp-meter i { display: block; height: 100%; background: var(--jade); }
 
+/* 진행 방식 2종 */
+.lp-styles { margin-top: 4rem; padding-top: 3rem; border-top: 1px solid var(--line); }
+.lp-styles-head { margin-bottom: 2rem; }
+.lp-styles-head h3 {
+  margin: 0; font-family: var(--display); font-weight: 700;
+  font-size: clamp(1.35rem, 2.4vw, 1.85rem); letter-spacing: -0.02em;
+}
+.lp-style-pair { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2.4rem; }
+.lp-style { padding-top: 1.2rem; border-top: 2px solid var(--jade); }
+.lp-style.parallel { border-top-color: var(--amber); }
+.lp-style h4 {
+  margin: 0 0 0.6rem; font-family: var(--display); font-weight: 700; font-size: 1.3rem;
+}
+.lp-style p { margin: 0 0 1rem; font-size: 0.95rem; line-height: 1.8; color: var(--mute); }
+.lp-style-week {
+  display: inline-block; font: 500 0.8rem/1 var(--mono);
+  color: var(--jade); border: 1px solid rgba(18, 121, 106, 0.3);
+  border-radius: 3px; padding: 0.5rem 0.85rem;
+}
+.lp-style.parallel .lp-style-week { color: #A8720F; border-color: rgba(220, 154, 44, 0.45); }
+@media (max-width: 760px) {
+  .lp-style-pair { grid-template-columns: 1fr; gap: 1.8rem; }
+  .lp-styles { margin-top: 2.6rem; padding-top: 2rem; }
+}
+
 /* ───────────────────────────────── 인용 배너 */
 .lp-banner {
   position: relative; background-size: cover; background-position: center 62%;
