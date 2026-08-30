@@ -27,8 +27,21 @@ export default function Landing() {
     [t.lpF7t, t.lpF7d], [t.lpF8t, t.lpF8d], [t.lpF9t, t.lpF9d],
   ]
   const steps = [
-    [t.lpH1t, t.lpH1d], [t.lpH2t, t.lpH2d], [t.lpH3t, t.lpH3d],
+    [t.lpH1t, t.lpH1d], [t.lpH2t, t.lpH2d], [t.lpH3t, t.lpH3d], [t.lpH4t, t.lpH4d],
   ]
+  // 1년 과정 기준 트랙 배치 (52주 중 비율). config/durations.json의 실제 값.
+  const gantt = {
+    focus: [
+      [t.lpTrackEng, 'eng', 0, 90.4], [t.lpTrackMath, 'math', 0, 38.5],
+      [t.lpTrackSci, 'sci', 38.5, 26.9], [t.lpTrackSoc, 'soc', 65.4, 19.2],
+      [t.lpTrackInt, 'int', 84.6, 15.4],
+    ],
+    parallel: [
+      [t.lpTrackEng, 'eng', 0, 84.6], [t.lpTrackMath, 'math', 0, 84.6],
+      [t.lpTrackSci, 'sci dash', 0, 84.6], [t.lpTrackSoc, 'soc dash', 0, 84.6],
+      [t.lpTrackInt, 'int', 84.6, 15.4],
+    ],
+  } as const
   const durLabel: Record<string, string> = {
     '6m': lang === 'ko' ? '속성' : 'Fast track',
     '1y': lang === 'ko' ? '1년' : '1 year',
@@ -161,16 +174,58 @@ export default function Landing() {
             <p className="lp-lede">{t.lpStyleSub}</p>
           </div>
           <div className="lp-style-pair">
-            <article className="lp-style focus">
-              <h4>{t.lpStyleFocusT}</h4>
-              <p>{t.lpStyleFocusD}</p>
-              <span className="lp-style-week">{t.lpStyleFocusW}</span>
-            </article>
-            <article className="lp-style parallel">
-              <h4>{t.lpStyleParT}</h4>
-              <p>{t.lpStyleParD}</p>
-              <span className="lp-style-week">{t.lpStyleParW}</span>
-            </article>
+            {([['focus', t.lpStyleFocusT, t.lpStyleFocusD, t.lpStyleFocusW],
+               ['parallel', t.lpStyleParT, t.lpStyleParD, t.lpStyleParW]] as const)
+              .map(([key, title, desc, week]) => (
+                <article key={key} className={`lp-style ${key}`}>
+                  <h4>{title}</h4>
+                  <p>{desc}</p>
+                  <div className="lp-gantt" role="img" aria-label={`${title} — ${t.lpTrackLegend}`}>
+                    {gantt[key].map(([label, tone, left, width]) => (
+                      <div key={label} className="lp-gantt-row">
+                        <span className="lp-gantt-label">{label}</span>
+                        <span className="lp-gantt-track">
+                          <i className={`lp-gantt-seg ${tone}`} style={{ left: `${left}%`, width: `${width}%` }} />
+                        </span>
+                      </div>
+                    ))}
+                    <div className="lp-gantt-scale"><span /><span>1주 · 13 · 26 · 39 · 52주</span></div>
+                  </div>
+                  <span className="lp-style-week">{week}</span>
+                </article>
+              ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ───────────────────────── 하루 구조 */}
+      <section className="lp-section lp-day">
+        <div className="lp-head">
+          <p className="lp-kicker">{t.lpKick1}</p>
+          <h2>{t.lpDayTitle}</h2>
+          <p className="lp-lede">{t.lpDaySub}</p>
+        </div>
+        <div className="lp-day-grid">
+          <ol className="lp-session">
+            <li><span className="lp-session-min">5</span>
+              <span><b>{t.lpDayWarm}</b>{t.lpDayWarmD}</span></li>
+            <li className="main"><span className="lp-session-min">90</span>
+              <span><b>{t.lpDayTrack}</b>{t.lpDayTrackD}</span></li>
+            <li><span className="lp-session-min">5</span>
+              <span><b>{t.lpDayCheck}</b>{t.lpDayCheckD}</span></li>
+          </ol>
+          <div className="lp-day-side">
+            <h3>{t.lpRatioTitle}</h3>
+            <div className="lp-ratio">
+              <i className="v">{t.lpRatioVideo}</i><i className="q">{t.lpRatioQuiz}</i>
+            </div>
+            <p className="lp-note">{t.lpRatioNote}</p>
+            <h3 className="lp-day-h2">{t.lpReviewTitle}</h3>
+            <ol className="lp-spaced">
+              <li>1일</li><li>3일</li><li>7일</li><li>21일</li>
+              <li className="grad">{t.lpReviewGrad}</li>
+            </ol>
+            <p className="lp-note">{t.lpReviewNote}</p>
           </div>
         </div>
       </section>
@@ -212,6 +267,27 @@ export default function Landing() {
               <span className="lp-route-n">{i + 1}</span>
               <h3>{title}</h3>
               <p>{desc}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      {/* ───────────────────────── 콘텐츠 제작 과정 */}
+      <section className="lp-section lp-pipe">
+        <div className="lp-head">
+          <p className="lp-kicker">{t.lpKick1}</p>
+          <h2>{t.lpPipeTitle}</h2>
+          <p className="lp-lede">{t.lpPipeSub}</p>
+        </div>
+        <ol className="lp-pipe-steps">
+          {([[t.lpPipe1t, t.lpPipe1d, t.lpPipe1n], [t.lpPipe2t, t.lpPipe2d, t.lpPipe2n],
+             [t.lpPipe3t, t.lpPipe3d, t.lpPipe3n], [t.lpPipe4t, t.lpPipe4d, t.lpPipe4n],
+             [t.lpPipe5t, t.lpPipe5d, t.lpPipe5n]] as const).map(([title, desc, num], i) => (
+            <li key={title}>
+              <span className="lp-pipe-n">{String(i + 1).padStart(2, '0')}</span>
+              <h3>{title}</h3>
+              <p>{desc}</p>
+              <span className="lp-pipe-num">{num}</span>
             </li>
           ))}
         </ol>
