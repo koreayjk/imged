@@ -9,7 +9,7 @@
 
 출력:
     docs/syllabus/영상선별_<course>.md      코스별 영상 선별표 (포함/제외 + 사유 + 집계)
-    docs/syllabus/실라버스_<기간>.md         주차·일자별 상세 실라버스
+    docs/syllabus/실라버스_<기간>_<방식>_<레벨>.md   주차·일자별 상세 실라버스
     data/syllabus/<duration>.json           앱 시딩용 JSON (roadmap_days 원형)
     docs/syllabus/_검증_리포트.md            분량 vs 주차 배분 검증 (§6-3)
 
@@ -377,7 +377,8 @@ def write_syllabus_md(dur_key, dur, result, level, style):
         for p in parts:
             lines.append(f"- {p}")
         lines.append("")
-    (OUT_MD / f"실라버스_{dur['label']}_{level['label']}.md").write_text("\n".join(lines))
+    # name에 방식이 들어 있다. 여기서 빠뜨리면 집중형이 병렬형에 덮어써진다.
+    (OUT_MD / f"실라버스_{name}.md").write_text("\n".join(lines))
 
 
 def write_trim_md(dur, result, level, style):
