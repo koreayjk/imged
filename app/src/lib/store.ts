@@ -10,6 +10,9 @@ import bankRla from '../data/question_bank_rla.json'
 
 const KEY = 'ged-app-v1'
 
+/** 완료 기준 — 영상 구간의 90% 이상 (또는 끝까지 재생) */
+export const COMPLETE_RATIO = 0.9
+
 export interface AppState {
   profile: Profile | null
   videoProgress: Record<string, VideoProgress>
@@ -66,16 +69,27 @@ export const store = {
     }
   },
 
-  updateVideoProgress(videoRef: string, watchedSeconds: number, durationSec: number) {
+  /**
+   * 시청 구간 기록. Lesson 화면이 5초 버킷 비트맵을 넘기면 본 구간 길이를 다시 계산한다.
+   * `ended`(영상 끝까지 재생)는 비율과 무관하게 완료로 인정한다 — 끝까지 봤는데
+   * 완료가 안 되는 상황을 만들지 않기 위함.
+   */
+  recordWatch(
+    videoRef: string,
+    { seen, watchedSeconds, durationSec, lastPos, ended }: {
+      seen: string; watchedSeconds: number; durationSec: number; lastPos: number; ended?: boolean
+    },
+  ) {
     const prev = state.videoProgress[videoRef] ?? { watchedSeconds: 0, completed: false }
     const watched = Math.max(prev.watchedSeconds, watchedSeconds)
-    const completed = prev.completed || watched >= durationSec * 0.9
+    const completed = prev.completed || ended === true || watched >= durationSec * COMPLETE_RATIO
     state = {
       ...state,
       videoProgress: {
         ...state.videoProgress,
         [videoRef]: {
-          watchedSeconds: watched, completed,
+          watchedSeconds: watched, completed, seen, durationSec,
+          lastPos: Math.max(prev.lastPos ?? 0, Math.round(lastPos)),
           completedAt: completed && !prev.completed ? new Date().toISOString() : prev.completedAt,
         },
       },

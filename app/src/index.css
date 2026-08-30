@@ -107,6 +107,7 @@ input, select {
 .rail-num i { font-style: normal; font-size: 0.8rem; font-weight: 600; color: var(--muted); }
 .progressbar.thin { height: 5px; margin: 0.45rem 0 0; }
 
+.watch-hint { margin: 0.5rem 0 0; }
 .summary-body { margin: 0 0 0.5rem; line-height: 1.8; font-size: 0.96rem; }
 /* ── 커리큘럼 방식 선택 */
 .step-label {

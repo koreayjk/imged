@@ -91,7 +91,9 @@ const dict = {
     // 레슨
     backToday: '← 오늘의 과제', playerLoading: '플레이어 로딩 중…',
     videoNotFound: '영상을 찾을 수 없습니다.', toToday: '오늘의 과제로',
-    watchDone: '✅ 시청 완료', watchPct: (p: number) => `시청 ${p}% (90% 이상이면 완료)`,
+    watchDone: '✅ 시청 완료', watchPct: (p: number) => `시청 ${p}%`,
+    watchLeft: (s: number) => s >= 60 ? `${Math.ceil(s / 60)}분 더 보면 완료` : `${s}초 더 보면 완료`,
+    watchHint: '건너뛴 구간은 시청으로 세지 않습니다. 이어서 보면 그대로 누적됩니다.',
     nextVideo: '다음 영상 →', backToTasks: '과제로 돌아가기',
     summary: '요약', summaryPending: '이 강의는 아직 요약이 없습니다. 영상을 먼저 보고, 이해가 어려우면 아래 문제 풀이의 모국어 해설을 참고하세요.',
     summaryEnOnly: '모국어 번역이 아직 준비되지 않아 영어 원문을 보여주고 있습니다.',
@@ -321,7 +323,9 @@ const dict = {
 
     backToday: "← Today's Tasks", playerLoading: 'Loading player…',
     videoNotFound: 'Video not found.', toToday: "Go to Today's Tasks",
-    watchDone: '✅ Watched', watchPct: (p: number) => `Watched ${p}% (90% counts as complete)`,
+    watchDone: '✅ Watched', watchPct: (p: number) => `Watched ${p}%`,
+    watchLeft: (s: number) => s >= 60 ? `${Math.ceil(s / 60)} min left to complete` : `${s}s left to complete`,
+    watchHint: 'Skipped sections don’t count. Pick up where you left off — your progress carries over.',
     nextVideo: 'Next video →', backToTasks: 'Back to tasks',
     summary: 'Summary', summaryPending: 'No summary for this lesson yet. Watch the video first — if anything is unclear, the practice questions below include explanations in your language.',
     summaryEnOnly: 'Showing the original English — a translation isn’t ready yet.',

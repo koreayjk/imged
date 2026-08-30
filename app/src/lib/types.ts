@@ -67,9 +67,16 @@ export interface Profile {
 }
 
 export interface VideoProgress {
+  /** 실제로 본 구간의 길이(초). 같은 구간을 반복 재생해도 늘지 않는다. */
   watchedSeconds: number
   completed: boolean
   completedAt?: string
+  /** 5초 버킷 비트맵(base64) — 여러 번 나눠 봐도 본 구간이 누적된다. */
+  seen?: string
+  /** 마지막 재생 위치(초) — 이어보기 지점. */
+  lastPos?: number
+  /** 플레이어가 실제 길이를 알려준 경우의 값. 메타데이터가 틀려도 완료 판정이 어긋나지 않는다. */
+  durationSec?: number
 }
 
 export interface AttemptRecord {
