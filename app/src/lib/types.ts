@@ -1,4 +1,4 @@
-export type Duration = '6m' | '1y' | '2y' | '3y'
+export type Duration = '6m' | '1y'
 export type Level = 'basic' | 'inter' | 'adv'
 export type Subject = 'math' | 'rla' | 'science' | 'social'
 export type Lang = 'en' | 'ko' | 'zh' | 'th'
@@ -17,7 +17,7 @@ export interface Video {
 }
 
 export interface Block {
-  type: 'warmup' | 'study' | 'integration' | 'mock' | 'weekly_test' | 'monthly_test' | 'checkin'
+  type: 'warmup' | 'study' | 'essay' | 'integration' | 'mock' | 'weekly_test' | 'monthly_test' | 'checkin'
   minutes?: number
   note?: string
   track?: string
@@ -53,7 +53,8 @@ export interface Question {
   explanation_i18n: Record<string, string>
 }
 
-export type CurriculumStyle = 'focus' | 'parallel'
+/** 입학 기준이 CEFR B1 이상이라 4과목을 첫날부터 병행한다. 단일 방식. */
+export type CurriculumStyle = 'parallel'
 
 export interface Profile {
   name: string
@@ -95,7 +96,7 @@ export interface DayState {
 }
 
 export const DURATION_LABEL: Record<Duration, string> = {
-  '6m': '6개월', '1y': '1년', '2y': '2년', '3y': '3년',
+  '6m': '6개월', '1y': '1년',
 }
 export const LEVEL_LABEL: Record<Level, string> = {
   basic: '기초', inter: '중급', adv: '상급',

@@ -10,7 +10,7 @@ export interface Roadmap {
   label: string
 }
 
-const MATH_TRACKS = new Set(['math', 't0'])
+const MATH_TRACKS = new Set(['math'])
 
 export function composeDays(mathDays: SyllabusDay[], engDays: SyllabusDay[]): SyllabusDay[] {
   const n = Math.min(mathDays.length, engDays.length)
@@ -35,7 +35,7 @@ export function composeDays(mathDays: SyllabusDay[], engDays: SyllabusDay[]): Sy
 
 export function useRoadmap(
   duration: Duration | null, levelMath: Level | null, levelEnglish: Level | null,
-  style: CurriculumStyle | null = 'focus',
+  style: CurriculumStyle | null = 'parallel',
 ) {
   const [roadmap, setRoadmap] = useState<Roadmap | null>(null)
   const [error, setError] = useState<string | null>(null)
@@ -43,7 +43,7 @@ export function useRoadmap(
   useEffect(() => {
     if (!duration || !levelMath || !levelEnglish) return
     let alive = true
-    const st = style ?? 'focus'
+    const st = style ?? 'parallel'
     Promise.all([loadTemplate(duration, levelMath, st), loadTemplate(duration, levelEnglish, st)])
       .then(([mt, et]) => {
         if (!alive) return
@@ -57,6 +57,11 @@ export function useRoadmap(
 }
 
 /** 블록 완료에 문항 풀이가 필요한 타입 */
+/** 서술형 작성 블록 — 문항 풀이가 아니라 에세이 화면으로 보낸다 */
+export function isEssayBlock(b: Block) {
+  return b.type === 'essay'
+}
+
 export function needsQuiz(b: Block) {
   return b.type === 'study' || b.type === 'warmup' || b.type === 'weekly_test'
     || b.type === 'monthly_test' || b.type === 'integration' || b.type === 'mock'
@@ -66,6 +71,7 @@ export function blockTitle(t: Dict, b: Block): string {
   switch (b.type) {
     case 'warmup': return t.warmupTitle
     case 'study': return `${trackLabel(t, b.track)}${t.studySuffix}`
+    case 'essay': return t.essayBlockTitle
     case 'integration': return t.integrationTitle
     case 'mock': return t.mockTitle
     case 'weekly_test': return t.weeklyTest

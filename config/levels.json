@@ -4,69 +4,107 @@
     "skips: 해당 레벨에서 '진단 통과 가정'으로 건너뛰는 유닛 (코스별 제목 정규식, 대소문자 무시).",
     "match=\"^.*$\" 는 코스 전체 스킵. tier_bonus: 상급은 티어 +1 (예: 6개월 T1→T2).",
     "extra_playlist: 상급의 math 트랙에 추가되는 코스 (이미 있으면 무시).",
-    "스킵으로 확보된 시간은 생성기가 자동으로 레슨 내 추가 예제 영상과 상위 콘텐츠로 채운다."
+    "스킵으로 확보된 시간은 생성기가 자동으로 레슨 내 추가 예제 영상과 상위 콘텐츠로 채운다.",
+    "입학 기준이 B1 이상이므로 레벨은 B1(기초)·B2(중급)·C1(상급) 구간을 뜻한다. 품사 기초 스킵은 ged_scope에서 전역 제외로 옮겼다."
   ],
   "levels": {
-    "basic": { "label": "기초", "tier_bonus": 0, "skips": {}, "extra_playlist": {} },
-
+    "basic": {
+      "label": "기초",
+      "tier_bonus": 0,
+      "skips": {},
+      "extra_playlist": {}
+    },
     "inter": {
       "label": "중급",
       "tier_bonus": 0,
       "skips": {
-        "arithmetic": [
-          { "match": "^.*$", "reason": "중급 배치: 초등 산수 전 과정 진단 통과 가정" }
-        ],
         "pre-algebra": [
-          { "match": "^factors and multiples$|^patterns$", "reason": "중급 배치: 기초 정수·패턴 진단 통과 가정" }
+          {
+            "match": "^factors and multiples$|^patterns$",
+            "reason": "중급 배치: 기초 정수·패턴 진단 통과 가정"
+          }
         ],
         "basic-geometry": [
-          { "match": "intro to area and perimeter|intro to mass and volume|measuring angles|units of measurement", "reason": "중급 배치: 기초 측정 진단 통과 가정" }
+          {
+            "match": "intro to area and perimeter|intro to mass and volume|measuring angles|units of measurement",
+            "reason": "중급 배치: 기초 측정 진단 통과 가정"
+          }
         ],
         "algebra-basics": [
-          { "match": "^foundations$", "reason": "중급 배치: Pre-algebra 중복 기초 진단 통과 가정" }
+          {
+            "match": "^foundations$",
+            "reason": "중급 배치: Pre-algebra 중복 기초 진단 통과 가정"
+          }
         ],
-        "grammar": [
-          { "match": "parts of speech: the noun|parts of speech: the verb|parts of speech: the pronoun", "reason": "중급 배치: 기초 품사 진단 통과 가정" }
+        "sat-reading-writing": [
+          {
+            "match": "get ready: information and ideas|get ready: craft and structure",
+            "reason": "중급(B2급) 배치: SAT R&W 준비 유닛 진단 통과 가정 — 본 과정으로 바로 진입"
+          }
         ]
       },
       "extra_playlist": {}
     },
-
     "adv": {
       "label": "상급",
       "tier_bonus": 1,
       "skips": {
-        "arithmetic": [
-          { "match": "^.*$", "reason": "상급 배치: 초등 산수 전 과정 진단 통과 가정" }
-        ],
         "pre-algebra": [
-          { "match": "^factors and multiples$|^patterns$|^ratios and rates$|^percentages$|exponents intro|variables & expressions|equations & inequalities introduction|percent & rational|proportional relationships|one-step and two-step", "reason": "상급 배치: 중학 초반 과정 진단 통과 가정" }
+          {
+            "match": "^factors and multiples$|^patterns$|^ratios and rates$|^percentages$|exponents intro|variables & expressions|equations & inequalities introduction|percent & rational|proportional relationships|one-step and two-step",
+            "reason": "상급 배치: 중학 초반 과정 진단 통과 가정"
+          }
         ],
         "basic-geometry": [
-          { "match": "intro to area and perimeter|intro to mass and volume|measuring angles|units of measurement|^plane figures$|^coordinate plane$|decomposing to find area", "reason": "상급 배치: 기초 기하 진단 통과 가정" }
+          {
+            "match": "intro to area and perimeter|intro to mass and volume|measuring angles|units of measurement|^plane figures$|^coordinate plane$|decomposing to find area",
+            "reason": "상급 배치: 기초 기하 진단 통과 가정"
+          }
         ],
         "algebra-basics": [
-          { "match": "^foundations$|^algebraic expressions$", "reason": "상급 배치: 대수 입문 진단 통과 가정" }
-        ],
-        "grammar": [
-          { "match": "^.*$", "reason": "상급 배치: 영문법 전 과정 진단 통과 가정 — SAT 독해·작문부터 시작" }
+          {
+            "match": "^foundations$|^algebraic expressions$",
+            "reason": "상급 배치: 대수 입문 진단 통과 가정"
+          }
         ],
         "ms-biology": [
-          { "match": "^.*$", "reason": "상급 배치: 중학 과학 진단 통과 가정" }
+          {
+            "match": "^.*$",
+            "reason": "상급 배치: 중학 과학 진단 통과 가정"
+          }
         ],
         "ms-chemistry": [
-          { "match": "^.*$", "reason": "상급 배치: 중학 과학 진단 통과 가정" }
+          {
+            "match": "^.*$",
+            "reason": "상급 배치: 중학 과학 진단 통과 가정"
+          }
         ],
         "ms-physics": [
-          { "match": "^.*$", "reason": "상급 배치: 중학 과학 진단 통과 가정" }
+          {
+            "match": "^.*$",
+            "reason": "상급 배치: 중학 과학 진단 통과 가정"
+          }
         ],
         "ms-earth-space": [
-          { "match": "^.*$", "reason": "상급 배치: 중학 과학 진단 통과 가정" }
+          {
+            "match": "^.*$",
+            "reason": "상급 배치: 중학 과학 진단 통과 가정"
+          }
+        ],
+        "sat-reading-writing": [
+          {
+            "match": "^.*$",
+            "reason": "상급(C1급) 배치: 준비 과정 전체 생략 — SAT R&W 본 과정부터 시작"
+          }
         ]
       },
       "extra_playlist": {
-        "math": ["algebra-1"],
-        "english": ["sat-rw-full"]
+        "math": [
+          "algebra-1"
+        ],
+        "english": [
+          "sat-rw-full"
+        ]
       }
     }
   }

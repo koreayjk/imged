@@ -175,19 +175,32 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
             if extra not in playlist:
                 playlist.append(extra)
         q, skipped = [], []
+        # 코스 간 중복 제거: 같은 영상이 여러 코스에 들어 있는 경우가 있다
+        # (예: sat-reading-writing의 Get Ready = sat-rw-full의 Foundations,
+        #  두 코스의 SAT Grammar practice도 동일). 앞선 코스 것을 남긴다.
+        seen_ids: set[str] = set()
         for key in playlist:
             course = courses_by_key.get(key)
             if not course:
                 continue
             inc, exc, lvl_skip = filter_course(course, scope, overrides, tier, level_skips)
             selections.setdefault(key, (inc, exc))
-            q.extend(inc)
+            fresh = []
+            for v in inc:
+                vid = v.get("youtube_id")
+                if vid and vid in seen_ids:
+                    continue
+                if vid:
+                    seen_ids.add(vid)
+                fresh.append(v)
+            q.extend(fresh)
             skipped.extend(lvl_skip)
         # 트랙 용량(영상 예산)에 맞춰 자동 선별:
         #   1) low-priority 유닛 영상부터 제외
         #   2) 그래도 초과하면 레슨 대표(1번째) 영상을 전부 지키고,
         #      남는 용량만큼 2번째·3번째… 예제 영상을 순서대로 채움 (breadth-first)
-        capacity_sec = track_minutes.get(track["name"], 0) * 60 * video_ratio
+        ratio = track.get("video_ratio", video_ratio)
+        capacity_sec = track_minutes.get(track["name"], 0) * 60 * ratio
         total_sec = sum(v["duration_sec"] for v in q)
         trimmed = list(skipped)  # 레벨 배치로 건너뛴 영상도 제외 목록에 기록
         if total_sec > capacity_sec:
@@ -227,6 +240,26 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
 
     days = []
     cursors = {name: 0 for name in queues}
+    # 큐가 용량보다 짧으면(B1+ 영어처럼) 앞에서 다 써버려 뒤쪽이 텅 빈다.
+    # 그런 트랙은 하루 영상 예산을 남은 분량 기준으로 낮춰 전 기간에 고르게 편다.
+    essay_dow = session.get("essay_weekday")
+    spread, slots_left, remain_sec, debt = set(), {}, {}, {}
+    for track in dur["tracks"]:
+        name = track["name"]
+        q = queues[name]
+        if not q:
+            continue
+        n_days = sum(1 for (w, d0), a in slots.items() if name in a
+                     and not (name == "english" and essay_dow and d0 == essay_dow))
+        if not n_days:
+            continue
+        total_sec = sum(v["duration_sec"] for v in q)
+        nominal = track_minutes.get(name, 0) * 60 * track.get("video_ratio", video_ratio)
+        if total_sec < nominal:
+            spread.add(name)
+            slots_left[name] = n_days
+            remain_sec[name] = total_sec
+            debt[name] = 0.0
     int_start, int_end = dur["integration"]["weeks"]
     mock_cycle = ["math", "rla", "science", "social"]
 
@@ -247,20 +280,47 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
                 })
             else:
                 alloc = slots[(week, dow)]
+                essay_today = bool(session.get("essay_weekday")) and dow == session["essay_weekday"]
                 for track in dur["tracks"]:
                     track_min = alloc.get(track["name"])
                     if not track_min:
                         continue
+                    if essay_today and track["name"] == "english":
+                        # 그날 영어 시간은 통째로 서술형 작성. 영상 큐는 건드리지 않는다.
+                        day["blocks"].append({
+                            "type": "essay", "subject": "rla", "track": "english",
+                            "label": track["label"], "minutes": track_min,
+                            "note": "GED 서술형(Extended Response) 작성 + AI 채점·피드백",
+                        })
+                        continue
                     q, cur = queues[track["name"]], cursors[track["name"]]
-                    budget = track_min * 60 * video_ratio
+                    t_ratio = track.get("video_ratio", video_ratio)
+                    name = track["name"]
                     vids, used = [], 0
-                    # 마지막 영상은 예산을 약간 초과해도 배치 (빈틈 방지)
-                    while cur < len(q) and (not vids or used < budget):
-                        vids.append(q[cur])
-                        used += q[cur]["duration_sec"]
-                        cur += 1
+                    if name in spread:
+                        # 콘텐츠가 기간보다 적은 트랙: 시간이 아니라 '편수'로 페이싱한다.
+                        # 시간 기준으로 하루 최소 1편을 강제하면 계획보다 빨리 소진돼
+                        # 뒤쪽 수십 일이 통째로 비어버린다. 소수점은 이월해 정확히 맞춘다.
+                        left = len(q) - cur
+                        debt[name] += left / max(1, slots_left[name])
+                        take = int(debt[name])
+                        debt[name] -= take
+                        slots_left[name] -= 1
+                        for _ in range(take):
+                            if cur >= len(q):
+                                break
+                            vids.append(q[cur]); used += q[cur]["duration_sec"]; cur += 1
+                    else:
+                        budget = track_min * 60 * t_ratio
+                        # 마지막 영상은 예산을 약간 초과해도 배치 (빈틈 방지)
+                        while cur < len(q) and (not vids or used < budget):
+                            vids.append(q[cur])
+                            used += q[cur]["duration_sec"]
+                            cur += 1
+                    if name in spread:
+                        remain_sec[name] = max(0, remain_sec[name] - used)
                     cursors[track["name"]] = cur
-                    practice_min = round(track_min * (1 - video_ratio))
+                    practice_min = round(track_min * (1 - t_ratio))
                     block = {"type": "study", "track": track["name"], "label": track["label"],
                              "minutes": track_min, "videos": vids,
                              "practice_minutes": practice_min}
@@ -282,7 +342,8 @@ def schedule_duration(dur_key, dur, courses_by_key, scope, overrides, session, l
             remain = q[cur:]
             remain_min = round(sum(v["duration_sec"] for v in remain) / 60)
             slot_days = sum(1 for a in slots.values() if track["name"] in a) or 1
-            per_day = (track_minutes.get(track["name"], 0) / slot_days) * video_ratio
+            per_day = (track_minutes.get(track["name"], 0) / slot_days) \
+                * track.get("video_ratio", video_ratio)
             extra_days = math.ceil(remain_min / per_day) if per_day else 0
             extra_weeks = math.ceil(extra_days / days_per_week)
             warnings.append(
@@ -324,12 +385,21 @@ def write_selection_docs(all_selections, courses_by_key):
         (OUT_MD / f"영상선별_{key}.md").write_text("\n".join(lines))
 
 
+SESSION: dict = {}
+ENG_RATIO: float = 0.4
+
+
 def write_syllabus_md(dur_key, dur, result, level, style):
     name = f"{dur['label']}_{style['label']}_{level['label']}"
     lines = [f"# GED 실라버스 — {dur['label']} 과정 · {style['label']} · {level['label']} 레벨", "",
              f"> {style['summary']}", "",
              f"- 총 {dur['weeks']}주 / 주 {dur['study_days_per_week']}일 학습 / 티어 {result['tier']}",
-             f"- 세션 구조: 워밍업 5분 → 트랙 학습(영상 40% + 문항 60%) → 체크인 5분",
+             f"- 하루 {dur['daily_total_min']}분: 워밍업 {SESSION['warmup_min']}분 → 트랙 학습 → "
+             f"체크인 {SESSION['checkin_min']}분",
+             f"- 트랙 학습은 영상 {round(SESSION['video_ratio'] * 100)}% + 문항 {round((1 - SESSION['video_ratio']) * 100)}% "
+             f"(영어는 영상 {round(ENG_RATIO * 100)}% — B1 이상 전제로 읽기·문항·서술형 비중을 높임)",
+             f"- 주 {SESSION.get('essay_weekday', 0) and 1}회 서술형 작성 (금요일 영어 시간)"
+             if SESSION.get("essay_weekday") else "",
              f"- 레벨: **{level['label']}** — 배치 테스트 결과에 따라 결정 (docs/배치테스트_설계.md)",
              ""]
     if dur.get("milestone"):
@@ -427,6 +497,14 @@ def main():
     levels = load_json(ROOT / "config" / "levels.json")["levels"]
     dur_filter = only & set(durations_cfg["durations"])   # 인자: 기간 키(6m 등)·레벨 키(adv 등) 혼용 가능
     level_filter = only & set(levels)
+    global SESSION, ENG_RATIO
+    SESSION = durations_cfg["session"]
+    ENG_RATIO = next(
+        (t.get("video_ratio", SESSION["video_ratio"])
+         for d0 in durations_cfg["durations"].values()
+         for st in d0.get("styles", {}).values()
+         for t in st["tracks"] if t["name"] == "english"),
+        SESSION["video_ratio"])
     styles = durations_cfg["styles"]
     style_filter = only & set(styles)
     for dur_key, dur_base in durations_cfg["durations"].items():

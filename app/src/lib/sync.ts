@@ -51,7 +51,7 @@ export async function startSync(userId: string) {
     role: (prof?.role as Profile['role']) ?? 'student',
     nativeLang: (prof?.native_lang as Profile['nativeLang']) ?? 'ko',
     duration: (prof?.target_duration as Profile['duration']) ?? null,
-    style: (prof?.curriculum_style as Profile['style']) ?? 'focus',
+    style: (prof?.curriculum_style as Profile['style']) ?? 'parallel',
     levelMath: (prof?.placement_math as Profile['levelMath']) ?? null,
     levelEnglish: (prof?.placement_english as Profile['levelEnglish']) ?? null,
     startedAt: prof?.enrolled_at ?? null,
@@ -97,7 +97,7 @@ async function pushNow() {
         name: s.profile.name,
         native_lang: s.profile.nativeLang,
         target_duration: s.profile.duration,
-        curriculum_style: s.profile.style ?? 'focus',
+        curriculum_style: s.profile.style ?? 'parallel',
         placement_math: s.profile.levelMath,
         placement_english: s.profile.levelEnglish,
       }).eq('id', uid),
@@ -140,7 +140,7 @@ export async function fetchStudents(): Promise<StudentSummary[]> {
     const doneDays = Object.values(st.dayStates ?? {}).filter((d) => d.finished).length
     return {
       id: p.id, name: p.name,
-      duration: p.target_duration, style: p.curriculum_style ?? 'focus',
+      duration: p.target_duration, style: p.curriculum_style ?? 'parallel',
       levelMath: p.placement_math, levelEnglish: p.placement_english,
       doneDays,
       attempts: attempts.length,

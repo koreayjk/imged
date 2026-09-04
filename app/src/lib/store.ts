@@ -130,7 +130,7 @@ export const store = {
 const templates = import.meta.glob<SyllabusTemplate>('../data/syllabus/*.json', { import: 'default' })
 
 export async function loadTemplate(
-  duration: Duration, level: Level, style: CurriculumStyle = 'focus',
+  duration: Duration, level: Level, style: CurriculumStyle = 'parallel',
 ): Promise<SyllabusTemplate> {
   const key = `../data/syllabus/${duration}_${level}_${style}.json`
   const loader = templates[key]

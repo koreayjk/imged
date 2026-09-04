@@ -7,10 +7,8 @@ import imgLibertyBg from '../assets/lp/liberty-bg.jpg'
 
 /** 실제 설계 값 (config/durations.json + data/syllabus/*_basic.json 산출) */
 const PLANS = [
-  { key: '6m', weeks: 32, days: 160, topics: 335, daily: 100, scope: 'lpScope6m' },
-  { key: '1y', weeks: 52, days: 260, topics: 449, daily: 65, scope: 'lpScope1y' },
-  { key: '2y', weeks: 104, days: 520, topics: 620, daily: 45, scope: 'lpScope2y' },
-  { key: '3y', weeks: 156, days: 780, topics: 816, daily: 35, scope: 'lpScope3y' },
+  { key: '6m', weeks: 26, days: 130, topics: 426, daily: 240, scope: 'lpScope6m' },
+  { key: '1y', weeks: 52, days: 260, topics: 512, daily: 180, scope: 'lpScope1y' },
 ] as const
 
 export default function Landing() {
@@ -27,26 +25,11 @@ export default function Landing() {
     [t.lpF7t, t.lpF7d], [t.lpF8t, t.lpF8d], [t.lpF9t, t.lpF9d],
   ]
   const steps = [
-    [t.lpH1t, t.lpH1d], [t.lpH2t, t.lpH2d], [t.lpH3t, t.lpH3d], [t.lpH4t, t.lpH4d],
+    [t.lpH1t, t.lpH1d], [t.lpH2t, t.lpH2d], [t.lpH3t, t.lpH3d],
   ]
-  // 1년 과정 기준 트랙 배치 (52주 중 비율). config/durations.json의 실제 값.
-  const gantt = {
-    focus: [
-      [t.lpTrackEng, 'eng', 0, 90.4], [t.lpTrackMath, 'math', 0, 38.5],
-      [t.lpTrackSci, 'sci', 38.5, 26.9], [t.lpTrackSoc, 'soc', 65.4, 19.2],
-      [t.lpTrackInt, 'int', 84.6, 15.4],
-    ],
-    parallel: [
-      [t.lpTrackEng, 'eng', 0, 84.6], [t.lpTrackMath, 'math', 0, 84.6],
-      [t.lpTrackSci, 'sci dash', 0, 84.6], [t.lpTrackSoc, 'soc dash', 0, 84.6],
-      [t.lpTrackInt, 'int', 84.6, 15.4],
-    ],
-  } as const
   const durLabel: Record<string, string> = {
-    '6m': lang === 'ko' ? '속성' : 'Fast track',
+    '6m': lang === 'ko' ? '6개월' : '6 months',
     '1y': lang === 'ko' ? '1년' : '1 year',
-    '2y': lang === 'ko' ? '2년' : '2 years',
-    '3y': lang === 'ko' ? '3년' : '3 years',
   }
 
   return (
@@ -157,7 +140,7 @@ export default function Landing() {
                   <td className="num">{p.daily}<span>{t.lpDurUnitM}</span></td>
                   <td className="scope">
                     <span className="lp-meter" aria-hidden="true">
-                      <i style={{ width: `${Math.round((p.topics / 816) * 100)}%` }} />
+                      <i style={{ width: `${Math.round((p.topics / 512) * 100)}%` }} />
                     </span>
                     {t[p.scope]}
                   </td>
@@ -168,34 +151,6 @@ export default function Landing() {
         </div>
         <p className="lp-note">{t.lpPlanFoot}</p>
 
-        <div className="lp-styles">
-          <div className="lp-head lp-styles-head">
-            <h3>{t.lpStyleTitle}</h3>
-            <p className="lp-lede">{t.lpStyleSub}</p>
-          </div>
-          <div className="lp-style-pair">
-            {([['focus', t.lpStyleFocusT, t.lpStyleFocusD, t.lpStyleFocusW],
-               ['parallel', t.lpStyleParT, t.lpStyleParD, t.lpStyleParW]] as const)
-              .map(([key, title, desc, week]) => (
-                <article key={key} className={`lp-style ${key}`}>
-                  <h4>{title}</h4>
-                  <p>{desc}</p>
-                  <div className="lp-gantt" role="img" aria-label={`${title} — ${t.lpTrackLegend}`}>
-                    {gantt[key].map(([label, tone, left, width]) => (
-                      <div key={label} className="lp-gantt-row">
-                        <span className="lp-gantt-label">{label}</span>
-                        <span className="lp-gantt-track">
-                          <i className={`lp-gantt-seg ${tone}`} style={{ left: `${left}%`, width: `${width}%` }} />
-                        </span>
-                      </div>
-                    ))}
-                    <div className="lp-gantt-scale"><span /><span>1주 · 13 · 26 · 39 · 52주</span></div>
-                  </div>
-                  <span className="lp-style-week">{week}</span>
-                </article>
-              ))}
-          </div>
-        </div>
       </section>
 
       {/* ───────────────────────── 하루 구조 */}

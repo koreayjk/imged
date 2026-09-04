@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useAppState } from '../lib/useStore'
 import { store } from '../lib/store'
-import { useRoadmap, blockTitle, needsQuiz } from '../lib/roadmap'
+import { useRoadmap, blockTitle, needsQuiz, isEssayBlock } from '../lib/roadmap'
 import { useT, type Dict } from '../lib/i18n'
 import { computeStats } from '../lib/stats'
 import PlanRail from './PlanRail'
@@ -46,7 +46,12 @@ function BlockRow({ t, b, dayIndex, blockIndex, active, done, totalBlocks }: {
       )}
 
       {active && !done && (
-        b.type === 'checkin' ? (
+        isEssayBlock(b) ? (
+          <div className="block-actions">
+            <Link className="btn primary" to="/essay">{t.essayGo}</Link>
+            <span className="muted small">{t.essayNote}</span>
+          </div>
+        ) : b.type === 'checkin' ? (
           <div className="checkin-row">
             {[t.checkinHard, t.checkinOk, t.checkinEasy].map((label, i) => (
               <button key={i} className="ghost" onClick={() => store.completeBlock(dayIndex, blockIndex, totalBlocks)}>
