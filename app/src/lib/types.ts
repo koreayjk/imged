@@ -62,6 +62,9 @@ export interface Profile {
   nativeLang: Lang
   duration: Duration | null
   style: CurriculumStyle | null
+  /** 영어 선별 결과 — 과정 진입 가능 여부와 추천 레벨을 좌우한다 */
+  cefrBand: string | null
+  cefrPct: number | null
   levelMath: Level | null
   levelEnglish: Level | null
   startedAt: string | null

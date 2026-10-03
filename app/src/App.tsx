@@ -7,6 +7,7 @@ import { signOut, startSync, stopSync } from './lib/sync'
 import { useT, setUiLang, durationLabel, levelLabel, styleLabel } from './lib/i18n'
 import Landing from './pages/Landing'
 import Login from './pages/Login'
+import Screening from './pages/Screening'
 import Setup from './pages/Setup'
 import Placement from './pages/Placement'
 import Today from './pages/Today'
@@ -54,6 +55,8 @@ function Shell({ children }: { children: React.ReactNode }) {
 function StudentGate({ children }: { children: React.ReactNode }) {
   const { profile } = useAppState()
   if (!profile) return <Navigate to="/login" replace />
+  // 영어 선별이 먼저다. 통과하지 못하면 과정에 들어올 수 없다.
+  if (!profile.cefrBand) return <Navigate to="/screening" replace />
   if (!profile.duration) return <Navigate to="/setup" replace />
   if (!profile.levelMath || !profile.levelEnglish) return <Navigate to="/placement" replace />
   return <>{children}</>
@@ -80,6 +83,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/login" element={profile ? <Navigate to={profile.role === 'admin' ? '/admin' : '/today'} replace /> : <Login />} />
+        <Route path="/screening" element={<Shell><Screening /></Shell>} />
         <Route path="/setup" element={<Shell><Setup /></Shell>} />
         <Route path="/placement" element={<Shell><Placement /></Shell>} />
         <Route path="/today" element={<Shell><StudentGate><Today /></StudentGate></Shell>} />

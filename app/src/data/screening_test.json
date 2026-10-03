@@ -1,0 +1,219 @@
+{
+  "_comment": [
+    "영어 선별 테스트 — 이 프로그램을 따라갈 수 있는지 가늠한다.",
+    "일반 CEFR 시험이 아니라 '우리 콘텐츠를 소화할 수 있나'를 직접 본다:",
+    "  A 읽기   GED형 정보 지문 (난이도 2단계)",
+    "  B 강의 이해  실제 칸 아카데미 영상 시청 후 문항 — 학습 매체 자체를 검증",
+    "  C 학술 어휘  config/_vocab_candidates.json (실제 코퍼스 상위어)에서 선정",
+    "지시문은 모국어, 문항은 영어. 영어 능력을 재는 시험이므로 문항 번역은 하지 않는다.",
+    "주의: CEFR 공인 시험이 아니라 CEFR 기술지표에 맞춘 배치 도구다.",
+    "  공인 증명이 필요하면 EF SET(무료·수료증) 등 외부 시험을 별도 안내한다."
+  ],
+  "version": 1,
+  "time_limit_min": 20,
+  "sections": [
+    {
+      "id": "reading",
+      "weight": 2,
+      "items": [
+        {
+          "id": "r1",
+          "passage_id": "p1",
+          "stem": "What is the main idea of the passage?",
+          "choices": [
+            { "id": "a", "text": "Sleep affects how well students remember what they study." },
+            { "id": "b", "text": "Students should go to bed before ten o'clock." },
+            { "id": "c", "text": "The brain stops working during deep sleep." },
+            { "id": "d", "text": "Teenagers need more sleep than adults do." }
+          ],
+          "answer": "a"
+        },
+        {
+          "id": "r2",
+          "passage_id": "p1",
+          "stem": "According to the passage, what happened to the group that slept eight hours?",
+          "choices": [
+            { "id": "a", "text": "They finished the test faster." },
+            { "id": "b", "text": "They remembered more of the word list." },
+            { "id": "c", "text": "They reported feeling less stressed." },
+            { "id": "d", "text": "They studied for a longer time." }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "r3",
+          "passage_id": "p1",
+          "stem": "In the passage, the word \"retain\" most nearly means",
+          "choices": [
+            { "id": "a", "text": "to keep" }, { "id": "b", "text": "to repeat" },
+            { "id": "c", "text": "to explain" }, { "id": "d", "text": "to forget" }
+          ],
+          "answer": "a"
+        },
+        {
+          "id": "r4",
+          "passage_id": "p2",
+          "stem": "Which statement best expresses the author's claim?",
+          "choices": [
+            { "id": "a", "text": "Rivers should never be used to generate electricity." },
+            { "id": "b", "text": "Dams bring benefits but also costs that are often overlooked." },
+            { "id": "c", "text": "Farmers oppose the construction of new dams." },
+            { "id": "d", "text": "Hydroelectric power is cheaper than every other source." }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "r5",
+          "passage_id": "p2",
+          "stem": "The author mentions the fish population in order to",
+          "choices": [
+            { "id": "a", "text": "prove that dams produce no electricity" },
+            { "id": "b", "text": "give an example of an environmental cost" },
+            { "id": "c", "text": "argue that fishing should be banned" },
+            { "id": "d", "text": "explain how turbines are built" }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "r6",
+          "passage_id": "p2",
+          "stem": "Based on the passage, what can be inferred about the villages downstream?",
+          "choices": [
+            { "id": "a", "text": "They received more water after the dam was built." },
+            { "id": "b", "text": "They were paid for the loss of their farmland." },
+            { "id": "c", "text": "Their situation was not considered before construction." },
+            { "id": "d", "text": "They had asked for the dam to be built." }
+          ],
+          "answer": "c"
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "weight": 3,
+      "gate_min_pct": 50,
+      "items": [
+        {
+          "id": "l1",
+          "video_id": "8pWMifyG5bU",
+          "stem": "In the lesson, what is the correct order from smallest to largest?",
+          "choices": [
+            { "id": "a", "text": "cells → tissues → organs → organ systems" },
+            { "id": "b", "text": "organs → cells → tissues → organ systems" },
+            { "id": "c", "text": "tissues → cells → organ systems → organs" },
+            { "id": "d", "text": "organ systems → organs → tissues → cells" }
+          ],
+          "answer": "a"
+        },
+        {
+          "id": "l2",
+          "video_id": "8pWMifyG5bU",
+          "stem": "According to the lesson, what do organ systems do?",
+          "choices": [
+            { "id": "a", "text": "They replace damaged cells." },
+            { "id": "b", "text": "They work together to carry out the organism's functions." },
+            { "id": "c", "text": "They exist only in single-celled organisms." },
+            { "id": "d", "text": "They turn tissues back into cells." }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "l3",
+          "video_id": "bIKmw0aTmYc",
+          "stem": "In the lesson, the ratio 6:9 is reduced to",
+          "choices": [
+            { "id": "a", "text": "2:3" }, { "id": "b", "text": "3:2" },
+            { "id": "c", "text": "6:3" }, { "id": "d", "text": "1:2" }
+          ],
+          "answer": "a"
+        },
+        {
+          "id": "l4",
+          "video_id": "bIKmw0aTmYc",
+          "stem": "What does a ratio show?",
+          "choices": [
+            { "id": "a", "text": "The total of two quantities added together." },
+            { "id": "b", "text": "The relationship between two quantities." },
+            { "id": "c", "text": "The difference between two quantities." },
+            { "id": "d", "text": "The average of two quantities." }
+          ],
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "weight": 1,
+      "items": [
+        { "id": "v1", "stem": "equation", "choices": [
+          { "id": "a", "text": "a statement that two amounts are equal" },
+          { "id": "b", "text": "a list of numbers in order" },
+          { "id": "c", "text": "a question with no answer" },
+          { "id": "d", "text": "a kind of measurement tool" }], "answer": "a" },
+        { "id": "v2", "stem": "variable", "choices": [
+          { "id": "a", "text": "a symbol that stands for a value that can change" },
+          { "id": "b", "text": "a number that is always the same" },
+          { "id": "c", "text": "a mistake in a calculation" },
+          { "id": "d", "text": "the answer to a problem" }], "answer": "a" },
+        { "id": "v3", "stem": "determine", "choices": [
+          { "id": "a", "text": "to find out or decide" },
+          { "id": "b", "text": "to delay something" },
+          { "id": "c", "text": "to destroy" },
+          { "id": "d", "text": "to describe in detail" }], "answer": "a" },
+        { "id": "v4", "stem": "represent", "choices": [
+          { "id": "a", "text": "to stand for something else" },
+          { "id": "b", "text": "to ask again" },
+          { "id": "c", "text": "to make smaller" },
+          { "id": "d", "text": "to present a gift" }], "answer": "a" },
+        { "id": "v5", "stem": "constant", "choices": [
+          { "id": "a", "text": "staying the same" },
+          { "id": "b", "text": "happening once" },
+          { "id": "c", "text": "growing quickly" },
+          { "id": "d", "text": "difficult to see" }], "answer": "a" },
+        { "id": "v6", "stem": "species", "choices": [
+          { "id": "a", "text": "a group of living things that can breed together" },
+          { "id": "b", "text": "a special kind of rock" },
+          { "id": "c", "text": "a unit of distance" },
+          { "id": "d", "text": "a part of a plant cell" }], "answer": "a" },
+        { "id": "v7", "stem": "estimate", "choices": [
+          { "id": "a", "text": "to make a careful guess about an amount" },
+          { "id": "b", "text": "to measure exactly" },
+          { "id": "c", "text": "to write down results" },
+          { "id": "d", "text": "to repeat an experiment" }], "answer": "a" },
+        { "id": "v8", "stem": "process", "choices": [
+          { "id": "a", "text": "a series of steps or changes" },
+          { "id": "b", "text": "a final result" },
+          { "id": "c", "text": "a type of container" },
+          { "id": "d", "text": "an unexpected event" }], "answer": "a" },
+        { "id": "v9", "stem": "evidence", "choices": [
+          { "id": "a", "text": "facts that support a claim" },
+          { "id": "b", "text": "an opinion without proof" },
+          { "id": "c", "text": "a short summary" },
+          { "id": "d", "text": "a mistake in reasoning" }], "answer": "a" },
+        { "id": "v10", "stem": "conclude", "choices": [
+          { "id": "a", "text": "to decide after thinking about the facts" },
+          { "id": "b", "text": "to begin a study" },
+          { "id": "c", "text": "to ask a question" },
+          { "id": "d", "text": "to copy exactly" }], "answer": "a" }
+      ]
+    }
+  ],
+  "passages": {
+    "p1": {
+      "title": "Sleep and Memory",
+      "text": "Students often stay up late to study before a test. New research suggests this may be a mistake. In one study, two groups of students learned the same list of forty words. One group then slept for eight hours. The other group stayed awake through the night and slept the following day instead.\n\nWhen both groups were tested, the students who had slept at night remembered about thirty of the words. The students who had stayed awake remembered only nineteen. The researchers believe that during deep sleep the brain strengthens new connections, which helps a person retain what was learned earlier that day.\n\nThe finding does not mean that sleep can replace study. Students still have to do the work. But it does suggest that an extra hour of sleep may be worth more than an extra hour of review."
+    },
+    "p2": {
+      "title": "The Cost of a Dam",
+      "text": "When a large dam is built across a river, the benefits are easy to count. The turbines produce electricity without burning fuel, and the reservoir behind the wall can supply water to cities and farms during a dry season. Governments often present these numbers when they argue for construction.\n\nThe costs are harder to measure. A dam blocks the path that migrating fish follow to reach the places where they lay their eggs; in several river systems the fish population has fallen sharply within a decade of construction. Sediment that once travelled downstream and renewed the soil of the floodplain now settles at the bottom of the reservoir instead. Villages below the wall have found that the farmland they depended on grows less each year, a change that was not part of the original plan.\n\nNone of this proves that dams should not be built. It does suggest that the question is more complicated than a comparison of electricity produced against money spent."
+    }
+  },
+  "bands": [
+    { "id": "pre_a2", "max_pct": 39, "cefr": "A1~A2", "allow": false },
+    { "id": "pre_b1", "max_pct": 54, "cefr": "A2~B1 경계", "allow": false },
+    { "id": "b1",     "max_pct": 69, "cefr": "B1", "allow": true,
+      "force_duration": "1y", "level_hint": "basic" },
+    { "id": "b2",     "max_pct": 86, "cefr": "B2", "allow": true, "level_hint": "inter" },
+    { "id": "c1",     "max_pct": 100, "cefr": "C1 이상", "allow": true, "level_hint": "adv" }
+  ]
+}

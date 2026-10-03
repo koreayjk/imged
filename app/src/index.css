@@ -108,6 +108,41 @@ input, select {
 .progressbar.thin { height: 5px; margin: 0.45rem 0 0; }
 
 .watch-hint { margin: 0.5rem 0 0; }
+/* 영어 선별 테스트 */
+.scr-count { margin: 0.45rem 0 1rem; }
+.scr-passage { background: #fcfcfa; }
+.scr-passage h3 { margin-bottom: 0.6rem; }
+.scr-passage p { margin: 0 0 0.8rem; line-height: 1.85; font-size: 0.97rem; }
+.scr-passage p:last-child { margin-bottom: 0; }
+.scr-video { margin: 0.6rem 0; }
+.scr-video iframe, .scr-video > div { width: 100%; aspect-ratio: 16 / 9; border-radius: var(--radius); }
+.scr-stem { margin: 0 0 0.8rem; font-size: 1rem; line-height: 1.7; }
+
+.scr-verdict { text-align: center; padding: 1.6rem 1.2rem; }
+.scr-verdict.pass { border-color: #cdeadb; background: #f4fbf6; }
+.scr-verdict.hold { border-color: #f0ddb4; background: #fdf8ee; }
+.scr-band { font-size: 1.5rem; font-weight: 800; letter-spacing: -0.02em; }
+.scr-pct { font-size: 2.6rem; font-weight: 800; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.scr-verdict.pass .scr-band, .scr-verdict.pass .scr-pct { color: var(--ok); }
+.scr-verdict.hold .scr-band, .scr-verdict.hold .scr-pct { color: #b57d16; }
+.scr-verdict p { margin: 0.6rem 0 0; line-height: 1.7; }
+
+.scr-sections { list-style: none; margin: 0; padding: 0; }
+.scr-sections li {
+  display: grid; grid-template-columns: 6.5rem 1fr 3rem; align-items: center; gap: 0.8rem;
+  padding: 0.5rem 0; font-size: 0.92rem;
+}
+.scr-sections b { text-align: right; font-variant-numeric: tabular-nums; }
+.scr-bar { height: 6px; background: var(--line); border-radius: 999px; overflow: hidden; }
+.scr-bar i { display: block; height: 100%; background: var(--primary); }
+
+.scr-note { border-left: 3px solid var(--primary); }
+.scr-links { list-style: none; margin: 0.8rem 0; padding: 0; }
+.scr-links li { padding: 0.6rem 0; border-bottom: 1px solid var(--line); }
+.scr-links li:last-child { border-bottom: 0; }
+.scr-links a { font-weight: 700; }
+.scr-links span { display: block; margin-top: 0.2rem; line-height: 1.6; }
+
 /* 입학 기준 안내 */
 .entry-note { border-left: 3px solid var(--primary); background: #f5f9ff; }
 .entry-note h3 { margin-bottom: 0.3rem; font-size: 1rem; }

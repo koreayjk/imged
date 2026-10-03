@@ -25,6 +25,9 @@ export default function Setup() {
   const nav = useNavigate()
   if (!profile) return <Navigate to="/login" replace />
   if (profile.role === 'admin') return <Navigate to="/admin" replace />
+  if (!profile.cefrBand) return <Navigate to="/screening" replace />
+  // B1은 하루 4시간짜리 6개월 과정을 감당하기 어렵다 — 1년만 제시한다
+  const only1y = profile.cefrBand === 'b1'
 
   function pick(d: Duration) {
     // 입학 기준이 CEFR B1 이상이라 진행 방식은 4과목 병행 하나뿐 — 고를 것이 없다
@@ -40,11 +43,11 @@ export default function Setup() {
 
       <div className="card entry-note">
         <h3>{t.entryTitle}</h3>
-        <p className="muted">{t.entryDesc}</p>
+        <p className="muted">{only1y ? t.scrForce1y : t.entryDesc}</p>
       </div>
 
       <div className="option-grid">
-        {options(t).map((o) => (
+        {options(t).filter((o) => !only1y || o.key === '1y').map((o) => (
           <button key={o.key} className="card option" onClick={() => pick(o.key)}>
             <div className="option-title">{o.title}</div>
             <div className="muted">{o.desc}</div>

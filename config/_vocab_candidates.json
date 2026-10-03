@@ -1,0 +1,2522 @@
+[
+ {
+  "word": "number",
+  "count": 235
+ },
+ {
+  "word": "numbers",
+  "count": 169
+ },
+ {
+  "word": "between",
+  "count": 162
+ },
+ {
+  "word": "different",
+  "count": 139
+ },
+ {
+  "word": "energy",
+  "count": 135
+ },
+ {
+  "word": "fractions",
+  "count": 124
+ },
+ {
+  "word": "equation",
+  "count": 119
+ },
+ {
+  "word": "object",
+  "count": 105
+ },
+ {
+  "word": "equations",
+  "count": 90
+ },
+ {
+  "word": "change",
+  "count": 85
+ },
+ {
+  "word": "system",
+  "count": 81
+ },
+ {
+  "word": "multiplying",
+  "count": 80
+ },
+ {
+  "word": "process",
+  "count": 79
+ },
+ {
+  "word": "concept",
+  "count": 78
+ },
+ {
+  "word": "changes",
+  "count": 73
+ },
+ {
+  "word": "through",
+  "count": 71
+ },
+ {
+  "word": "function",
+  "count": 70
+ },
+ {
+  "word": "multiplication",
+  "count": 67
+ },
+ {
+  "word": "points",
+  "count": 66
+ },
+ {
+  "word": "understanding",
+  "count": 64
+ },
+ {
+  "word": "common",
+  "count": 64
+ },
+ {
+  "word": "multiply",
+  "count": 63
+ },
+ {
+  "word": "explore",
+  "count": 62
+ },
+ {
+  "word": "values",
+  "count": 62
+ },
+ {
+  "word": "government",
+  "count": 62
+ },
+ {
+  "word": "expressions",
+  "count": 61
+ },
+ {
+  "word": "rights",
+  "count": 60
+ },
+ {
+  "word": "understand",
+  "count": 59
+ },
+ {
+  "word": "relationship",
+  "count": 58
+ },
+ {
+  "word": "fraction",
+  "count": 58
+ },
+ {
+  "word": "states",
+  "count": 58
+ },
+ {
+  "word": "linear",
+  "count": 58
+ },
+ {
+  "word": "negative",
+  "count": 57
+ },
+ {
+  "word": "objects",
+  "count": 56
+ },
+ {
+  "word": "factors",
+  "count": 55
+ },
+ {
+  "word": "sentence",
+  "count": 54
+ },
+ {
+  "word": "variable",
+  "count": 54
+ },
+ {
+  "word": "volume",
+  "count": 53
+ },
+ {
+  "word": "dividing",
+  "count": 52
+ },
+ {
+  "word": "decimals",
+  "count": 52
+ },
+ {
+  "word": "determine",
+  "count": 51
+ },
+ {
+  "word": "called",
+  "count": 51
+ },
+ {
+  "word": "represent",
+  "count": 50
+ },
+ {
+  "word": "solves",
+  "count": 48
+ },
+ {
+  "word": "calculate",
+  "count": 48
+ },
+ {
+  "word": "together",
+  "count": 48
+ },
+ {
+  "word": "another",
+  "count": 48
+ },
+ {
+  "word": "forces",
+  "count": 48
+ },
+ {
+  "word": "adding",
+  "count": 46
+ },
+ {
+  "word": "division",
+  "count": 46
+ },
+ {
+  "word": "solution",
+  "count": 45
+ },
+ {
+  "word": "constant",
+  "count": 44
+ },
+ {
+  "word": "american",
+  "count": 44
+ },
+ {
+  "word": "constitution",
+  "count": 44
+ },
+ {
+  "word": "chemical",
+  "count": 43
+ },
+ {
+  "word": "square",
+  "count": 43
+ },
+ {
+  "word": "variables",
+  "count": 42
+ },
+ {
+  "word": "powers",
+  "count": 42
+ },
+ {
+  "word": "species",
+  "count": 41
+ },
+ {
+  "word": "intercept",
+  "count": 39
+ },
+ {
+  "word": "explains",
+  "count": 39
+ },
+ {
+  "word": "question",
+  "count": 39
+ },
+ {
+  "word": "electrons",
+  "count": 39
+ },
+ {
+  "word": "elements",
+  "count": 39
+ },
+ {
+  "word": "answer",
+  "count": 38
+ },
+ {
+  "word": "distance",
+  "count": 38
+ },
+ {
+  "word": "making",
+  "count": 37
+ },
+ {
+  "word": "include",
+  "count": 37
+ },
+ {
+  "word": "divide",
+  "count": 37
+ },
+ {
+  "word": "expression",
+  "count": 37
+ },
+ {
+  "word": "denominators",
+  "count": 37
+ },
+ {
+  "word": "population",
+  "count": 37
+ },
+ {
+  "word": "decimal",
+  "count": 36
+ },
+ {
+  "word": "leading",
+  "count": 36
+ },
+ {
+  "word": "property",
+  "count": 36
+ },
+ {
+  "word": "simplify",
+  "count": 36
+ },
+ {
+  "word": "political",
+  "count": 35
+ },
+ {
+  "word": "involves",
+  "count": 35
+ },
+ {
+  "word": "identify",
+  "count": 35
+ },
+ {
+  "word": "complex",
+  "count": 34
+ },
+ {
+  "word": "properties",
+  "count": 34
+ },
+ {
+  "word": "represents",
+  "count": 33
+ },
+ {
+  "word": "organisms",
+  "count": 33
+ },
+ {
+  "word": "result",
+  "count": 33
+ },
+ {
+  "word": "groups",
+  "count": 33
+ },
+ {
+  "word": "formula",
+  "count": 33
+ },
+ {
+  "word": "measure",
+  "count": 32
+ },
+ {
+  "word": "functions",
+  "count": 32
+ },
+ {
+  "word": "because",
+  "count": 32
+ },
+ {
+  "word": "height",
+  "count": 31
+ },
+ {
+  "word": "positive",
+  "count": 31
+ },
+ {
+  "word": "ratios",
+  "count": 31
+ },
+ {
+  "word": "addition",
+  "count": 31
+ },
+ {
+  "word": "solving",
+  "count": 30
+ },
+ {
+  "word": "president",
+  "count": 30
+ },
+ {
+  "word": "finding",
+  "count": 30
+ },
+ {
+  "word": "opposite",
+  "count": 30
+ },
+ {
+  "word": "amendment",
+  "count": 30
+ },
+ {
+  "word": "people",
+  "count": 30
+ },
+ {
+  "word": "whether",
+  "count": 30
+ },
+ {
+  "word": "however",
+  "count": 29
+ },
+ {
+  "word": "standard",
+  "count": 29
+ },
+ {
+  "word": "matter",
+  "count": 29
+ },
+ {
+  "word": "information",
+  "count": 29
+ },
+ {
+  "word": "english",
+  "count": 29
+ },
+ {
+  "word": "models",
+  "count": 29
+ },
+ {
+  "word": "length",
+  "count": 29
+ },
+ {
+  "word": "algebra",
+  "count": 29
+ },
+ {
+  "word": "growth",
+  "count": 29
+ },
+ {
+  "word": "specific",
+  "count": 28
+ },
+ {
+  "word": "equivalent",
+  "count": 28
+ },
+ {
+  "word": "exponents",
+  "count": 28
+ },
+ {
+  "word": "surface",
+  "count": 28
+ },
+ {
+  "word": "angles",
+  "count": 28
+ },
+ {
+  "word": "direction",
+  "count": 28
+ },
+ {
+  "word": "including",
+  "count": 27
+ },
+ {
+  "word": "factor",
+  "count": 27
+ },
+ {
+  "word": "simple",
+  "count": 27
+ },
+ {
+  "word": "discusses",
+  "count": 27
+ },
+ {
+  "word": "difference",
+  "count": 27
+ },
+ {
+  "word": "notation",
+  "count": 27
+ },
+ {
+  "word": "voting",
+  "count": 27
+ },
+ {
+  "word": "subtract",
+  "count": 27
+ },
+ {
+  "word": "quadratic",
+  "count": 27
+ },
+ {
+  "word": "triangle",
+  "count": 27
+ },
+ {
+  "word": "various",
+  "count": 26
+ },
+ {
+  "word": "discover",
+  "count": 26
+ },
+ {
+  "word": "slavery",
+  "count": 26
+ },
+ {
+  "word": "resources",
+  "count": 26
+ },
+ {
+  "word": "divided",
+  "count": 26
+ },
+ {
+  "word": "molecules",
+  "count": 26
+ },
+ {
+  "word": "context",
+  "count": 26
+ },
+ {
+  "word": "living",
+  "count": 26
+ },
+ {
+  "word": "methods",
+  "count": 25
+ },
+ {
+  "word": "structure",
+  "count": 25
+ },
+ {
+  "word": "explores",
+  "count": 25
+ },
+ {
+  "word": "events",
+  "count": 25
+ },
+ {
+  "word": "average",
+  "count": 24
+ },
+ {
+  "word": "temperature",
+  "count": 24
+ },
+ {
+  "word": "history",
+  "count": 24
+ },
+ {
+  "word": "product",
+  "count": 24
+ },
+ {
+  "word": "approach",
+  "count": 24
+ },
+ {
+  "word": "supreme",
+  "count": 24
+ },
+ {
+  "word": "electron",
+  "count": 24
+ },
+ {
+  "word": "missing",
+  "count": 24
+ },
+ {
+  "word": "democracy",
+  "count": 24
+ },
+ {
+  "word": "graphs",
+  "count": 23
+ },
+ {
+  "word": "kinetic",
+  "count": 23
+ },
+ {
+  "word": "particles",
+  "count": 23
+ },
+ {
+  "word": "genetic",
+  "count": 23
+ },
+ {
+  "word": "amount",
+  "count": 23
+ },
+ {
+  "word": "potential",
+  "count": 23
+ },
+ {
+  "word": "equals",
+  "count": 23
+ },
+ {
+  "word": "highlights",
+  "count": 23
+ },
+ {
+  "word": "subject",
+  "count": 23
+ },
+ {
+  "word": "within",
+  "count": 23
+ },
+ {
+  "word": "natural",
+  "count": 23
+ },
+ {
+  "word": "multiple",
+  "count": 23
+ },
+ {
+  "word": "citizens",
+  "count": 23
+ },
+ {
+  "word": "physical",
+  "count": 23
+ },
+ {
+  "word": "increases",
+  "count": 23
+ },
+ {
+  "word": "similar",
+  "count": 23
+ },
+ {
+  "word": "quantities",
+  "count": 22
+ },
+ {
+  "word": "subtracting",
+  "count": 22
+ },
+ {
+  "word": "sentences",
+  "count": 22
+ },
+ {
+  "word": "operations",
+  "count": 22
+ },
+ {
+  "word": "method",
+  "count": 22
+ },
+ {
+  "word": "relationships",
+  "count": 22
+ },
+ {
+  "word": "squares",
+  "count": 22
+ },
+ {
+  "word": "systems",
+  "count": 22
+ },
+ {
+  "word": "essential",
+  "count": 22
+ },
+ {
+  "word": "triangles",
+  "count": 22
+ },
+ {
+  "word": "increase",
+  "count": 22
+ },
+ {
+  "word": "velocity",
+  "count": 21
+ },
+ {
+  "word": "action",
+  "count": 21
+ },
+ {
+  "word": "evidence",
+  "count": 21
+ },
+ {
+  "word": "converting",
+  "count": 21
+ },
+ {
+  "word": "denominator",
+  "count": 21
+ },
+ {
+  "word": "influence",
+  "count": 21
+ },
+ {
+  "word": "social",
+  "count": 21
+ },
+ {
+  "word": "questions",
+  "count": 21
+ },
+ {
+  "word": "traits",
+  "count": 21
+ },
+ {
+  "word": "following",
+  "count": 21
+ },
+ {
+  "word": "despite",
+  "count": 21
+ },
+ {
+  "word": "substances",
+  "count": 21
+ },
+ {
+  "word": "probability",
+  "count": 21
+ },
+ {
+  "word": "shapes",
+  "count": 21
+ },
+ {
+  "word": "single",
+  "count": 20
+ },
+ {
+  "word": "moving",
+  "count": 20
+ },
+ {
+  "word": "resulting",
+  "count": 20
+ },
+ {
+  "word": "public",
+  "count": 20
+ },
+ {
+  "word": "individual",
+  "count": 20
+ },
+ {
+  "word": "scientific",
+  "count": 20
+ },
+ {
+  "word": "reactions",
+  "count": 20
+ },
+ {
+  "word": "around",
+  "count": 20
+ },
+ {
+  "word": "federal",
+  "count": 20
+ },
+ {
+  "word": "balance",
+  "count": 20
+ },
+ {
+  "word": "america",
+  "count": 20
+ },
+ {
+  "word": "pattern",
+  "count": 20
+ },
+ {
+  "word": "independent",
+  "count": 20
+ },
+ {
+  "word": "involving",
+  "count": 20
+ },
+ {
+  "word": "things",
+  "count": 20
+ },
+ {
+  "word": "motion",
+  "count": 19
+ },
+ {
+  "word": "easier",
+  "count": 19
+ },
+ {
+  "word": "explain",
+  "count": 19
+ },
+ {
+  "word": "proportional",
+  "count": 19
+ },
+ {
+  "word": "convert",
+  "count": 19
+ },
+ {
+  "word": "plural",
+  "count": 19
+ },
+ {
+  "word": "inequality",
+  "count": 19
+ },
+ {
+  "word": "carbon",
+  "count": 19
+ },
+ {
+  "word": "during",
+  "count": 19
+ },
+ {
+  "word": "always",
+  "count": 19
+ },
+ {
+  "word": "solutions",
+  "count": 19
+ },
+ {
+  "word": "lindsay",
+  "count": 19
+ },
+ {
+  "word": "electric",
+  "count": 19
+ },
+ {
+  "word": "exponent",
+  "count": 19
+ },
+ {
+  "word": "sample",
+  "count": 19
+ },
+ {
+  "word": "element",
+  "count": 19
+ },
+ {
+  "word": "creating",
+  "count": 18
+ },
+ {
+  "word": "situations",
+  "count": 18
+ },
+ {
+  "word": "differences",
+  "count": 18
+ },
+ {
+  "word": "variance",
+  "count": 18
+ },
+ {
+  "word": "sparked",
+  "count": 18
+ },
+ {
+  "word": "vertical",
+  "count": 18
+ },
+ {
+  "word": "across",
+  "count": 18
+ },
+ {
+  "word": "measures",
+  "count": 18
+ },
+ {
+  "word": "distributive",
+  "count": 18
+ },
+ {
+  "word": "society",
+  "count": 18
+ },
+ {
+  "word": "emphasizes",
+  "count": 18
+ },
+ {
+  "word": "results",
+  "count": 18
+ },
+ {
+  "word": "pronouns",
+  "count": 18
+ },
+ {
+  "word": "charged",
+  "count": 18
+ },
+ {
+  "word": "limited",
+  "count": 17
+ },
+ {
+  "word": "remember",
+  "count": 17
+ },
+ {
+  "word": "environment",
+  "count": 17
+ },
+ {
+  "word": "correct",
+  "count": 17
+ },
+ {
+  "word": "algebraic",
+  "count": 17
+ },
+ {
+  "word": "subtraction",
+  "count": 17
+ },
+ {
+  "word": "others",
+  "count": 17
+ },
+ {
+  "word": "describe",
+  "count": 17
+ },
+ {
+  "word": "lengths",
+  "count": 17
+ },
+ {
+  "word": "plants",
+  "count": 17
+ },
+ {
+  "word": "compounds",
+  "count": 17
+ },
+ {
+  "word": "taking",
+  "count": 17
+ },
+ {
+  "word": "clause",
+  "count": 17
+ },
+ {
+  "word": "create",
+  "count": 17
+ },
+ {
+  "word": "quantity",
+  "count": 17
+ },
+ {
+  "word": "perfect",
+  "count": 17
+ },
+ {
+  "word": "balanced",
+  "count": 17
+ },
+ {
+  "word": "predict",
+  "count": 17
+ },
+ {
+  "word": "interpret",
+  "count": 17
+ },
+ {
+  "word": "ecosystems",
+  "count": 17
+ },
+ {
+  "word": "future",
+  "count": 17
+ },
+ {
+  "word": "diagrams",
+  "count": 16
+ },
+ {
+  "word": "possible",
+  "count": 16
+ },
+ {
+  "word": "demonstrates",
+  "count": 16
+ },
+ {
+  "word": "evolution",
+  "count": 16
+ },
+ {
+  "word": "congress",
+  "count": 16
+ },
+ {
+  "word": "united",
+  "count": 16
+ },
+ {
+  "word": "chromosomes",
+  "count": 16
+ },
+ {
+  "word": "useful",
+  "count": 16
+ },
+ {
+  "word": "meaning",
+  "count": 16
+ },
+ {
+  "word": "crucial",
+  "count": 16
+ },
+ {
+  "word": "environmental",
+  "count": 16
+ },
+ {
+  "word": "survival",
+  "count": 16
+ },
+ {
+  "word": "reproduction",
+  "count": 16
+ },
+ {
+  "word": "become",
+  "count": 16
+ },
+ {
+  "word": "punctuation",
+  "count": 16
+ },
+ {
+  "word": "coordinate",
+  "count": 16
+ },
+ {
+  "word": "atomic",
+  "count": 16
+ },
+ {
+  "word": "relative",
+  "count": 16
+ },
+ {
+  "word": "shaped",
+  "count": 16
+ },
+ {
+  "word": "conditions",
+  "count": 16
+ },
+ {
+  "word": "clauses",
+  "count": 16
+ },
+ {
+  "word": "concepts",
+  "count": 16
+ },
+ {
+  "word": "depends",
+  "count": 16
+ },
+ {
+  "word": "tenths",
+  "count": 16
+ },
+ {
+  "word": "national",
+  "count": 16
+ },
+ {
+  "word": "exponential",
+  "count": 16
+ },
+ {
+  "word": "parentheses",
+  "count": 16
+ },
+ {
+  "word": "executive",
+  "count": 16
+ },
+ {
+  "word": "organism",
+  "count": 16
+ },
+ {
+  "word": "compare",
+  "count": 16
+ },
+ {
+  "word": "present",
+  "count": 16
+ },
+ {
+  "word": "dependent",
+  "count": 16
+ },
+ {
+  "word": "tables",
+  "count": 15
+ },
+ {
+  "word": "substance",
+  "count": 15
+ },
+ {
+  "word": "coefficients",
+  "count": 15
+ },
+ {
+  "word": "unique",
+  "count": 15
+ },
+ {
+  "word": "produce",
+  "count": 15
+ },
+ {
+  "word": "forming",
+  "count": 15
+ },
+ {
+  "word": "finally",
+  "count": 15
+ },
+ {
+  "word": "separate",
+  "count": 15
+ },
+ {
+  "word": "reaction",
+  "count": 15
+ },
+ {
+  "word": "worked",
+  "count": 15
+ },
+ {
+  "word": "something",
+  "count": 15
+ },
+ {
+  "word": "corresponding",
+  "count": 15
+ },
+ {
+  "word": "against",
+  "count": 15
+ },
+ {
+  "word": "citizenship",
+  "count": 15
+ },
+ {
+  "word": "shifts",
+  "count": 15
+ },
+ {
+  "word": "smaller",
+  "count": 15
+ },
+ {
+  "word": "expanded",
+  "count": 15
+ },
+ {
+  "word": "theorem",
+  "count": 15
+ },
+ {
+  "word": "absolute",
+  "count": 15
+ },
+ {
+  "word": "market",
+  "count": 15
+ },
+ {
+  "word": "rectangle",
+  "count": 15
+ },
+ {
+  "word": "breaking",
+  "count": 14
+ },
+ {
+  "word": "median",
+  "count": 14
+ },
+ {
+  "word": "fundamental",
+  "count": 14
+ },
+ {
+  "word": "calculations",
+  "count": 14
+ },
+ {
+  "word": "figure",
+  "count": 14
+ },
+ {
+  "word": "introduces",
+  "count": 14
+ },
+ {
+  "word": "singular",
+  "count": 14
+ },
+ {
+  "word": "certain",
+  "count": 14
+ },
+ {
+  "word": "integer",
+  "count": 14
+ },
+ {
+  "word": "compound",
+  "count": 14
+ },
+ {
+  "word": "represented",
+  "count": 14
+ },
+ {
+  "word": "occurs",
+  "count": 14
+ },
+ {
+  "word": "individuals",
+  "count": 14
+ },
+ {
+  "word": "shared",
+  "count": 14
+ },
+ {
+  "word": "related",
+  "count": 14
+ },
+ {
+  "word": "identifying",
+  "count": 14
+ },
+ {
+  "word": "animals",
+  "count": 14
+ },
+ {
+  "word": "americans",
+  "count": 14
+ },
+ {
+  "word": "involve",
+  "count": 14
+ },
+ {
+  "word": "numerators",
+  "count": 14
+ },
+ {
+  "word": "multiplied",
+  "count": 14
+ },
+ {
+  "word": "vertex",
+  "count": 14
+ },
+ {
+  "word": "articles",
+  "count": 14
+ },
+ {
+  "word": "control",
+  "count": 14
+ },
+ {
+  "word": "movement",
+  "count": 14
+ },
+ {
+  "word": "includes",
+  "count": 14
+ },
+ {
+  "word": "rectangles",
+  "count": 14
+ },
+ {
+  "word": "charge",
+  "count": 14
+ },
+ {
+  "word": "calculated",
+  "count": 14
+ },
+ {
+  "word": "neutral",
+  "count": 14
+ },
+ {
+  "word": "larger",
+  "count": 14
+ },
+ {
+  "word": "newton",
+  "count": 14
+ },
+ {
+  "word": "branch",
+  "count": 14
+ },
+ {
+  "word": "revolution",
+  "count": 14
+ },
+ {
+  "word": "article",
+  "count": 14
+ },
+ {
+  "word": "charges",
+  "count": 14
+ },
+ {
+  "word": "deviation",
+  "count": 14
+ },
+ {
+  "word": "offspring",
+  "count": 14
+ },
+ {
+  "word": "acceleration",
+  "count": 14
+ },
+ {
+  "word": "without",
+  "count": 14
+ },
+ {
+  "word": "polynomial",
+  "count": 14
+ },
+ {
+  "word": "visually",
+  "count": 13
+ },
+ {
+  "word": "percentages",
+  "count": 13
+ },
+ {
+  "word": "direct",
+  "count": 13
+ },
+ {
+  "word": "interest",
+  "count": 13
+ },
+ {
+  "word": "center",
+  "count": 13
+ },
+ {
+  "word": "rewrite",
+  "count": 13
+ },
+ {
+  "word": "important",
+  "count": 13
+ },
+ {
+  "word": "distribution",
+  "count": 13
+ },
+ {
+  "word": "frequency",
+  "count": 13
+ },
+ {
+  "word": "patterns",
+  "count": 13
+ },
+ {
+  "word": "impact",
+  "count": 13
+ },
+ {
+  "word": "representing",
+  "count": 13
+ },
+ {
+  "word": "irregular",
+  "count": 13
+ },
+ {
+  "word": "colonies",
+  "count": 13
+ },
+ {
+  "word": "contains",
+  "count": 13
+ },
+ {
+  "word": "spread",
+  "count": 13
+ },
+ {
+  "word": "affect",
+  "count": 13
+ },
+ {
+  "word": "hundredths",
+  "count": 13
+ },
+ {
+  "word": "industrial",
+  "count": 13
+ },
+ {
+  "word": "commas",
+  "count": 13
+ },
+ {
+  "word": "repeated",
+  "count": 13
+ },
+ {
+  "word": "climate",
+  "count": 13
+ },
+ {
+  "word": "happens",
+  "count": 13
+ },
+ {
+  "word": "importance",
+  "count": 13
+ },
+ {
+  "word": "economic",
+  "count": 13
+ },
+ {
+  "word": "general",
+  "count": 13
+ },
+ {
+  "word": "describes",
+  "count": 13
+ },
+ {
+  "word": "changing",
+  "count": 12
+ },
+ {
+  "word": "express",
+  "count": 12
+ },
+ {
+  "word": "conflict",
+  "count": 12
+ },
+ {
+  "word": "policy",
+  "count": 12
+ },
+ {
+  "word": "causes",
+  "count": 12
+ },
+ {
+  "word": "support",
+  "count": 12
+ },
+ {
+  "word": "circle",
+  "count": 12
+ },
+ {
+  "word": "variation",
+  "count": 12
+ },
+ {
+  "word": "focusing",
+  "count": 12
+ },
+ {
+  "word": "election",
+  "count": 12
+ },
+ {
+  "word": "students",
+  "count": 12
+ },
+ {
+  "word": "processes",
+  "count": 12
+ },
+ {
+  "word": "proteins",
+  "count": 12
+ },
+ {
+  "word": "populations",
+  "count": 12
+ },
+ {
+  "word": "better",
+  "count": 12
+ },
+ {
+  "word": "prepositions",
+  "count": 12
+ },
+ {
+  "word": "oxygen",
+  "count": 12
+ },
+ {
+  "word": "features",
+  "count": 12
+ },
+ {
+  "word": "rectangular",
+  "count": 12
+ },
+ {
+  "word": "products",
+  "count": 12
+ },
+ {
+  "word": "economics",
+  "count": 12
+ },
+ {
+  "word": "grammar",
+  "count": 12
+ },
+ {
+  "word": "supply",
+  "count": 12
+ },
+ {
+  "word": "adjectives",
+  "count": 12
+ },
+ {
+  "word": "proportionality",
+  "count": 12
+ },
+ {
+  "word": "masses",
+  "count": 12
+ },
+ {
+  "word": "native",
+  "count": 12
+ },
+ {
+  "word": "gravitational",
+  "count": 12
+ },
+ {
+  "word": "writing",
+  "count": 12
+ },
+ {
+  "word": "significant",
+  "count": 12
+ },
+ {
+  "word": "molecular",
+  "count": 12
+ },
+ {
+  "word": "visualize",
+  "count": 12
+ },
+ {
+  "word": "electromagnetic",
+  "count": 12
+ },
+ {
+  "word": "england",
+  "count": 12
+ },
+ {
+  "word": "atmosphere",
+  "count": 12
+ },
+ {
+  "word": "acting",
+  "count": 12
+ },
+ {
+  "word": "refers",
+  "count": 11
+ },
+ {
+  "word": "formed",
+  "count": 11
+ },
+ {
+  "word": "influenced",
+  "count": 11
+ },
+ {
+  "word": "simplifying",
+  "count": 11
+ },
+ {
+  "word": "complete",
+  "count": 11
+ },
+ {
+  "word": "ensure",
+  "count": 11
+ },
+ {
+  "word": "combining",
+  "count": 11
+ },
+ {
+  "word": "dioxide",
+  "count": 11
+ },
+ {
+  "word": "nucleus",
+  "count": 11
+ },
+ {
+  "word": "principle",
+  "count": 11
+ },
+ {
+  "word": "gilded",
+  "count": 11
+ },
+ {
+  "word": "equality",
+  "count": 11
+ },
+ {
+  "word": "sometimes",
+  "count": 11
+ },
+ {
+  "word": "representation",
+  "count": 11
+ },
+ {
+  "word": "debates",
+  "count": 11
+ },
+ {
+  "word": "freedom",
+  "count": 11
+ },
+ {
+  "word": "phrase",
+  "count": 11
+ },
+ {
+  "word": "transformed",
+  "count": 11
+ },
+ {
+  "word": "ecosystem",
+  "count": 11
+ },
+ {
+  "word": "smallest",
+  "count": 11
+ },
+ {
+  "word": "period",
+  "count": 11
+ },
+ {
+  "word": "branches",
+  "count": 11
+ },
+ {
+  "word": "interactions",
+  "count": 11
+ },
+ {
+  "word": "require",
+  "count": 11
+ },
+ {
+  "word": "periodic",
+  "count": 11
+ },
+ {
+  "word": "density",
+  "count": 11
+ },
+ {
+  "word": "position",
+  "count": 10
+ },
+ {
+  "word": "changed",
+  "count": 10
+ },
+ {
+  "word": "transfer",
+  "count": 10
+ },
+ {
+  "word": "special",
+  "count": 10
+ },
+ {
+  "word": "calculating",
+  "count": 10
+ },
+ {
+  "word": "presidential",
+  "count": 10
+ },
+ {
+  "word": "issues",
+  "count": 10
+ },
+ {
+  "word": "germany",
+  "count": 10
+ },
+ {
+  "word": "master",
+  "count": 10
+ },
+ {
+  "word": "techniques",
+  "count": 10
+ },
+ {
+  "word": "cultural",
+  "count": 10
+ },
+ {
+  "word": "school",
+  "count": 10
+ },
+ {
+  "word": "radius",
+  "count": 10
+ },
+ {
+  "word": "chromosome",
+  "count": 10
+ },
+ {
+  "word": "selection",
+  "count": 10
+ },
+ {
+  "word": "contain",
+  "count": 10
+ },
+ {
+  "word": "provide",
+  "count": 10
+ },
+ {
+  "word": "helping",
+  "count": 10
+ },
+ {
+  "word": "parallel",
+  "count": 10
+ },
+ {
+  "word": "random",
+  "count": 10
+ },
+ {
+  "word": "marked",
+  "count": 10
+ },
+ {
+  "word": "factoring",
+  "count": 10
+ },
+ {
+  "word": "amendments",
+  "count": 10
+ },
+ {
+  "word": "checks",
+  "count": 10
+ },
+ {
+  "word": "ordered",
+  "count": 10
+ },
+ {
+  "word": "created",
+  "count": 10
+ },
+ {
+  "word": "cannot",
+  "count": 10
+ },
+ {
+  "word": "connect",
+  "count": 10
+ },
+ {
+  "word": "central",
+  "count": 10
+ },
+ {
+  "word": "knowledge",
+  "count": 10
+ },
+ {
+  "word": "visual",
+  "count": 10
+ },
+ {
+  "word": "horizontal",
+  "count": 10
+ },
+ {
+  "word": "remove",
+  "count": 10
+ },
+ {
+  "word": "interacting",
+  "count": 10
+ },
+ {
+  "word": "contact",
+  "count": 10
+ },
+ {
+  "word": "unlike",
+  "count": 10
+ },
+ {
+  "word": "strategies",
+  "count": 10
+ },
+ {
+  "word": "places",
+  "count": 10
+ },
+ {
+  "word": "structures",
+  "count": 10
+ },
+ {
+  "word": "molecule",
+  "count": 10
+ },
+ {
+  "word": "written",
+  "count": 10
+ },
+ {
+  "word": "middle",
+  "count": 10
+ },
+ {
+  "word": "congruent",
+  "count": 10
+ },
+ {
+  "word": "integers",
+  "count": 10
+ },
+ {
+  "word": "legislative",
+  "count": 10
+ },
+ {
+  "word": "parabola",
+  "count": 10
+ },
+ {
+  "word": "unknown",
+  "count": 10
+ },
+ {
+  "word": "substituting",
+  "count": 10
+ },
+ {
+  "word": "senate",
+  "count": 10
+ },
+ {
+  "word": "theory",
+  "count": 10
+ },
+ {
+  "word": "transferred",
+  "count": 10
+ },
+ {
+  "word": "weather",
+  "count": 10
+ },
+ {
+  "word": "global",
+  "count": 10
+ },
+ {
+  "word": "modern",
+  "count": 10
+ },
+ {
+  "word": "demand",
+  "count": 10
+ },
+ {
+  "word": "competition",
+  "count": 10
+ },
+ {
+  "word": "pronoun",
+  "count": 10
+ },
+ {
+  "word": "straight",
+  "count": 9
+ },
+ {
+  "word": "scores",
+  "count": 9
+ },
+ {
+  "word": "development",
+  "count": 9
+ },
+ {
+  "word": "stages",
+  "count": 9
+ },
+ {
+  "word": "building",
+  "count": 9
+ },
+ {
+  "word": "fossils",
+  "count": 9
+ },
+ {
+  "word": "relate",
+  "count": 9
+ },
+ {
+  "word": "skills",
+  "count": 9
+ },
+ {
+  "word": "agreement",
+  "count": 9
+ },
+ {
+  "word": "follow",
+  "count": 9
+ },
+ {
+  "word": "applies",
+  "count": 9
+ },
+ {
+  "word": "tackle",
+  "count": 9
+ },
+ {
+  "word": "evaluate",
+  "count": 9
+ },
+ {
+  "word": "politics",
+  "count": 9
+ },
+ {
+  "word": "elections",
+  "count": 9
+ },
+ {
+  "word": "community",
+  "count": 9
+ },
+ {
+  "word": "actions",
+  "count": 9
+ },
+ {
+  "word": "isolate",
+  "count": 9
+ },
+ {
+  "word": "versus",
+  "count": 9
+ },
+ {
+  "word": "decision",
+  "count": 9
+ },
+ {
+  "word": "achieve",
+  "count": 9
+ },
+ {
+  "word": "wealth",
+  "count": 9
+ },
+ {
+  "word": "african",
+  "count": 9
+ },
+ {
+  "word": "distributions",
+  "count": 9
+ },
+ {
+  "word": "raising",
+  "count": 9
+ },
+ {
+  "word": "religious",
+  "count": 9
+ },
+ {
+  "word": "demonstrate",
+  "count": 9
+ },
+ {
+  "word": "several",
+  "count": 9
+ },
+ {
+  "word": "needed",
+  "count": 9
+ },
+ {
+  "word": "regression",
+  "count": 9
+ },
+ {
+  "word": "effect",
+  "count": 9
+ },
+ {
+  "word": "multiples",
+  "count": 9
+ },
+ {
+  "word": "behaviors",
+  "count": 9
+ },
+ {
+  "word": "specifically",
+  "count": 9
+ },
+ {
+  "word": "greater",
+  "count": 9
+ },
+ {
+  "word": "intercepts",
+  "count": 9
+ },
+ {
+  "word": "diverse",
+  "count": 9
+ },
+ {
+  "word": "separately",
+  "count": 9
+ },
+ {
+  "word": "squared",
+  "count": 9
+ },
+ {
+  "word": "creates",
+  "count": 9
+ },
+ {
+  "word": "valence",
+  "count": 9
+ },
+ {
+  "word": "protons",
+  "count": 9
+ },
+ {
+  "word": "caused",
+  "count": 9
+ },
+ {
+  "word": "figures",
+  "count": 9
+ },
+ {
+  "word": "visible",
+  "count": 9
+ },
+ {
+  "word": "purpose",
+  "count": 9
+ },
+ {
+  "word": "ensures",
+  "count": 9
+ },
+ {
+  "word": "perimeter",
+  "count": 9
+ },
+ {
+  "word": "pythagorean",
+  "count": 9
+ },
+ {
+  "word": "judicial",
+  "count": 9
+ },
+ {
+  "word": "possessive",
+  "count": 9
+ },
+ {
+  "word": "production",
+  "count": 9
+ },
+ {
+  "word": "itself",
+  "count": 9
+ },
+ {
+  "word": "instead",
+  "count": 9
+ },
+ {
+  "word": "choices",
+  "count": 9
+ },
+ {
+  "word": "dimensions",
+  "count": 9
+ },
+ {
+  "word": "analyzes",
+  "count": 9
+ },
+ {
+  "word": "inequalities",
+  "count": 9
+ },
+ {
+  "word": "necessary",
+  "count": 9
+ },
+ {
+  "word": "photosynthesis",
+  "count": 9
+ },
+ {
+  "word": "improper",
+  "count": 9
+ },
+ {
+  "word": "conjunctions",
+  "count": 9
+ },
+ {
+  "word": "consistent",
+  "count": 9
+ },
+ {
+  "word": "allows",
+  "count": 9
+ },
+ {
+  "word": "academy",
+  "count": 9
+ },
+ {
+  "word": "increased",
+  "count": 8
+ },
+ {
+  "word": "interval",
+  "count": 8
+ },
+ {
+  "word": "passes",
+  "count": 8
+ },
+ {
+  "word": "thermal",
+  "count": 8
+ },
+ {
+  "word": "domain",
+  "count": 8
+ },
+ {
+  "word": "aspect",
+  "count": 8
+ },
+ {
+  "word": "behind",
+  "count": 8
+ },
+ {
+  "word": "sections",
+  "count": 8
+ },
+ {
+  "word": "providing",
+  "count": 8
+ },
+ {
+  "word": "greatest",
+  "count": 8
+ },
+ {
+  "word": "evolved",
+  "count": 8
+ },
+ {
+  "word": "largest",
+  "count": 8
+ },
+ {
+  "word": "century",
+  "count": 8
+ },
+ {
+  "word": "emphasizing",
+  "count": 8
+ },
+ {
+  "word": "defined",
+  "count": 8
+ },
+ {
+  "word": "phrases",
+  "count": 8
+ },
+ {
+  "word": "expansion",
+  "count": 8
+ },
+ {
+  "word": "lincoln",
+  "count": 8
+ },
+ {
+  "word": "resource",
+  "count": 8
+ },
+ {
+  "word": "counting",
+  "count": 8
+ },
+ {
+  "word": "applying",
+  "count": 8
+ },
+ {
+  "word": "inheritance",
+  "count": 8
+ },
+ {
+  "word": "symbols",
+  "count": 8
+ },
+ {
+  "word": "primary",
+  "count": 8
+ },
+ {
+  "word": "learned",
+  "count": 8
+ },
+ {
+  "word": "cellular",
+  "count": 8
+ },
+ {
+  "word": "reactants",
+  "count": 8
+ },
+ {
+  "word": "remains",
+  "count": 8
+ },
+ {
+  "word": "decisions",
+  "count": 8
+ },
+ {
+  "word": "british",
+  "count": 8
+ },
+ {
+  "word": "economy",
+  "count": 8
+ },
+ {
+  "word": "journey",
+  "count": 8
+ },
+ {
+  "word": "choice",
+  "count": 8
+ },
+ {
+  "word": "sunlight",
+  "count": 8
+ },
+ {
+  "word": "rewrites",
+  "count": 8
+ },
+ {
+  "word": "factored",
+  "count": 8
+ },
+ {
+  "word": "comparing",
+  "count": 8
+ },
+ {
+  "word": "distinct",
+  "count": 8
+ },
+ {
+  "word": "ideologies",
+  "count": 8
+ },
+ {
+  "word": "compares",
+  "count": 8
+ },
+ {
+  "word": "france",
+  "count": 8
+ },
+ {
+  "word": "combine",
+  "count": 8
+ },
+ {
+  "word": "mathematical",
+  "count": 8
+ },
+ {
+  "word": "effects",
+  "count": 8
+ },
+ {
+  "word": "initial",
+  "count": 8
+ },
+ {
+  "word": "evolutionary",
+  "count": 8
+ },
+ {
+  "word": "allowing",
+  "count": 8
+ },
+ {
+  "word": "hydrogen",
+  "count": 8
+ },
+ {
+  "word": "probabilities",
+  "count": 8
+ },
+ {
+  "word": "blocks",
+  "count": 8
+ },
+ {
+  "word": "measuring",
+  "count": 8
+ },
+ {
+  "word": "decrease",
+  "count": 8
+ },
+ {
+  "word": "coefficient",
+  "count": 8
+ },
+ {
+  "word": "mastering",
+  "count": 8
+ },
+ {
+  "word": "pressure",
+  "count": 8
+ },
+ {
+  "word": "partial",
+  "count": 8
+ },
+ {
+  "word": "madison",
+  "count": 8
+ },
+ {
+  "word": "higher",
+  "count": 8
+ },
+ {
+  "word": "reduce",
+  "count": 8
+ },
+ {
+  "word": "exactly",
+  "count": 8
+ },
+ {
+  "word": "degree",
+  "count": 8
+ },
+ {
+  "word": "covers",
+  "count": 8
+ },
+ {
+  "word": "percent",
+  "count": 8
+ },
+ {
+  "word": "reciprocal",
+  "count": 8
+ },
+ {
+  "word": "neutrons",
+  "count": 8
+ },
+ {
+  "word": "momentum",
+  "count": 8
+ },
+ {
+  "word": "accurately",
+  "count": 8
+ },
+ {
+  "word": "virginia",
+  "count": 8
+ },
+ {
+  "word": "determines",
+  "count": 8
+ },
+ {
+  "word": "humans",
+  "count": 8
+ },
+ {
+  "word": "producers",
+  "count": 8
+ },
+ {
+  "word": "beliefs",
+  "count": 8
+ }
+]
